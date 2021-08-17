@@ -1,0 +1,3455 @@
+<OOV> 1.0	OOV
+<SIL> 1.0	SIL
+ا 1.0	A
+اُٹھاہیں 1.0	U TTH AA H AYN
+اُس 1.0	U S
+اُسی 1.0	U S II
+اِٹ 1.0	A I TT
+اِس 1.0	A I S
+اِسپائیسی 1.0	A I S P AA II S II
+اِسپرائیٹ 1.0	A I S P A R AA II TT
+اِستشنا 1.0	A I S TD A SH N AA
+اِستعمال 1.0	A I S TD AE M AA L
+اِسٹارٹ 1.0	A I S TT AA R TT
+اِسٹرابیری 1.0	A I S TT A R AA B II R II
+اِسٹرکلی 1.0	A I S TT A R I K L II
+اِسٹریٹ 1.0	A I S TT A R AY TT
+اِسٹل 1.0	A I S TT A L
+اِسٹیمیٹ 1.0	A I S TT II M II TT
+اِسٹینڈرڈ 1.0	A I S TT AE N DD A R DD
+اِسکریمبل 1.0	A I S K A R II M B A L
+اِسلام 1.0	A I S L AA M
+اِسموتھی 1.0	A I S M OO TDH II
+اِسموتھیاں 1.0	A I S M OO TDH TDH I J AAN
+اِسمول 1.0	A I S M OO L
+اِسمیل 1.0	A I S M II L
+اِسنیک 1.0	A I S N II K
+اِسے 1.0	A I S AE
+اِسی 1.0	A I S II
+اِن 1.0	A I A N
+اِنتہائی 1.0	A I N TD I H AA II
+اِندازہ 1.0	A I N DD AA Z AA
+اِندر 1.0	A I A N DD A R
+اِنسٹرکیشن 1.0	A I I N S TT A R A K AY SH A N
+اِنشااللہ 1.0	A I N SH AA A L L AA
+اِنفارم 1.0	A I N F AA R M
+اِنفورمیشن 1.0	A I N F OO R M AY SH A N
+اِنکی 1.0	A I N K II
+اِنہوں 1.0	A I N H OON
+ااچھا 1.0	A TSHH AA
+اب 1.0	A B
+ابَو 1.0	A B I UU
+ابّا 1.0	A B AA
+ابّو 1.0	A B UU V UU
+اباؤٹ 1.0	A B AA UU TT
+ابرار 1.0	A B R AA R
+ابراہیم 1.0	I B R AA H II M
+ابھے 1.0	U BH AY
+ابھی 1.0	A BH II
+ابو 1.0	A B UU
+ابوبکر 1.0	A B UU B A K R
+ابوو 1.0	A B UU V
+ابے 1.0	A B AY
+ابی 1.0	A B II
+ابیحہ 1.0	A B II H AA
+اپ 1.0	A P
+اپارٹمنٹ 1.0	A P AA R TT M I N TT
+اپڈیٹ 1.0	A P DD AY TT
+اپڈیٹس 1.0	A P DD II TT S
+اپر 1.0	A P R
+اپروول 1.0	A P R OO V A L
+اپریل 1.0	A P R II L
+اپسے 1.0	A P I S AY
+اپکا 1.0	A P K AA
+اپلیکیشن 1.0	A P L II K AY SH A N
+اپنا 1.0	A P N AA
+اپنے 1.0	A P N AY
+اپنی 1.0	A P N II
+اپوزٹ 1.0	A P OO Z A TT
+اپوزیٹ 1.0	A P OO Z II TT
+اپولوجائز 1.0	A P OO L OO DZZ AA I Z
+اپوینٹنگ 1.0	A P A V AY N TT I NG
+ات 1.0	I TD
+اتا 1.0	U TD AA
+اتحاد 1.0	I TD TD I H AA DD
+اترنا 1.0	U TD A R N AA
+اتلیسٹ 1.0	A TD L II S TT
+اتنا 1.0	I TD N AA
+اتنے 1.0	I TD N AY
+اتنی 1.0	I TD N II
+اتھارہ 1.0	A TDH AA R AA
+اتھر 1.0	A TDH A R
+اتے 1.0	I TD AY
+اٹ 1.0	A TT
+اٹس 1.0	A TT S
+اٹکی 1.0	A TT K II
+اٹھ 1.0	U TTH
+اٹھا 1.0	U TTH AA
+اٹھاتے 1.0	U TTH AA TD AY
+اٹھارٹی 1.0	A TTH TTH AA R TT II
+اٹھارہ 1.0	A TTH TTH AA R AA
+اٹھانا 1.0	U TTH AA N AA
+اٹھائے 1.0	U TTH AA AE
+اٹھائیے 1.0	U TTH AA II AY
+اٹھوایں 1.0	U TTH V AA AYN
+اٹینڈ 1.0	A TT AE N DD
+اجاز 1.0	A DZZ AA Z
+اجمل 1.0	A DZZ M A L
+اچار 1.0	A TSH AA R
+اچھا 1.0	A TSHH TSHH AA
+اچھے 1.0	A TSH TSHH AE
+اچھی 1.0	A TSH TSHH II
+احتشام 1.0	I H TD I SH AA M
+احد 1.0	A H H I DD
+احساس 1.0	I H S AA S
+احسان 1.0	A H S AA N
+احسن 1.0	A H S A N
+احمد 1.0	A H M A DD
+اختر 1.0	A X TD A R
+ادر 1.0	I DD R
+ادریس 1.0	I DD R AE S
+ادھ 1.0	U DDH
+ادھر 1.0	U DDH A R
+اڈوائس 1.0	A DD V AA I S
+اراؤنڈ 1.0	A R AA UU N DD
+ارجنٹ 1.0	A R DZZ A N TT
+ارجنٹلی 1.0	A R DZZ A N TT L II
+ارجینٹ 1.0	A R DZZ AE N TT
+ارحم 1.0	A R H A M
+ارحمان 1.0	A R A H M AA N
+اردر 1.0	A R DD A R
+اردو 1.0	A R DD UU
+اردے 1.0	A R DD AY
+ارسلان 1.0	A R S A L AA N
+ارسلہ 1.0	A R S A L AA
+ارشاد 1.0	I R SH AA DD
+ارشد 1.0	A R SH A DD
+ارلی 1.0	A R L II
+ارے 1.0	A R AY
+اریب 1.0	A R II B
+اریس 1.0	A R AE S
+ارینج 1.0	A R AE N DZZ
+اڑاونڈ 1.0	U RR AA V I N DD
+اڑتالیس 1.0	A RR TD AA L II S
+از 1.0	A Z
+ازل 1.0	A Z A L
+اسامہ 1.0	A S AA M AA
+اسپائس 1.0	I S P AA I S
+اسپائسی 1.0	I S P AA I S II
+اسپائیسی 1.0	I S P AA II S II
+اسپرائٹ 1.0	I S P A R AA I TT
+اسپرائیٹ 1.0	I S P A R AA II TT
+اسپرنکل 1.0	I S P A R N I K A L
+اسپرنگ 1.0	I S P R I NG
+اسپریڈ 1.0	I S P A R AE DD
+اسپے 1.0	I S P AY
+اسپیشل 1.0	I S P AE SH A L
+اسپیشلی 1.0	I S P AE SH A L II
+اسپیکنگ 1.0	I S P AE K I NG
+استشنا 1.0	I S TD I SH N AA
+اسٹاِنس 1.0	I S TT AA I N S
+اسٹار 1.0	I S TT AA R
+اسٹارٹ 1.0	I S TT AA R TT
+اسٹارٹنگ 1.0	I S TT AA R TT I NG
+اسٹاف 1.0	I S TT AA F
+اسٹرابری 1.0	I S TT A R AA B A R II
+اسٹرابیری 1.0	I S TT A R AA B II R II
+اسٹرٹ 1.0	I S TT A R TT
+اسٹرکٹلی 1.0	I S TT A R A K TT L II
+اسٹریٹ 1.0	I S TT A R AY TT
+اسٹل 1.0	I S TT A L
+اسٹوپڈ 1.0	I S TT OO P A DD
+اسٹور 1.0	I S TT OO R
+اسٹے 1.0	I S TT AY
+اسٹیٹ 1.0	I S TT AY TT
+اسٹینڈرڈ 1.0	I S TT AE N DD A R DD
+اسد 1.0	A S DD
+اسکریمبل 1.0	I S K A R II M B A L
+اسکل 1.0	I S K A L
+اسکو 1.0	I S K OO
+اسکوائر 1.0	I S K U V AA I R
+اسکول 1.0	I S K UU L
+اسکی 1.0	I S K II
+اسلام 1.0	I S L AA M
+اسلم 1.0	I S L A M
+اسما 1.0	A S M AA
+اسموتھی 1.0	I S M OO TDH II
+اسمودی 1.0	I S M UU DD II
+اسمول 1.0	I S M OO L
+اسے 1.0	U S AE
+اسی 1.0	A S II
+اشنا 1.0	A SH N AA
+اشو 1.0	I SH OO
+اصل 1.0	A S L
+اطمنان 1.0	I TD M N AA N
+اعجاز 1.0	AY DZZ AA Z
+اعلی 1.0	AA L II
+اف 1.0	A F
+افشا 1.0	I F SH AA
+افشاں 1.0	A F SH AAN
+افضل 1.0	A F Z A L
+اقبال 1.0	I Q B AA L
+اقثر 1.0	A Q S S U R
+اقرا 1.0	I Q R AA
+اقصیٰ 1.0	A Q S II
+اک 1.0	A K
+اکاؤنٹ 1.0	A K AA UU N TT
+اکٹیو 1.0	I K TT I J UU
+اکثر 1.0	A K S A R
+اکرام 1.0	A K R AA M
+اکسیڈنٹ 1.0	U K S II DD A N TT
+اکوڑدنگ 1.0	A K V RR DD NG
+اکے 1.0	A K AY
+اگر 1.0	A G A R
+اگلی 1.0	A G L II
+اگو 1.0	A G OO
+اگین 1.0	A G II N
+اگینسٹ 1.0	A G II N I S TT
+ال 1.0	A L
+الا 1.0	A L AA
+الامن 1.0	A L AA M A N
+الاؤ 1.0	A L AA OO
+الٹرنیٹ 1.0	AA L T R N AY T
+الحمدللہ 1.0	A L H A M DD L L AA
+الرائٹ 1.0	A L A R AA I TT
+العابدین 1.0	A L AA B I DD II N
+الفلاح 1.0	A L F A L AA
+الگ 1.0	A L A G
+اللہ 1.0	A L L AA
+الہ 1.0	A L AA
+الوقت 1.0	A L V A Q A TD
+الے 1.0	A L AY
+الی 1.0	A L II
+الیاس 1.0	I L J AA S
+الیپینو 1.0	A L AY P II N OO
+الینا 1.0	A L II N AA
+الیون 1.0	A L AY V A N
+ام 1.0	A M
+امان 1.0	A M AA N
+امانت 1.0	A M AA N A TD
+اماؤ 1.0	A M AA OO
+اماؤنٹ 1.0	AA M AA A OO N T
+امپروو 1.0	I M P A R UU
+امپلوائے 1.0	I M P A L V AA AY
+امرین 1.0	A M R II N
+امل 1.0	A M A L
+امیمہ 1.0	A M II M AA
+امین 1.0	A M II N
+ان 1.0	I N
+انار 1.0	A N AA R
+انتظار 1.0	I N TD I Z AA R
+انٹر 1.0	I N TT A R
+انٹرپٹ 1.0	I N TT A R P TT
+انٹرنیشنل 1.0	I N TT A R N AY SH N A L
+انٹیرئر 1.0	I N TT AE R I A R
+انجام 1.0	A N DZZ AA M
+انجم 1.0	I N DZZ A M
+انجوائے 1.0	I N DZZ V AA AY
+انچارج 1.0	I N TSH AA R DZZ
+اندر 1.0	A N DD A R
+انڈرسٹینڈ 1.0	I N DD R I S TT AE N DD
+انزلا 1.0	A N Z A L AA
+انزلہ 1.0	A N Z A L AA
+انسان 1.0	I N S AA N
+انسٹرکشن 1.0	I N S TT A R A K SH A N
+انسٹرکشنز 1.0	I N S TT A R A K SH A N Z
+انسٹیٹیوٹ 1.0	I N S TT II TT J OO TT
+انسنٹ 1.0	I N S A N TT
+انشا 1.0	I N SH AA
+انشااللہ 1.0	I N SH AA A L L AA
+انصاری 1.0	A N S AA R II
+انعم 1.0	A N A M
+انفارمیشن 1.0	I N F AA R M AE SH A N
+انفورم 1.0	I N F OO R A M
+انفورمیشنز 1.0	I N F OO R M AY SH A N Z
+انفیکٹ 1.0	I N F AE K TT
+انکا 1.0	I N K AA
+انکلیوڈڈ 1.0	I N K A L J UU DD DD
+انکمپلیٹ 1.0	I N K A M P L AY TT
+انکو 1.0	I N K OO
+انگریڈینٹ 1.0	A NG R AE DD II N TT
+انگریڈینٹس 1.0	A NG R AY DD AY N TT S
+اننیق 1.0	I N N II Q
+انہوں 1.0	I N H OON
+انہونے 1.0	A N H OO N AY
+انہی 1.0	I N H II
+انہیں 1.0	I N H AEN
+انھے 1.0	A N AY
+انھیں 1.0	A N TTH AYN
+انور 1.0	I N V A R
+انوشہ 1.0	I N OO SH A AA
+انوولو 1.0	I N V OO L OO
+انویسٹیگیٹ 1.0	I N V AE S TT II G AY TT
+انیس 1.0	A N II S
+انین 1.0	A N II N
+انینز 1.0	A N II N Z
+اہ 1.0	AA
+اہے 1.0	A H AE
+او 1.0	OO
+اوبلیک 1.0	OO B L II K
+اوبویسلی 1.0	OO B V AY S L II
+اوپر 1.0	UU P A R
+اوپن 1.0	OO P A N
+اور 1.0	O R
+اورڈر 1.0	O R DD A R
+اورنج 1.0	OO R A N DZZ
+اورنگ 1.0	O R A NG
+اورہیش 1.0	O R II H SH
+اورینج 1.0	OO R AE N DZZ
+اوریو 1.0	OO R II OO
+اوفس 1.0	OO F S
+اوفکورس 1.0	OO F I K OO R A S
+اوفیسر 1.0	OO F AY S A R
+اوفیشل 1.0	OO F II SH A L
+اوکے 1.0	OO K AY
+اول 1.0	OO L
+اولڈ 1.0	OO L DD
+اون 1.0	UU N
+اونر 1.0	OO N A R
+اونرز 1.0	OO N A R Z
+اونز 1.0	OO N Z
+اونس 1.0	O N S
+اونلی 1.0	OO N L II
+اونلیٹوٹل 1.0	OO N L AY TT OO TT A L
+اوور 1.0	OO V A R
+اوے 1.0	A V AY
+اویٹنگ 1.0	A V AE TT I NG
+اویل 1.0	A V II L
+اویلیبل 1.0	A V II L AY B A L
+اوینیو 1.0	A V AE N II OO
+اے 1.0	AE
+ای 1.0	II
+ایان 1.0	I J AA N
+ایبٹ 1.0	AE B A TT
+ایبسولیوٹلی 1.0	AE B A S V L OO TT L II
+ایبل 1.0	AY B A L
+ایپ 1.0	AE P
+ایپپل 1.0	AE P P A L
+ایپریشیئٹ 1.0	AE P R AY SH II A T
+ایپل 1.0	AE P A L
+ایپلی 1.0	AE P L II
+ایپلیکیشن 1.0	AE P L II K AY SH A N
+ایٹ 1.0	AE TT
+ایٹڈبل 1.0	AE TT DD A B A L
+ایٹلیسٹ 1.0	AE TT L AE S TT
+ایٹھ 1.0	AE TTH
+ایٹی 1.0	AE TT II
+ایٹین 1.0	AE TT II N
+ایجاز 1.0	AY DZZ AA Z
+ایجوۓ 1.0	AY DZZ UU
+ایچ 1.0	AE TSH
+ایدھر 1.0	AE DDH A R
+ایڈ 1.0	AE DD
+ایڈاون 1.0	AE DD AA V A N
+ایڈریس 1.0	AY DD R AY S
+ایڈریسس 1.0	AY DD R AY S I S
+ایڈس 1.0	AE DD S
+ایڈن 1.0	II DD A N
+ایڈوائس 1.0	AE DD V AA I S
+ایڈیشن 1.0	AE DD II SH A N
+ایڈیشنل 1.0	AY DD II SH N A L
+ایرر 1.0	AE R A R
+ایریا 1.0	AE R I J AA
+ایریاز 1.0	AE R I J AA Z
+ایریاس 1.0	AE R I J AA S
+ایز 1.0	II Z
+ایزا 1.0	AY Z AA
+ایزلی 1.0	AY Z A L II
+ایزی 1.0	AY Z II
+ایس 1.0	E S
+ایسا 1.0	AY S AA
+ایسٹیمیٹ 1.0	AE S TT II M II TT
+ایسے 1.0	AY S AE
+ایسی 1.0	AY S II
+ایف 1.0	E F
+ایک 1.0	AE K
+ایکٹو 1.0	AE K TT I V
+ایکٹیوے 1.0	AE K TT II V AY
+ایکچولی 1.0	AE K TSH OO L II
+ایکس 1.0	AE K S
+ایکسپریس 1.0	AE K S P A R AE S
+ایکسپیرنس 1.0	AE K S P AY R E N S
+ایکسپیرینس 1.0	AE K S P II R AE N S
+ایکسپیکٹ 1.0	AE K S P AE K TT
+ایکسپیکٹڈ 1.0	AE K S P AE K TT I DD
+ایکسٹرا 1.0	AA AY K S T R AA
+ایکسٹریملی 1.0	AA AY K S T R II M L II
+ایکسٹینشن 1.0	AE K S TT AE N SH A N
+ایکسکلوسیو 1.0	AE K S I K L OO S II OO
+ایکسکیوس 1.0	AE K S K I J UU S
+ایکسیپٹ 1.0	AE K S II P A TT
+ایکسیس 1.0	AE K S II S
+ایکشن 1.0	AE K SH A N
+ایکوریم 1.0	II K OO R II M
+ایگ 1.0	AY G
+ایگزٹ 1.0	AY G Z I TT
+ایگزیکٹ 1.0	AE G Z AE K TT
+ایگزیکٹو 1.0	AY G Z AY K I TT I V
+ایل 1.0	II L
+ایلس 1.0	AE L A S
+ایم 1.0	II M
+ایمبیسی 1.0	AE M B AE S II
+ایمرجنسی 1.0	AY M A R DZZ A N S II
+این 1.0	AE N
+اینڈ 1.0	AE N DD
+اینی 1.0	AE N II
+اینیشیئل 1.0	AE N II SH II A L
+ایہے 1.0	AE H AE
+ایوب 1.0	AE J UU B
+ایورج 1.0	II V A R DZZ
+ایوری 1.0	AY V R II
+ایون 1.0	AE V A N
+ایونیو 1.0	AY V A N J UU
+ایئر 1.0	AY A R
+ائے 1.0	AA AY
+ائی 1.0	A II
+ائیرپورٹ 1.0	A II R I P OO R TT
+آ 1.0	AA
+آب 1.0	AA B
+آباد 1.0	AA B AA DD
+آپ 1.0	AA P
+آپا 1.0	AA P AA
+آپارٹ 1.0	AA P AA R TT
+آپشن 1.0	AA P SH A N
+آپشنس 1.0	AA P SH A N I S
+آپکی 1.0	AA P K II
+آپولوجی 1.0	AA P OO L OO DZZ II
+آتا 1.0	AA TD AA
+آتے 1.0	AA TD AY
+آتی 1.0	AA TD II
+آٹھ 1.0	AA TTH
+آج 1.0	AA DZZ
+آجاتے 1.0	AA DZZ AA TD AY
+آجانی 1.0	AA DZZ AA N II
+آجاینگے 1.0	AA DZZ AA II NG G AE
+آجایئے 1.0	AA DZZ AA J I AE
+آجائے 1.0	AA DZZ AA AY
+آچکی 1.0	AA TSH A K II
+آخر 1.0	AA X I R
+آخری 1.0	AA X I R II
+آدمی 1.0	AA DD M II
+آدمیوں 1.0	AA DD M II OON
+آدھا 1.0	AA DDH AA
+آدھے 1.0	AA DDH AE
+آدھی 1.0	AA DDH II
+آر 1.0	AA R
+آرام 1.0	AA R AA M
+آراونڈ 1.0	AA R AA V I N DD
+آرڈر 1.0	AA R DD A R
+آرڈرز 1.0	AA R DD A R Z
+آرڈرکیےہیں 1.0	AA R DD A R K J AY H AYN
+آرڈرنگ 1.0	AA R DD R I NG
+آرکائیو 1.0	AA R K AA II V
+آرکیٹک 1.0	AA R K II TT I K
+آرمی 1.0	AA R M II
+آرہا 1.0	AA R H AA
+آرہہی 1.0	AA R H H II
+آرہی 1.0	AA R H II
+آس 1.0	AA S
+آسانی 1.0	AA S AA N II
+آسکتا 1.0	AA S A K TD AA
+آسکنگ 1.0	AA S K NG
+آسلام 1.0	AA S L AA M
+آشر 1.0	AA SH R
+آشنا 1.0	AA SH N AA
+آصف 1.0	AA S I F
+آف 1.0	AA F
+آفٹر 1.0	AA F TT A R
+آفر 1.0	AA F A R
+آفس 1.0	AA F I S
+آفیسر 1.0	AA F II S A R
+آفیسرز 1.0	AA F II S A R Z
+آفیشل 1.0	AA F II SH A L
+آکر 1.0	AA K A R
+آکے 1.0	AA K AY
+آگ 1.0	AA G
+آگے 1.0	AA G AE
+آگیا 1.0	AA G I J AA
+آگین 1.0	AA G II N
+آگینسٹ 1.0	AA G II N I S TT
+آگئی 1.0	AA G II
+آل 1.0	AA L
+آلاؤ 1.0	AA L AA OO
+آلٹرنیٹ 1.0	AA L T R N AY T
+آلرائٹ 1.0	AA L A R AA I TT
+آلریڈی 1.0	AA L R AE DD II
+آلموسٹ 1.0	AA L M OO S TT
+آلو 1.0	AA L UU
+آلویز 1.0	AA L V II Z
+آمبیر 1.0	AA M B II R
+آمر 1.0	AA M A R
+آملیٹ 1.0	AA M L AY TT
+آمنہ 1.0	AA M N AA
+آں 1.0	AA
+آن 1.0	AA N
+آنا 1.0	AA N AA
+آنسر 1.0	AA N S R
+آنلی 1.0	AA N L II
+آنے 1.0	AA N AE
+آنی 1.0	AA N II
+آہستہ 1.0	AA H I S TD AA
+آواز 1.0	AA V AA Z
+آوت 1.0	AA V A TD
+آور 1.0	AA V A R
+آورز 1.0	AA V A R Z
+آوے 1.0	AA V AY
+آؤ 1.0	AA OO
+آؤٹ 1.0	AA A OO T
+آؤں 1.0	AA UUN
+آیا 1.0	AA J AA
+آید 1.0	AA DD I DD
+آیئے 1.0	AA J I AE
+آئ 1.0	AA I
+آئس 1.0	AA I S
+آئسکریم 1.0	AA I S K A R II M
+آئندہ 1.0	AA I N DD AA
+آئے 1.0	AA AE
+آئےگا 1.0	AA I AY G AA
+آئی 1.0	AA II
+آئیڈیا 1.0	AA II DD I J AA
+آئیڈیل 1.0	AA II DD I J A L
+آئیزہ 1.0	AA II Z AA
+آئیگی 1.0	AA II G II
+آئیم 1.0	AA II M
+آئیں 1.0	AA IIN
+آئیندہ 1.0	AA I N DD AA
+آئینگی 1.0	AA II A NG G II
+آئیے 1.0	AA II AE
+بِٹ 1.0	B A I TT
+بِٹر 1.0	B A I TT A R
+بِگ 1.0	B A I G
+با 1.0	B AA
+باِسی 1.0	B AA I S II
+بابا 1.0	B AA B AA
+باپ 1.0	B AA P
+بات 1.0	B AA TD
+باتے 1.0	B AA TD AY
+باتیں 1.0	B AA TD AYN
+باد 1.0	B AA DD
+بار 1.0	B AA R
+باربی 1.0	B AA R B II
+بارہ 1.0	B AA R AA
+بارہوی 1.0	B AA R A H V II
+بارھویں 1.0	B AA RH V AYN
+بارے 1.0	B AA R AY
+باسی 1.0	B AA S II
+باقاعدہ 1.0	B AA Q AA I DD AA
+باقی 1.0	B AA Q II
+باقیوں 1.0	B AA Q II OON
+باکس 1.0	B AA K S
+باکسز 1.0	B AA K S I Z
+بال 1.0	B AA L
+بالکل 1.0	B I L K U L
+باہر 1.0	B AA H A R
+باوجود 1.0	B AA V A DZZ UU DD
+بائٹس 1.0	B AA I TT S
+بائنگ 1.0	B AA I NG
+بائے 1.0	B AA AY
+بائیس 1.0	B AA II S
+بائیک 1.0	B AA II K
+بآئے 1.0	B A AA AE
+ببٹ 1.0	B A B A TT
+بتا 1.0	B A TD AA
+بتاِنا 1.0	B A TD AA I N AA
+بتاِنے 1.0	B A TD AA I N AY
+بتاتا 1.0	B A TD AA TD AA
+بتاتے 1.0	B A TD AA TD AY
+بتاتی 1.0	B A TD AA TD II
+بتادیجئے 1.0	B A TD AA DD II DZZ I AE
+بتادیں 1.0	B A TD AA DD AYN
+بتانا 1.0	B A TD AA N AA
+بتانے 1.0	B A TD AA N AY
+بتانی 1.0	B A TD AA N II
+بتاؤ 1.0	B A TD AA OO
+بتاؤں 1.0	B A TD A UUN
+بتایا 1.0	B A TD AA J AA
+بتایاں 1.0	B A TD AA J AAN
+بتایں 1.0	B A TD AA AYN
+بتایے 1.0	B A TD AA J AY
+بتایئے 1.0	B A TD AA J I AE
+بتائے 1.0	B A TD AA AY
+بتائی 1.0	B A TD AA II
+بتائیگا 1.0	B A TD AA II G AA
+بتائیں 1.0	B A TD AA AYN
+بتائیے 1.0	B A TD AA II AY
+بتآئے 1.0	B A TD AA AE
+بٹ 1.0	B A TT
+بٹر 1.0	B A TT A R
+بٹن 1.0	B A TT A N
+بج 1.0	B A DZZ
+بجا 1.0	B A DZZ AA
+بجانے 1.0	B A DZZ AA N AY
+بجائے 1.0	B A DZZ AA AY
+بجائیں 1.0	B A DZZ AA AEN
+بجنے 1.0	B A DZZ N AY
+بجھ 1.0	B U DZZH
+بجوا 1.0	B A DZZ V AA
+بجے 1.0	B A DZZ AE
+بچ 1.0	B A TSH
+بچا 1.0	B A TSH AA
+بچہ 1.0	B A TSH TSH AA
+بچوں 1.0	B A TSH TSH OON
+بچے 1.0	B A TSH TSH AE
+بچی 1.0	B A TSH II
+بحریہ 1.0	B A H A R J AA
+بخاری 1.0	B U X AA R II
+بدتمیزی 1.0	B A DD TD A M AY Z II
+بدلے 1.0	B A DD L AE
+بڈی 1.0	B A DD II
+برا 1.0	B A R AA
+برابر 1.0	B A R AA B A R
+برات 1.0	B A R AA TD
+برادر 1.0	B A R AA DD A R
+برانچ 1.0	B A R AA N TSH
+برانچز 1.0	B A R AA N TSH I Z
+برانڈ 1.0	B A R AA N DD
+براوو 1.0	B A R AA V OO
+براؤن 1.0	B A R AA UU N
+براؤنز 1.0	B A R AA UU N Z
+براؤنی 1.0	B A R AA UU N II
+براؤنیز 1.0	B A R AA UU N II Z
+برائے 1.0	B A R AA AY
+برگر 1.0	B A R G A R
+برگرز 1.0	B A R G A R Z
+برن 1.0	B A R A N
+برہر 1.0	B A R H A R
+بروسٹ 1.0	B A R OO S TT
+بری 1.0	B A R II
+بریڈ 1.0	B A R AE DD
+بریک 1.0	B A R AE K
+برینڈ 1.0	B A R AE N DD
+بڑا 1.0	B A RR AA
+بڑھا 1.0	B A RRH AA
+بڑھانا 1.0	B A RRH AA N AA
+بڑوں 1.0	B A RR OON
+بڑے 1.0	B A RR AE
+بڑی 1.0	B A RR II
+بزی 1.0	B A Z II
+بس 1.0	B A S
+بسی 1.0	B A S II
+بشریٰ 1.0	B A SH A R II
+بشیر 1.0	B A SH II R
+بعد 1.0	B AA DD
+بغیر 1.0	B A 7 AY R
+بک 1.0	B A K
+بکٹس 1.0	B A K TT S
+بکواس 1.0	B A K V AA S
+بکیٹ 1.0	B A K AY TT
+بگر 1.0	B I G A R
+بگڑ 1.0	B I G A RR
+بل 1.0	B A L
+بلاک 1.0	B I L AA K
+بلاول 1.0	B A L AA V A L
+بلڈنگ 1.0	B I L DD I NG
+بلکہ 1.0	B A L K AE
+بلکے 1.0	B A L K AE
+بلند 1.0	B A L A N DD
+بلیک 1.0	B A L II K
+بن 1.0	B A N
+بنا 1.0	B A N AA
+بناِنے 1.0	B A N AA I N AY
+بنایا 1.0	B A N AA J AA
+بنائی 1.0	B A N AA II
+بنتا 1.0	B A N TD AA
+بنتی 1.0	B A N TD II
+بند 1.0	B A N DD
+بندا 1.0	B A N DD AA
+بندہ 1.0	B A N DD AA
+بندھ 1.0	B A N DDH
+بندوں 1.0	B A N DD OON
+بندے 1.0	B A N DD AY
+بندی 1.0	B A N DD II
+بنگلو 1.0	B A NG L OO
+بہار 1.0	B A H AA R
+بہت 1.0	B A H A TD
+بہتر 1.0	B E H TD A R
+بہن 1.0	B A H A N
+بھاٹا 1.0	BH AA TT AA
+بھالے 1.0	BH AA L AY
+بھایا 1.0	BH AA J AA
+بھائی 1.0	BH AA II
+بھجوا 1.0	BH I DZZ V AA
+بھجوایا 1.0	BH I DZZ V AA J AA
+بھجوائے 1.0	BH I DZZ V AA AY
+بھجوائیں 1.0	BH I DZZ V AA AEN
+بھجوائیے 1.0	BH I DZZ V AA II AY
+بھجے 1.0	BH I DZZ AE
+بھرا 1.0	BH A R AA
+بھڑوے 1.0	BH A RR V AE
+بھلا 1.0	BH A L AA
+بھول 1.0	BH UU L
+بھی 1.0	BH II
+بھیا 1.0	BH A J AA
+بھیج 1.0	BH AE DZZ
+بھیجا 1.0	BH AE DZZ AA
+بھیجتے 1.0	BH AY DZZ TD AY
+بھیجنا 1.0	BH AY DZZ N AA
+بھیجو 1.0	BH AY DZZ OO
+بھیجوا 1.0	BH AE DZZ V AA
+بھیجے 1.0	BH AE DZZ AE
+بھیجی 1.0	BH AE DZZ II
+بھیجیں 1.0	BH AE DZZ AEN
+بھیجینگے 1.0	BH AE DZZ II NG G AE
+بھیجیے 1.0	BH AE DZZ II AY
+بھیجئے 1.0	BH AE DZZ I AE
+بھیک 1.0	BH II K
+بھئی 1.0	BH A II
+بوائز 1.0	B U V AA I Z
+بوائے 1.0	B UU AA AE
+بوآئز 1.0	B OO AA I Z
+بوتل 1.0	B OO TD A L
+بوتھ 1.0	B UU TDH
+بوٹل 1.0	B OO TT A L
+بوٹم 1.0	B OO TT A M
+بورا 1.0	B OO R AA
+بوس 1.0	B OO S
+بوکس 1.0	B O K S
+بول 1.0	B OO L
+بولا 1.0	B OO L AA
+بولتا 1.0	B OO L TD AA
+بولتے 1.0	B OO L TD AY
+بولنا 1.0	B OO L N AA
+بولنے 1.0	B OO L N AE
+بولو 1.0	B OO L OO
+بولوں 1.0	B OO L OON
+بولے 1.0	B OO L AE
+بولی 1.0	B OO L II
+بولیں 1.0	B OO L AEN
+بولینگے 1.0	B OO L AY NG G AY
+بولیے 1.0	B OO L J AE
+بولیۓ 1.0	B OO L II
+بے 1.0	B AY
+بےبی 1.0	B AY B II
+بےحد 1.0	B AY H I DD
+بی 1.0	B II
+بیانی 1.0	B I J AA N II
+بیٹ 1.0	B AE TT
+بیٹا 1.0	B AE TT AA
+بیٹمین 1.0	B AE TT M II N
+بیٹھ 1.0	B AY TTH
+بیٹھا 1.0	B AY TTH AA
+بیٹھایا 1.0	B AY TTH AA J AA
+بیٹھائے 1.0	B AY TTH AA AY
+بیٹھنا 1.0	B AE TTH N AA
+بیٹھو 1.0	B AY TTH OO
+بیٹھے 1.0	B AY TTH AE
+بیٹھی 1.0	B AY TTH II
+بیٹے 1.0	B AE TT AY
+بیٹی 1.0	B AE TT II
+بیچ 1.0	B AE TSH
+بیچارہ 1.0	B AY TSH AA R AA
+بیچارے 1.0	B AE TSH AA R AE
+بیچاری 1.0	B AY TSH AA R II
+بیڈ 1.0	B AY DD
+بیزی 1.0	B AE Z II
+بیس 1.0	B II S
+بیسس 1.0	B AE S I S
+بیسکلی 1.0	B AE S K L II
+بیسمنٹ 1.0	B AE S M E N TT
+بیسیکلی 1.0	B AE S II K A L II
+بیشک 1.0	B AE SH K
+بیف 1.0	B II F
+بیک 1.0	B AY K
+بیکری 1.0	B AE K R II
+بیکز 1.0	B AY K Z
+بیکن 1.0	B AY K A N
+بیکوز 1.0	B AY K UU Z
+بیکیو 1.0	B AY K I J UU
+بیگ 1.0	B AY G
+بیگر 1.0	B AY G A R
+بیل 1.0	B AE L
+بیلنس 1.0	B AE L I N S
+بیلو 1.0	B AE L OO
+بین 1.0	B II N
+بینڈ 1.0	B AE N DD
+بینک 1.0	B AE N K
+بینگ 1.0	B AE NG
+بیہاینڈ 1.0	B AY H AA AY N D
+بیہیو 1.0	B AY H II OO
+بیوقوف 1.0	B AY V A Q UU F
+پ 1.0	P
+پِگلی 1.0	P A I G L II
+پاِس 1.0	P AA I S
+پار 1.0	P AA R
+پارٹ 1.0	P AA R TT
+پارٹنر 1.0	P AA R TT N A R
+پارک 1.0	P AA R K
+پارلر 1.0	P AA R L A R
+پاس 1.0	P AA S
+پاکستان 1.0	P AA K I S TD AA N
+پاگل 1.0	P AA G A L
+پانچ 1.0	P AA N TSH
+پانچوں 1.0	P AA N TSH OON
+پانچوی 1.0	P AA N TSH V II
+پانڈا 1.0	P AA N DD AA
+پانڈہ 1.0	P AA N DD AA
+پانی 1.0	P AA N II
+پاور 1.0	P AA V A R
+پاؤنڈ 1.0	P AA UU N DD
+پاؤنڈر 1.0	P AA UU N DD R
+پاے 1.0	P AA AY
+پایا 1.0	P AA J AA
+پائز 1.0	P AA I Z
+پائے 1.0	P AA AY
+پائی 1.0	P AA II
+پآ 1.0	P A AA
+پبلک 1.0	P A B L I K
+پپپر 1.0	P A P P A R
+پپلیس 1.0	P A P L II S
+پتا 1.0	P A TD TD AA
+پتہ 1.0	P A TD TD AA
+پتھر 1.0	P A TDH TDH A R
+پٹ 1.0	P A TT
+پچاس 1.0	P A TSH AA S
+پچپن 1.0	P A TSH P A N
+پچھلے 1.0	P I TSHH L AE
+پچھلی 1.0	P I TSHH L II
+پچیانوے 1.0	P A TSH I J AA N V AY
+پچیس 1.0	P A TSH TSH II S
+پحنچ 1.0	P A H N TSH
+پر 1.0	P A R
+پرابلم 1.0	P A R AA B L A M
+پراٹھے 1.0	P A R AA TTH AE
+پراڈکٹ 1.0	P A R AA DD I K TT
+پراک 1.0	P A R AA K
+پرانا 1.0	P A R AA N AA
+پرانے 1.0	P A R AA N AY
+پرانی 1.0	P A R AA N II
+پرائزوں 1.0	P A R AA I Z OON
+پرائس 1.0	P A R AA I S
+پرائسز 1.0	P A R AA I S I Z
+پرائم 1.0	P A R AA I M
+پرسن 1.0	P U R S A N
+پرسنالی 1.0	P A R S N AA L II
+پرسنڈ 1.0	P U R S A N DD
+پرسنز 1.0	P U R S A N Z
+پرسنل 1.0	P U R S I N A L
+پرسنلی 1.0	P U R S I N A L II
+پرسو 1.0	P U R S OO
+پرسوں 1.0	P U R S OON
+پرسیو 1.0	P A R S II OO
+پرل 1.0	P A R A L
+پرموشن 1.0	P A R M OO SH A N
+پرمیشن 1.0	P I R M AY SH A N
+پرنی 1.0	P A R N II
+پرہوگی 1.0	P A R H OO G II
+پرو 1.0	P A R OO
+پروان 1.0	P A R V AA N
+پرواہ 1.0	P A R V AA
+پروائیڈ 1.0	P A R V AA II DD
+پروبلم 1.0	P U R OO B A L M
+پروبلیم 1.0	P U R OO B A L II M
+پروپر 1.0	P A R OO P A R
+پروٹوکول 1.0	P A R OO TT OO K OO L
+پروڈکٹ 1.0	P A R OO DD I K TT
+پروسیس 1.0	P U R OO S AY S
+پروسیسنگ 1.0	P A R OO S AY S I NG
+پروف 1.0	P U R UU F
+پروموشن 1.0	P A R OO M OO SH A N
+پروموشنز 1.0	P A R OO M OO SH A N Z
+پرووایڈ 1.0	P U R UU V AE DD
+پری 1.0	P A R II
+پریٹیو 1.0	P A R AY TT II V
+پریشان 1.0	P A R AY SH AA N
+پریشانی 1.0	P A R AY SH AA N II
+پریویس 1.0	P A R AY V AE S
+پریویسلی 1.0	P A R AY V AY S L II
+پڑا 1.0	P A RR AA
+پڑتا 1.0	P A RR TD AA
+پڑتی 1.0	P A RR TD II
+پڑھ 1.0	P A RRH
+پڑھا 1.0	P A RRH AA
+پڑھے 1.0	P A RRH AE
+پڑھی 1.0	P A RRH II
+پڑے 1.0	P A RR AE
+پڑیاں 1.0	P A RR I J AAN
+پڑیگا 1.0	P A RR II G AA
+پس 1.0	P I S
+پسند 1.0	P A S A N DD
+پسندیدہ 1.0	P A S A N DD II DD AA
+پشاور 1.0	P U SH AA V A R
+پک 1.0	P A K
+پکڑ 1.0	P A K A RR
+پکڑا 1.0	P A K RR AA
+پکڑانا 1.0	P A K RR AA N AA
+پکڑایا 1.0	P A K RR AA J AA
+پکڑنا 1.0	P A K A RR N AA
+پکل 1.0	P A K A L
+پکلز 1.0	P A K A L Z
+پل 1.0	P A L
+پلاٹ 1.0	P A L AA TT
+پلازا 1.0	P A L AA Z AA
+پلز 1.0	P A L Z
+پلس 1.0	P A L A S
+پلن 1.0	P A L A N
+پلوشہ 1.0	P A L OO SH AA
+پلیز 1.0	P L II Z
+پلیس 1.0	P A L AE S
+پلیسڈ 1.0	P A L AY S DD
+پلین 1.0	P A L II N
+پن 1.0	P A N
+پنتالیس 1.0	P I N TD AA L II S
+پنجاب 1.0	P A N DZZ AA B
+پنچ 1.0	P A N TSH
+پندرہ 1.0	P A N DD A R AA
+پندرھوی 1.0	P A N DD A R V II
+پندہ 1.0	P A N DD AA
+پنک 1.0	P I N K
+پہ 1.0	P A H
+پہلا 1.0	P E H L AA
+پہلے 1.0	P E H L AE
+پہلی 1.0	P E H L II
+پہنچ 1.0	P A H U N TSH
+پہنچا 1.0	P A H U N TSH AA
+پہنچائےیں 1.0	P A H N TSH AA AY AYN
+پہنچے 1.0	P A H A N TSH AY
+پہنچی 1.0	P AEH H N TSH II
+پھدو 1.0	PH A DD DD UU
+پھر 1.0	PH I R
+پھروں 1.0	PH I R OON
+پھسا 1.0	PH U S AA
+پھوڑ 1.0	PH UU RR
+پھینک 1.0	PH AEN K
+پوائنٹ 1.0	P U V AA I N TT
+پوائنٹس 1.0	P U V AA I N TT S
+پوٹ 1.0	P OO TT
+پوٹلے 1.0	P OO TT L AY
+پوٹیٹو 1.0	P OO TT AE TT I V
+پوچھ 1.0	P UU TSHH
+پوچھا 1.0	P UU TSHH AA
+پوچھتا 1.0	P UU TSH TD AA
+پوچھتے 1.0	P UU TSH TD AY
+پوچھنا 1.0	P UU TSH N AA
+پوچھنے 1.0	P UU TSHH N AE
+پوچھو 1.0	P UU TSHH OO
+پوچھے 1.0	P UU TSHH AE
+پوچھی 1.0	P UU TSHH II
+پوچھیں 1.0	P UU TSHH AEN
+پورا 1.0	P UU R AA
+پورٹ 1.0	P OO R TT
+پورشن 1.0	P OO R SH A N
+پورشنز 1.0	P OO R SH A N Z
+پورے 1.0	P UU R AE
+پوری 1.0	P UU R II
+پوزیشن 1.0	P OO Z II SH A N
+پوسٹ 1.0	P OO S TT
+پوسیبل 1.0	P OO S II B L
+پوسیبلیٹی 1.0	P OO S II B L II TT II
+پولسی 1.0	P OO L S II
+پولیس 1.0	P OO L II S
+پولیسیسز 1.0	P OO L II S AE S I Z
+پونا 1.0	P OO N AA
+پونے 1.0	P O N AE
+پوئن 1.0	P UU I N
+پے 1.0	P AY
+پےایبل 1.0	P A AY AY B A L
+پےبرانچ 1.0	P A AY B A R AA N TSH
+پی 1.0	P II
+پیایبل 1.0	P AY AE B A L
+پیبل 1.0	P AY B A L
+پیپر 1.0	P II P A R
+پیپسی 1.0	P AY P S II
+پیپل 1.0	P AE P A L
+پیتے 1.0	P II TD AY
+پیتی 1.0	P II TD II
+پیٹی 1.0	P II TT II
+پیٹیز 1.0	P AE TT II Z
+پیٹیوں 1.0	P II TT II OON
+پیج 1.0	P AY DZZ
+پیچھلے 1.0	P II TSHH L AE
+پیچھلی 1.0	P II TSHH L II
+پیچھے 1.0	P II TSHH AE
+پیراگون 1.0	P AE R AA G OO N
+پیز 1.0	P II Z
+پیزا 1.0	P AY Z AA
+پیزے 1.0	P AE Z AE
+پیس 1.0	P AY S
+پیسز 1.0	P AE S I Z
+پیسے 1.0	P AY S AE
+پیک 1.0	P AE K
+پیکٹ 1.0	P AE K TT
+پیکنگ 1.0	P AE K I NG
+پیلس 1.0	P AE L A S
+پیمانہ 1.0	P AE M AA N AA
+پیمنٹ 1.0	P AY M N T
+پیمننے 1.0	P AY M N N AY
+پین 1.0	P II N
+پینتالیس 1.0	P AEN TD AA L II S
+پینتیس 1.0	P AEN TD II S
+پینسٹ 1.0	P AE N S TT
+پیوپل 1.0	P AE OO P A L
+پیوپلز 1.0	P AE OO P A L Z
+پیوں 1.0	P II OON
+پیئے 1.0	P II AY
+تا 1.0	TD AA
+تابندہ 1.0	TD AA B I N DD AA
+تاجدین 1.0	TD AA DZZ DD II N
+تاریخ 1.0	TD AA R II X
+تاشی 1.0	TD AA SH II
+تاشین 1.0	TD AA SH II N
+تافتان 1.0	TD AA F TD AA N
+تاکہ 1.0	TD AA K AA
+تب 1.0	TD A B
+تبریز 1.0	TD A B R II Z
+تبھی 1.0	TD A BH II
+ترقیاتی 1.0	TD A R Q I J AA TD II
+تسمیہ 1.0	TD A S M I J AA
+تصویر 1.0	TD A S V II R
+تصویریں 1.0	TD A S V II R AEN
+تفصیل 1.0	TD A F S II L
+تفصیلات 1.0	TD A F S II L AA TD
+تقریبًا 1.0	TD A Q R II B A A N
+تقریبا 1.0	TD A Q R II B A N
+تقریباً 1.0	TD A Q R II B A N
+تک 1.0	TD A K
+تکلیف 1.0	TD A K L II F
+تم 1.0	TD A M
+تماچہ 1.0	TD A M AA TSH AA
+تماشا 1.0	TD A M AA SH AA
+تماشے 1.0	TD A M AA SH AY
+تمام 1.0	TD A M AA M
+تمہارا 1.0	TD U M H AA R AA
+تمہارے 1.0	TD U M H AA R AE
+تمہے 1.0	TD U M H AE
+تمہیں 1.0	TD U M H AEN
+تمھیں 1.0	TD U M M AYN
+تمیز 1.0	TD A M II Z
+تمیم 1.0	TD A M II M
+تنزیلا 1.0	TD A N Z II L AA
+تنزیلہ 1.0	TD A N Z II L AA
+تنگ 1.0	TD A NG
+تہ 1.0	TD AA
+تہمور 1.0	TD AEH H M UU R
+تہہ 1.0	TD AEH H
+تھ 1.0	TDH
+تھا 1.0	TDH AA
+تھاوُزنڈ 1.0	TDH AA V A U Z A N DD
+تھاؤزنڈ 1.0	TDH AA UU Z A N DD
+تھاؤزینڈ 1.0	TDH AA UU Z AE N DD
+تھائے 1.0	TDH AA AY
+تھائی 1.0	TDH AA II
+تھپڑ 1.0	TDH A P P A RR
+تھرٹی 1.0	TDH I R TT II
+تھرٹین 1.0	TDH R T II N
+تھرڈ 1.0	TDH A R DD
+تھرو 1.0	TDH A R UU
+تھری 1.0	TDH R II
+تھریون 1.0	TDH I R II V A N
+تھک 1.0	TDH A K
+تھکی 1.0	TDH A K K II
+تھنک 1.0	TDH I N K
+تھنگ 1.0	TDH A NG
+تھنگس 1.0	TDH A NG G
+تھورو 1.0	TDH UU R UU
+تھوڑا 1.0	TDH OO RR AA
+تھوڑے 1.0	TDH OO RR AE
+تھوڑی 1.0	TDH OO RR II
+تھے 1.0	TDH AE
+تھی 1.0	TDH II
+تھیلی 1.0	TDH AY L II
+تھیں 1.0	TDH IIN
+تھینک 1.0	TDH AY N K
+تھینکس 1.0	TDH AY N K S
+تو 1.0	TD OO
+توکہا 1.0	TD A V A K A H AA
+تویلو 1.0	TD A V II L OO
+تے 1.0	TD AY
+تیار 1.0	TD A J J AA R
+تیرا 1.0	TD AE R AA
+تیرہ 1.0	TD AE R AA
+تیرے 1.0	TD AY R AE
+تیس 1.0	TD II S
+تیسرا 1.0	TD II S R AA
+تیمور 1.0	TD II M UU R
+تین 1.0	TD II N
+تینو 1.0	TD II N OO
+تینوں 1.0	TD II N OON
+ٹِیسٹ 1.0	TT I E S TT
+ٹاپنگ 1.0	TT AA P NG
+ٹاٹا 1.0	TT AA TT AA
+ٹاک 1.0	TT AA K
+ٹاکنگ 1.0	TT AA K I NG
+ٹال 1.0	TT AA L
+ٹاور 1.0	TT AA V A R
+ٹاؤن 1.0	TT AA UU N
+ٹائم 1.0	TT AA I M
+ٹائمز 1.0	TT AA I M Z
+ٹائمنگ 1.0	TT AA I M I NG
+ٹائمنگز 1.0	TT AA I M I NG Z
+ٹپ 1.0	TT I P
+ٹرانسفر 1.0	TT A R AA N S F A R
+ٹرائے 1.0	TT A R AA AY
+ٹرائی 1.0	TT A R AA II
+ٹرپ 1.0	TT I R I P
+ٹرپل 1.0	TT A R P I L
+ٹرسٹ 1.0	TT A R A S TT
+ٹرمز 1.0	TT A R A M Z
+ٹرن 1.0	TT A R A N
+ٹرے 1.0	TT A R R AY
+ٹریپل 1.0	TT A R AE P A L
+ٹریڈ 1.0	TT A R AE DD
+ٹریڈنگ 1.0	TT A R AE DD I NG
+ٹریک 1.0	TT A R AE K
+ٹرین 1.0	TT A R AE N
+ٹکی 1.0	TT A K II
+ٹماٹو 1.0	TT I M AA TT OO
+ٹھائے 1.0	TTH AA AY
+ٹھنڈا 1.0	TTH A N DD AA
+ٹھنڈے 1.0	TTH A N DD AY
+ٹھنڈی 1.0	TTH A N DD II
+ٹھہر 1.0	TTH A H A R
+ٹھہرو 1.0	TTH E H R OO
+ٹھیک 1.0	TTH AY K
+ٹو 1.0	TT OO
+ٹواے 1.0	TT U V AA AY
+ٹوائز 1.0	T V AA A Z
+ٹوائس 1.0	TT U V AA I S
+ٹوائے 1.0	TT U V AA I AE
+ٹوپ 1.0	TT OO P
+ٹوپنگ 1.0	TT OO P I NG
+ٹوٹ 1.0	TT UU TT
+ٹوٹل 1.0	TT OO TT A L
+ٹوٹلی 1.0	TT OO TT L II
+ٹوٹوریل 1.0	TT OO TT OO R II L
+ٹوماٹو 1.0	TT OO M AA TT OO
+ٹومیٹوز 1.0	TT OO M AY TT OO Z
+ٹونٹی 1.0	TT OO N TT II
+ٹوویل 1.0	TT OO V II L
+ٹوویلو 1.0	TT OO V AE L OO
+ٹووینٹی 1.0	TT OO V AE N TT II
+ٹویلو 1.0	TT U V AE L OO
+ٹویلوے 1.0	TT U V AE L V AY
+ٹوین 1.0	TT U V AE N
+ٹوینٹی 1.0	TT U V AE N TT II
+ٹی 1.0	TT II
+ٹیبل 1.0	TT AY B A L
+ٹیٹرا 1.0	TT AE TT R AA
+ٹیٹوریل 1.0	TT AY TT OO R I J A L
+ٹیسٹ 1.0	TT AE S TT
+ٹیشو 1.0	TT AE SH UU
+ٹیک 1.0	TT AE K
+ٹیکر 1.0	TT AE K A R
+ٹیکرس 1.0	TT AE K A R A S
+ٹیکس 1.0	TT AE K S
+ٹیکنگ 1.0	TT AE K I NG
+ٹیکنیکل 1.0	TT AE K N II K A L
+ٹیل 1.0	TT AY L
+ٹیلنگ 1.0	یو T J L N G J OO
+ٹیم 1.0	TT II M
+ٹین 1.0	TT II N
+ٹینٹ 1.0	TT AE N TT
+ثاقب 1.0	S AA Q I B
+ثمرا 1.0	S A M R AA
+ثنا 1.0	S A N AA
+ثناء 1.0	S A N AA
+جا 1.0	DZZ AA
+جاتا 1.0	DZZ AA TD AA
+جاتے 1.0	DZZ AA TD AY
+جاتی 1.0	DZZ AA TD II
+جاری 1.0	DZZ AA R II
+جاز 1.0	DZZ AA Z
+جاسکی 1.0	DZZ AA S K II
+جاکر 1.0	DZZ AA K A R
+جامع 1.0	DZZ AA M AY
+جان 1.0	DZZ AA N
+جانا 1.0	DZZ AA N AA
+جانب 1.0	DZZ AA N I B
+جاننا 1.0	DZZ AA N N AA
+جانے 1.0	DZZ AA N AY
+جانیب 1.0	DZZ AA N II B
+جاہ 1.0	DZZ AA AA
+جاوید 1.0	DZZ AA V AE DD
+جاؤ 1.0	DZZ AA OO
+جاؤں 1.0	DZZ AA UUN
+جاے 1.0	DZZ AA AY
+جاینگے 1.0	DZZ AA II NG G AE
+جائے 1.0	DZZ AA AY
+جائیں 1.0	DZZ AA AEN
+جائینگی 1.0	DZZ AA II NG G II
+جائیے 1.0	DZZ AA II AY
+جآر 1.0	DZZ A AA R
+جب 1.0	DZZ A B
+جبران 1.0	DZZ A B R AA N
+جتنا 1.0	DZZ I TD N AA
+جتنے 1.0	DZZ I TD N AY
+جدون 1.0	DZZ A DD UU N
+جرنل 1.0	DZZ A R N A L
+جس 1.0	DZZ I S
+جسٹ 1.0	DZZ A S TT
+جسے 1.0	DZZ A S AY
+جسی 1.0	DZZ I S II
+جکدیش 1.0	DZZ A K DD AY SH
+جگ 1.0	DZZ A G
+جگہ 1.0	DZZ A G AA
+جلال 1.0	DZZ A L AA L
+جلد 1.0	DZZ I L DD
+جلدی 1.0	DZZ A L DD II
+جمال 1.0	DZZ A M AA L
+جمبو 1.0	DZZ A M B UU
+جمپنگ 1.0	DZZ A M P I NG
+جن 1.0	DZZ A N
+جناب 1.0	DZZ A N AA B
+جناح 1.0	DZZ A N AA
+جنہوں 1.0	DZZ I N H OON
+جنیجو 1.0	DZZ I N AE DZZ OO
+جنید 1.0	DZZ A N II DD
+جہاں 1.0	DZZ A H AAN
+جھگڑا 1.0	DZZH A G RR AA
+جھوٹ 1.0	DZZH UU TT
+جو 1.0	DZZ OO
+جواب 1.0	DZZ A V AA B
+جواد 1.0	DZZ A V AA DD
+جوس 1.0	DZZ UU S
+جوسز 1.0	DZZ O S I Z
+جوسی 1.0	DZZ UU S II
+جون 1.0	DZZ UU N
+جونسی 1.0	DZZ O N S II
+جونئیر 1.0	DZZ UU N I J A R
+جوہر 1.0	DZZ O H A R
+جے 1.0	DZZ AY
+جی 1.0	DZZ II
+جیزمین 1.0	DZZ AY Z M AE N
+جیسا 1.0	DZZ AY S AA
+جیسے 1.0	DZZ AY S AE
+جیل 1.0	DZZ AY L
+جینہ 1.0	DZZ II N AA
+جینیولی 1.0	DZZ II N J UU L II
+جیئے 1.0	DZZ II AY
+جیۓ 1.0	DZZ II
+جئے 1.0	DZZ A AE
+جئیے 1.0	DZZ A II AY
+چا 1.0	TSH AA
+چاپ 1.0	TSH AA P
+چار 1.0	TSH AA R
+چارج 1.0	TSH AA R DZZ
+چارجز 1.0	TSH AA R DZZ I Z
+چاروں 1.0	TSH AA R OON
+چاشتی 1.0	TSH AA SH TD II
+چاکلیٹ 1.0	TSH AA K L AY TT
+چاکن 1.0	TSH AA K A N
+چال 1.0	TSH AA L
+چالیس 1.0	TSH AA L II S
+چالیں 1.0	TSH AA L AYN
+چاہ 1.0	TSH AA
+چاہتا 1.0	TSH AA H TD AA
+چاہتے 1.0	TSH AA H TD AE
+چاہتی 1.0	TSH AA H TD II
+چاہتیں 1.0	TSH AA H A TD AYN
+چاہوں 1.0	TSH AA H OON
+چاہونگا 1.0	TSH AA H OO NG G AA
+چاہے 1.0	TSH AA H AY
+چاہیں 1.0	TSH AA H AYN
+چاہیںگے 1.0	TSH AA H IIN G AE
+چاہیے 1.0	TSH AA H I J AE
+چاہیئں 1.0	TSH AA H II
+چاہیۓ 1.0	TSH AA H II
+چاہئے 1.0	TSH AA H II AE
+چاہئیے 1.0	TSH AA H I J AY
+چاھیںگی 1.0	TSH AA AYN G II
+چاھینگی 1.0	TSH AA II NG G II
+چائے 1.0	TSH AA AE
+چآ 1.0	TSH AA
+چپ 1.0	TSH A P
+چپس 1.0	TSH A P S
+چپلی 1.0	TSH A P L II
+چپوٹلے 1.0	TSH A P OO TT L AY
+چدائی 1.0	TSH A DD AA II
+چرچ 1.0	TSH A R TSH
+چک 1.0	TSH A K
+چکا 1.0	TSH U K AA
+چکر 1.0	TSH A K K A R
+چکروں 1.0	TSH A K R OON
+چکن 1.0	TSH I K K A N
+چکے 1.0	TSH A K AY
+چکی 1.0	TSH A K II
+چل 1.0	TSH A L
+چلا 1.0	TSH A L L AA
+چلتا 1.0	TSH A L TD AA
+چلو 1.0	TSH A L OO
+چلے 1.0	TSH A L AE
+چلی 1.0	TSH A L L II
+چلیں 1.0	TSH A L AEN
+چند 1.0	TSH A N DD
+چھا 1.0	TSHH AA
+چھبیس 1.0	TSHH A B B II S
+چھت 1.0	TSH A TD
+چھڑک 1.0	TSHH I RR A K
+چھوٹ 1.0	TSH UU TT
+چھوٹا 1.0	TSH UU TT AA
+چھوٹے 1.0	TSHH OO TT AE
+چھوٹی 1.0	TSH UU TT II
+چھوڑ 1.0	TSH OO RR
+چھے 1.0	TSHH AE
+چھی 1.0	TSHH II
+چوائس 1.0	TSH U V AA I S
+چوبیس 1.0	TSH O B II S
+چوتھا 1.0	TSH O TDH AA
+چوتھی 1.0	TSH OO TDH II
+چود 1.0	TSH UU DD
+چودائی 1.0	TSH O DD AA II
+چودھری 1.0	TSH O DDH R II
+چودو 1.0	TSH O DD OO
+چودوں 1.0	TSH O DD OON
+چوڑا 1.0	TSH O RR AA
+چوک 1.0	TSH O K
+چوکا 1.0	TSH UU K AA
+چوکلیٹ 1.0	TSH O K L AY TT
+چوکلیٹس 1.0	TSH O K L AY TT S
+چوکو 1.0	TSH O K OO
+چول 1.0	TSH O L
+چولہوں 1.0	TSH UU L H OON
+چوہدری 1.0	TSH O H DD R II
+چے 1.0	TSH AE
+چیپوٹلے 1.0	TSH AE P OO TT L AY
+چیج 1.0	TSH AE DZZ
+چیز 1.0	TSH II Z
+چیزوں 1.0	TSH II Z OON
+چیزے 1.0	TSH II Z AE
+چیزی 1.0	TSH II Z II
+چیزیں 1.0	TSH II Z AEN
+چیس 1.0	TSH AE S
+چیسٹ 1.0	TSH E S TT
+چیسی 1.0	TSH AE S II
+چیک 1.0	TSH E K
+چین 1.0	TSH II N
+چینج 1.0	TSH AE N DZZ
+حا 1.0	H AA
+حارث 1.0	H AA R I S
+حاصل 1.0	H AA S I L
+حاضر 1.0	H AA Z I R
+حافظ 1.0	H AA F Z
+حال 1.0	H AA L
+حالانکے 1.0	H AA L AAN K AY
+حالت 1.0	H AA L A TD
+حالی 1.0	H AA L II
+حامد 1.0	H AA M I DD
+حائقہ 1.0	H AA I Q AA
+حبیب 1.0	H A B II B
+حد 1.0	H A DD
+حدیقہ 1.0	H A DD II Q AA
+حرکت 1.0	H A R K A TD
+حرکتے 1.0	H A R K A TD AY
+حریم 1.0	H A R II M
+حساب 1.0	H I S AA B
+حسام 1.0	H A S AA M
+حسان 1.0	H A S AA N
+حسن 1.0	H A S A N
+حسیب 1.0	H A S II B
+حسین 1.0	H A S II N
+حضرت 1.0	H A Z R A TD
+حفصہ 1.0	H I F S S AA
+حکم 1.0	H U K M
+حل 1.0	H A L
+حماد 1.0	H A M M AA DD
+حمزہ 1.0	H A M Z AA
+حمیداللہ 1.0	H A M II DD U L L AA
+حنا 1.0	H A N N AA
+حوالے 1.0	H A V AA L AY
+حیا 1.0	H A J AA
+حیدر 1.0	H AY DD A R
+حیدرآباد 1.0	H AE DD R AY AA B AA DD
+خاِن 1.0	X AA I A N
+خاتون 1.0	X AA TD UU N
+خالد 1.0	X AA L I DD
+خالی 1.0	X AA L II
+خامہ 1.0	X AA M AA
+خاموشی 1.0	X AA M OO SH II
+خان 1.0	X AA N
+خانزادہ 1.0	X AA N Z AA DD AA
+خبری 1.0	X A B R II
+ختم 1.0	X A TD M
+خدا 1.0	X U DD AA
+خدمت 1.0	X I DD M A TD
+خدیجہ 1.0	X U DD II DZZ AA
+خرّم 1.0	X U R J U M
+خراب 1.0	X A R AA B
+خرم 1.0	X U R M
+خلاف 1.0	X I L AA F
+خوا 1.0	X AA
+خواں 1.0	X A V AAN
+خواہ 1.0	X AA
+خود 1.0	X U DD
+خوش 1.0	X U SH
+خیابان 1.0	X A J AA B AA N
+خیابانِ 1.0	X A J AA B AAN I
+خیال 1.0	X A J AA L
+خیبر 1.0	X AE B A R
+خیر 1.0	X AY R
+خیرالورا 1.0	X AY R U L UU R AA
+خیرالورہ 1.0	X AY R U L UU R AA
+خیریت 1.0	X AE R I J A TD
+دِس 1.0	DD I S
+دا 1.0	DD AA
+دارلصحت 1.0	DD AA R U L S AE H H A TD
+دال 1.0	DD AA L
+دانش 1.0	DD AA N I SH
+دانیال 1.0	DD AA N I J AA L
+داوے 1.0	DD AA V AY
+دائم 1.0	DD AA I M
+دبارہ 1.0	DD A B AA R AA
+دٹیلس 1.0	DD TT II L A S
+دجیئے 1.0	DD DZ II AE
+دخلیں 1.0	DD A X L AEN
+دراصل 1.0	DD A R A S L
+درکار 1.0	DD A R K AA R
+درنگ 1.0	DD R I NG
+دس 1.0	DD A S
+دسمبر 1.0	DD A S A M B A R
+دعا 1.0	DD U AA
+دفتر 1.0	DD A F TD A R
+دفتری 1.0	DD A F TD A R II
+دفعہ 1.0	DD A F AA
+دفہ 1.0	DD I F AA
+دکان 1.0	DD U K AA N
+دکھ 1.0	DD U KH
+دکھا 1.0	DD U KH AA
+دکھائی 1.0	DD I KH AA II
+دکھنے 1.0	DD U KH N AE
+دکھے 1.0	DD U KH AE
+دل 1.0	DD I L
+دم 1.0	DD A M
+دماغ 1.0	DD I M AA 7
+دن 1.0	DD A N
+دنوں 1.0	DD I N OON
+دنیا 1.0	DD U N J AA
+دہ 1.0	DD AA
+دھڑلے 1.0	DDH A RR A L L AE
+دو 1.0	DD OO
+دوبارہ 1.0	DD OO B AA R AA
+دوپہر 1.0	DD O P AEH H R
+دودھ 1.0	DD UU DDH
+دودو 1.0	DD UU DD OO
+دور 1.0	DD UU R
+دوست 1.0	DD OO S TD
+دوسرا 1.0	DD UU S R AA
+دوسرے 1.0	DD UU S R AE
+دوسری 1.0	DD UU S R II
+دوں 1.0	DD OON
+دونگا 1.0	DD OO NG G AA
+دونگی 1.0	DD OO NG II
+دونوں 1.0	DD OO N OON
+دے 1.0	DD AY
+دی 1.0	DD II
+دیا 1.0	DD I J AA
+دیتا 1.0	DD AE TD AA
+دیتے 1.0	DD AE TD AE
+دیتی 1.0	DD AE TD II
+دیٹ 1.0	DD AE TT
+دیٹس 1.0	DD AE TT S
+دیجے 1.0	DD II DZZ AE
+دیجیگا 1.0	DD II DZ II G AA
+دیجیے 1.0	DD II DZZ II AY
+دیجیئے 1.0	DD II DZ II AE
+دیجیۓ 1.0	DD II DZZ II
+دیجئے 1.0	DD II DZZ I AE
+دیجئیے 1.0	DD II DZZ I J AY
+دیدو 1.0	DD II DD OO
+دیدیں 1.0	DD II DD AYN
+دیدئیے 1.0	DD II DD A II AY
+دیر 1.0	DD II R
+دیزرٹس 1.0	DD AY Z A R TT S
+دیش 1.0	DD AY SH
+دیفرنٹ 1.0	DD AY F R A N TT
+دیکر 1.0	DD II K A R
+دیکھ 1.0	DD AE KH
+دیکھا 1.0	DD AE KH AA
+دیکھتا 1.0	DD AY KH TD AA
+دیکھتی 1.0	DD AY KH TD II
+دیکھنا 1.0	DD AY KH N AA
+دیکھو 1.0	DD AE KH OO
+دیکھے 1.0	DD AE KH AE
+دیکھی 1.0	DD AE KH II
+دیکھیں 1.0	DD AE KH AEN
+دیکھیے 1.0	DD AE KH II AE
+دیگا 1.0	DD II G AA
+دیں 1.0	DD AEN
+دیںا 1.0	DD AE
+دین 1.0	DD II N
+دینا 1.0	DD AE N AA
+دینگے 1.0	DD AE NG G AY
+دینگی 1.0	DD AE NG G II
+دینے 1.0	DD AE N AE
+دینی 1.0	DD II N II
+دیوار 1.0	DD II V AA R
+دیے 1.0	DD II AE
+دیئر 1.0	DD AY A R
+دئیے 1.0	DD A II AY
+ڈاکٹر 1.0	DD AA K TT A R
+ڈال 1.0	DD AA L
+ڈالا 1.0	DD AA L AA
+ڈالتا 1.0	DD AA L TD AA
+ڈالتے 1.0	DD AA L TD AY
+ڈالنا 1.0	DD AA L N AA
+ڈالنی 1.0	DD AA L N II
+ڈالوں 1.0	DD AA L OON
+ڈالے 1.0	DD AA L AY
+ڈالی 1.0	DD AA L II
+ڈالیں 1.0	DD AA L AEN
+ڈالیے 1.0	DD AA L II AY
+ڈانٹ 1.0	DD AA N TT
+ڈاؤن 1.0	DD AA UU N
+ڈائریکٹ 1.0	DD AA I R AE K TT
+ڈائریکٹلی 1.0	DD AA I R AE K TT L II
+ڈائل 1.0	DD AA I L
+ڈائن 1.0	DD AA I N
+ڈائننگ 1.0	DD AA I N NG
+ڈائیٹ 1.0	DD AA II TT
+ڈائیں 1.0	DD AA AYN
+ڈبل 1.0	DD A B A L
+ڈبلیو 1.0	DD A B L I J UU
+ڈپ 1.0	DD I P
+ڈپس 1.0	DD I P S
+ڈٹیلس 1.0	DD I TT II L A S
+ڈجٹس 1.0	DD DZZ A TT S
+ڈراپ 1.0	DD I R AA P
+ڈرامہ 1.0	DD A R AA M AA
+ڈرائیو 1.0	DD A R AA II V
+ڈرائیور 1.0	DD A R AA II V A R
+ڈرائیونگ 1.0	DD A R AA II V I NG
+ڈرنک 1.0	D R N K
+ڈرنکس 1.0	D R N K S
+ڈروپ 1.0	DD A R OO P
+ڈزنٹ 1.0	DD I Z N TT
+ڈس 1.0	DD I S
+ڈسپوزبل 1.0	DD I S P OO Z B L
+ڈسپیچ 1.0	DD I S P AE TSH
+ڈسپیچڈ 1.0	DD I S P AE TSH DD
+ڈسپینسر 1.0	DD I S P AE N S A R
+ڈسٹرب 1.0	DD I S TT A R A B
+ڈسٹورشن 1.0	DD I S TT OO R SH A N
+ڈسٹینس 1.0	DD I S TT AE N S
+ڈسکاؤنٹ 1.0	DD I S K AA UU N TT
+ڈسکاؤنٹڈ 1.0	DD I S K AA UU N TT DD
+ڈسکس 1.0	DD I S K A S
+ڈسکنیکٹ 1.0	DD I S K A N AE K TT
+ڈسن 1.0	DD A S A N
+ڈفرنٹ 1.0	DD F A R A N TT
+ڈفرنس 1.0	DD F R A N S
+ڈلیور 1.0	DD I L AY V A R
+ڈن 1.0	DD A N
+ڈھابے 1.0	DDH AA B AE
+ڈھاکہ 1.0	DDH AA K AA
+ڈھائی 1.0	DDH AA II
+ڈھونڈنے 1.0	DDH UU N DD N AY
+ڈھیر 1.0	DDH AE R
+ڈو 1.0	DD OO
+ڈواپ 1.0	DD A V AA P
+ڈور 1.0	DD OO R
+ڈونٹ 1.0	D OO N T
+ڈویجن 1.0	DD A V II DZZ A N
+ڈوئنگ 1.0	DD OO I NG
+ڈے 1.0	DD AE
+ڈی 1.0	DD II
+ڈیبٹ 1.0	DD AY B TT
+ڈیپارٹ 1.0	DD II P AA R TT
+ڈیپارٹمنٹ 1.0	DD II P AA R TT M I N TT
+ڈیٹ 1.0	DD AY TT
+ڈیٹا 1.0	DD AY TT AA
+ڈیٹس 1.0	DD AE TT S
+ڈیٹیل 1.0	D AY T AY L
+ڈیٹیلز 1.0	D AY T AY L Z
+ڈیجٹس 1.0	DD AE DZZ TT S
+ڈیجیٹ 1.0	DD II DZZ II TT
+ڈیر 1.0	DD AY R
+ڈیڑھ 1.0	DD AE RRH
+ڈیزرٹ 1.0	DD AY Z A R TT
+ڈیزرٹس 1.0	DD AY Z A R TT S
+ڈیزوں 1.0	DD AY Z OON
+ڈیفالٹ 1.0	DD II F AA L TT
+ڈیفینس 1.0	DD II F AE N S
+ڈیفینیٹلی 1.0	DD II F AE N AE TT L II
+ڈیل 1.0	DD II L
+ڈیلز 1.0	DD II L Z
+ڈیلکس 1.0	DD II L I K S
+ڈیلنگ 1.0	DD AY L I NG
+ڈیلے 1.0	DD II L AY
+ڈیلی 1.0	DD II L II
+ڈیلیٹ 1.0	DD II L AE TT
+ڈیلیں 1.0	DD II L AEN
+ڈیلیور 1.0	DD II L II V R
+ڈیلیورڈ 1.0	DD II L II V A R DD
+ڈیلیوری 1.0	DD II L II V R II
+ڈین 1.0	DD II N
+ڈینائے 1.0	DD AE N AA AY
+ڈینگی 1.0	DD AE NG G II
+ڈیو 1.0	DD II V
+ڈیوائل 1.0	DD II V AA I L
+ڈیورنگ 1.0	DD I J UU R I NG
+ڈیولپمنٹل 1.0	DD I J UU L P M A N TT A L
+ڈیئر 1.0	DD AY A R
+ذرا 1.0	Z A R R AA
+ذراسا 1.0	Z A R AA S AA
+ذریعہ 1.0	Z A R II AA
+ذریعے 1.0	Z A R II AE
+ذکر 1.0	Z A K A R
+ذیشان 1.0	Z II SH AA N
+رابطہ 1.0	R AA B I TD AA
+رابعہ 1.0	R AA B I AA
+رات 1.0	R AA TD
+راجہ 1.0	R AA DZZ AA
+راحت 1.0	R AA H A TD
+راحیل 1.0	R AA H II L
+راحیمہ 1.0	R AA H II M AA
+راستہ 1.0	R AA S TD AA
+راستے 1.0	R AA S TD AE
+راشد 1.0	R AA SH I DD
+رانگ 1.0	R AA NG
+راہمہ 1.0	R AA H A M AA
+راہیمہ 1.0	R AA H II M AA
+راہیں 1.0	R AA H AYN
+راہیے 1.0	R AA H I J AE
+راولپنڈی 1.0	R AA V A L P A N DD II
+راؤ 1.0	R AA OO
+راؤف 1.0	R AA UU F
+رائٹ 1.0	R AA I TT
+رائٹس 1.0	R AA I TT S
+رائڈر 1.0	R AA A D R
+رائس 1.0	R AA I S
+رائل 1.0	R AA I L
+رائمل 1.0	R AA I M A L
+رائی 1.0	R AA II
+رائیڈ 1.0	R AA II DD
+رائیڈر 1.0	R AA II DD A R
+رائیڈرز 1.0	R AA II DD A R Z
+رائیڈروں 1.0	R AA II DD A R OON
+رباب 1.0	R U B AA B
+ربیکا 1.0	R A B II K AA
+رپٹ 1.0	R I P TT
+رپریزنٹ 1.0	R I P R AY Z A N TT
+رپلائے 1.0	R I P A L AA AY
+رپیز 1.0	R I P II Z
+رجسٹر 1.0	R A DZZ I S TT A R
+رجسٹرڈ 1.0	R A DZZ I S TT A R DD
+رجسٹریشن 1.0	R A DZZ I S TT A R AE SH A N
+رحما 1.0	R A H M AA
+رحمان 1.0	R A H M AA N
+رحمت 1.0	R A H M A TD
+رحمہ 1.0	R A H M AA
+رحیم 1.0	R A H II M
+رحیمہ 1.0	R A H II M AA
+ردا 1.0	R A DD DD AA
+رزلٹ 1.0	R I Z A L TT
+رسپونڈنگ 1.0	R A S P UU N DD I NG
+رسپونس 1.0	R A S P OO N S
+رستے 1.0	R A S TD AY
+رسیونگ 1.0	R A S II V I NG
+رش 1.0	R I SH
+رضوان 1.0	R I Z V AA N
+رضویہ 1.0	R I Z V I J AA
+رفیق 1.0	R A F II Q
+رقو 1.0	R A Q UU
+رکھ 1.0	R A KH
+رکھا 1.0	R A K KH AA
+رکھتے 1.0	R A KH TD AE
+رکھنا 1.0	R A KH N AA
+رکھنے 1.0	R A KH N AE
+رکھوائی 1.0	R A KH V AA II
+رکھے 1.0	R A K KH AE
+رکھی 1.0	R A K KH II
+رکھیں 1.0	R A K KH IIN
+رکھئیے 1.0	R A KH II AE
+رکوائرڈ 1.0	R U K V AA AE R DD
+رکوائرمنٹس 1.0	R U K V AA AE R M AE N TT S
+رکوائیرڈ 1.0	R U K V AA I J A R DD
+رکیے 1.0	R A K II AE
+رمضان 1.0	R A M Z AA N
+رنڈی 1.0	R A N DD II
+رنگ 1.0	R A NG
+رننگ 1.0	R I N I NG
+رہ 1.0	R AA
+رہا 1.0	R A H AA
+رہاش 1.0	R A H AA SH
+رہاں 1.0	R A H AAN
+رہتا 1.0	R A H TD AA
+رہتے 1.0	R A H TD AE
+رہتی 1.0	R AEH H TD II
+رہنمائی 1.0	R A H N U M AA II
+رہنے 1.0	R AEH H N AY
+رہوں 1.0	R A H UUN
+رہے 1.0	R A H AY
+رہی 1.0	R A H II
+رہیگا 1.0	R A H II G AA
+رہیں 1.0	R A H AEN
+رہیے 1.0	R A H II AE
+رہیئے 1.0	R H II AY
+رہیۓ 1.0	R A H II
+رہئیے 1.0	R A H II AE
+روباب 1.0	R OO B AA B
+روپے 1.0	R UU P AE
+روپی 1.0	R UU P II
+روپیز 1.0	R OO P II Z
+روپیہ 1.0	R UU P I J AA
+روٹیٹ 1.0	R OO TT AY TT
+روڈ 1.0	R OO DD
+روڈلی 1.0	R OO DD L II
+روز 1.0	R OO Z
+روزہ 1.0	R OO Z AA
+روک 1.0	R OO K
+روکنا 1.0	R OO K N AA
+روکیں 1.0	R OO K AYN
+روکئیے 1.0	R OO K A II AY
+رولز 1.0	R OO L Z
+روم 1.0	R UU M
+رومان 1.0	R UU M AA N
+رومی 1.0	R UU M II
+رویال 1.0	R UU J AA L
+روئل 1.0	R UU I L
+روئیل 1.0	R UU II L
+رؤف 1.0	R A UU F
+رے 1.0	R AY
+ری 1.0	R II
+ریاض 1.0	R I J AA Z
+ریب 1.0	R II B
+ریپ 1.0	R AY P
+ریپریزنٹ 1.0	R II P R AY Z A N TT
+ریپریزنٹیٹو 1.0	R II P R AY Z A N TT AY TT OO
+ریپلائے 1.0	R II P A L AA AY
+ریپلیس 1.0	R II P A L AE S
+ریپلیسمنٹ 1.0	R II P A L AE S M E N TT
+ریپیتیں 1.0	R II P A II J A TD AYN
+ریپیٹ 1.0	R II P II TT
+ریپیٹیٹ 1.0	R II P II TT AY TT
+ریپیٹیٹیٹ 1.0	R II P II TT AY TT AY TT
+ریپیٹینگ 1.0	R II P II TT AE NG
+ریپیزنٹیٹو 1.0	R II P II Z A N TT AY TT OO
+ریٹ 1.0	R AE TT
+ریٹرن 1.0	R AE TT R A N
+ریٹس 1.0	R AE TT S
+ریجسٹر 1.0	R II DZZ I S TT A R
+ریجنل 1.0	R II DZZ N A L
+ریچڈ 1.0	R AE TSH DD
+ریحاد 1.0	R AY H AA DD
+ریدا 1.0	R AY DD AA
+ریڈی 1.0	R AE DD II
+ریڈیم 1.0	R AY DD I J A M
+ریزن 1.0	R AY Z A N
+ریزولو 1.0	R AE Z OO L OO
+ریزولوشن 1.0	R AY Z OO L UU SH A N
+ریزیڈنسی 1.0	R AY Z II DD A N S II
+ریسپیکٹ 1.0	R AY S P AE K TT
+ریسٹورنٹ 1.0	R E S TT UU R E N TT
+ریسنٹلی 1.0	R AY S A N TT L II
+ریسیپٹ 1.0	R II S II P A TT
+ریسیو 1.0	R II S II V
+ریشو 1.0	R AY SH OO
+ریفرینس 1.0	R AE F R AE N S
+ریفنڈ 1.0	R II F A N DD
+ریفوس 1.0	R II F OO S
+ریکارڈ 1.0	R II K AA R DD
+ریکارڈر 1.0	R II K AA R DD A R
+ریکارڈنگ 1.0	R II K AA R DD I NG
+ریکارڈنگز 1.0	R II K AA R DD I NG Z
+ریکوائرڈ 1.0	R II K V AA AE R DD
+ریکوائرمنٹ 1.0	R II K V AA AE R M AE N TT
+ریکورڈ 1.0	R II K OO R DD
+ریکورڈیڈ 1.0	R II K OO R DD II DD
+ریکویسٹ 1.0	R II K OO E S TT
+ریگ 1.0	R AY G
+ریگولر 1.0	R AE G UU L A R
+ریگولرلی 1.0	R AE G UU L R L II
+ریلی 1.0	R AY L II
+ریلیٹڈ 1.0	R II L II TT I DD
+ریلیٹیڈ 1.0	R II L II TT II DD
+ریلیشن 1.0	R AE L AY SH A N
+ریمارک 1.0	R II M AA R K
+ریموو 1.0	R II M UU V
+ریمیننگ 1.0	R II M AY N I NG
+رینا 1.0	R AE N AA
+رینڈملی 1.0	R AE N DD A M L II
+ریوینیو 1.0	R II V AE N II OO
+رئیلی 1.0	R A II L II
+زادہ 1.0	Z AA DD AA
+زار 1.0	Z AA R
+زارہ 1.0	Z AA R AA
+زاہد 1.0	Z AA H I DD
+زبردستی 1.0	Z A B A R DD A S TD II
+زبیر 1.0	Z A B II R
+زد 1.0	Z A DD
+زدہ 1.0	Z A DD AA
+زلمی 1.0	Z I L M II
+زمانی 1.0	Z A M AA N II
+زمزمہ 1.0	Z A M Z I M AA
+زندگی 1.0	Z I N DD A G II
+زنگرز 1.0	Z A NG G A R Z
+زہرا 1.0	Z AEH H R AA
+زونل 1.0	Z OO N A L
+زوہیب 1.0	Z OO H II B
+زی 1.0	Z II
+زیادہ 1.0	Z I J AA DD AA
+زیان 1.0	Z I J AA N
+زیڈ 1.0	Z AY DD
+زیرو 1.0	Z II R OO
+زیشان 1.0	Z AY SH AA N
+زین 1.0	Z II N
+زینب 1.0	Z AE N B
+سا 1.0	S AA
+ساِس 1.0	S AA I S
+ساِسس 1.0	S AA I S I S
+ساِسیجز 1.0	S AA I S II DZZ I Z
+سابیشری 1.0	S AA B II SH R II
+سات 1.0	S AA TD
+ساتھ 1.0	S AA TDH
+سادھی 1.0	S AA DDH II
+سارا 1.0	S AA R AA
+سارہ 1.0	S AA R AA
+ساروں 1.0	S AA R OON
+سارے 1.0	S AA R AY
+ساری 1.0	S AA R II
+ساڑھے 1.0	S AA RRH AE
+ساسج 1.0	S AA S I DZZ
+ساسس 1.0	S AA S I S
+ساسیج 1.0	S AA S II DZZ
+سال 1.0	S AA L
+سالٹ 1.0	S AA L T
+سالہ 1.0	S AA L AA
+سامنا 1.0	S AA M N AA
+سامنے 1.0	S AA M N AE
+سانپ 1.0	S AA M P
+ساندہ 1.0	S AA N DD AA
+ساہی 1.0	S AA H II
+ساور 1.0	S AA V A R
+سائبر 1.0	S AA I B A R
+سائٹ 1.0	S AA I TT
+سائرہ 1.0	S AA I R AA
+سائز 1.0	S AA I Z
+سائمہ 1.0	S AA I M AA
+سائنس 1.0	S AA I N S
+سائیڈ 1.0	S AA II DD
+سب 1.0	S A B
+سبزیاں 1.0	S A B Z I J AAN
+سپ 1.0	S A P
+سپر 1.0	S U P A R
+سپرائٹ 1.0	S U P A R AA I TT
+سپرمین 1.0	S A P A R M II N
+سپروائزر 1.0	S U P A R V AA I Z A R
+سپریٹ 1.0	S I P R II TT
+سپریٹلی 1.0	S I P R AE TT L II
+سپلائی 1.0	S A P L AA II
+سپیسیفکلی 1.0	S A P AY S II F I K L II
+سپیکنگ 1.0	S A P AY K I NG
+ستارہ 1.0	S A TD AA R AA
+ستائیس 1.0	S A TD TD AA II S
+ستر 1.0	S A TD TD A R
+سترہ 1.0	S A TD R AA
+سٹارٹ 1.0	S A TT AA R TT
+سٹرکٹلی 1.0	S A TT R A K TT L II
+سٹریٹ 1.0	S A TT R AE TT
+سٹریٹجی 1.0	S A TT R AE TT I DZZ II
+سٹی 1.0	S A TT II
+سٹیپ 1.0	S A TT II P
+سٹیٹس 1.0	S A TT AY TT S
+سٹیزن 1.0	S A TT II Z A N
+سجاد 1.0	S A DZZ DZZ AA DD
+سجیسٹ 1.0	S A DZZ E S TT
+سچ 1.0	S A TSH
+سچل 1.0	S A TSH TSH A L
+سحر 1.0	S I H R
+سخت 1.0	S A X TD
+سدرہ 1.0	S A DD DD R AA
+سدہ 1.0	S A DD AA
+سر 1.0	S A R
+سرای 1.0	S A R AA II
+سرپرائز 1.0	S A R P A R AA I Z
+سرٹو 1.0	S A R TT OO
+سرچ 1.0	S A R TSH
+سردار 1.0	S A R DD AA R
+سرف 1.0	S A R F
+سرفراز 1.0	S A R F A R AA Z
+سرکولر 1.0	S A R K OO L A R
+سرگودھا 1.0	S A R G OO DDH AA
+سرمد 1.0	S A R M A DD
+سرمست 1.0	S A R M A S TD
+سرمیں 1.0	S A R M AYN
+سرور 1.0	S A R V A R
+سروس 1.0	S A R V I S
+سرونگ 1.0	S A R UU NG
+سروو 1.0	S A R V OO
+سرے 1.0	S A R R AY
+سری 1.0	S A R II
+سڑا 1.0	S A RR AA
+سستی 1.0	S A S TD II
+سسٹر 1.0	S I S TT A R
+سسٹم 1.0	S I S TT A M
+سسر 1.0	S I S A R
+سع 1.0	S A
+سعادت 1.0	S A AA DD A TD
+سعد 1.0	S A DD
+سعدی 1.0	S A DD II
+سعدیہ 1.0	S A DD AY J AA
+سعود 1.0	S A UU DD
+سعید 1.0	S A II DD
+سکتا 1.0	S A K TD AA
+سکتے 1.0	S A K TD AY
+سکتی 1.0	S A K TD II
+سکتیں 1.0	S A K TD IIN
+سکٹر 1.0	S I K TT A R
+سکرین 1.0	S I K R II N
+سکس 1.0	S I K S
+سکسٹی 1.0	S I K S I TT II
+سکسٹین 1.0	S I K S TT II N
+سکنڈز 1.0	S A K A N DD Z
+سکھائی 1.0	S I KH AA II
+سکوں 1.0	S A K OON
+سکونگا 1.0	S A K UU NG G AA
+سکے 1.0	S A K AE
+سکی 1.0	S A K II
+سکیں 1.0	S A K AEN
+سگنل 1.0	S I G N A L
+سگنلز 1.0	S I G N A L Z
+سلاد 1.0	S A L AA DD
+سلام 1.0	S A L AA M
+سلامت 1.0	S A L AA M A TD
+سلائس 1.0	S A L AA I S
+سلپ 1.0	S A L P
+سلسلے 1.0	S I L S I L AE
+سلطان 1.0	S U L TD AA N
+سلو 1.0	S U L UU
+سلوک 1.0	S U L UU K
+سلیش 1.0	S A L II SH
+سلیم 1.0	S A L II M
+سلیمان 1.0	S A L II M AA N
+سم 1.0	S A M
+سمبارا 1.0	S A M B AA R AA
+سمبل 1.0	S A M B A L
+سمپل 1.0	S A M P A L
+سمتھنگ 1.0	S A M TDH A NG
+سمجھ 1.0	S A M A DZZH
+سمجھا 1.0	S A M DZZH AA
+سمجھانے 1.0	S A M DZZH AA N AE
+سمجھایا 1.0	S A M DZZH AA J AA
+سمجھے 1.0	S A M DZZH AE
+سمجھی 1.0	S A M DZZH II
+سمجھیں 1.0	S A M DZZH AEN
+سممی 1.0	S A M A M II
+سمنہ 1.0	S A M N AA
+سمول 1.0	S A M OO L
+سموئیر 1.0	S A M OO I J A R
+سمی 1.0	S A M II
+سمیر 1.0	S A M II R
+سمینہ 1.0	S A M II N AA
+سمیہ 1.0	S A M I J AA
+سمیئہ 1.0	S A M AY A AA
+سن 1.0	S A N
+سنا 1.0	S U N AA
+سنائیں 1.0	S U N AA AYN
+سنتا 1.0	S U N TD AA
+سنتے 1.0	S U N TD AY
+سنٹر 1.0	S E N TT A R
+سندھ 1.0	S U N DDH
+سنڈے 1.0	S U N DD AY
+سنڈیز 1.0	S U N DD II Z
+سنکڈز 1.0	S U N K DD Z
+سنگاپور 1.0	S A NG G AA P UU R
+سنگل 1.0	S I NG G A L
+سننا 1.0	S U N N AA
+سننے 1.0	S U N N AY
+سنی 1.0	S U N II
+سنیں 1.0	S U N AEN
+سہ 1.0	S AA
+سہی 1.0	S A H II
+سو 1.0	S OO
+سوا 1.0	S A V AA
+سوچ 1.0	S OO TSH
+سوچا 1.0	S OO TSH AA
+سور 1.0	S UU R
+سوری 1.0	S UU R II
+سوس 1.0	S UU S
+سوسایٹی 1.0	S OO S II TT II
+سوسائٹی 1.0	S OO S AA I TT II
+سوسائیٹی 1.0	S OO S AA II TT II
+سوسج 1.0	S OO S DZZ
+سوسجز 1.0	S OO S DZZ I Z
+سوسز 1.0	S A V I S I Z
+سوسس 1.0	S OO S A S
+سوسیج 1.0	S OO S AY DZZ
+سوفٹ 1.0	S OO F TT
+سوگرہ 1.0	S OO G A R AA
+سول 1.0	S UU L
+سولا 1.0	S OO L AA
+سولٹڈ 1.0	S OO L TT I DD
+سولیمان 1.0	S OO L II M AA N
+سومی 1.0	S OO M II
+سون 1.0	S UU N
+سونتی 1.0	S UU N A TD II
+سونک 1.0	S OO N I K
+سونگ 1.0	S OO NG
+سونے 1.0	S UU N AE
+سونیا 1.0	S OO N I J AA
+سوہا 1.0	S OO H AA
+سویٹ 1.0	S A V AY TT
+سوئے 1.0	S OO AE
+سوئیٹ 1.0	S UU II TT
+سے 1.0	S AY
+سی 1.0	S II
+سیاپا 1.0	S I J AA P AA
+سیالکوٹ 1.0	S I J AA L K OO TT
+سیپ 1.0	S II P
+سیپرپٹ 1.0	S AE P R I P TT
+سیپرپٹلی 1.0	S AE P R I P TT L II
+سیپریٹ 1.0	S II P R AY TT
+سیپریٹلی 1.0	S II P R AE TT L II
+سیٹ 1.0	S II TT
+سیٹسفائڈ 1.0	S AE TT S F AA I DD
+سیٹلائٹ 1.0	S AE TT L AA I TT
+سید 1.0	S II DD
+سیدا 1.0	S AY DD AA
+سیدھی 1.0	S II DDH II
+سیڈ 1.0	S II DD
+سیر 1.0	S II R
+سیرپ 1.0	S AE R P
+سیڑھیوں 1.0	S II RRH II OON
+سیس 1.0	S II S
+سیف 1.0	S AE F
+سیکٹر 1.0	S AE K TT A R
+سیکنڈ 1.0	S AE K I N DD
+سیکنڈز 1.0	S AE K I N DD Z
+سیکنڈلی 1.0	S AE K I N DD L II
+سیکینڈ 1.0	S II K J A N DD
+سیل 1.0	S II L
+سیلکٹ 1.0	S AE L I K TT
+سیلون 1.0	S AE L UU N
+سیم 1.0	S II M
+سیمپل 1.0	S AE M P A L
+سیمہ 1.0	S II M AA
+سین 1.0	S II N
+سیناریو 1.0	S II N AA R II V
+سینٹر 1.0	S AE N TT A R
+سینٹرل 1.0	S AE N TT A R A L
+سینٹرلائزڈ 1.0	S AE N TT A R A L AA I Z DD
+سینڈ 1.0	S AE N DD
+سینڈوچ 1.0	S AY N DD V I TSH
+سینیار 1.0	S AE N J AA R
+سینیریو 1.0	S AE N AY R II OO
+سینئیر 1.0	S II N I J A R
+سیو 1.0	S II OO
+سیواے 1.0	S II V AA AY
+سیون 1.0	S AE V A N
+سیونٹی 1.0	S AE V A N TT II
+سیونٹین 1.0	S AE V A N TT II N
+سیوے 1.0	S II V AY
+سیئنگ 1.0	S II I NG
+شاپ 1.0	SH AA P
+شاٹ 1.0	SH AA TT
+شادمان 1.0	SH AA DD M AA N
+شارٹ 1.0	SH AA R TT
+شارون 1.0	SH AA R UU N
+شازیب 1.0	SH AA Z II B
+شازیہ 1.0	SH AA Z I J AA
+شام 1.0	SH AA M
+شامیر 1.0	SH AA M II R
+شاہ 1.0	SH AA
+شاہد 1.0	SH AA H I DD
+شاہریار 1.0	SH AA H R J AA R
+شاہزیب 1.0	SH AA H Z II B
+شاہمیر 1.0	SH AA H M II R
+شاید 1.0	SH AA J A DD
+شائستہ 1.0	SH AA I S TD AA
+شبنم 1.0	SH A B N A M
+شپ 1.0	SH I P
+شجاعت 1.0	SH U DZZ AA A TD
+شرابہ 1.0	SH A R AA B AA
+شرافت 1.0	SH A R AA F A TD
+شرجیل 1.0	SH A R DZZ II L
+شرم 1.0	SH A R M
+شرو 1.0	SH A R UU
+شروع 1.0	SH U R UU
+شزا 1.0	SH I Z AA
+شعیب 1.0	SH A II B
+شفٹ 1.0	SH A F TT
+شفٹس 1.0	SH I F TT S
+شفٹوں 1.0	SH I F TT OON
+شک 1.0	SH I K
+شکایت 1.0	SH I K AA J A TD
+شکر 1.0	SH U K A R
+شکریہ 1.0	SH U K R I J AA
+شکیل 1.0	SH A K II L
+شگر 1.0	SH A G A R
+شمس 1.0	SH A M S
+شمسی 1.0	SH A M S II
+شمیم 1.0	SH A M II M
+شہباز 1.0	SH A H B AA Z
+شہر 1.0	SH E H R
+شہروز 1.0	SH AEH H R UU Z
+شہریار 1.0	SH AEH H R J AA R
+شہزاد 1.0	SH A H Z AA DD
+شہناز 1.0	SH A H N AA Z
+شہید 1.0	SH A H II DD
+شو 1.0	SH OO
+شوپر 1.0	SH UU P A R
+شوٹ 1.0	SH UU TT
+شوٹس 1.0	SH UU TT S
+شورٹ 1.0	SH OO R TT
+شوکت 1.0	SH O K A TD
+شوگر 1.0	SH UU G A R
+شی 1.0	SH II
+شیخ 1.0	SH AE X
+شیراز 1.0	SH AY R AA Z
+شیریار 1.0	SH AE R J AA R
+شیزاد 1.0	SH AE Z AA DD
+شیزہ 1.0	SH II Z AA
+شیک 1.0	SH AY K
+شیکس 1.0	SH AE K S
+شیل 1.0	SH AY L
+شیم 1.0	SH AE M
+شیو 1.0	SH AE V
+شیور 1.0	SH AY V A R
+شئیر 1.0	SH A J A R
+صاحب 1.0	S AA H I B
+صارم 1.0	S AA R M
+صالح 1.0	S AA L AY
+صبا 1.0	S A B AA
+صبح 1.0	S A B AY
+صبر 1.0	S A B R
+صحاب 1.0	S A H AA B
+صحیح 1.0	S A H II
+صدر 1.0	S A DD R
+صدف 1.0	S A DD A F
+صدیق 1.0	S I DD DD II Q
+صدیقی 1.0	S I DD DD II Q II
+صرف 1.0	S A R F
+صفی 1.0	S A F II
+صفیہ 1.0	S A F I J AA
+صمد 1.0	S S A M A DD
+صوبہ 1.0	S UU B AA
+صوبیہ 1.0	S UU B I J AA
+صوتی 1.0	S UU TD II
+صور 1.0	S UU R
+صورت 1.0	S UU R A TD
+صورتیں 1.0	S UU R A TD AYN
+ضایع 1.0	Z AA II
+ضرور 1.0	Z A R UU R
+ضرورت 1.0	Z A R UU R A TD
+ضمیر 1.0	Z A M II R
+طارق 1.0	TD AA R I Q
+طب 1.0	TD A B
+طبعیت 1.0	TD A B A J J A TD
+طحہ 1.0	TD H AA
+طرح 1.0	TD A R H
+طرف 1.0	TD A R F
+طریقہ 1.0	TD A R II Q AA
+طریقے 1.0	TD A R II Q AY
+طلال 1.0	TD A L AA L
+طلحہ 1.0	TD A L H AA
+طور 1.0	TD UU R
+طیب 1.0	TD AY J A B
+طیبہ 1.0	TD A J J I B AA
+ظاہری 1.0	Z AA H A R II
+ظاھر 1.0	Z AA DDH A R
+ظفر 1.0	Z A F A R
+ظفیر 1.0	Z A F II R
+ظنیرہ 1.0	Z A N II R AA
+ظہیر 1.0	Z A H II R
+عاتیقہ 1.0	AA TD II Q AA
+عارف 1.0	AA R I F
+عاطف 1.0	AA TD I F
+عام 1.0	AA M
+عائشہ 1.0	AA I SH AA
+عبّاس 1.0	A B AA S
+عباد 1.0	I B AA DD
+عباس 1.0	A B B AA S
+عبدالباِسط 1.0	A B DD U L A B AA I S TD
+عبدالرحمان 1.0	A B DD U L R A H M AA N
+عبدالمتین 1.0	A B DD U L M TD II N
+عبدل 1.0	A B DD I L
+عبدلرحمان 1.0	A B DD L R A H M AA N
+عبدللہ 1.0	A B DD L L AA
+عبدلوا 1.0	A B DD A L V AA
+عبدلواِسع 1.0	A B DD L A I S AY
+عبدلواحد 1.0	A B DD I L V AA H I DD
+عبدلواسع 1.0	A B DD I L V AA S AY
+عبدلوحید 1.0	A B DD I L O H II DD
+عتیق 1.0	A TD II Q
+عثمان 1.0	U S M AA N
+عجیب 1.0	A DZZ II B
+عدنان 1.0	A DD N AA N
+عدیل 1.0	A DD II L
+عرض 1.0	A R Z
+عرفان 1.0	I R F AA N
+عریب 1.0	A R AE B
+عریبیہ 1.0	A R AE B I J AA
+عریشا 1.0	A R AY SH AA
+عریشمہ 1.0	A R AE SH M AA
+عزت 1.0	I Z Z A TD
+عزیز 1.0	A Z II Z
+عزیزہ 1.0	A Z II Z AA
+عسکری 1.0	A S K A R II
+عطیب 1.0	A TD II B
+عظیم 1.0	A Z II M
+عکاشہ 1.0	A K K AA SH AA
+علاقہ 1.0	A L L AA Q AA
+علامہ 1.0	A L L AA M AA
+علاوہ 1.0	I L AA V AA
+علم 1.0	A L A M
+علمدار 1.0	A L A M DD AA R
+علی 1.0	A L II
+علیحدہ 1.0	A L AY H I DD AA
+علیم 1.0	A L II M
+علینہ 1.0	A L II N AA
+عمار 1.0	I M AA R
+عمارہ 1.0	I M AA R AA
+عمان 1.0	A M AA N
+عمر 1.0	U M R
+عمران 1.0	U M R AA N
+عمیر 1.0	A M II R
+عورت 1.0	O R A TD
+عیان 1.0	I J AA N
+عید 1.0	A II DD
+عیشل 1.0	AE SH A L
+غائب 1.0	7 AA I B
+غرض 1.0	7 A R A Z
+غرق 1.0	7 R A Q
+غریب 1.0	7 A R II B
+غصہ 1.0	7 U S S AA
+غضنفر 1.0	7 A Z N A F A R
+غلط 1.0	7 A L A TD
+غلطی 1.0	7 A L TD II
+غیرت 1.0	7 AE R A TD
+فِکر 1.0	F I K A R
+فاِسٹ 1.0	F AA I S TT
+فاِنٹا 1.0	F AA I N TT AA
+فاتھر 1.0	F AA TDH A R
+فاخر 1.0	F AA X I R
+فار 1.0	F AA R
+فاروا 1.0	F AA R V AA
+فارورڈ 1.0	F AA R V A R DD
+فاروق 1.0	F AA R UU Q
+فاریہ 1.0	F AA R I J AA
+فاسٹ 1.0	F AA S TT
+فاطمہ 1.0	F AA TD M AA
+فالو 1.0	F AA L UU
+فانٹا 1.0	F AA N T AA
+فائدہ 1.0	F AA I DD AA
+فائزہ 1.0	F AA I Z AA
+فائف 1.0	F AA I F
+فائل 1.0	F AA I L
+فائن 1.0	F AA I N
+فائیو 1.0	F AA II V
+فر 1.0	F A R
+فراز 1.0	F A R AA Z
+فرافت 1.0	F A R AA F A TD
+فرام 1.0	F A R AA M
+فرائز 1.0	F A R AA I Z
+فرائیڈ 1.0	F A R AA II DD
+فرحان 1.0	F A R H AA N
+فرحین 1.0	F A R H AE N
+فردر 1.0	F A R DD A R
+فردوس 1.0	F I R DD O S
+فرسٹ 1.0	F A R S A TT
+فرق 1.0	F A R Q
+فرقان 1.0	F U R Q AA N
+فرما 1.0	F A R M AA
+فرمایا 1.0	F A R M AA J AA
+فرمائیگا 1.0	F A R M AA II G AA
+فرمائیے 1.0	F A R M AA II AY
+فرنچائز 1.0	F A R A N TSH AA I Z
+فری 1.0	F A R II
+فریال 1.0	F A R J AA L
+فریج 1.0	F A R II DZZ
+فریحہ 1.0	F A R II H AA
+فریش 1.0	F A R AE SH
+فریکوینسی 1.0	F A R II K UU J A N S II
+فزا 1.0	F I Z AA
+فس 1.0	F A S
+فش 1.0	F I SH
+فصیح 1.0	F A S II H
+فضا 1.0	F I Z AA
+فضل 1.0	F A Z L
+ففتھ 1.0	F I F TDH
+ففٹی 1.0	F I F TT II
+ففٹین 1.0	F F T II N
+فقط 1.0	F U Q A TD
+فکر 1.0	F I K R
+فکس 1.0	F I K S
+فل 1.0	F A L
+فلانا 1.0	F I L AA N AA
+فلانے 1.0	F I L AA N AY
+فلت 1.0	F L A TD
+فلحال 1.0	F A L H AA L
+فلریس 1.0	F A L A R AE S
+فلنگ 1.0	F L I NG
+فلو 1.0	F A L OO
+فلور 1.0	F A L OO R
+فلوری 1.0	F A L OO R II
+فلوقت 1.0	F A L OO Q A TD
+فلی 1.0	F A L II
+فلیٹ 1.0	F A L AE TT
+فلیور 1.0	F A L AE V A R
+فلیورز 1.0	F A L AE V A R Z
+فمیلی 1.0	F M II L II
+فن 1.0	F A N
+فنکشنل 1.0	F A N K SH A N A L
+فہیم 1.0	F A H II M
+فواد 1.0	F A V AA DD
+فودپندہ 1.0	F O DD P A N DD AA
+فوڈ 1.0	F UU DD
+فور 1.0	F OO R
+فورا 1.0	F OO R AA
+فورتھ 1.0	F OO R TDH
+فورٹی 1.0	F OO R TT II
+فورٹیفائیو 1.0	F OO R TT II F AA II V
+فورٹین 1.0	F OO R TT AE N
+فورس 1.0	F OO R S
+فورن 1.0	F OO R A N
+فوری 1.0	F OO R II
+فوزیہ 1.0	F OO Z I J AA
+فول 1.0	F OO L
+فولو 1.0	F OO L OO
+فون 1.0	F OO N
+فی 1.0	F II
+فیڈ 1.0	F II DD
+فیز 1.0	F AE Z
+فیزایڈ 1.0	F AE Z AA AY DD
+فیزبک 1.0	F AE Z B A K
+فیزفائیو 1.0	F AE Z F AA II V
+فیزہوتا 1.0	F AE Z H OO TD AA
+فیسٹیول 1.0	F AE S TT II V A L
+فیسڈ 1.0	F AE S DD
+فیصل 1.0	F AE S A L
+فیصلہ 1.0	F AY S L AA
+فیضان 1.0	F AY Z AA N
+فیکٹ 1.0	F AE K TT
+فیل 1.0	F II L
+فیلنگز 1.0	F II L I NG Z
+فیلو 1.0	F II L OO
+فیلیٹ 1.0	F II L AE TT
+فیمس 1.0	F AE M S
+فیملی 1.0	F AY M L II
+فینٹا 1.0	F AE N TT AA
+فیو 1.0	F I J UU
+فیور 1.0	F I J UU R
+قادر 1.0	Q AA DD I R
+قادریہ 1.0	Q AA DD A R J AA
+قارٹر 1.0	Q AA R TT A R
+قاسم 1.0	Q AA S I M
+قاعدہ 1.0	Q AA I DD AA
+قبل 1.0	Q A B L
+قراةالعین 1.0	Q A R AA L A II N
+قربان 1.0	Q U R B AA N
+قریب 1.0	Q A R II B
+قریشی 1.0	Q U R AY SH II
+قسم 1.0	Q A S A M
+قصور 1.0	Q U S UU R
+قطعًا 1.0	Q A TD A N
+كے 1.0	AE
+کا 1.0	K AA
+کاپوچینو 1.0	K AA P OO TSH II N OO
+کاٹ 1.0	K AA TT
+کاٹنی 1.0	K AA TT N II
+کاٹے 1.0	K AA TT AY
+کاٹی 1.0	K AA TT II
+کار 1.0	K AA R
+کارخانہ 1.0	K AA R X AA N AA
+کارڈ 1.0	K AA R DD
+کارڈیموم 1.0	K AA R DD II M UU M
+کارساز 1.0	K AA R S AA Z
+کارک 1.0	K AA R K
+کاری 1.0	K AA R II
+کاسمن 1.0	K AA S M A N
+کاسی 1.0	K AA S II
+کاشف 1.0	K AA SH I F
+کاشفہ 1.0	K AA SH I F AA
+کاظمہ 1.0	K AA Z M AA
+کافی 1.0	K AA F II
+کال 1.0	K AA L
+کالج 1.0	K AA L I DZZ
+کالز 1.0	K AA L Z
+کالنگ 1.0	K AA L I NG
+کالونی 1.0	K AA L UU N II
+کالیں 1.0	K AA L AYN
+کام 1.0	K AA M
+کامران 1.0	K AA M R AA N
+کاہوں 1.0	K AA H OON
+کاؤنٹر 1.0	K AA UU N TT A R
+کائنات 1.0	K AA I N AA TD
+کائنڈ 1.0	K AA I N DD
+کائنڈلی 1.0	K AA I N DD L II
+کائینڈلی 1.0	K AA I J A N DD L II
+کب 1.0	K A B
+کباب 1.0	K A B AA B
+کبھی 1.0	K A BH II
+کپ 1.0	K A P
+کتاب 1.0	K I TD AA B
+کتن 1.0	K I TD N
+کتنا 1.0	K I TD N AA
+کتنے 1.0	K I TD N AY
+کتنی 1.0	K I TD N II
+کٹ 1.0	K A TT
+کچ 1.0	K U TSH
+کچا 1.0	K U TSH TSH AA
+کچھ 1.0	K U TSHH
+کدھر 1.0	K U DDH DDH A R
+کڈز 1.0	K U DD Z
+کڈی 1.0	K U DD II
+کر 1.0	K A R
+کرا 1.0	K A R AA
+کراتا 1.0	K A R AA TD AA
+کراتے 1.0	K A R AA TD AY
+کراچی 1.0	K A R AA TSH II
+کراس 1.0	K A R AA S
+کرانا 1.0	K A R AA N AA
+کراؤ 1.0	K A R AA OO
+کرایا 1.0	K A R AA J AA
+کراینگے 1.0	K A R AA AE NG G AY
+کرائیے 1.0	K A R AA II AY
+کرپسی 1.0	K A R P S II
+کرتا 1.0	K A R TD AA
+کرتے 1.0	K A R TD AY
+کرتی 1.0	K A R TD II
+کرتیں 1.0	K U R TD IIN
+کرد 1.0	K U R DD
+کردو 1.0	K U R DD UU
+کردوں 1.0	K U R DD OON
+کردیجیئے 1.0	K U R DD II DZ II AE
+کردیجئے 1.0	K U R DD II DZZ I AE
+کردیں 1.0	K U R DD AYN
+کردینا 1.0	K U R DD II N AA
+کرراہیۓ 1.0	K A R R AA H II
+کرریکٹ 1.0	K A R R AY K TT
+کرس 1.0	K U R S
+کرسپ 1.0	K A R A S P
+کرسپی 1.0	K A R A S P II
+کرک 1.0	K U R K
+کرلو 1.0	K U R L OO
+کرلے 1.0	K U R L AY
+کرلیتے 1.0	K U R L II TD AY
+کرلیجئے 1.0	K U R L II DZZ I AE
+کرلیں 1.0	K U R L AYN
+کرلیئگا 1.0	K U R L II I G AA
+کرم 1.0	K A R M
+کرنا 1.0	K A R N AA
+کرنچ 1.0	K A R A N TSH
+کرنل 1.0	K A R A N A L
+کرنے 1.0	K A R N AY
+کرنی 1.0	K U R N II
+کرہے 1.0	K A R H AY
+کرو 1.0	K A R OO
+کروا 1.0	K A R V AA
+کرواتا 1.0	K A R V AA TD AA
+کرواتے 1.0	K A R V AA TD AY
+کرواتی 1.0	K A R V AA TD II
+کرواتیں 1.0	K A R V AA TD AYN
+کروادیتی 1.0	K A R V AA DD II TD II
+کروادیں 1.0	K A R V AA DD AYN
+کروالیجیے 1.0	K A R V AA L II DZZ II AY
+کروانا 1.0	K A R V AA N AA
+کروانے 1.0	K A R V AA N AY
+کروانی 1.0	K A R V AA N II
+کرواؤ 1.0	K A R V AA OO
+کرواؤں 1.0	K A R V AA OON
+کروایا 1.0	K A R V AA J AA
+کروایے 1.0	K A R V AA J AY
+کروائی 1.0	K A R V AA II
+کروائیں 1.0	K A R V AA AEN
+کروائیے 1.0	K A R V AA II AY
+کروآ 1.0	K A R OO AA
+کروں 1.0	K A R OON
+کروے 1.0	K A R V AE
+کرے 1.0	K U R AE
+کری 1.0	K A R II
+کریڈیٹ 1.0	K A R AE DD AY TT
+کریسپی 1.0	K A R AE S P II
+کریکٹ 1.0	K A R AE K TT
+کریکٹر 1.0	K A R AE K TT A R
+کریم 1.0	K A R II M
+کریمز 1.0	K A R II M Z
+کریمل 1.0	K A R II M I L
+کریں 1.0	K A R AEN
+کریںوہ 1.0	K A R AE OO
+کریے 1.0	K A R J AY
+کرئیے 1.0	K A R I J AY
+کڑک 1.0	K U RR A K
+کس 1.0	K A S
+کسٹرڈ 1.0	K I S TT A R DD
+کسٹمر 1.0	K A S TT A M A R
+کسٹمرز 1.0	K A S TT A M A R Z
+کسی 1.0	K A S II
+کش 1.0	K A SH
+کشمیر 1.0	K A SH M II R
+کل 1.0	K A L
+کلاک 1.0	K A L AA K
+کلائنٹ 1.0	K A L AA I N TT
+کلب 1.0	K A L A B
+کلٹیکس 1.0	K A L TT AE K S
+کلثوم 1.0	K U L S UU M
+کلر 1.0	K A L A R
+کلفٹن 1.0	K A L L I F TT A N
+کلک 1.0	K U L K
+کلو 1.0	K A L OO
+کلوز 1.0	K A L OO Z
+کلوزسٹ 1.0	K A L OO Z I S TT
+کلوزنگ 1.0	K A L OO Z NG
+کلوس 1.0	K A L OO S
+کلوک 1.0	K A L OO K
+کلی 1.0	K A L II
+کلیکٹ 1.0	K A L AE K TT
+کلیم 1.0	K A L II M
+کلین 1.0	K A L II N
+کلینک 1.0	K A L II N I K
+کلئیر 1.0	K A L I J A R
+کم 1.0	K A M
+کمبینیشن 1.0	K A M B II N AY SH A N
+کمپلیٹ 1.0	K A M P L AY TT
+کمپلیٹلی 1.0	K A M P L AY TT L II
+کمپلین 1.0	K A M P L AY N
+کمپلینز 1.0	K A M P L AY N Z
+کمپلیننگ 1.0	K A M P L AY N I NG
+کمپنی 1.0	K A M P A N II
+کمٹمنٹ 1.0	K A M TT M A N TT
+کمرشل 1.0	K A M A R SH A L
+کمنگ 1.0	K A M I NG
+کمیونکیٹ 1.0	K A M J UU N K AY TT
+کن 1.0	K A N
+کنال 1.0	K A N AA L
+کنٹرول 1.0	K A N TT R OO L
+کنٹینیو 1.0	K A N TT II N II OO
+کنڈریل 1.0	K A N DD R I J A L
+کنڈیشن 1.0	K A N DD II SH A N
+کنڈیشنز 1.0	K A N DD II SH A N Z
+کنزیوم 1.0	K A N Z I J UU M
+کنزیومرز 1.0	K U N Z J OO M R K OO R T Z
+کنسرن 1.0	K A N S A R A N
+کنسرنڈ 1.0	K A N S A R I N DD
+کنسلیشن 1.0	K A N S A L AE SH A N
+کنفرم 1.0	K N F R M
+کنفرمیشن 1.0	K N F R M AY SH A N
+کنفرنٹ 1.0	K A N F A R A N TT
+کنفیوژن 1.0	K A N F I J UU ZZ A N
+کنو 1.0	K A N OO
+کنورٹ 1.0	K A N V A R TT
+کنوے 1.0	K A N V AY
+کنیکٹ 1.0	K U N AE K TT
+کنیکشن 1.0	K A N AE K SH A N
+کہ 1.0	K AA
+کہا 1.0	K A H AA
+کہاں 1.0	K A H AAN
+کہانی 1.0	K A H AA N II
+کہتا 1.0	K A H TD AA
+کہتے 1.0	K A H TD AY
+کہتی 1.0	K A H TD II
+کہتیں 1.0	K A H A TD AYN
+کہنا 1.0	K A H N AA
+کہنے 1.0	K A H N AY
+کہہ 1.0	K OOH H
+کہو 1.0	K A H OO
+کہوں 1.0	K A H UUN
+کہے 1.0	K A H AY
+کہی 1.0	K A H II
+کہیں 1.0	K A H AYN
+کہیںسے 1.0	K A H S S AE
+کہیے 1.0	K A H II J AY
+کہئے 1.0	K A H II AE
+کھا 1.0	KH AA
+کھاِنا 1.0	KH AA I N AA
+کھاتا 1.0	KH AA TD AA
+کھاتے 1.0	KH AA TD AY
+کھاتی 1.0	KH AA TD II
+کھانا 1.0	KH AA N AA
+کھانے 1.0	KH AA N AY
+کھانی 1.0	KH AA N II
+کھاؤ 1.0	KH AA OO
+کھاؤں 1.0	KH AA OON
+کھایا 1.0	KH AA J AA
+کھائے 1.0	KH AA AY
+کھائیں 1.0	KH AA AEN
+کھڑا 1.0	KH A RR AA
+کھڑے 1.0	KH A RR AE
+کھڑی 1.0	KH A RR II
+کھلا 1.0	KH I L AA
+کھلی 1.0	KH A L II
+کھول 1.0	KH OO L
+کھولا 1.0	KH OO L AA
+کھولنے 1.0	KH OO L N AE
+کو 1.0	K OO
+کواپریشن 1.0	K U V AA P A R AY SH A N
+کواٹر 1.0	K A V AA TT A R
+کوالٹی 1.0	K A V AA L TT II
+کوائٹ 1.0	K U V AA I TT
+کوآپریٹیو 1.0	K OO AA P R AY TT II V
+کوآرڈینیٹ 1.0	K OO AA R DD II N AE TT
+کوبھائی 1.0	K UU BH AA II
+کوپرائٹ 1.0	K UU P A R AA I TT
+کوٹیجس 1.0	K OO TT AY DZZ S
+کوڈ 1.0	K O DD
+کورپریٹ 1.0	K OO R P R AY TT
+کورپریشن 1.0	K OO R P R AY SH A N
+کورٹ 1.0	K OO R TT
+کورڈ 1.0	K OO R DD
+کورنر 1.0	K OO R N A R
+کورنگی 1.0	K O R A NG G II
+کورنیٹو 1.0	K OO R N AY TT OO
+کوسٹ 1.0	K OO S TT
+کوشش 1.0	K OO SH I SH
+کوفز 1.0	K UU F Z
+کوفی 1.0	K UU F II
+کوفیز 1.0	K UU F II Z
+کوک 1.0	K OO K
+کوکا 1.0	K OO K AA
+کوکی 1.0	K UU K II
+کوکیز 1.0	K UU K II Z
+کول 1.0	K OO L
+کولا 1.0	K OO L AA
+کولٹی 1.0	K OO L TT II
+کولج 1.0	K OO L DZZ
+کولڈ 1.0	K OO L DD
+کولز 1.0	K OO L Z
+کولنگ 1.0	K OO L I NG
+کولونی 1.0	K OO L OO N II
+کولیٹی 1.0	K UU L AY TT II
+کولیگ 1.0	K OO L II G
+کومپلیکس 1.0	K OO M P A L II K S
+کومپلیمنٹری 1.0	K OO M P L II M A N TT A R II
+کومپلیمینٹ 1.0	K OO M P L II M AE N TT
+کومپلیمینٹری 1.0	K OO M P L II M AE N TT A R II
+کومپلینٹ 1.0	K OO M P L AY N TT
+کومپنسیٹ 1.0	K OO M P A N S II TT
+کومپنسیشن 1.0	K OO M P A N S AE SH A N
+کون 1.0	K OO N
+کونٹیکٹ 1.0	K OO N TT AE K TT
+کونٹینینٹل 1.0	K OO N TT AY N AE N TT A L
+کونسا 1.0	K OO N S AA
+کونسے 1.0	K OO N S AY
+کونسی 1.0	K O N S II
+کونفرمڈ 1.0	K O N F A R M A DD
+کوورج 1.0	K UU V R I DZZ
+کوے 1.0	K UU AE
+کویری 1.0	K A V AE R II
+کویریز 1.0	K UU II R II Z
+کوئٹہ 1.0	K UU I TT AA
+کوئلہ 1.0	K OO I L AA
+کوئی 1.0	K OO II
+کے 1.0	K AY
+کی 1.0	K II
+کیا 1.0	K I J AA
+کیالیکن 1.0	K I J AA L II K A N
+کیپ 1.0	K II P
+کیپٹین 1.0	K AE P TT II N
+کیپچینو 1.0	K AE P I TSH TSH II N OO
+کیپوچینو 1.0	K II P OO TSH II N OO
+کیٹ 1.0	K AE TT
+کیٹچ 1.0	K AE TT TSH
+کیجیے 1.0	K II DZZ II AE
+کیجیئے 1.0	K II DZZ II AY
+کیجیۓ 1.0	K II DZZ II
+کیجئے 1.0	K II DZZ I AE
+کیچ 1.0	K II TSH
+کیچپ 1.0	K II TSH P
+کیریمل 1.0	K AE R AE M I L
+کیس 1.0	K AE S
+کیسے 1.0	K AE S AY
+کیسی 1.0	K AE S II
+کیش 1.0	K AE SH
+کیفے 1.0	K AY F AE
+کیک 1.0	K AY K
+کیکس 1.0	K AY K S
+کیل 1.0	K AY L
+کیلاش 1.0	K AE L AA SH
+کیلکیولیٹ 1.0	K AE L K UU L AY TT
+کیم 1.0	K AE M
+کیمپس 1.0	K AE M P A S
+کین 1.0	K II N
+کینٹ 1.0	K AE N TT
+کینسل 1.0	K AE N S A L
+کینیڈا 1.0	K AE N AY DD AA
+کیو 1.0	K I J UU
+کیوری 1.0	K I J UU R II
+کیوں 1.0	K II OON
+کیونکہ 1.0	K I J UU N K AE
+کیے 1.0	K II AE
+کیئر 1.0	K AY A R
+کئے 1.0	K I AE
+گا 1.0	G AA
+گارڈ 1.0	G AA R DD
+گارڈن 1.0	G AA R DD A N
+گارلک 1.0	G AA R L I K
+گاری 1.0	G AA R II
+گارینٹی 1.0	G AA R AE N TT II
+گاڑی 1.0	G AA RR II
+گالیاں 1.0	G AA L I J AAN
+گائز 1.0	G AA I Z
+گائے 1.0	G AA AY
+گائیڈ 1.0	G AA II DD
+گآئے 1.0	G U AA AE
+گجراں 1.0	G U DZZ R AAN
+گڈ 1.0	G U DD
+گر 1.0	G A R
+گرا 1.0	G I R AA
+گرامر 1.0	G A R AA M A R
+گرانڈ 1.0	G A R AA N DD
+گراؤنڈ 1.0	G I R AA UU N DD
+گرل 1.0	G I R I L
+گرلز 1.0	G A R L Z
+گرم 1.0	G A R A M
+گرمی 1.0	G A R M II
+گروپ 1.0	G U R UU P
+گری 1.0	G I R II
+گریڈ 1.0	G I R AE DD
+گریم 1.0	G I R II M
+گرین 1.0	G I R II N
+گرینڈ 1.0	G I R AE N DD
+گزار 1.0	G U Z AA R
+گزر 1.0	G U Z A R
+گلاِس 1.0	G A L AA I S
+گلبرگ 1.0	G A L L A R G
+گلریز 1.0	G U L R AE Z
+گلستان 1.0	G U L I S TD AA N
+گلش 1.0	G U L SH
+گلشن 1.0	G U L SH A N
+گلف 1.0	G A L F
+گلی 1.0	G A L II
+گلیستان 1.0	G A L AE S TD AA N
+گندہ 1.0	G A N DD AA
+گندے 1.0	G A N DD AY
+گندی 1.0	G A N DD II
+گھاری 1.0	GH AA R II
+گھٹنے 1.0	GH A TT N AY
+گھٹیا 1.0	GH A TT J AA
+گھر 1.0	GH A R
+گھروں 1.0	GH A R OON
+گھنٹہ 1.0	GH A N TT AA
+گھنٹوں 1.0	GH A N TT OON
+گھنٹے 1.0	GH E N TT AE
+گھوم 1.0	GH UU M
+گھوما 1.0	GH UU M AA
+گو 1.0	G OO
+گوا 1.0	G A V AA
+گواوا 1.0	G A V AA V AA
+گوبھی 1.0	G OO BH II
+گوگل 1.0	G UU G A L
+گولف 1.0	G OO L F
+گولی 1.0	G OO L II
+گے 1.0	G AE
+گی 1.0	G II
+گیا 1.0	G I J AA
+گیارہ 1.0	G I J AA R AA
+گیٹ 1.0	G AE TT
+گیٹنگ 1.0	G AE TT I NG
+گیس 1.0	G AY S
+گیسٹ 1.0	G AE S TT
+گیند 1.0	G AY N DD
+گیون 1.0	G AE V A N
+گئے 1.0	G A AE
+گئی 1.0	G A II
+لِڈ 1.0	L I DD
+لا 1.0	L AA
+لاِسٹ 1.0	L AA I S TT
+لاتا 1.0	L AA TD AA
+لاتے 1.0	L AA TD AY
+لاتی 1.0	L AA TD II
+لاٹے 1.0	L AA TT AY
+لاثی 1.0	L AA S II
+لارج 1.0	L AA R DZ
+لازمی 1.0	L AA Z M II
+لاسٹ 1.0	L AA S TT
+لاک 1.0	L AA K
+لاکھانی 1.0	L AA KH AA N II
+لاکھوں 1.0	L AA KH OON
+لاگ 1.0	L AA G
+لالہ 1.0	L AA L AA
+لانچ 1.0	L AA N TSH
+لاہور 1.0	L AA H O R
+لاھور 1.0	L AA UU R
+لاؤ 1.0	L AA OO
+لائبہ 1.0	L AA I B AA
+لائٹ 1.0	L AA I TT
+لائٹس 1.0	L AA I TT S
+لائٹلی 1.0	L AA I TT L II
+لائف 1.0	L AA I F
+لائن 1.0	L AA I N
+لائے 1.0	L AA AY
+لائیک 1.0	L AA II K
+لبرٹی 1.0	L I B A R TT II
+لبریز 1.0	L I B R II Z
+لڑکا 1.0	L A RR K AA
+لڑکی 1.0	L A RR K II
+لسٹ 1.0	L I S TT
+لطیف 1.0	L A TD II F
+لک 1.0	L A K
+لکهیں 1.0	L A K AYN
+لکھ 1.0	L I KH
+لکھا 1.0	L I KH KH AA
+لکھتیں 1.0	L I KH TD IIN
+لکھوا 1.0	L I KH V AA
+لکھوانا 1.0	L I KH V AA N AA
+لکھواؤ 1.0	L I KH V AA OO
+لکھوایا 1.0	L I KH V AA J AA
+لکھوایۓ 1.0	L I KH V AA II
+لکھوائے 1.0	L I KH V AA AY
+لکھوائی 1.0	L I KH V AA II
+لکھے 1.0	L I KH AE
+لکھی 1.0	L I KH II
+لکھیں 1.0	L I KH AEN
+لکھیے 1.0	L I KH J AE
+لکھئیے 1.0	L I KH II AE
+لگ 1.0	L A G
+لگا 1.0	L A G AA
+لگاتے 1.0	L A G AA TD AY
+لگاتی 1.0	L A G AA TD II
+لگائے 1.0	L A G AA AE
+لگتا 1.0	L A G TD AA
+لگتی 1.0	L A G TD II
+لگتیں 1.0	L A G TD IIN
+لگے 1.0	L A G AE
+لگےگا 1.0	L A G AY G AA
+لگی 1.0	L A G II
+لگیں 1.0	L A G AEN
+لمبی 1.0	L A M B II
+لنچ 1.0	L A N TSH
+لنک 1.0	L I N K
+لو 1.0	L OO
+لوٹلو 1.0	L OO TT L OO
+لوجز 1.0	L O DZZ Z
+لودھی 1.0	L OO DDH II
+لوڈڈ 1.0	L OO DD I DD
+لوک 1.0	L O K
+لوکل 1.0	L OO K A L
+لوکیشن 1.0	L UU K AE SH A N
+لوگ 1.0	L OO G
+لوگو 1.0	L OO G OO
+لوگوں 1.0	L OO G OON
+لوگے 1.0	L OO G AE
+لوگی 1.0	L OO G II
+لوں 1.0	L OON
+لونچ 1.0	L O N TSH
+لوؤن 1.0	L OO A OO N
+لے 1.0	L AE
+لےلو 1.0	L AY L OO
+لےلیں 1.0	L AY L AEN
+لی 1.0	L II
+لیا 1.0	L I J AA
+لیتا 1.0	L AE TD AA
+لیتے 1.0	L AE TD AE
+لیتی 1.0	L AE TD II
+لیٹ 1.0	L AY TT
+لیٹر 1.0	L AY TT A R
+لیٹرلی 1.0	L AY TT A R L II
+لیٹریلی 1.0	L AY TT R II L II
+لیٹس 1.0	L AY TT S
+لیجیئے 1.0	L II DZZ II AY
+لیجئے 1.0	L II DZZ I AE
+لیجئیے 1.0	L II DZZ I J AY
+لیڈ 1.0	L II DD
+لیس 1.0	L AE S
+لیفٹ 1.0	L AE F TT
+لیکن 1.0	L AE K I N
+لیکے 1.0	L AE K AY
+لیگا 1.0	L II G AA
+لیمیٹڈ 1.0	L II M II TT I DD
+لیں 1.0	L AEN
+لیںگی 1.0	L AE G II
+لین 1.0	L II N
+لینا 1.0	L II N AA
+لینٹن 1.0	L AY N TT A N
+لینڈ 1.0	L AE N DD
+لینگویج 1.0	L AY NG V II DZZ
+لینگے 1.0	L AE NG G AY
+لینے 1.0	L AE N AE
+لینی 1.0	L AY N II
+لیول 1.0	L AE V A L
+لیے 1.0	L II AE
+لئے 1.0	L I AY
+لئیے 1.0	L A II AY
+ماحول 1.0	M AA H OO L
+مادر 1.0	M AA DD I R
+مادم 1.0	M AA DD U M
+ماڈل 1.0	M AA DD A L
+مارا 1.0	M AA R AA
+مارتیں 1.0	M AA R A TD AYN
+مارک 1.0	M AA R K
+مارنے 1.0	M AA R N AY
+ماروں 1.0	M AA R OON
+ماریہ 1.0	M AA R J AA
+ماشااللہ 1.0	M AA SH AA L L AA
+مال 1.0	M AA L
+مام 1.0	M AA M
+ماما 1.0	M AA M AA
+مامو 1.0	M AA M UU
+ماں 1.0	M AAN
+مانگ 1.0	M AA NG
+مانگتے 1.0	M AA NG TD AY
+ماہم 1.0	M AA H A M
+ماہین 1.0	M AA H II N
+ماؤنٹین 1.0	M AA UU N TT AE N
+مایا 1.0	M AA J AA
+مایو 1.0	M AA J UU
+مایونیز 1.0	M AA J UU N II Z
+مائدہ 1.0	M AA I DD AA
+مائرہ 1.0	M AA I R AA
+مائزہ 1.0	M AA I Z AA
+مائلو 1.0	M AA I L OO
+مائنز 1.0	M AA I N Z
+مائنس 1.0	M AA I N S
+مائے 1.0	M AA AY
+مائیکرو 1.0	M AA II K R OO
+مبشر 1.0	M U B A SH SH A R
+مبنٹ 1.0	M A B N TT
+مبین 1.0	M U B AY J A N
+مت 1.0	M A TD
+متعلقہ 1.0	M U TD A A L L I Q AA
+متلبن 1.0	M U TD A L B A N
+متین 1.0	M U TD II N
+مثلا 1.0	M U S A L L A N
+مجال 1.0	M U DZZ AA L
+مجتبیٰ 1.0	M U DZZ TD A B II
+مجھ 1.0	M U DZZH
+مجھے 1.0	M U DZZH AE
+مجو 1.0	M U DZZ UU
+مجے 1.0	M U DZZ AE
+مجید 1.0	M A DZZ II DD
+مچ 1.0	M A TSH
+مچاؤں 1.0	M A TSH AA OON
+مچائے 1.0	M A TSH AA AY
+مچھ 1.0	M A TSH
+محافظ 1.0	M U H AA F I Z
+محسن 1.0	M U H S A N
+محصول 1.0	M A H S UU L
+محلّہ 1.0	M E H L J U AA
+محمّد 1.0	M U H A M M UU V DD
+محمود 1.0	M A H M UU DD
+محھے 1.0	M E H AY
+محیح 1.0	M A H II
+مخاطب 1.0	M U X AA TD I B
+مدیحہ 1.0	M A DD II H AA
+مدینہ 1.0	M A DD DD II N AA
+مڈ 1.0	M U DD
+مرا 1.0	M U R AA
+مراد 1.0	M U R AA DD
+مرتبہ 1.0	M A R TD A B AA
+مرتضیٰ 1.0	M U R TD A Z II
+مرچی 1.0	M I R TSH II
+مرد 1.0	M U R DD
+مرسیز 1.0	M A R S II Z
+مرضی 1.0	M A R Z II
+مرکز 1.0	M U R K A Z
+مری 1.0	M A R II
+مریم 1.0	M A R II M
+مرینڈا 1.0	M U R AE N DD AA
+مزید 1.0	M A Z II DD
+مس 1.0	M A S
+مسترد 1.0	M U S TD A R A DD
+مسٹر 1.0	M I S TT A R
+مسٹرڈ 1.0	M I S TT A R DD
+مسٹیک 1.0	M A S TT II K
+مسجد 1.0	M A S DZZ I DD
+مسز 1.0	M I S I Z
+مسس 1.0	M U S A S
+مسسنگ 1.0	M A S S I NG
+مسطفیٰ 1.0	M U S TD F II
+مسلے 1.0	M U S L AY
+مسئلہ 1.0	M A S A L AA
+مشال 1.0	M U SH AA L
+مشرق 1.0	M A SH R I Q
+مشکل 1.0	M U SH K A L
+مشن 1.0	M A SH A N
+مشہور 1.0	M A SH H UU R
+مشین 1.0	M A SH II N
+مصروف 1.0	M A S R UU F
+مصطفیٰ 1.0	M U S TD A F II
+مطابق 1.0	M U TD AA B I Q
+مطلب 1.0	M U TD L A B
+مظہر 1.0	M U Z H A R
+معاملہ 1.0	M U AA M A L AA
+معاویہ 1.0	M U AA V I J AA
+معذرت 1.0	M U A Z Z A R A TD
+معلوم 1.0	M A L UU M
+معلومات 1.0	M A L UU M AA TD
+معمولی 1.0	M AA M UU L II
+معیز 1.0	M A II Z
+مف 1.0	M U F
+مفن 1.0	M U F A N
+مفنز 1.0	M U F A N Z
+مفین 1.0	M U F II N
+مقابلے 1.0	M U Q AA B L AY
+مقبول 1.0	M A Q B UU L
+مقدّس 1.0	M U Q A DD DD J U S
+مقصد 1.0	M A Q S A DD
+مکدونلڈ 1.0	M A K DD OO N L DD
+مکڈونلڈز 1.0	M U K D OO N L D Z
+مکس 1.0	M I K S
+مکی 1.0	M U K K II
+مگ 1.0	M A G
+مگر 1.0	M A G A R
+مل 1.0	M A L
+ملا 1.0	M I L AA
+ملازم 1.0	M U L AA Z I M
+ملازموں 1.0	M U L AA Z I M OON
+ملاقات 1.0	M U L L AA Q AA TD
+ملانے 1.0	M I L AA N AY
+ملایا 1.0	M I L L AA J AA
+ملائکہ 1.0	M U L AA I K AA
+ملت 1.0	M I L L A TD
+ملتا 1.0	M U L TD AA
+ملتان 1.0	M U L TD AA N
+ملٹی 1.0	M I L TT II
+ملٹیپل 1.0	M A L TT II P A L
+ملٹیپلس 1.0	M A L TT II P A L A S
+ملک 1.0	M U L K
+ملنا 1.0	M I L N AA
+ملنے 1.0	M I L N AE
+ملنی 1.0	M I L N II
+ملے 1.0	M I L AE
+ملی 1.0	M A L II
+ملیر 1.0	M I L II R
+ملیگا 1.0	M A L II G AA
+ملیں 1.0	M I L AEN
+ملینیم 1.0	M I L II N I J A M
+ممّا 1.0	M A M AA
+مں 1.0	M
+مناہل 1.0	M A N AA H A L
+منٹ 1.0	M A N TT
+منٹس 1.0	M I N TT S
+منصور 1.0	M A N S UU R
+منگ 1.0	M A NG
+منگائیں 1.0	M A NG G AA AEN
+منگوا 1.0	M A NG V AA
+منگواتی 1.0	M A NG V AA TD II
+منگوانا 1.0	M A NG V AA N AA
+منگوانی 1.0	M A NG V AA N II
+منگواؤ 1.0	M A NG V AA OO
+منگواؤں 1.0	M A NG V AA OON
+منگوایا 1.0	M A NG V AA J AA
+منگوائے 1.0	M A NG V AA AY
+منگوائی 1.0	M A NG V AA II
+منگوائیں 1.0	M A NG V AA AYN
+منہ 1.0	M U N AA
+منہاج 1.0	M U N H AA DZZ
+منہاس 1.0	M A N H AA S
+منی 1.0	M A N II
+منیب 1.0	M U N II B
+منیجر 1.0	M A N AE DZZ A R
+منیر 1.0	M U N II R
+منیش 1.0	M A N II SH
+منیمم 1.0	M U N II M M
+مہران 1.0	M OOH H R AA N
+مہربانی 1.0	M E H E R B AA N II
+مہرنسا 1.0	M OOH H R N S AA
+مہرین 1.0	M AEH H R II N
+مہک 1.0	M AEH H A K
+مہمانوں 1.0	M U H M AA N OON
+مہیش 1.0	M A H II SH
+مو 1.0	M OO
+موبائل 1.0	M OO B AA I L
+موٹرز 1.0	M OO TT A R Z
+موجود 1.0	M O DZZ UU DD
+موحسن 1.0	M O H S A N
+موڈ 1.0	M UU DD
+مور 1.0	M OO R
+مورننگ 1.0	M O R I N I NG
+موسٹ 1.0	M OO S TT
+موصول 1.0	M O S UU L
+موقع 1.0	M O Q AA
+موکہ 1.0	M OO K AA
+مولتان 1.0	M OO L TD AA N
+مولز 1.0	M OO L Z
+مومن 1.0	M OO M I N
+مومنٹ 1.0	M OO M I N TT
+مومنٹس 1.0	M OO M I N TT S
+مومینہ 1.0	M OO M II N AA
+مونیب 1.0	M UU N II B
+مؤقف 1.0	M UU A Q Q A F
+مے 1.0	M AY
+می 1.0	M II
+میاں 1.0	M I J AAN
+میٹر 1.0	M II TT A R
+میدیکوس 1.0	M AY DD II K UU S
+میڈ 1.0	M AE DD
+میڈم 1.0	M AE DD A M
+میڈیکل 1.0	M AY DD II K A L
+میڈیم 1.0	M AE DD I J A M
+میر 1.0	M II R
+میرا 1.0	M AY R AA
+میرے 1.0	M AE R AE
+میری 1.0	M II R II
+میزان 1.0	M II Z AA N
+میس 1.0	M AE S
+میسج 1.0	M AY S I DZZ
+میعل 1.0	M AE AA L
+میعلز 1.0	M II A L Z
+میک 1.0	M AE K
+میکڈونلڈ 1.0	M AY K D OO N L DD
+میکڈونلڈز 1.0	M AY K D OO N L D Z
+میگا 1.0	M AE G AA
+میل 1.0	M II L
+میلز 1.0	M II L Z
+میلی 1.0	M AE L II
+میم 1.0	M II M
+میمبر 1.0	M AE M B A R
+میمن 1.0	M AE M A N
+میمون 1.0	M AE M UU N
+میمونہ 1.0	M AE M UU N AA
+میں 1.0	M AYN
+میںشن 1.0	M AE SH A N
+مینٹ 1.0	M AE N TT
+مینٹل 1.0	M AE N TT A L
+مینجمنٹ 1.0	M AY N I DZZ M E N TT
+مینز 1.0	M II N Z
+مینشن 1.0	M AE N SH A N
+مینہ 1.0	M II N AA
+مینی 1.0	M AE N II
+مینیجر 1.0	M AE N AY DZZ A R
+مینیو 1.0	M AE N II OO
+مینیوز 1.0	M AE J UU Z
+میو 1.0	M II V
+میوزک 1.0	M I J UU Z I K
+میونیز 1.0	M I J UU N II Z
+میئر 1.0	M AY A R
+مئے 1.0	M A I AE
+مئی 1.0	M A II
+ں 1.0	A TD
+نا 1.0	N AA
+ناٹ 1.0	N AA TT
+ناجیب 1.0	N AA DZZ II B
+نادیہ 1.0	N AA DD I J AA
+نارتھ 1.0	N AA R TDH
+نارمل 1.0	N AA R M I L
+نارملی 1.0	N AA R M I L II
+نازش 1.0	N AA Z I SH
+ناشتہ 1.0	N AA SH TD AA
+ناصر 1.0	N AA S I R
+ناظم 1.0	N AA Z I M
+ناکاش 1.0	N AA K AA SH
+نام 1.0	N AA M
+ناو 1.0	N AA V
+ناینٹی 1.0	N AA AY N TT II
+نائٹ 1.0	N AA I TT
+نائلہ 1.0	N AA I L AA
+نائن 1.0	N AA I N
+نائنٹی 1.0	N AA I N TT II
+نائنٹین 1.0	N AA I N TT II N
+نبمر 1.0	N A B A M A R
+نبیل 1.0	N A B II L
+نتھنگ 1.0	N A TDH NG
+نٹ 1.0	N A TT
+نجیب 1.0	N A DZZ II B
+ندا 1.0	N I DD AA
+نذر 1.0	N U Z U R
+نرم 1.0	N A R M
+نزد 1.0	N A Z DD
+نزیب 1.0	N A Z II B
+نسیم 1.0	N A S II M
+نشیمن 1.0	N A SH II M A N
+نظر 1.0	N A Z A R
+نعمان 1.0	N AA M AA N
+نعیم 1.0	N A II M
+نقاش 1.0	N A Q Q AA SH
+نقصان 1.0	N U Q S AA N
+نقلی 1.0	N A Q L II
+نقوی 1.0	N A Q V II
+نکال 1.0	N I K AA L
+نکالنا 1.0	N I K AA L N AA
+نکالو 1.0	N I K AA L OO
+نکالی 1.0	N I K AA L II
+نکل 1.0	N I K A L
+نکلا 1.0	N I K L AA
+نکلتا 1.0	N I K A L TD AA
+نکلنا 1.0	N I K A L N AA
+نکلنے 1.0	N I K A L N AY
+نکلوا 1.0	N I K A L V AA
+نکلوانی 1.0	N I K A L V AA N II
+نکلے 1.0	N I K L AY
+نگٹس 1.0	NG TT S
+نگیٹ 1.0	N I G AE TT
+نگیٹس 1.0	N I G AE TT S
+نمائندہ 1.0	N U M AA I N DD AA
+نمائندے 1.0	N U M AA I N DD AY
+نمبر 1.0	N A M B A R
+نمبرز 1.0	N A M B A R Z
+نمک 1.0	N A M A K
+نہ 1.0	N AA
+نہت 1.0	N I H A TD
+نہں 1.0	N UUN
+نہی 1.0	N A H II
+نہیں 1.0	N A H IIN
+نو 1.0	N OO
+نواز 1.0	N A V AA Z
+نوٹ 1.0	N OO TT
+نور 1.0	N UU R
+نورتھ 1.0	N O R TDH
+نورمل 1.0	N O R M I L
+نوشین 1.0	N OO SH II N
+نوکری 1.0	N O K A R II
+نوں 1.0	N OON
+نون 1.0	N UU N
+نوے 1.0	N A V V AE
+نوید 1.0	N A V II DD
+نے 1.0	N AY
+نی 1.0	N II
+نیا 1.0	N I J AA
+نیبر 1.0	N AE B A R
+نیٹ 1.0	N AE TT
+نیچے 1.0	N II TSH AE
+نیڈ 1.0	N II DD
+نیز 1.0	N II Z
+نیسلے 1.0	N AY S L AY
+نیکسٹ 1.0	N AE K S TT
+نیم 1.0	N II M
+نیہں 1.0	N II H
+نیو 1.0	N II V
+نیور 1.0	N AY V A R
+نیوز 1.0	N I J UU Z
+نیئرز 1.0	N II A R Z
+نیئرسٹ 1.0	N AY A R I S TT
+نئے 1.0	N A AE
+نئی 1.0	N A II
+نئیر 1.0	N A J A R
+نئیرسٹ 1.0	N A J A R S A TT
+هو 1.0	V
+هوں 1.0	OON
+ہا 1.0	H AA
+ہاتھ 1.0	H AA TDH
+ہاٹ 1.0	H AA TT
+ہار 1.0	H AA R
+ہارڈ 1.0	H AA R DD
+ہارڈلی 1.0	H AA R DD L II
+ہارون 1.0	H AA R UU N
+ہاف 1.0	H AA F
+ہال 1.0	H AA L
+ہاں 1.0	H AAN
+ہانگ 1.0	H AA NG
+ہاور 1.0	H AA V A R
+ہاؤ 1.0	H AA OO
+ہاؤس 1.0	H AA UU S
+ہاؤسنگ 1.0	H AA UU S I NG
+ہائقہ 1.0	H AA I Q AA
+ہائی 1.0	H AA II
+ہائیپر 1.0	H AA II P A R
+ہائیر 1.0	H AA II R
+ہٹ 1.0	H A TT
+ہٹا 1.0	H A TT AA
+ہر 1.0	H A R
+ہرفن 1.0	H A R F A N
+ہرلی 1.0	H A R L II
+ہزار 1.0	H A Z AA R
+ہسبنڈ 1.0	H A S B A N DD
+ہسپتال 1.0	H A S P A TD AA L
+ہسٹری 1.0	H I S TT I R II
+ہش 1.0	H I SH
+ہشیور 1.0	H A SH J R
+ہفتہ 1.0	H A F TD AA
+ہفتے 1.0	H A F TD AE
+ہل 1.0	H A L
+ہلاں 1.0	H A L AAN
+ہلکی 1.0	H A L K II
+ہم 1.0	H A M
+ہمارا 1.0	H A M AA R AA
+ہمارے 1.0	H A M AA R AE
+ہماری 1.0	H A M AA R II
+ہمدان 1.0	H A M DD AA N
+ہمدرد 1.0	H A M DD A R DD
+ہمہ 1.0	H A M AA
+ہمیشہ 1.0	H A M AE SH AA
+ہمیں 1.0	H A M AEN
+ہنڈ 1.0	H A N DD
+ہنڈریڈ 1.0	H A N DD R AE DD
+ہنس 1.0	H A N S
+ہنسنے 1.0	H A N S N AE
+ہنی 1.0	H A N II
+ہہاں 1.0	H A H AAN
+ہو 1.0	H OO
+ہوا 1.0	H A V AA
+ہوائیں 1.0	H A V AA AYN
+ہوپ 1.0	H OO P
+ہوتا 1.0	H OO TD AA
+ہوتے 1.0	H OO TD AY
+ہوتی 1.0	H OO TD II
+ہوتیں 1.0	H OO TD IIN
+ہوٹ 1.0	H OO T
+ہوٹل 1.0	H OO TT A L
+ہوجائےگا 1.0	H UU DZZ AA AY G AA
+ہوجائیں 1.0	H UU DZZ AA AYN
+ہورہا 1.0	H OO R H AA
+ہوسپیٹل 1.0	H OO S P II TT A L
+ہوسکتا 1.0	H OO S K A TD AA
+ہوگا 1.0	H OO G AA
+ہوگی 1.0	H OO G II
+ہوگیا 1.0	H OO G II AA
+ہوگئے 1.0	H OO G I AY
+ہولڈ 1.0	H OO L DD
+ہولڈنگ 1.0	H OO L DD I NG
+ہوم 1.0	H OO M
+ہوں 1.0	H OON
+ہون 1.0	H OO N
+ہونا 1.0	H OO N AA
+ہونگی 1.0	H OO NG II
+ہونے 1.0	H OO N AY
+ہونی 1.0	H OO N II
+ہونیسٹ 1.0	H OO N II S TT
+ہووے 1.0	H OO V AY
+ہویں 1.0	H V AYN
+ہویے 1.0	H A V II AY
+ہوئے 1.0	H UU AE
+ہوئی 1.0	H UU II
+ہے 1.0	H AE
+ہےتو 1.0	H A J TD OO
+ہی 1.0	H II
+ہیپی 1.0	H AE P II
+ہیڈ 1.0	H AY DD
+ہیرا 1.0	H AE R AA
+ہیروز 1.0	H AE R OO Z
+ہیز 1.0	H AE Z
+ہیش 1.0	H AE SH
+ہیلپ 1.0	H AE L P
+ہیلو 1.0	H AE L OO
+ہیم 1.0	H AE M
+ہیں 1.0	H AYN
+ہینڈ 1.0	H AE N DD
+ہینڈل 1.0	H AE N DD A L
+ہیو 1.0	H AE V
+ہیوملیشن 1.0	H I J UU M I L AE SH A N
+ہییر 1.0	H AY J A R
+ہییں 1.0	H II AYN
+ہیئر 1.0	H AE A R
+ھو 1.0	KH OO
+ھوگی 1.0	OO G II
+ھوم 1.0	UU M
+و 1.0	V
+وُڈ 1.0	V A U DD
+وا 1.0	V AA
+واِسع 1.0	V AA I S AY
+واِسے 1.0	V AA I S AE
+واپڈا 1.0	V AA P DD AA
+واپس 1.0	V AA P S
+واپسی 1.0	V AA P S II
+واٹ 1.0	V AA TT
+واٹر 1.0	V AA TT A R
+واٹس 1.0	V AA TT S
+وادیں 1.0	V AA DD AYN
+وارہی 1.0	V AA R H II
+وارورڈ 1.0	V AA R V A R DD
+واز 1.0	V AA Z
+واسے 1.0	V AA S AY
+واقع 1.0	V AA Q AE
+واک 1.0	V AA K
+واکنگ 1.0	V AA K I NG
+والا 1.0	V AA L AA
+والہ 1.0	V AA L AA
+والوں 1.0	V AA L OON
+والے 1.0	V AA L AY
+والی 1.0	V AA L II
+وانٹ 1.0	V AA N TT
+وانے 1.0	V AA N AY
+واہ 1.0	V AA
+واؤ 1.0	V AA OO
+واؤں 1.0	V AA OON
+واے 1.0	V AA AY
+وایا 1.0	V AA J AA
+وایں 1.0	V AA AYN
+وایۓ 1.0	V AA II
+وائٹ 1.0	V AA I TT
+وائڈ 1.0	V AA I DD
+وائز 1.0	V AA I Z
+وائس 1.0	V AA I S
+وائے 1.0	V AA AY
+وائیڈ 1.0	V AA II DD
+وائیں 1.0	V AA AYN
+وائیے 1.0	V AA I J AY
+وٹس 1.0	V I TT S
+وجہ 1.0	V A DZZ AA
+وچ 1.0	V I TSH
+وحید 1.0	V A H II DD
+ودھ 1.0	V DDH
+ودھن 1.0	V A DDH A N
+ودھنوں 1.0	V A DDH A N OON
+ودھھ 1.0	V A DDH
+ور 1.0	V A R
+ورانچ 1.0	V A R AA N TSH
+ورٹھ 1.0	V A R TTH
+وردہ 1.0	V A R DD AA
+ورک 1.0	V A R K
+ورکنگ 1.0	V A R K I NG
+ورلڈ 1.0	V A R DD
+ورنہ 1.0	V A R N AA
+وری 1.0	V A R II
+وریو 1.0	V A R J UU
+وزٹ 1.0	V A Z A TT
+وسیم 1.0	V A S II M
+وعلیکم 1.0	V Y L AY K M
+وغیرہ 1.0	V A 7 AY R AA
+وقت 1.0	V A Q TD
+وکی 1.0	V A K II
+ول 1.0	V A L
+ولا 1.0	V A L AA
+ولی 1.0	V A L II
+ولیج 1.0	V I L II DZZ
+ولید 1.0	V A L II DD
+ومن 1.0	V A M A N
+وں 1.0	OON
+ون 1.0	V A N
+ونگ 1.0	V I NG
+ونگز 1.0	V I NG Z
+ونیلا 1.0	V A N II L AA
+وہ 1.0	V AA
+وہاں 1.0	V A H AAN
+وہٹ 1.0	V A H TT
+وہی 1.0	V A H II
+وہیں 1.0	V A H AYN
+وو 1.0	V OO
+ووالا 1.0	OO V AA L AA
+ووٹ 1.0	V OO TT
+ووٹس 1.0	V OO TT S
+ووج 1.0	V OO DZZ
+ووڈ 1.0	V UU DD
+وومن 1.0	V UU M OO E N
+وومین 1.0	V OO M II N
+وے 1.0	V AE
+ویب 1.0	V AY B
+ویٹ 1.0	V AE TT
+ویٹنگ 1.0	V AE TT I NG
+ویجٹیبلز 1.0	V AE DZZ TT AY B A L Z
+ویجی 1.0	V AY DZZ II
+ویجیٹیبل 1.0	V AY DZZ II TT AY B A L
+ویری 1.0	V AE R II
+ویریفائے 1.0	V AE R II F AA AY
+ویریفائی 1.0	V AE R II F AA II
+ویریفیکیشن 1.0	V AE R II F II K AY SH A N
+ویسا 1.0	V AE S AA
+ویسٹ 1.0	V AE S TT
+ویسے 1.0	V AY S AE
+ویل 1.0	V AE L
+ویلا 1.0	V AE L AA
+ویلاز 1.0	V AE L AA Z
+ویلڈ 1.0	V AE L DD
+ویلفئیر 1.0	V E L F AE II R
+ویلکم 1.0	V AE L K A M
+ویلو 1.0	V AE L OO
+ویلی 1.0	V AE L II
+ویلیڈ 1.0	V AE L II DD
+ویلیو 1.0	V AY L J UU
+ویلیود 1.0	V AY L J UU DD
+ویلیوڈ 1.0	V AY L J UU DD
+ویں 1.0	V AYN
+وین 1.0	V AE N
+ویو 1.0	V AE V
+ویوس 1.0	V AE V I S
+ویئر 1.0	V AE A R
+ی 1.0	II
+یا 1.0	J AA
+یاِسر 1.0	J AA I S A R
+یاد 1.0	J AA DD
+یار 1.0	J AA R
+یاسر 1.0	J AA S A R
+یاہ 1.0	J AA
+یت 1.0	J A TD
+یتی 1.0	J A TD II
+یرز 1.0	J A R Z
+یس 1.0	J A S
+یسٹ 1.0	E S TT
+یعقوب 1.0	J A Q UU B
+یعنی 1.0	J A N II
+یقین 1.0	J A Q II N
+یگا 1.0	J A G AA
+یں 1.0	AYN
+یہ 1.0	J AA
+یہاں 1.0	J A H AAN
+یہہ 1.0	J A H AA
+یہی 1.0	J AE H II
+یہیں 1.0	J A H AYN
+یو 1.0	J UU
+یوجولی 1.0	J UU DZZ OO L II
+یور 1.0	J UU R
+یوز 1.0	J UU Z
+یوسف 1.0	J UU S U F
+یوشولی 1.0	J UU SH UU L II
+یومنا 1.0	J UU M N AA
+یونٹ 1.0	J UU N A TT
+یونین 1.0	J UU N I J A N
+یونیورسٹی 1.0	J UU N II V A R S I TT II

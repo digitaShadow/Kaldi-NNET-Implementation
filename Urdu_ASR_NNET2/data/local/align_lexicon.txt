@@ -1,0 +1,3456 @@
+<OOV> OOV_S
+<SIL> SIL_S
+ا A_S
+اُٹھاہیں U_B TTH_I AA_I H_I AYN_E
+اُس U_B S_E
+اُسی U_B S_I II_E
+اِٹ A_B I_I TT_E
+اِس A_B I_I S_E
+اِسپائیسی A_B I_I S_I P_I AA_I II_I S_I II_E
+اِسپرائیٹ A_B I_I S_I P_I A_I R_I AA_I II_I TT_E
+اِستشنا A_B I_I S_I TD_I A_I SH_I N_I AA_E
+اِستعمال A_B I_I S_I TD_I AE_I M_I AA_I L_E
+اِسٹارٹ A_B I_I S_I TT_I AA_I R_I TT_E
+اِسٹرابیری A_B I_I S_I TT_I A_I R_I AA_I B_I II_I R_I II_E
+اِسٹرکلی A_B I_I S_I TT_I A_I R_I I_I K_I L_I II_E
+اِسٹریٹ A_B I_I S_I TT_I A_I R_I AY_I TT_E
+اِسٹل A_B I_I S_I TT_I A_I L_E
+اِسٹیمیٹ A_B I_I S_I TT_I II_I M_I II_I TT_E
+اِسٹینڈرڈ A_B I_I S_I TT_I AE_I N_I DD_I A_I R_I DD_E
+اِسکریمبل A_B I_I S_I K_I A_I R_I II_I M_I B_I A_I L_E
+اِسلام A_B I_I S_I L_I AA_I M_E
+اِسموتھی A_B I_I S_I M_I OO_I TDH_I II_E
+اِسموتھیاں A_B I_I S_I M_I OO_I TDH_I TDH_I I_I J_I AAN_E
+اِسمول A_B I_I S_I M_I OO_I L_E
+اِسمیل A_B I_I S_I M_I II_I L_E
+اِسنیک A_B I_I S_I N_I II_I K_E
+اِسے A_B I_I S_I AE_E
+اِسی A_B I_I S_I II_E
+اِن A_B I_I A_I N_E
+اِنتہائی A_B I_I N_I TD_I I_I H_I AA_I II_E
+اِندازہ A_B I_I N_I DD_I AA_I Z_I AA_E
+اِندر A_B I_I A_I N_I DD_I A_I R_E
+اِنسٹرکیشن A_B I_I I_I N_I S_I TT_I A_I R_I A_I K_I AY_I SH_I A_I N_E
+اِنشااللہ A_B I_I N_I SH_I AA_I A_I L_I L_I AA_E
+اِنفارم A_B I_I N_I F_I AA_I R_I M_E
+اِنفورمیشن A_B I_I N_I F_I OO_I R_I M_I AY_I SH_I A_I N_E
+اِنکی A_B I_I N_I K_I II_E
+اِنہوں A_B I_I N_I H_I OON_E
+ااچھا A_B TSHH_I AA_E
+اب A_B B_E
+ابَو A_B B_I I_I UU_E
+ابّا A_B B_I AA_E
+ابّو A_B B_I UU_I V_I UU_E
+اباؤٹ A_B B_I AA_I UU_I TT_E
+ابرار A_B B_I R_I AA_I R_E
+ابراہیم I_B B_I R_I AA_I H_I II_I M_E
+ابھے U_B BH_I AY_E
+ابھی A_B BH_I II_E
+ابو A_B B_I UU_E
+ابوبکر A_B B_I UU_I B_I A_I K_I R_E
+ابوو A_B B_I UU_I V_E
+ابے A_B B_I AY_E
+ابی A_B B_I II_E
+ابیحہ A_B B_I II_I H_I AA_E
+اپ A_B P_E
+اپارٹمنٹ A_B P_I AA_I R_I TT_I M_I I_I N_I TT_E
+اپڈیٹ A_B P_I DD_I AY_I TT_E
+اپڈیٹس A_B P_I DD_I II_I TT_I S_E
+اپر A_B P_I R_E
+اپروول A_B P_I R_I OO_I V_I A_I L_E
+اپریل A_B P_I R_I II_I L_E
+اپسے A_B P_I I_I S_I AY_E
+اپکا A_B P_I K_I AA_E
+اپلیکیشن A_B P_I L_I II_I K_I AY_I SH_I A_I N_E
+اپنا A_B P_I N_I AA_E
+اپنے A_B P_I N_I AY_E
+اپنی A_B P_I N_I II_E
+اپوزٹ A_B P_I OO_I Z_I A_I TT_E
+اپوزیٹ A_B P_I OO_I Z_I II_I TT_E
+اپولوجائز A_B P_I OO_I L_I OO_I DZZ_I AA_I I_I Z_E
+اپوینٹنگ A_B P_I A_I V_I AY_I N_I TT_I I_I NG_E
+ات I_B TD_E
+اتا U_B TD_I AA_E
+اتحاد I_B TD_I TD_I I_I H_I AA_I DD_E
+اترنا U_B TD_I A_I R_I N_I AA_E
+اتلیسٹ A_B TD_I L_I II_I S_I TT_E
+اتنا I_B TD_I N_I AA_E
+اتنے I_B TD_I N_I AY_E
+اتنی I_B TD_I N_I II_E
+اتھارہ A_B TDH_I AA_I R_I AA_E
+اتھر A_B TDH_I A_I R_E
+اتے I_B TD_I AY_E
+اٹ A_B TT_E
+اٹس A_B TT_I S_E
+اٹکی A_B TT_I K_I II_E
+اٹھ U_B TTH_E
+اٹھا U_B TTH_I AA_E
+اٹھاتے U_B TTH_I AA_I TD_I AY_E
+اٹھارٹی A_B TTH_I TTH_I AA_I R_I TT_I II_E
+اٹھارہ A_B TTH_I TTH_I AA_I R_I AA_E
+اٹھانا U_B TTH_I AA_I N_I AA_E
+اٹھائے U_B TTH_I AA_I AE_E
+اٹھائیے U_B TTH_I AA_I II_I AY_E
+اٹھوایں U_B TTH_I V_I AA_I AYN_E
+اٹینڈ A_B TT_I AE_I N_I DD_E
+اجاز A_B DZZ_I AA_I Z_E
+اجمل A_B DZZ_I M_I A_I L_E
+اچار A_B TSH_I AA_I R_E
+اچھا A_B TSHH_I TSHH_I AA_E
+اچھے A_B TSH_I TSHH_I AE_E
+اچھی A_B TSH_I TSHH_I II_E
+احتشام I_B H_I TD_I I_I SH_I AA_I M_E
+احد A_B H_I H_I I_I DD_E
+احساس I_B H_I S_I AA_I S_E
+احسان A_B H_I S_I AA_I N_E
+احسن A_B H_I S_I A_I N_E
+احمد A_B H_I M_I A_I DD_E
+اختر A_B X_I TD_I A_I R_E
+ادر I_B DD_I R_E
+ادریس I_B DD_I R_I AE_I S_E
+ادھ U_B DDH_E
+ادھر U_B DDH_I A_I R_E
+اڈوائس A_B DD_I V_I AA_I I_I S_E
+اراؤنڈ A_B R_I AA_I UU_I N_I DD_E
+ارجنٹ A_B R_I DZZ_I A_I N_I TT_E
+ارجنٹلی A_B R_I DZZ_I A_I N_I TT_I L_I II_E
+ارجینٹ A_B R_I DZZ_I AE_I N_I TT_E
+ارحم A_B R_I H_I A_I M_E
+ارحمان A_B R_I A_I H_I M_I AA_I N_E
+اردر A_B R_I DD_I A_I R_E
+اردو A_B R_I DD_I UU_E
+اردے A_B R_I DD_I AY_E
+ارسلان A_B R_I S_I A_I L_I AA_I N_E
+ارسلہ A_B R_I S_I A_I L_I AA_E
+ارشاد I_B R_I SH_I AA_I DD_E
+ارشد A_B R_I SH_I A_I DD_E
+ارلی A_B R_I L_I II_E
+ارے A_B R_I AY_E
+اریب A_B R_I II_I B_E
+اریس A_B R_I AE_I S_E
+ارینج A_B R_I AE_I N_I DZZ_E
+اڑاونڈ U_B RR_I AA_I V_I I_I N_I DD_E
+اڑتالیس A_B RR_I TD_I AA_I L_I II_I S_E
+از A_B Z_E
+ازل A_B Z_I A_I L_E
+اسامہ A_B S_I AA_I M_I AA_E
+اسپائس I_B S_I P_I AA_I I_I S_E
+اسپائسی I_B S_I P_I AA_I I_I S_I II_E
+اسپائیسی I_B S_I P_I AA_I II_I S_I II_E
+اسپرائٹ I_B S_I P_I A_I R_I AA_I I_I TT_E
+اسپرائیٹ I_B S_I P_I A_I R_I AA_I II_I TT_E
+اسپرنکل I_B S_I P_I A_I R_I N_I I_I K_I A_I L_E
+اسپرنگ I_B S_I P_I R_I I_I NG_E
+اسپریڈ I_B S_I P_I A_I R_I AE_I DD_E
+اسپے I_B S_I P_I AY_E
+اسپیشل I_B S_I P_I AE_I SH_I A_I L_E
+اسپیشلی I_B S_I P_I AE_I SH_I A_I L_I II_E
+اسپیکنگ I_B S_I P_I AE_I K_I I_I NG_E
+استشنا I_B S_I TD_I I_I SH_I N_I AA_E
+اسٹاِنس I_B S_I TT_I AA_I I_I N_I S_E
+اسٹار I_B S_I TT_I AA_I R_E
+اسٹارٹ I_B S_I TT_I AA_I R_I TT_E
+اسٹارٹنگ I_B S_I TT_I AA_I R_I TT_I I_I NG_E
+اسٹاف I_B S_I TT_I AA_I F_E
+اسٹرابری I_B S_I TT_I A_I R_I AA_I B_I A_I R_I II_E
+اسٹرابیری I_B S_I TT_I A_I R_I AA_I B_I II_I R_I II_E
+اسٹرٹ I_B S_I TT_I A_I R_I TT_E
+اسٹرکٹلی I_B S_I TT_I A_I R_I A_I K_I TT_I L_I II_E
+اسٹریٹ I_B S_I TT_I A_I R_I AY_I TT_E
+اسٹل I_B S_I TT_I A_I L_E
+اسٹوپڈ I_B S_I TT_I OO_I P_I A_I DD_E
+اسٹور I_B S_I TT_I OO_I R_E
+اسٹے I_B S_I TT_I AY_E
+اسٹیٹ I_B S_I TT_I AY_I TT_E
+اسٹینڈرڈ I_B S_I TT_I AE_I N_I DD_I A_I R_I DD_E
+اسد A_B S_I DD_E
+اسکریمبل I_B S_I K_I A_I R_I II_I M_I B_I A_I L_E
+اسکل I_B S_I K_I A_I L_E
+اسکو I_B S_I K_I OO_E
+اسکوائر I_B S_I K_I U_I V_I AA_I I_I R_E
+اسکول I_B S_I K_I UU_I L_E
+اسکی I_B S_I K_I II_E
+اسلام I_B S_I L_I AA_I M_E
+اسلم I_B S_I L_I A_I M_E
+اسما A_B S_I M_I AA_E
+اسموتھی I_B S_I M_I OO_I TDH_I II_E
+اسمودی I_B S_I M_I UU_I DD_I II_E
+اسمول I_B S_I M_I OO_I L_E
+اسے U_B S_I AE_E
+اسی A_B S_I II_E
+اشنا A_B SH_I N_I AA_E
+اشو I_B SH_I OO_E
+اصل A_B S_I L_E
+اطمنان I_B TD_I M_I N_I AA_I N_E
+اعجاز AY_B DZZ_I AA_I Z_E
+اعلی AA_B L_I II_E
+اف A_B F_E
+افشا I_B F_I SH_I AA_E
+افشاں A_B F_I SH_I AAN_E
+افضل A_B F_I Z_I A_I L_E
+اقبال I_B Q_I B_I AA_I L_E
+اقثر A_B Q_I S_I S_I U_I R_E
+اقرا I_B Q_I R_I AA_E
+اقصیٰ A_B Q_I S_I II_E
+اک A_B K_E
+اکاؤنٹ A_B K_I AA_I UU_I N_I TT_E
+اکٹیو I_B K_I TT_I I_I J_I UU_E
+اکثر A_B K_I S_I A_I R_E
+اکرام A_B K_I R_I AA_I M_E
+اکسیڈنٹ U_B K_I S_I II_I DD_I A_I N_I TT_E
+اکوڑدنگ A_B K_I V_I RR_I DD_I NG_E
+اکے A_B K_I AY_E
+اگر A_B G_I A_I R_E
+اگلی A_B G_I L_I II_E
+اگو A_B G_I OO_E
+اگین A_B G_I II_I N_E
+اگینسٹ A_B G_I II_I N_I I_I S_I TT_E
+ال A_B L_E
+الا A_B L_I AA_E
+الامن A_B L_I AA_I M_I A_I N_E
+الاؤ A_B L_I AA_I OO_E
+الٹرنیٹ AA_B L_I T_I R_I N_I AY_I T_E
+الحمدللہ A_B L_I H_I A_I M_I DD_I L_I L_I AA_E
+الرائٹ A_B L_I A_I R_I AA_I I_I TT_E
+العابدین A_B L_I AA_I B_I I_I DD_I II_I N_E
+الفلاح A_B L_I F_I A_I L_I AA_E
+الگ A_B L_I A_I G_E
+اللہ A_B L_I L_I AA_E
+الہ A_B L_I AA_E
+الوقت A_B L_I V_I A_I Q_I A_I TD_E
+الے A_B L_I AY_E
+الی A_B L_I II_E
+الیاس I_B L_I J_I AA_I S_E
+الیپینو A_B L_I AY_I P_I II_I N_I OO_E
+الینا A_B L_I II_I N_I AA_E
+الیون A_B L_I AY_I V_I A_I N_E
+ام A_B M_E
+امان A_B M_I AA_I N_E
+امانت A_B M_I AA_I N_I A_I TD_E
+اماؤ A_B M_I AA_I OO_E
+اماؤنٹ AA_B M_I AA_I A_I OO_I N_I T_E
+امپروو I_B M_I P_I A_I R_I UU_E
+امپلوائے I_B M_I P_I A_I L_I V_I AA_I AY_E
+امرین A_B M_I R_I II_I N_E
+امل A_B M_I A_I L_E
+امیمہ A_B M_I II_I M_I AA_E
+امین A_B M_I II_I N_E
+ان I_B N_E
+انار A_B N_I AA_I R_E
+انتظار I_B N_I TD_I I_I Z_I AA_I R_E
+انٹر I_B N_I TT_I A_I R_E
+انٹرپٹ I_B N_I TT_I A_I R_I P_I TT_E
+انٹرنیشنل I_B N_I TT_I A_I R_I N_I AY_I SH_I N_I A_I L_E
+انٹیرئر I_B N_I TT_I AE_I R_I I_I A_I R_E
+انجام A_B N_I DZZ_I AA_I M_E
+انجم I_B N_I DZZ_I A_I M_E
+انجوائے I_B N_I DZZ_I V_I AA_I AY_E
+انچارج I_B N_I TSH_I AA_I R_I DZZ_E
+اندر A_B N_I DD_I A_I R_E
+انڈرسٹینڈ I_B N_I DD_I R_I I_I S_I TT_I AE_I N_I DD_E
+انزلا A_B N_I Z_I A_I L_I AA_E
+انزلہ A_B N_I Z_I A_I L_I AA_E
+انسان I_B N_I S_I AA_I N_E
+انسٹرکشن I_B N_I S_I TT_I A_I R_I A_I K_I SH_I A_I N_E
+انسٹرکشنز I_B N_I S_I TT_I A_I R_I A_I K_I SH_I A_I N_I Z_E
+انسٹیٹیوٹ I_B N_I S_I TT_I II_I TT_I J_I OO_I TT_E
+انسنٹ I_B N_I S_I A_I N_I TT_E
+انشا I_B N_I SH_I AA_E
+انشااللہ I_B N_I SH_I AA_I A_I L_I L_I AA_E
+انصاری A_B N_I S_I AA_I R_I II_E
+انعم A_B N_I A_I M_E
+انفارمیشن I_B N_I F_I AA_I R_I M_I AE_I SH_I A_I N_E
+انفورم I_B N_I F_I OO_I R_I A_I M_E
+انفورمیشنز I_B N_I F_I OO_I R_I M_I AY_I SH_I A_I N_I Z_E
+انفیکٹ I_B N_I F_I AE_I K_I TT_E
+انکا I_B N_I K_I AA_E
+انکلیوڈڈ I_B N_I K_I A_I L_I J_I UU_I DD_I DD_E
+انکمپلیٹ I_B N_I K_I A_I M_I P_I L_I AY_I TT_E
+انکو I_B N_I K_I OO_E
+انگریڈینٹ A_B NG_I R_I AE_I DD_I II_I N_I TT_E
+انگریڈینٹس A_B NG_I R_I AY_I DD_I AY_I N_I TT_I S_E
+اننیق I_B N_I N_I II_I Q_E
+انہوں I_B N_I H_I OON_E
+انہونے A_B N_I H_I OO_I N_I AY_E
+انہی I_B N_I H_I II_E
+انہیں I_B N_I H_I AEN_E
+انھے A_B N_I AY_E
+انھیں A_B N_I TTH_I AYN_E
+انور I_B N_I V_I A_I R_E
+انوشہ I_B N_I OO_I SH_I A_I AA_E
+انوولو I_B N_I V_I OO_I L_I OO_E
+انویسٹیگیٹ I_B N_I V_I AE_I S_I TT_I II_I G_I AY_I TT_E
+انیس A_B N_I II_I S_E
+انین A_B N_I II_I N_E
+انینز A_B N_I II_I N_I Z_E
+اہ AA_S
+اہے A_B H_I AE_E
+او OO_S
+اوبلیک OO_B B_I L_I II_I K_E
+اوبویسلی OO_B B_I V_I AY_I S_I L_I II_E
+اوپر UU_B P_I A_I R_E
+اوپن OO_B P_I A_I N_E
+اور O_B R_E
+اورڈر O_B R_I DD_I A_I R_E
+اورنج OO_B R_I A_I N_I DZZ_E
+اورنگ O_B R_I A_I NG_E
+اورہیش O_B R_I II_I H_I SH_E
+اورینج OO_B R_I AE_I N_I DZZ_E
+اوریو OO_B R_I II_I OO_E
+اوفس OO_B F_I S_E
+اوفکورس OO_B F_I I_I K_I OO_I R_I A_I S_E
+اوفیسر OO_B F_I AY_I S_I A_I R_E
+اوفیشل OO_B F_I II_I SH_I A_I L_E
+اوکے OO_B K_I AY_E
+اول OO_B L_E
+اولڈ OO_B L_I DD_E
+اون UU_B N_E
+اونر OO_B N_I A_I R_E
+اونرز OO_B N_I A_I R_I Z_E
+اونز OO_B N_I Z_E
+اونس O_B N_I S_E
+اونلی OO_B N_I L_I II_E
+اونلیٹوٹل OO_B N_I L_I AY_I TT_I OO_I TT_I A_I L_E
+اوور OO_B V_I A_I R_E
+اوے A_B V_I AY_E
+اویٹنگ A_B V_I AE_I TT_I I_I NG_E
+اویل A_B V_I II_I L_E
+اویلیبل A_B V_I II_I L_I AY_I B_I A_I L_E
+اوینیو A_B V_I AE_I N_I II_I OO_E
+اے AE_S
+ای II_S
+ایان I_B J_I AA_I N_E
+ایبٹ AE_B B_I A_I TT_E
+ایبسولیوٹلی AE_B B_I A_I S_I V_I L_I OO_I TT_I L_I II_E
+ایبل AY_B B_I A_I L_E
+ایپ AE_B P_E
+ایپپل AE_B P_I P_I A_I L_E
+ایپریشیئٹ AE_B P_I R_I AY_I SH_I II_I A_I T_E
+ایپل AE_B P_I A_I L_E
+ایپلی AE_B P_I L_I II_E
+ایپلیکیشن AE_B P_I L_I II_I K_I AY_I SH_I A_I N_E
+ایٹ AE_B TT_E
+ایٹڈبل AE_B TT_I DD_I A_I B_I A_I L_E
+ایٹلیسٹ AE_B TT_I L_I AE_I S_I TT_E
+ایٹھ AE_B TTH_E
+ایٹی AE_B TT_I II_E
+ایٹین AE_B TT_I II_I N_E
+ایجاز AY_B DZZ_I AA_I Z_E
+ایجوۓ AY_B DZZ_I UU_E
+ایچ AE_B TSH_E
+ایدھر AE_B DDH_I A_I R_E
+ایڈ AE_B DD_E
+ایڈاون AE_B DD_I AA_I V_I A_I N_E
+ایڈریس AY_B DD_I R_I AY_I S_E
+ایڈریسس AY_B DD_I R_I AY_I S_I I_I S_E
+ایڈس AE_B DD_I S_E
+ایڈن II_B DD_I A_I N_E
+ایڈوائس AE_B DD_I V_I AA_I I_I S_E
+ایڈیشن AE_B DD_I II_I SH_I A_I N_E
+ایڈیشنل AY_B DD_I II_I SH_I N_I A_I L_E
+ایرر AE_B R_I A_I R_E
+ایریا AE_B R_I I_I J_I AA_E
+ایریاز AE_B R_I I_I J_I AA_I Z_E
+ایریاس AE_B R_I I_I J_I AA_I S_E
+ایز II_B Z_E
+ایزا AY_B Z_I AA_E
+ایزلی AY_B Z_I A_I L_I II_E
+ایزی AY_B Z_I II_E
+ایس E_B S_E
+ایسا AY_B S_I AA_E
+ایسٹیمیٹ AE_B S_I TT_I II_I M_I II_I TT_E
+ایسے AY_B S_I AE_E
+ایسی AY_B S_I II_E
+ایف E_B F_E
+ایک AE_B K_E
+ایکٹو AE_B K_I TT_I I_I V_E
+ایکٹیوے AE_B K_I TT_I II_I V_I AY_E
+ایکچولی AE_B K_I TSH_I OO_I L_I II_E
+ایکس AE_B K_I S_E
+ایکسپریس AE_B K_I S_I P_I A_I R_I AE_I S_E
+ایکسپیرنس AE_B K_I S_I P_I AY_I R_I E_I N_I S_E
+ایکسپیرینس AE_B K_I S_I P_I II_I R_I AE_I N_I S_E
+ایکسپیکٹ AE_B K_I S_I P_I AE_I K_I TT_E
+ایکسپیکٹڈ AE_B K_I S_I P_I AE_I K_I TT_I I_I DD_E
+ایکسٹرا AA_B AY_I K_I S_I T_I R_I AA_E
+ایکسٹریملی AA_B AY_I K_I S_I T_I R_I II_I M_I L_I II_E
+ایکسٹینشن AE_B K_I S_I TT_I AE_I N_I SH_I A_I N_E
+ایکسکلوسیو AE_B K_I S_I I_I K_I L_I OO_I S_I II_I OO_E
+ایکسکیوس AE_B K_I S_I K_I I_I J_I UU_I S_E
+ایکسیپٹ AE_B K_I S_I II_I P_I A_I TT_E
+ایکسیس AE_B K_I S_I II_I S_E
+ایکشن AE_B K_I SH_I A_I N_E
+ایکوریم II_B K_I OO_I R_I II_I M_E
+ایگ AY_B G_E
+ایگزٹ AY_B G_I Z_I I_I TT_E
+ایگزیکٹ AE_B G_I Z_I AE_I K_I TT_E
+ایگزیکٹو AY_B G_I Z_I AY_I K_I I_I TT_I I_I V_E
+ایل II_B L_E
+ایلس AE_B L_I A_I S_E
+ایم II_B M_E
+ایمبیسی AE_B M_I B_I AE_I S_I II_E
+ایمرجنسی AY_B M_I A_I R_I DZZ_I A_I N_I S_I II_E
+این AE_B N_E
+اینڈ AE_B N_I DD_E
+اینی AE_B N_I II_E
+اینیشیئل AE_B N_I II_I SH_I II_I A_I L_E
+ایہے AE_B H_I AE_E
+ایوب AE_B J_I UU_I B_E
+ایورج II_B V_I A_I R_I DZZ_E
+ایوری AY_B V_I R_I II_E
+ایون AE_B V_I A_I N_E
+ایونیو AY_B V_I A_I N_I J_I UU_E
+ایئر AY_B A_I R_E
+ائے AA_B AY_E
+ائی A_B II_E
+ائیرپورٹ A_B II_I R_I I_I P_I OO_I R_I TT_E
+آ AA_S
+آب AA_B B_E
+آباد AA_B B_I AA_I DD_E
+آپ AA_B P_E
+آپا AA_B P_I AA_E
+آپارٹ AA_B P_I AA_I R_I TT_E
+آپشن AA_B P_I SH_I A_I N_E
+آپشنس AA_B P_I SH_I A_I N_I I_I S_E
+آپکی AA_B P_I K_I II_E
+آپولوجی AA_B P_I OO_I L_I OO_I DZZ_I II_E
+آتا AA_B TD_I AA_E
+آتے AA_B TD_I AY_E
+آتی AA_B TD_I II_E
+آٹھ AA_B TTH_E
+آج AA_B DZZ_E
+آجاتے AA_B DZZ_I AA_I TD_I AY_E
+آجانی AA_B DZZ_I AA_I N_I II_E
+آجاینگے AA_B DZZ_I AA_I II_I NG_I G_I AE_E
+آجایئے AA_B DZZ_I AA_I J_I I_I AE_E
+آجائے AA_B DZZ_I AA_I AY_E
+آچکی AA_B TSH_I A_I K_I II_E
+آخر AA_B X_I I_I R_E
+آخری AA_B X_I I_I R_I II_E
+آدمی AA_B DD_I M_I II_E
+آدمیوں AA_B DD_I M_I II_I OON_E
+آدھا AA_B DDH_I AA_E
+آدھے AA_B DDH_I AE_E
+آدھی AA_B DDH_I II_E
+آر AA_B R_E
+آرام AA_B R_I AA_I M_E
+آراونڈ AA_B R_I AA_I V_I I_I N_I DD_E
+آرڈر AA_B R_I DD_I A_I R_E
+آرڈرز AA_B R_I DD_I A_I R_I Z_E
+آرڈرکیےہیں AA_B R_I DD_I A_I R_I K_I J_I AY_I H_I AYN_E
+آرڈرنگ AA_B R_I DD_I R_I I_I NG_E
+آرکائیو AA_B R_I K_I AA_I II_I V_E
+آرکیٹک AA_B R_I K_I II_I TT_I I_I K_E
+آرمی AA_B R_I M_I II_E
+آرہا AA_B R_I H_I AA_E
+آرہہی AA_B R_I H_I H_I II_E
+آرہی AA_B R_I H_I II_E
+آس AA_B S_E
+آسانی AA_B S_I AA_I N_I II_E
+آسکتا AA_B S_I A_I K_I TD_I AA_E
+آسکنگ AA_B S_I K_I NG_E
+آسلام AA_B S_I L_I AA_I M_E
+آشر AA_B SH_I R_E
+آشنا AA_B SH_I N_I AA_E
+آصف AA_B S_I I_I F_E
+آف AA_B F_E
+آفٹر AA_B F_I TT_I A_I R_E
+آفر AA_B F_I A_I R_E
+آفس AA_B F_I I_I S_E
+آفیسر AA_B F_I II_I S_I A_I R_E
+آفیسرز AA_B F_I II_I S_I A_I R_I Z_E
+آفیشل AA_B F_I II_I SH_I A_I L_E
+آکر AA_B K_I A_I R_E
+آکے AA_B K_I AY_E
+آگ AA_B G_E
+آگے AA_B G_I AE_E
+آگیا AA_B G_I I_I J_I AA_E
+آگین AA_B G_I II_I N_E
+آگینسٹ AA_B G_I II_I N_I I_I S_I TT_E
+آگئی AA_B G_I II_E
+آل AA_B L_E
+آلاؤ AA_B L_I AA_I OO_E
+آلٹرنیٹ AA_B L_I T_I R_I N_I AY_I T_E
+آلرائٹ AA_B L_I A_I R_I AA_I I_I TT_E
+آلریڈی AA_B L_I R_I AE_I DD_I II_E
+آلموسٹ AA_B L_I M_I OO_I S_I TT_E
+آلو AA_B L_I UU_E
+آلویز AA_B L_I V_I II_I Z_E
+آمبیر AA_B M_I B_I II_I R_E
+آمر AA_B M_I A_I R_E
+آملیٹ AA_B M_I L_I AY_I TT_E
+آمنہ AA_B M_I N_I AA_E
+آں AA_S
+آن AA_B N_E
+آنا AA_B N_I AA_E
+آنسر AA_B N_I S_I R_E
+آنلی AA_B N_I L_I II_E
+آنے AA_B N_I AE_E
+آنی AA_B N_I II_E
+آہستہ AA_B H_I I_I S_I TD_I AA_E
+آواز AA_B V_I AA_I Z_E
+آوت AA_B V_I A_I TD_E
+آور AA_B V_I A_I R_E
+آورز AA_B V_I A_I R_I Z_E
+آوے AA_B V_I AY_E
+آؤ AA_B OO_E
+آؤٹ AA_B A_I OO_I T_E
+آؤں AA_B UUN_E
+آیا AA_B J_I AA_E
+آید AA_B DD_I I_I DD_E
+آیئے AA_B J_I I_I AE_E
+آئ AA_B I_E
+آئس AA_B I_I S_E
+آئسکریم AA_B I_I S_I K_I A_I R_I II_I M_E
+آئندہ AA_B I_I N_I DD_I AA_E
+آئے AA_B AE_E
+آئےگا AA_B I_I AY_I G_I AA_E
+آئی AA_B II_E
+آئیڈیا AA_B II_I DD_I I_I J_I AA_E
+آئیڈیل AA_B II_I DD_I I_I J_I A_I L_E
+آئیزہ AA_B II_I Z_I AA_E
+آئیگی AA_B II_I G_I II_E
+آئیم AA_B II_I M_E
+آئیں AA_B IIN_E
+آئیندہ AA_B I_I N_I DD_I AA_E
+آئینگی AA_B II_I A_I NG_I G_I II_E
+آئیے AA_B II_I AE_E
+بِٹ B_B A_I I_I TT_E
+بِٹر B_B A_I I_I TT_I A_I R_E
+بِگ B_B A_I I_I G_E
+با B_B AA_E
+باِسی B_B AA_I I_I S_I II_E
+بابا B_B AA_I B_I AA_E
+باپ B_B AA_I P_E
+بات B_B AA_I TD_E
+باتے B_B AA_I TD_I AY_E
+باتیں B_B AA_I TD_I AYN_E
+باد B_B AA_I DD_E
+بار B_B AA_I R_E
+باربی B_B AA_I R_I B_I II_E
+بارہ B_B AA_I R_I AA_E
+بارہوی B_B AA_I R_I A_I H_I V_I II_E
+بارھویں B_B AA_I RH_I V_I AYN_E
+بارے B_B AA_I R_I AY_E
+باسی B_B AA_I S_I II_E
+باقاعدہ B_B AA_I Q_I AA_I I_I DD_I AA_E
+باقی B_B AA_I Q_I II_E
+باقیوں B_B AA_I Q_I II_I OON_E
+باکس B_B AA_I K_I S_E
+باکسز B_B AA_I K_I S_I I_I Z_E
+بال B_B AA_I L_E
+بالکل B_B I_I L_I K_I U_I L_E
+باہر B_B AA_I H_I A_I R_E
+باوجود B_B AA_I V_I A_I DZZ_I UU_I DD_E
+بائٹس B_B AA_I I_I TT_I S_E
+بائنگ B_B AA_I I_I NG_E
+بائے B_B AA_I AY_E
+بائیس B_B AA_I II_I S_E
+بائیک B_B AA_I II_I K_E
+بآئے B_B A_I AA_I AE_E
+ببٹ B_B A_I B_I A_I TT_E
+بتا B_B A_I TD_I AA_E
+بتاِنا B_B A_I TD_I AA_I I_I N_I AA_E
+بتاِنے B_B A_I TD_I AA_I I_I N_I AY_E
+بتاتا B_B A_I TD_I AA_I TD_I AA_E
+بتاتے B_B A_I TD_I AA_I TD_I AY_E
+بتاتی B_B A_I TD_I AA_I TD_I II_E
+بتادیجئے B_B A_I TD_I AA_I DD_I II_I DZZ_I I_I AE_E
+بتادیں B_B A_I TD_I AA_I DD_I AYN_E
+بتانا B_B A_I TD_I AA_I N_I AA_E
+بتانے B_B A_I TD_I AA_I N_I AY_E
+بتانی B_B A_I TD_I AA_I N_I II_E
+بتاؤ B_B A_I TD_I AA_I OO_E
+بتاؤں B_B A_I TD_I A_I UUN_E
+بتایا B_B A_I TD_I AA_I J_I AA_E
+بتایاں B_B A_I TD_I AA_I J_I AAN_E
+بتایں B_B A_I TD_I AA_I AYN_E
+بتایے B_B A_I TD_I AA_I J_I AY_E
+بتایئے B_B A_I TD_I AA_I J_I I_I AE_E
+بتائے B_B A_I TD_I AA_I AY_E
+بتائی B_B A_I TD_I AA_I II_E
+بتائیگا B_B A_I TD_I AA_I II_I G_I AA_E
+بتائیں B_B A_I TD_I AA_I AYN_E
+بتائیے B_B A_I TD_I AA_I II_I AY_E
+بتآئے B_B A_I TD_I AA_I AE_E
+بٹ B_B A_I TT_E
+بٹر B_B A_I TT_I A_I R_E
+بٹن B_B A_I TT_I A_I N_E
+بج B_B A_I DZZ_E
+بجا B_B A_I DZZ_I AA_E
+بجانے B_B A_I DZZ_I AA_I N_I AY_E
+بجائے B_B A_I DZZ_I AA_I AY_E
+بجائیں B_B A_I DZZ_I AA_I AEN_E
+بجنے B_B A_I DZZ_I N_I AY_E
+بجھ B_B U_I DZZH_E
+بجوا B_B A_I DZZ_I V_I AA_E
+بجے B_B A_I DZZ_I AE_E
+بچ B_B A_I TSH_E
+بچا B_B A_I TSH_I AA_E
+بچہ B_B A_I TSH_I TSH_I AA_E
+بچوں B_B A_I TSH_I TSH_I OON_E
+بچے B_B A_I TSH_I TSH_I AE_E
+بچی B_B A_I TSH_I II_E
+بحریہ B_B A_I H_I A_I R_I J_I AA_E
+بخاری B_B U_I X_I AA_I R_I II_E
+بدتمیزی B_B A_I DD_I TD_I A_I M_I AY_I Z_I II_E
+بدلے B_B A_I DD_I L_I AE_E
+بڈی B_B A_I DD_I II_E
+برا B_B A_I R_I AA_E
+برابر B_B A_I R_I AA_I B_I A_I R_E
+برات B_B A_I R_I AA_I TD_E
+برادر B_B A_I R_I AA_I DD_I A_I R_E
+برانچ B_B A_I R_I AA_I N_I TSH_E
+برانچز B_B A_I R_I AA_I N_I TSH_I I_I Z_E
+برانڈ B_B A_I R_I AA_I N_I DD_E
+براوو B_B A_I R_I AA_I V_I OO_E
+براؤن B_B A_I R_I AA_I UU_I N_E
+براؤنز B_B A_I R_I AA_I UU_I N_I Z_E
+براؤنی B_B A_I R_I AA_I UU_I N_I II_E
+براؤنیز B_B A_I R_I AA_I UU_I N_I II_I Z_E
+برائے B_B A_I R_I AA_I AY_E
+برگر B_B A_I R_I G_I A_I R_E
+برگرز B_B A_I R_I G_I A_I R_I Z_E
+برن B_B A_I R_I A_I N_E
+برہر B_B A_I R_I H_I A_I R_E
+بروسٹ B_B A_I R_I OO_I S_I TT_E
+بری B_B A_I R_I II_E
+بریڈ B_B A_I R_I AE_I DD_E
+بریک B_B A_I R_I AE_I K_E
+برینڈ B_B A_I R_I AE_I N_I DD_E
+بڑا B_B A_I RR_I AA_E
+بڑھا B_B A_I RRH_I AA_E
+بڑھانا B_B A_I RRH_I AA_I N_I AA_E
+بڑوں B_B A_I RR_I OON_E
+بڑے B_B A_I RR_I AE_E
+بڑی B_B A_I RR_I II_E
+بزی B_B A_I Z_I II_E
+بس B_B A_I S_E
+بسی B_B A_I S_I II_E
+بشریٰ B_B A_I SH_I A_I R_I II_E
+بشیر B_B A_I SH_I II_I R_E
+بعد B_B AA_I DD_E
+بغیر B_B A_I 7_I AY_I R_E
+بک B_B A_I K_E
+بکٹس B_B A_I K_I TT_I S_E
+بکواس B_B A_I K_I V_I AA_I S_E
+بکیٹ B_B A_I K_I AY_I TT_E
+بگر B_B I_I G_I A_I R_E
+بگڑ B_B I_I G_I A_I RR_E
+بل B_B A_I L_E
+بلاک B_B I_I L_I AA_I K_E
+بلاول B_B A_I L_I AA_I V_I A_I L_E
+بلڈنگ B_B I_I L_I DD_I I_I NG_E
+بلکہ B_B A_I L_I K_I AE_E
+بلکے B_B A_I L_I K_I AE_E
+بلند B_B A_I L_I A_I N_I DD_E
+بلیک B_B A_I L_I II_I K_E
+بن B_B A_I N_E
+بنا B_B A_I N_I AA_E
+بناِنے B_B A_I N_I AA_I I_I N_I AY_E
+بنایا B_B A_I N_I AA_I J_I AA_E
+بنائی B_B A_I N_I AA_I II_E
+بنتا B_B A_I N_I TD_I AA_E
+بنتی B_B A_I N_I TD_I II_E
+بند B_B A_I N_I DD_E
+بندا B_B A_I N_I DD_I AA_E
+بندہ B_B A_I N_I DD_I AA_E
+بندھ B_B A_I N_I DDH_E
+بندوں B_B A_I N_I DD_I OON_E
+بندے B_B A_I N_I DD_I AY_E
+بندی B_B A_I N_I DD_I II_E
+بنگلو B_B A_I NG_I L_I OO_E
+بہار B_B A_I H_I AA_I R_E
+بہت B_B A_I H_I A_I TD_E
+بہتر B_B E_I H_I TD_I A_I R_E
+بہن B_B A_I H_I A_I N_E
+بھاٹا BH_B AA_I TT_I AA_E
+بھالے BH_B AA_I L_I AY_E
+بھایا BH_B AA_I J_I AA_E
+بھائی BH_B AA_I II_E
+بھجوا BH_B I_I DZZ_I V_I AA_E
+بھجوایا BH_B I_I DZZ_I V_I AA_I J_I AA_E
+بھجوائے BH_B I_I DZZ_I V_I AA_I AY_E
+بھجوائیں BH_B I_I DZZ_I V_I AA_I AEN_E
+بھجوائیے BH_B I_I DZZ_I V_I AA_I II_I AY_E
+بھجے BH_B I_I DZZ_I AE_E
+بھرا BH_B A_I R_I AA_E
+بھڑوے BH_B A_I RR_I V_I AE_E
+بھلا BH_B A_I L_I AA_E
+بھول BH_B UU_I L_E
+بھی BH_B II_E
+بھیا BH_B A_I J_I AA_E
+بھیج BH_B AE_I DZZ_E
+بھیجا BH_B AE_I DZZ_I AA_E
+بھیجتے BH_B AY_I DZZ_I TD_I AY_E
+بھیجنا BH_B AY_I DZZ_I N_I AA_E
+بھیجو BH_B AY_I DZZ_I OO_E
+بھیجوا BH_B AE_I DZZ_I V_I AA_E
+بھیجے BH_B AE_I DZZ_I AE_E
+بھیجی BH_B AE_I DZZ_I II_E
+بھیجیں BH_B AE_I DZZ_I AEN_E
+بھیجینگے BH_B AE_I DZZ_I II_I NG_I G_I AE_E
+بھیجیے BH_B AE_I DZZ_I II_I AY_E
+بھیجئے BH_B AE_I DZZ_I I_I AE_E
+بھیک BH_B II_I K_E
+بھئی BH_B A_I II_E
+بوائز B_B U_I V_I AA_I I_I Z_E
+بوائے B_B UU_I AA_I AE_E
+بوآئز B_B OO_I AA_I I_I Z_E
+بوتل B_B OO_I TD_I A_I L_E
+بوتھ B_B UU_I TDH_E
+بوٹل B_B OO_I TT_I A_I L_E
+بوٹم B_B OO_I TT_I A_I M_E
+بورا B_B OO_I R_I AA_E
+بوس B_B OO_I S_E
+بوکس B_B O_I K_I S_E
+بول B_B OO_I L_E
+بولا B_B OO_I L_I AA_E
+بولتا B_B OO_I L_I TD_I AA_E
+بولتے B_B OO_I L_I TD_I AY_E
+بولنا B_B OO_I L_I N_I AA_E
+بولنے B_B OO_I L_I N_I AE_E
+بولو B_B OO_I L_I OO_E
+بولوں B_B OO_I L_I OON_E
+بولے B_B OO_I L_I AE_E
+بولی B_B OO_I L_I II_E
+بولیں B_B OO_I L_I AEN_E
+بولینگے B_B OO_I L_I AY_I NG_I G_I AY_E
+بولیے B_B OO_I L_I J_I AE_E
+بولیۓ B_B OO_I L_I II_E
+بے B_B AY_E
+بےبی B_B AY_I B_I II_E
+بےحد B_B AY_I H_I I_I DD_E
+بی B_B II_E
+بیانی B_B I_I J_I AA_I N_I II_E
+بیٹ B_B AE_I TT_E
+بیٹا B_B AE_I TT_I AA_E
+بیٹمین B_B AE_I TT_I M_I II_I N_E
+بیٹھ B_B AY_I TTH_E
+بیٹھا B_B AY_I TTH_I AA_E
+بیٹھایا B_B AY_I TTH_I AA_I J_I AA_E
+بیٹھائے B_B AY_I TTH_I AA_I AY_E
+بیٹھنا B_B AE_I TTH_I N_I AA_E
+بیٹھو B_B AY_I TTH_I OO_E
+بیٹھے B_B AY_I TTH_I AE_E
+بیٹھی B_B AY_I TTH_I II_E
+بیٹے B_B AE_I TT_I AY_E
+بیٹی B_B AE_I TT_I II_E
+بیچ B_B AE_I TSH_E
+بیچارہ B_B AY_I TSH_I AA_I R_I AA_E
+بیچارے B_B AE_I TSH_I AA_I R_I AE_E
+بیچاری B_B AY_I TSH_I AA_I R_I II_E
+بیڈ B_B AY_I DD_E
+بیزی B_B AE_I Z_I II_E
+بیس B_B II_I S_E
+بیسس B_B AE_I S_I I_I S_E
+بیسکلی B_B AE_I S_I K_I L_I II_E
+بیسمنٹ B_B AE_I S_I M_I E_I N_I TT_E
+بیسیکلی B_B AE_I S_I II_I K_I A_I L_I II_E
+بیشک B_B AE_I SH_I K_E
+بیف B_B II_I F_E
+بیک B_B AY_I K_E
+بیکری B_B AE_I K_I R_I II_E
+بیکز B_B AY_I K_I Z_E
+بیکن B_B AY_I K_I A_I N_E
+بیکوز B_B AY_I K_I UU_I Z_E
+بیکیو B_B AY_I K_I I_I J_I UU_E
+بیگ B_B AY_I G_E
+بیگر B_B AY_I G_I A_I R_E
+بیل B_B AE_I L_E
+بیلنس B_B AE_I L_I I_I N_I S_E
+بیلو B_B AE_I L_I OO_E
+بین B_B II_I N_E
+بینڈ B_B AE_I N_I DD_E
+بینک B_B AE_I N_I K_E
+بینگ B_B AE_I NG_E
+بیہاینڈ B_B AY_I H_I AA_I AY_I N_I D_E
+بیہیو B_B AY_I H_I II_I OO_E
+بیوقوف B_B AY_I V_I A_I Q_I UU_I F_E
+پ P_S
+پِگلی P_B A_I I_I G_I L_I II_E
+پاِس P_B AA_I I_I S_E
+پار P_B AA_I R_E
+پارٹ P_B AA_I R_I TT_E
+پارٹنر P_B AA_I R_I TT_I N_I A_I R_E
+پارک P_B AA_I R_I K_E
+پارلر P_B AA_I R_I L_I A_I R_E
+پاس P_B AA_I S_E
+پاکستان P_B AA_I K_I I_I S_I TD_I AA_I N_E
+پاگل P_B AA_I G_I A_I L_E
+پانچ P_B AA_I N_I TSH_E
+پانچوں P_B AA_I N_I TSH_I OON_E
+پانچوی P_B AA_I N_I TSH_I V_I II_E
+پانڈا P_B AA_I N_I DD_I AA_E
+پانڈہ P_B AA_I N_I DD_I AA_E
+پانی P_B AA_I N_I II_E
+پاور P_B AA_I V_I A_I R_E
+پاؤنڈ P_B AA_I UU_I N_I DD_E
+پاؤنڈر P_B AA_I UU_I N_I DD_I R_E
+پاے P_B AA_I AY_E
+پایا P_B AA_I J_I AA_E
+پائز P_B AA_I I_I Z_E
+پائے P_B AA_I AY_E
+پائی P_B AA_I II_E
+پآ P_B A_I AA_E
+پبلک P_B A_I B_I L_I I_I K_E
+پپپر P_B A_I P_I P_I A_I R_E
+پپلیس P_B A_I P_I L_I II_I S_E
+پتا P_B A_I TD_I TD_I AA_E
+پتہ P_B A_I TD_I TD_I AA_E
+پتھر P_B A_I TDH_I TDH_I A_I R_E
+پٹ P_B A_I TT_E
+پچاس P_B A_I TSH_I AA_I S_E
+پچپن P_B A_I TSH_I P_I A_I N_E
+پچھلے P_B I_I TSHH_I L_I AE_E
+پچھلی P_B I_I TSHH_I L_I II_E
+پچیانوے P_B A_I TSH_I I_I J_I AA_I N_I V_I AY_E
+پچیس P_B A_I TSH_I TSH_I II_I S_E
+پحنچ P_B A_I H_I N_I TSH_E
+پر P_B A_I R_E
+پرابلم P_B A_I R_I AA_I B_I L_I A_I M_E
+پراٹھے P_B A_I R_I AA_I TTH_I AE_E
+پراڈکٹ P_B A_I R_I AA_I DD_I I_I K_I TT_E
+پراک P_B A_I R_I AA_I K_E
+پرانا P_B A_I R_I AA_I N_I AA_E
+پرانے P_B A_I R_I AA_I N_I AY_E
+پرانی P_B A_I R_I AA_I N_I II_E
+پرائزوں P_B A_I R_I AA_I I_I Z_I OON_E
+پرائس P_B A_I R_I AA_I I_I S_E
+پرائسز P_B A_I R_I AA_I I_I S_I I_I Z_E
+پرائم P_B A_I R_I AA_I I_I M_E
+پرسن P_B U_I R_I S_I A_I N_E
+پرسنالی P_B A_I R_I S_I N_I AA_I L_I II_E
+پرسنڈ P_B U_I R_I S_I A_I N_I DD_E
+پرسنز P_B U_I R_I S_I A_I N_I Z_E
+پرسنل P_B U_I R_I S_I I_I N_I A_I L_E
+پرسنلی P_B U_I R_I S_I I_I N_I A_I L_I II_E
+پرسو P_B U_I R_I S_I OO_E
+پرسوں P_B U_I R_I S_I OON_E
+پرسیو P_B A_I R_I S_I II_I OO_E
+پرل P_B A_I R_I A_I L_E
+پرموشن P_B A_I R_I M_I OO_I SH_I A_I N_E
+پرمیشن P_B I_I R_I M_I AY_I SH_I A_I N_E
+پرنی P_B A_I R_I N_I II_E
+پرہوگی P_B A_I R_I H_I OO_I G_I II_E
+پرو P_B A_I R_I OO_E
+پروان P_B A_I R_I V_I AA_I N_E
+پرواہ P_B A_I R_I V_I AA_E
+پروائیڈ P_B A_I R_I V_I AA_I II_I DD_E
+پروبلم P_B U_I R_I OO_I B_I A_I L_I M_E
+پروبلیم P_B U_I R_I OO_I B_I A_I L_I II_I M_E
+پروپر P_B A_I R_I OO_I P_I A_I R_E
+پروٹوکول P_B A_I R_I OO_I TT_I OO_I K_I OO_I L_E
+پروڈکٹ P_B A_I R_I OO_I DD_I I_I K_I TT_E
+پروسیس P_B U_I R_I OO_I S_I AY_I S_E
+پروسیسنگ P_B A_I R_I OO_I S_I AY_I S_I I_I NG_E
+پروف P_B U_I R_I UU_I F_E
+پروموشن P_B A_I R_I OO_I M_I OO_I SH_I A_I N_E
+پروموشنز P_B A_I R_I OO_I M_I OO_I SH_I A_I N_I Z_E
+پرووایڈ P_B U_I R_I UU_I V_I AE_I DD_E
+پری P_B A_I R_I II_E
+پریٹیو P_B A_I R_I AY_I TT_I II_I V_E
+پریشان P_B A_I R_I AY_I SH_I AA_I N_E
+پریشانی P_B A_I R_I AY_I SH_I AA_I N_I II_E
+پریویس P_B A_I R_I AY_I V_I AE_I S_E
+پریویسلی P_B A_I R_I AY_I V_I AY_I S_I L_I II_E
+پڑا P_B A_I RR_I AA_E
+پڑتا P_B A_I RR_I TD_I AA_E
+پڑتی P_B A_I RR_I TD_I II_E
+پڑھ P_B A_I RRH_E
+پڑھا P_B A_I RRH_I AA_E
+پڑھے P_B A_I RRH_I AE_E
+پڑھی P_B A_I RRH_I II_E
+پڑے P_B A_I RR_I AE_E
+پڑیاں P_B A_I RR_I I_I J_I AAN_E
+پڑیگا P_B A_I RR_I II_I G_I AA_E
+پس P_B I_I S_E
+پسند P_B A_I S_I A_I N_I DD_E
+پسندیدہ P_B A_I S_I A_I N_I DD_I II_I DD_I AA_E
+پشاور P_B U_I SH_I AA_I V_I A_I R_E
+پک P_B A_I K_E
+پکڑ P_B A_I K_I A_I RR_E
+پکڑا P_B A_I K_I RR_I AA_E
+پکڑانا P_B A_I K_I RR_I AA_I N_I AA_E
+پکڑایا P_B A_I K_I RR_I AA_I J_I AA_E
+پکڑنا P_B A_I K_I A_I RR_I N_I AA_E
+پکل P_B A_I K_I A_I L_E
+پکلز P_B A_I K_I A_I L_I Z_E
+پل P_B A_I L_E
+پلاٹ P_B A_I L_I AA_I TT_E
+پلازا P_B A_I L_I AA_I Z_I AA_E
+پلز P_B A_I L_I Z_E
+پلس P_B A_I L_I A_I S_E
+پلن P_B A_I L_I A_I N_E
+پلوشہ P_B A_I L_I OO_I SH_I AA_E
+پلیز P_B L_I II_I Z_E
+پلیس P_B A_I L_I AE_I S_E
+پلیسڈ P_B A_I L_I AY_I S_I DD_E
+پلین P_B A_I L_I II_I N_E
+پن P_B A_I N_E
+پنتالیس P_B I_I N_I TD_I AA_I L_I II_I S_E
+پنجاب P_B A_I N_I DZZ_I AA_I B_E
+پنچ P_B A_I N_I TSH_E
+پندرہ P_B A_I N_I DD_I A_I R_I AA_E
+پندرھوی P_B A_I N_I DD_I A_I R_I V_I II_E
+پندہ P_B A_I N_I DD_I AA_E
+پنک P_B I_I N_I K_E
+پہ P_B A_I H_E
+پہلا P_B E_I H_I L_I AA_E
+پہلے P_B E_I H_I L_I AE_E
+پہلی P_B E_I H_I L_I II_E
+پہنچ P_B A_I H_I U_I N_I TSH_E
+پہنچا P_B A_I H_I U_I N_I TSH_I AA_E
+پہنچائےیں P_B A_I H_I N_I TSH_I AA_I AY_I AYN_E
+پہنچے P_B A_I H_I A_I N_I TSH_I AY_E
+پہنچی P_B AEH_I H_I N_I TSH_I II_E
+پھدو PH_B A_I DD_I DD_I UU_E
+پھر PH_B I_I R_E
+پھروں PH_B I_I R_I OON_E
+پھسا PH_B U_I S_I AA_E
+پھوڑ PH_B UU_I RR_E
+پھینک PH_B AEN_I K_E
+پوائنٹ P_B U_I V_I AA_I I_I N_I TT_E
+پوائنٹس P_B U_I V_I AA_I I_I N_I TT_I S_E
+پوٹ P_B OO_I TT_E
+پوٹلے P_B OO_I TT_I L_I AY_E
+پوٹیٹو P_B OO_I TT_I AE_I TT_I I_I V_E
+پوچھ P_B UU_I TSHH_E
+پوچھا P_B UU_I TSHH_I AA_E
+پوچھتا P_B UU_I TSH_I TD_I AA_E
+پوچھتے P_B UU_I TSH_I TD_I AY_E
+پوچھنا P_B UU_I TSH_I N_I AA_E
+پوچھنے P_B UU_I TSHH_I N_I AE_E
+پوچھو P_B UU_I TSHH_I OO_E
+پوچھے P_B UU_I TSHH_I AE_E
+پوچھی P_B UU_I TSHH_I II_E
+پوچھیں P_B UU_I TSHH_I AEN_E
+پورا P_B UU_I R_I AA_E
+پورٹ P_B OO_I R_I TT_E
+پورشن P_B OO_I R_I SH_I A_I N_E
+پورشنز P_B OO_I R_I SH_I A_I N_I Z_E
+پورے P_B UU_I R_I AE_E
+پوری P_B UU_I R_I II_E
+پوزیشن P_B OO_I Z_I II_I SH_I A_I N_E
+پوسٹ P_B OO_I S_I TT_E
+پوسیبل P_B OO_I S_I II_I B_I L_E
+پوسیبلیٹی P_B OO_I S_I II_I B_I L_I II_I TT_I II_E
+پولسی P_B OO_I L_I S_I II_E
+پولیس P_B OO_I L_I II_I S_E
+پولیسیسز P_B OO_I L_I II_I S_I AE_I S_I I_I Z_E
+پونا P_B OO_I N_I AA_E
+پونے P_B O_I N_I AE_E
+پوئن P_B UU_I I_I N_E
+پے P_B AY_E
+پےایبل P_B A_I AY_I AY_I B_I A_I L_E
+پےبرانچ P_B A_I AY_I B_I A_I R_I AA_I N_I TSH_E
+پی P_B II_E
+پیایبل P_B AY_I AE_I B_I A_I L_E
+پیبل P_B AY_I B_I A_I L_E
+پیپر P_B II_I P_I A_I R_E
+پیپسی P_B AY_I P_I S_I II_E
+پیپل P_B AE_I P_I A_I L_E
+پیتے P_B II_I TD_I AY_E
+پیتی P_B II_I TD_I II_E
+پیٹی P_B II_I TT_I II_E
+پیٹیز P_B AE_I TT_I II_I Z_E
+پیٹیوں P_B II_I TT_I II_I OON_E
+پیج P_B AY_I DZZ_E
+پیچھلے P_B II_I TSHH_I L_I AE_E
+پیچھلی P_B II_I TSHH_I L_I II_E
+پیچھے P_B II_I TSHH_I AE_E
+پیراگون P_B AE_I R_I AA_I G_I OO_I N_E
+پیز P_B II_I Z_E
+پیزا P_B AY_I Z_I AA_E
+پیزے P_B AE_I Z_I AE_E
+پیس P_B AY_I S_E
+پیسز P_B AE_I S_I I_I Z_E
+پیسے P_B AY_I S_I AE_E
+پیک P_B AE_I K_E
+پیکٹ P_B AE_I K_I TT_E
+پیکنگ P_B AE_I K_I I_I NG_E
+پیلس P_B AE_I L_I A_I S_E
+پیمانہ P_B AE_I M_I AA_I N_I AA_E
+پیمنٹ P_B AY_I M_I N_I T_E
+پیمننے P_B AY_I M_I N_I N_I AY_E
+پین P_B II_I N_E
+پینتالیس P_B AEN_I TD_I AA_I L_I II_I S_E
+پینتیس P_B AEN_I TD_I II_I S_E
+پینسٹ P_B AE_I N_I S_I TT_E
+پیوپل P_B AE_I OO_I P_I A_I L_E
+پیوپلز P_B AE_I OO_I P_I A_I L_I Z_E
+پیوں P_B II_I OON_E
+پیئے P_B II_I AY_E
+تا TD_B AA_E
+تابندہ TD_B AA_I B_I I_I N_I DD_I AA_E
+تاجدین TD_B AA_I DZZ_I DD_I II_I N_E
+تاریخ TD_B AA_I R_I II_I X_E
+تاشی TD_B AA_I SH_I II_E
+تاشین TD_B AA_I SH_I II_I N_E
+تافتان TD_B AA_I F_I TD_I AA_I N_E
+تاکہ TD_B AA_I K_I AA_E
+تب TD_B A_I B_E
+تبریز TD_B A_I B_I R_I II_I Z_E
+تبھی TD_B A_I BH_I II_E
+ترقیاتی TD_B A_I R_I Q_I I_I J_I AA_I TD_I II_E
+تسمیہ TD_B A_I S_I M_I I_I J_I AA_E
+تصویر TD_B A_I S_I V_I II_I R_E
+تصویریں TD_B A_I S_I V_I II_I R_I AEN_E
+تفصیل TD_B A_I F_I S_I II_I L_E
+تفصیلات TD_B A_I F_I S_I II_I L_I AA_I TD_E
+تقریبًا TD_B A_I Q_I R_I II_I B_I A_I A_I N_E
+تقریبا TD_B A_I Q_I R_I II_I B_I A_I N_E
+تقریباً TD_B A_I Q_I R_I II_I B_I A_I N_E
+تک TD_B A_I K_E
+تکلیف TD_B A_I K_I L_I II_I F_E
+تم TD_B A_I M_E
+تماچہ TD_B A_I M_I AA_I TSH_I AA_E
+تماشا TD_B A_I M_I AA_I SH_I AA_E
+تماشے TD_B A_I M_I AA_I SH_I AY_E
+تمام TD_B A_I M_I AA_I M_E
+تمہارا TD_B U_I M_I H_I AA_I R_I AA_E
+تمہارے TD_B U_I M_I H_I AA_I R_I AE_E
+تمہے TD_B U_I M_I H_I AE_E
+تمہیں TD_B U_I M_I H_I AEN_E
+تمھیں TD_B U_I M_I M_I AYN_E
+تمیز TD_B A_I M_I II_I Z_E
+تمیم TD_B A_I M_I II_I M_E
+تنزیلا TD_B A_I N_I Z_I II_I L_I AA_E
+تنزیلہ TD_B A_I N_I Z_I II_I L_I AA_E
+تنگ TD_B A_I NG_E
+تہ TD_B AA_E
+تہمور TD_B AEH_I H_I M_I UU_I R_E
+تہہ TD_B AEH_I H_E
+تھ TDH_S
+تھا TDH_B AA_E
+تھاوُزنڈ TDH_B AA_I V_I A_I U_I Z_I A_I N_I DD_E
+تھاؤزنڈ TDH_B AA_I UU_I Z_I A_I N_I DD_E
+تھاؤزینڈ TDH_B AA_I UU_I Z_I AE_I N_I DD_E
+تھائے TDH_B AA_I AY_E
+تھائی TDH_B AA_I II_E
+تھپڑ TDH_B A_I P_I P_I A_I RR_E
+تھرٹی TDH_B I_I R_I TT_I II_E
+تھرٹین TDH_B R_I T_I II_I N_E
+تھرڈ TDH_B A_I R_I DD_E
+تھرو TDH_B A_I R_I UU_E
+تھری TDH_B R_I II_E
+تھریون TDH_B I_I R_I II_I V_I A_I N_E
+تھک TDH_B A_I K_E
+تھکی TDH_B A_I K_I K_I II_E
+تھنک TDH_B I_I N_I K_E
+تھنگ TDH_B A_I NG_E
+تھنگس TDH_B A_I NG_I G_E
+تھورو TDH_B UU_I R_I UU_E
+تھوڑا TDH_B OO_I RR_I AA_E
+تھوڑے TDH_B OO_I RR_I AE_E
+تھوڑی TDH_B OO_I RR_I II_E
+تھے TDH_B AE_E
+تھی TDH_B II_E
+تھیلی TDH_B AY_I L_I II_E
+تھیں TDH_B IIN_E
+تھینک TDH_B AY_I N_I K_E
+تھینکس TDH_B AY_I N_I K_I S_E
+تو TD_B OO_E
+توکہا TD_B A_I V_I A_I K_I A_I H_I AA_E
+تویلو TD_B A_I V_I II_I L_I OO_E
+تے TD_B AY_E
+تیار TD_B A_I J_I J_I AA_I R_E
+تیرا TD_B AE_I R_I AA_E
+تیرہ TD_B AE_I R_I AA_E
+تیرے TD_B AY_I R_I AE_E
+تیس TD_B II_I S_E
+تیسرا TD_B II_I S_I R_I AA_E
+تیمور TD_B II_I M_I UU_I R_E
+تین TD_B II_I N_E
+تینو TD_B II_I N_I OO_E
+تینوں TD_B II_I N_I OON_E
+ٹِیسٹ TT_B I_I E_I S_I TT_E
+ٹاپنگ TT_B AA_I P_I NG_E
+ٹاٹا TT_B AA_I TT_I AA_E
+ٹاک TT_B AA_I K_E
+ٹاکنگ TT_B AA_I K_I I_I NG_E
+ٹال TT_B AA_I L_E
+ٹاور TT_B AA_I V_I A_I R_E
+ٹاؤن TT_B AA_I UU_I N_E
+ٹائم TT_B AA_I I_I M_E
+ٹائمز TT_B AA_I I_I M_I Z_E
+ٹائمنگ TT_B AA_I I_I M_I I_I NG_E
+ٹائمنگز TT_B AA_I I_I M_I I_I NG_I Z_E
+ٹپ TT_B I_I P_E
+ٹرانسفر TT_B A_I R_I AA_I N_I S_I F_I A_I R_E
+ٹرائے TT_B A_I R_I AA_I AY_E
+ٹرائی TT_B A_I R_I AA_I II_E
+ٹرپ TT_B I_I R_I I_I P_E
+ٹرپل TT_B A_I R_I P_I I_I L_E
+ٹرسٹ TT_B A_I R_I A_I S_I TT_E
+ٹرمز TT_B A_I R_I A_I M_I Z_E
+ٹرن TT_B A_I R_I A_I N_E
+ٹرے TT_B A_I R_I R_I AY_E
+ٹریپل TT_B A_I R_I AE_I P_I A_I L_E
+ٹریڈ TT_B A_I R_I AE_I DD_E
+ٹریڈنگ TT_B A_I R_I AE_I DD_I I_I NG_E
+ٹریک TT_B A_I R_I AE_I K_E
+ٹرین TT_B A_I R_I AE_I N_E
+ٹکی TT_B A_I K_I II_E
+ٹماٹو TT_B I_I M_I AA_I TT_I OO_E
+ٹھائے TTH_B AA_I AY_E
+ٹھنڈا TTH_B A_I N_I DD_I AA_E
+ٹھنڈے TTH_B A_I N_I DD_I AY_E
+ٹھنڈی TTH_B A_I N_I DD_I II_E
+ٹھہر TTH_B A_I H_I A_I R_E
+ٹھہرو TTH_B E_I H_I R_I OO_E
+ٹھیک TTH_B AY_I K_E
+ٹو TT_B OO_E
+ٹواے TT_B U_I V_I AA_I AY_E
+ٹوائز T_B V_I AA_I A_I Z_E
+ٹوائس TT_B U_I V_I AA_I I_I S_E
+ٹوائے TT_B U_I V_I AA_I I_I AE_E
+ٹوپ TT_B OO_I P_E
+ٹوپنگ TT_B OO_I P_I I_I NG_E
+ٹوٹ TT_B UU_I TT_E
+ٹوٹل TT_B OO_I TT_I A_I L_E
+ٹوٹلی TT_B OO_I TT_I L_I II_E
+ٹوٹوریل TT_B OO_I TT_I OO_I R_I II_I L_E
+ٹوماٹو TT_B OO_I M_I AA_I TT_I OO_E
+ٹومیٹوز TT_B OO_I M_I AY_I TT_I OO_I Z_E
+ٹونٹی TT_B OO_I N_I TT_I II_E
+ٹوویل TT_B OO_I V_I II_I L_E
+ٹوویلو TT_B OO_I V_I AE_I L_I OO_E
+ٹووینٹی TT_B OO_I V_I AE_I N_I TT_I II_E
+ٹویلو TT_B U_I V_I AE_I L_I OO_E
+ٹویلوے TT_B U_I V_I AE_I L_I V_I AY_E
+ٹوین TT_B U_I V_I AE_I N_E
+ٹوینٹی TT_B U_I V_I AE_I N_I TT_I II_E
+ٹی TT_B II_E
+ٹیبل TT_B AY_I B_I A_I L_E
+ٹیٹرا TT_B AE_I TT_I R_I AA_E
+ٹیٹوریل TT_B AY_I TT_I OO_I R_I I_I J_I A_I L_E
+ٹیسٹ TT_B AE_I S_I TT_E
+ٹیشو TT_B AE_I SH_I UU_E
+ٹیک TT_B AE_I K_E
+ٹیکر TT_B AE_I K_I A_I R_E
+ٹیکرس TT_B AE_I K_I A_I R_I A_I S_E
+ٹیکس TT_B AE_I K_I S_E
+ٹیکنگ TT_B AE_I K_I I_I NG_E
+ٹیکنیکل TT_B AE_I K_I N_I II_I K_I A_I L_E
+ٹیل TT_B AY_I L_E
+ٹیلنگ یو_B T_I J_I L_I N_I G_I J_I OO_E
+ٹیم TT_B II_I M_E
+ٹین TT_B II_I N_E
+ٹینٹ TT_B AE_I N_I TT_E
+ثاقب S_B AA_I Q_I I_I B_E
+ثمرا S_B A_I M_I R_I AA_E
+ثنا S_B A_I N_I AA_E
+ثناء S_B A_I N_I AA_E
+جا DZZ_B AA_E
+جاتا DZZ_B AA_I TD_I AA_E
+جاتے DZZ_B AA_I TD_I AY_E
+جاتی DZZ_B AA_I TD_I II_E
+جاری DZZ_B AA_I R_I II_E
+جاز DZZ_B AA_I Z_E
+جاسکی DZZ_B AA_I S_I K_I II_E
+جاکر DZZ_B AA_I K_I A_I R_E
+جامع DZZ_B AA_I M_I AY_E
+جان DZZ_B AA_I N_E
+جانا DZZ_B AA_I N_I AA_E
+جانب DZZ_B AA_I N_I I_I B_E
+جاننا DZZ_B AA_I N_I N_I AA_E
+جانے DZZ_B AA_I N_I AY_E
+جانیب DZZ_B AA_I N_I II_I B_E
+جاہ DZZ_B AA_I AA_E
+جاوید DZZ_B AA_I V_I AE_I DD_E
+جاؤ DZZ_B AA_I OO_E
+جاؤں DZZ_B AA_I UUN_E
+جاے DZZ_B AA_I AY_E
+جاینگے DZZ_B AA_I II_I NG_I G_I AE_E
+جائے DZZ_B AA_I AY_E
+جائیں DZZ_B AA_I AEN_E
+جائینگی DZZ_B AA_I II_I NG_I G_I II_E
+جائیے DZZ_B AA_I II_I AY_E
+جآر DZZ_B A_I AA_I R_E
+جب DZZ_B A_I B_E
+جبران DZZ_B A_I B_I R_I AA_I N_E
+جتنا DZZ_B I_I TD_I N_I AA_E
+جتنے DZZ_B I_I TD_I N_I AY_E
+جدون DZZ_B A_I DD_I UU_I N_E
+جرنل DZZ_B A_I R_I N_I A_I L_E
+جس DZZ_B I_I S_E
+جسٹ DZZ_B A_I S_I TT_E
+جسے DZZ_B A_I S_I AY_E
+جسی DZZ_B I_I S_I II_E
+جکدیش DZZ_B A_I K_I DD_I AY_I SH_E
+جگ DZZ_B A_I G_E
+جگہ DZZ_B A_I G_I AA_E
+جلال DZZ_B A_I L_I AA_I L_E
+جلد DZZ_B I_I L_I DD_E
+جلدی DZZ_B A_I L_I DD_I II_E
+جمال DZZ_B A_I M_I AA_I L_E
+جمبو DZZ_B A_I M_I B_I UU_E
+جمپنگ DZZ_B A_I M_I P_I I_I NG_E
+جن DZZ_B A_I N_E
+جناب DZZ_B A_I N_I AA_I B_E
+جناح DZZ_B A_I N_I AA_E
+جنہوں DZZ_B I_I N_I H_I OON_E
+جنیجو DZZ_B I_I N_I AE_I DZZ_I OO_E
+جنید DZZ_B A_I N_I II_I DD_E
+جہاں DZZ_B A_I H_I AAN_E
+جھگڑا DZZH_B A_I G_I RR_I AA_E
+جھوٹ DZZH_B UU_I TT_E
+جو DZZ_B OO_E
+جواب DZZ_B A_I V_I AA_I B_E
+جواد DZZ_B A_I V_I AA_I DD_E
+جوس DZZ_B UU_I S_E
+جوسز DZZ_B O_I S_I I_I Z_E
+جوسی DZZ_B UU_I S_I II_E
+جون DZZ_B UU_I N_E
+جونسی DZZ_B O_I N_I S_I II_E
+جونئیر DZZ_B UU_I N_I I_I J_I A_I R_E
+جوہر DZZ_B O_I H_I A_I R_E
+جے DZZ_B AY_E
+جی DZZ_B II_E
+جیزمین DZZ_B AY_I Z_I M_I AE_I N_E
+جیسا DZZ_B AY_I S_I AA_E
+جیسے DZZ_B AY_I S_I AE_E
+جیل DZZ_B AY_I L_E
+جینہ DZZ_B II_I N_I AA_E
+جینیولی DZZ_B II_I N_I J_I UU_I L_I II_E
+جیئے DZZ_B II_I AY_E
+جیۓ DZZ_B II_E
+جئے DZZ_B A_I AE_E
+جئیے DZZ_B A_I II_I AY_E
+چا TSH_B AA_E
+چاپ TSH_B AA_I P_E
+چار TSH_B AA_I R_E
+چارج TSH_B AA_I R_I DZZ_E
+چارجز TSH_B AA_I R_I DZZ_I I_I Z_E
+چاروں TSH_B AA_I R_I OON_E
+چاشتی TSH_B AA_I SH_I TD_I II_E
+چاکلیٹ TSH_B AA_I K_I L_I AY_I TT_E
+چاکن TSH_B AA_I K_I A_I N_E
+چال TSH_B AA_I L_E
+چالیس TSH_B AA_I L_I II_I S_E
+چالیں TSH_B AA_I L_I AYN_E
+چاہ TSH_B AA_E
+چاہتا TSH_B AA_I H_I TD_I AA_E
+چاہتے TSH_B AA_I H_I TD_I AE_E
+چاہتی TSH_B AA_I H_I TD_I II_E
+چاہتیں TSH_B AA_I H_I A_I TD_I AYN_E
+چاہوں TSH_B AA_I H_I OON_E
+چاہونگا TSH_B AA_I H_I OO_I NG_I G_I AA_E
+چاہے TSH_B AA_I H_I AY_E
+چاہیں TSH_B AA_I H_I AYN_E
+چاہیںگے TSH_B AA_I H_I IIN_I G_I AE_E
+چاہیے TSH_B AA_I H_I I_I J_I AE_E
+چاہیئں TSH_B AA_I H_I II_E
+چاہیۓ TSH_B AA_I H_I II_E
+چاہئے TSH_B AA_I H_I II_I AE_E
+چاہئیے TSH_B AA_I H_I I_I J_I AY_E
+چاھیںگی TSH_B AA_I AYN_I G_I II_E
+چاھینگی TSH_B AA_I II_I NG_I G_I II_E
+چائے TSH_B AA_I AE_E
+چآ TSH_B AA_E
+چپ TSH_B A_I P_E
+چپس TSH_B A_I P_I S_E
+چپلی TSH_B A_I P_I L_I II_E
+چپوٹلے TSH_B A_I P_I OO_I TT_I L_I AY_E
+چدائی TSH_B A_I DD_I AA_I II_E
+چرچ TSH_B A_I R_I TSH_E
+چک TSH_B A_I K_E
+چکا TSH_B U_I K_I AA_E
+چکر TSH_B A_I K_I K_I A_I R_E
+چکروں TSH_B A_I K_I R_I OON_E
+چکن TSH_B I_I K_I K_I A_I N_E
+چکے TSH_B A_I K_I AY_E
+چکی TSH_B A_I K_I II_E
+چل TSH_B A_I L_E
+چلا TSH_B A_I L_I L_I AA_E
+چلتا TSH_B A_I L_I TD_I AA_E
+چلو TSH_B A_I L_I OO_E
+چلے TSH_B A_I L_I AE_E
+چلی TSH_B A_I L_I L_I II_E
+چلیں TSH_B A_I L_I AEN_E
+چند TSH_B A_I N_I DD_E
+چھا TSHH_B AA_E
+چھبیس TSHH_B A_I B_I B_I II_I S_E
+چھت TSH_B A_I TD_E
+چھڑک TSHH_B I_I RR_I A_I K_E
+چھوٹ TSH_B UU_I TT_E
+چھوٹا TSH_B UU_I TT_I AA_E
+چھوٹے TSHH_B OO_I TT_I AE_E
+چھوٹی TSH_B UU_I TT_I II_E
+چھوڑ TSH_B OO_I RR_E
+چھے TSHH_B AE_E
+چھی TSHH_B II_E
+چوائس TSH_B U_I V_I AA_I I_I S_E
+چوبیس TSH_B O_I B_I II_I S_E
+چوتھا TSH_B O_I TDH_I AA_E
+چوتھی TSH_B OO_I TDH_I II_E
+چود TSH_B UU_I DD_E
+چودائی TSH_B O_I DD_I AA_I II_E
+چودھری TSH_B O_I DDH_I R_I II_E
+چودو TSH_B O_I DD_I OO_E
+چودوں TSH_B O_I DD_I OON_E
+چوڑا TSH_B O_I RR_I AA_E
+چوک TSH_B O_I K_E
+چوکا TSH_B UU_I K_I AA_E
+چوکلیٹ TSH_B O_I K_I L_I AY_I TT_E
+چوکلیٹس TSH_B O_I K_I L_I AY_I TT_I S_E
+چوکو TSH_B O_I K_I OO_E
+چول TSH_B O_I L_E
+چولہوں TSH_B UU_I L_I H_I OON_E
+چوہدری TSH_B O_I H_I DD_I R_I II_E
+چے TSH_B AE_E
+چیپوٹلے TSH_B AE_I P_I OO_I TT_I L_I AY_E
+چیج TSH_B AE_I DZZ_E
+چیز TSH_B II_I Z_E
+چیزوں TSH_B II_I Z_I OON_E
+چیزے TSH_B II_I Z_I AE_E
+چیزی TSH_B II_I Z_I II_E
+چیزیں TSH_B II_I Z_I AEN_E
+چیس TSH_B AE_I S_E
+چیسٹ TSH_B E_I S_I TT_E
+چیسی TSH_B AE_I S_I II_E
+چیک TSH_B E_I K_E
+چین TSH_B II_I N_E
+چینج TSH_B AE_I N_I DZZ_E
+حا H_B AA_E
+حارث H_B AA_I R_I I_I S_E
+حاصل H_B AA_I S_I I_I L_E
+حاضر H_B AA_I Z_I I_I R_E
+حافظ H_B AA_I F_I Z_E
+حال H_B AA_I L_E
+حالانکے H_B AA_I L_I AAN_I K_I AY_E
+حالت H_B AA_I L_I A_I TD_E
+حالی H_B AA_I L_I II_E
+حامد H_B AA_I M_I I_I DD_E
+حائقہ H_B AA_I I_I Q_I AA_E
+حبیب H_B A_I B_I II_I B_E
+حد H_B A_I DD_E
+حدیقہ H_B A_I DD_I II_I Q_I AA_E
+حرکت H_B A_I R_I K_I A_I TD_E
+حرکتے H_B A_I R_I K_I A_I TD_I AY_E
+حریم H_B A_I R_I II_I M_E
+حساب H_B I_I S_I AA_I B_E
+حسام H_B A_I S_I AA_I M_E
+حسان H_B A_I S_I AA_I N_E
+حسن H_B A_I S_I A_I N_E
+حسیب H_B A_I S_I II_I B_E
+حسین H_B A_I S_I II_I N_E
+حضرت H_B A_I Z_I R_I A_I TD_E
+حفصہ H_B I_I F_I S_I S_I AA_E
+حکم H_B U_I K_I M_E
+حل H_B A_I L_E
+حماد H_B A_I M_I M_I AA_I DD_E
+حمزہ H_B A_I M_I Z_I AA_E
+حمیداللہ H_B A_I M_I II_I DD_I U_I L_I L_I AA_E
+حنا H_B A_I N_I N_I AA_E
+حوالے H_B A_I V_I AA_I L_I AY_E
+حیا H_B A_I J_I AA_E
+حیدر H_B AY_I DD_I A_I R_E
+حیدرآباد H_B AE_I DD_I R_I AY_I AA_I B_I AA_I DD_E
+خاِن X_B AA_I I_I A_I N_E
+خاتون X_B AA_I TD_I UU_I N_E
+خالد X_B AA_I L_I I_I DD_E
+خالی X_B AA_I L_I II_E
+خامہ X_B AA_I M_I AA_E
+خاموشی X_B AA_I M_I OO_I SH_I II_E
+خان X_B AA_I N_E
+خانزادہ X_B AA_I N_I Z_I AA_I DD_I AA_E
+خبری X_B A_I B_I R_I II_E
+ختم X_B A_I TD_I M_E
+خدا X_B U_I DD_I AA_E
+خدمت X_B I_I DD_I M_I A_I TD_E
+خدیجہ X_B U_I DD_I II_I DZZ_I AA_E
+خرّم X_B U_I R_I J_I U_I M_E
+خراب X_B A_I R_I AA_I B_E
+خرم X_B U_I R_I M_E
+خلاف X_B I_I L_I AA_I F_E
+خوا X_B AA_E
+خواں X_B A_I V_I AAN_E
+خواہ X_B AA_E
+خود X_B U_I DD_E
+خوش X_B U_I SH_E
+خیابان X_B A_I J_I AA_I B_I AA_I N_E
+خیابانِ X_B A_I J_I AA_I B_I AAN_I I_E
+خیال X_B A_I J_I AA_I L_E
+خیبر X_B AE_I B_I A_I R_E
+خیر X_B AY_I R_E
+خیرالورا X_B AY_I R_I U_I L_I UU_I R_I AA_E
+خیرالورہ X_B AY_I R_I U_I L_I UU_I R_I AA_E
+خیریت X_B AE_I R_I I_I J_I A_I TD_E
+دِس DD_B I_I S_E
+دا DD_B AA_E
+دارلصحت DD_B AA_I R_I U_I L_I S_I AE_I H_I H_I A_I TD_E
+دال DD_B AA_I L_E
+دانش DD_B AA_I N_I I_I SH_E
+دانیال DD_B AA_I N_I I_I J_I AA_I L_E
+داوے DD_B AA_I V_I AY_E
+دائم DD_B AA_I I_I M_E
+دبارہ DD_B A_I B_I AA_I R_I AA_E
+دٹیلس DD_B TT_I II_I L_I A_I S_E
+دجیئے DD_B DZ_I II_I AE_E
+دخلیں DD_B A_I X_I L_I AEN_E
+دراصل DD_B A_I R_I A_I S_I L_E
+درکار DD_B A_I R_I K_I AA_I R_E
+درنگ DD_B R_I I_I NG_E
+دس DD_B A_I S_E
+دسمبر DD_B A_I S_I A_I M_I B_I A_I R_E
+دعا DD_B U_I AA_E
+دفتر DD_B A_I F_I TD_I A_I R_E
+دفتری DD_B A_I F_I TD_I A_I R_I II_E
+دفعہ DD_B A_I F_I AA_E
+دفہ DD_B I_I F_I AA_E
+دکان DD_B U_I K_I AA_I N_E
+دکھ DD_B U_I KH_E
+دکھا DD_B U_I KH_I AA_E
+دکھائی DD_B I_I KH_I AA_I II_E
+دکھنے DD_B U_I KH_I N_I AE_E
+دکھے DD_B U_I KH_I AE_E
+دل DD_B I_I L_E
+دم DD_B A_I M_E
+دماغ DD_B I_I M_I AA_I 7_E
+دن DD_B A_I N_E
+دنوں DD_B I_I N_I OON_E
+دنیا DD_B U_I N_I J_I AA_E
+دہ DD_B AA_E
+دھڑلے DDH_B A_I RR_I A_I L_I L_I AE_E
+دو DD_B OO_E
+دوبارہ DD_B OO_I B_I AA_I R_I AA_E
+دوپہر DD_B O_I P_I AEH_I H_I R_E
+دودھ DD_B UU_I DDH_E
+دودو DD_B UU_I DD_I OO_E
+دور DD_B UU_I R_E
+دوست DD_B OO_I S_I TD_E
+دوسرا DD_B UU_I S_I R_I AA_E
+دوسرے DD_B UU_I S_I R_I AE_E
+دوسری DD_B UU_I S_I R_I II_E
+دوں DD_B OON_E
+دونگا DD_B OO_I NG_I G_I AA_E
+دونگی DD_B OO_I NG_I II_E
+دونوں DD_B OO_I N_I OON_E
+دے DD_B AY_E
+دی DD_B II_E
+دیا DD_B I_I J_I AA_E
+دیتا DD_B AE_I TD_I AA_E
+دیتے DD_B AE_I TD_I AE_E
+دیتی DD_B AE_I TD_I II_E
+دیٹ DD_B AE_I TT_E
+دیٹس DD_B AE_I TT_I S_E
+دیجے DD_B II_I DZZ_I AE_E
+دیجیگا DD_B II_I DZ_I II_I G_I AA_E
+دیجیے DD_B II_I DZZ_I II_I AY_E
+دیجیئے DD_B II_I DZ_I II_I AE_E
+دیجیۓ DD_B II_I DZZ_I II_E
+دیجئے DD_B II_I DZZ_I I_I AE_E
+دیجئیے DD_B II_I DZZ_I I_I J_I AY_E
+دیدو DD_B II_I DD_I OO_E
+دیدیں DD_B II_I DD_I AYN_E
+دیدئیے DD_B II_I DD_I A_I II_I AY_E
+دیر DD_B II_I R_E
+دیزرٹس DD_B AY_I Z_I A_I R_I TT_I S_E
+دیش DD_B AY_I SH_E
+دیفرنٹ DD_B AY_I F_I R_I A_I N_I TT_E
+دیکر DD_B II_I K_I A_I R_E
+دیکھ DD_B AE_I KH_E
+دیکھا DD_B AE_I KH_I AA_E
+دیکھتا DD_B AY_I KH_I TD_I AA_E
+دیکھتی DD_B AY_I KH_I TD_I II_E
+دیکھنا DD_B AY_I KH_I N_I AA_E
+دیکھو DD_B AE_I KH_I OO_E
+دیکھے DD_B AE_I KH_I AE_E
+دیکھی DD_B AE_I KH_I II_E
+دیکھیں DD_B AE_I KH_I AEN_E
+دیکھیے DD_B AE_I KH_I II_I AE_E
+دیگا DD_B II_I G_I AA_E
+دیں DD_B AEN_E
+دیںا DD_B AE_E
+دین DD_B II_I N_E
+دینا DD_B AE_I N_I AA_E
+دینگے DD_B AE_I NG_I G_I AY_E
+دینگی DD_B AE_I NG_I G_I II_E
+دینے DD_B AE_I N_I AE_E
+دینی DD_B II_I N_I II_E
+دیوار DD_B II_I V_I AA_I R_E
+دیے DD_B II_I AE_E
+دیئر DD_B AY_I A_I R_E
+دئیے DD_B A_I II_I AY_E
+ڈاکٹر DD_B AA_I K_I TT_I A_I R_E
+ڈال DD_B AA_I L_E
+ڈالا DD_B AA_I L_I AA_E
+ڈالتا DD_B AA_I L_I TD_I AA_E
+ڈالتے DD_B AA_I L_I TD_I AY_E
+ڈالنا DD_B AA_I L_I N_I AA_E
+ڈالنی DD_B AA_I L_I N_I II_E
+ڈالوں DD_B AA_I L_I OON_E
+ڈالے DD_B AA_I L_I AY_E
+ڈالی DD_B AA_I L_I II_E
+ڈالیں DD_B AA_I L_I AEN_E
+ڈالیے DD_B AA_I L_I II_I AY_E
+ڈانٹ DD_B AA_I N_I TT_E
+ڈاؤن DD_B AA_I UU_I N_E
+ڈائریکٹ DD_B AA_I I_I R_I AE_I K_I TT_E
+ڈائریکٹلی DD_B AA_I I_I R_I AE_I K_I TT_I L_I II_E
+ڈائل DD_B AA_I I_I L_E
+ڈائن DD_B AA_I I_I N_E
+ڈائننگ DD_B AA_I I_I N_I NG_E
+ڈائیٹ DD_B AA_I II_I TT_E
+ڈائیں DD_B AA_I AYN_E
+ڈبل DD_B A_I B_I A_I L_E
+ڈبلیو DD_B A_I B_I L_I I_I J_I UU_E
+ڈپ DD_B I_I P_E
+ڈپس DD_B I_I P_I S_E
+ڈٹیلس DD_B I_I TT_I II_I L_I A_I S_E
+ڈجٹس DD_B DZZ_I A_I TT_I S_E
+ڈراپ DD_B I_I R_I AA_I P_E
+ڈرامہ DD_B A_I R_I AA_I M_I AA_E
+ڈرائیو DD_B A_I R_I AA_I II_I V_E
+ڈرائیور DD_B A_I R_I AA_I II_I V_I A_I R_E
+ڈرائیونگ DD_B A_I R_I AA_I II_I V_I I_I NG_E
+ڈرنک D_B R_I N_I K_E
+ڈرنکس D_B R_I N_I K_I S_E
+ڈروپ DD_B A_I R_I OO_I P_E
+ڈزنٹ DD_B I_I Z_I N_I TT_E
+ڈس DD_B I_I S_E
+ڈسپوزبل DD_B I_I S_I P_I OO_I Z_I B_I L_E
+ڈسپیچ DD_B I_I S_I P_I AE_I TSH_E
+ڈسپیچڈ DD_B I_I S_I P_I AE_I TSH_I DD_E
+ڈسپینسر DD_B I_I S_I P_I AE_I N_I S_I A_I R_E
+ڈسٹرب DD_B I_I S_I TT_I A_I R_I A_I B_E
+ڈسٹورشن DD_B I_I S_I TT_I OO_I R_I SH_I A_I N_E
+ڈسٹینس DD_B I_I S_I TT_I AE_I N_I S_E
+ڈسکاؤنٹ DD_B I_I S_I K_I AA_I UU_I N_I TT_E
+ڈسکاؤنٹڈ DD_B I_I S_I K_I AA_I UU_I N_I TT_I DD_E
+ڈسکس DD_B I_I S_I K_I A_I S_E
+ڈسکنیکٹ DD_B I_I S_I K_I A_I N_I AE_I K_I TT_E
+ڈسن DD_B A_I S_I A_I N_E
+ڈفرنٹ DD_B F_I A_I R_I A_I N_I TT_E
+ڈفرنس DD_B F_I R_I A_I N_I S_E
+ڈلیور DD_B I_I L_I AY_I V_I A_I R_E
+ڈن DD_B A_I N_E
+ڈھابے DDH_B AA_I B_I AE_E
+ڈھاکہ DDH_B AA_I K_I AA_E
+ڈھائی DDH_B AA_I II_E
+ڈھونڈنے DDH_B UU_I N_I DD_I N_I AY_E
+ڈھیر DDH_B AE_I R_E
+ڈو DD_B OO_E
+ڈواپ DD_B A_I V_I AA_I P_E
+ڈور DD_B OO_I R_E
+ڈونٹ D_B OO_I N_I T_E
+ڈویجن DD_B A_I V_I II_I DZZ_I A_I N_E
+ڈوئنگ DD_B OO_I I_I NG_E
+ڈے DD_B AE_E
+ڈی DD_B II_E
+ڈیبٹ DD_B AY_I B_I TT_E
+ڈیپارٹ DD_B II_I P_I AA_I R_I TT_E
+ڈیپارٹمنٹ DD_B II_I P_I AA_I R_I TT_I M_I I_I N_I TT_E
+ڈیٹ DD_B AY_I TT_E
+ڈیٹا DD_B AY_I TT_I AA_E
+ڈیٹس DD_B AE_I TT_I S_E
+ڈیٹیل D_B AY_I T_I AY_I L_E
+ڈیٹیلز D_B AY_I T_I AY_I L_I Z_E
+ڈیجٹس DD_B AE_I DZZ_I TT_I S_E
+ڈیجیٹ DD_B II_I DZZ_I II_I TT_E
+ڈیر DD_B AY_I R_E
+ڈیڑھ DD_B AE_I RRH_E
+ڈیزرٹ DD_B AY_I Z_I A_I R_I TT_E
+ڈیزرٹس DD_B AY_I Z_I A_I R_I TT_I S_E
+ڈیزوں DD_B AY_I Z_I OON_E
+ڈیفالٹ DD_B II_I F_I AA_I L_I TT_E
+ڈیفینس DD_B II_I F_I AE_I N_I S_E
+ڈیفینیٹلی DD_B II_I F_I AE_I N_I AE_I TT_I L_I II_E
+ڈیل DD_B II_I L_E
+ڈیلز DD_B II_I L_I Z_E
+ڈیلکس DD_B II_I L_I I_I K_I S_E
+ڈیلنگ DD_B AY_I L_I I_I NG_E
+ڈیلے DD_B II_I L_I AY_E
+ڈیلی DD_B II_I L_I II_E
+ڈیلیٹ DD_B II_I L_I AE_I TT_E
+ڈیلیں DD_B II_I L_I AEN_E
+ڈیلیور DD_B II_I L_I II_I V_I R_E
+ڈیلیورڈ DD_B II_I L_I II_I V_I A_I R_I DD_E
+ڈیلیوری DD_B II_I L_I II_I V_I R_I II_E
+ڈین DD_B II_I N_E
+ڈینائے DD_B AE_I N_I AA_I AY_E
+ڈینگی DD_B AE_I NG_I G_I II_E
+ڈیو DD_B II_I V_E
+ڈیوائل DD_B II_I V_I AA_I I_I L_E
+ڈیورنگ DD_B I_I J_I UU_I R_I I_I NG_E
+ڈیولپمنٹل DD_B I_I J_I UU_I L_I P_I M_I A_I N_I TT_I A_I L_E
+ڈیئر DD_B AY_I A_I R_E
+ذرا Z_B A_I R_I R_I AA_E
+ذراسا Z_B A_I R_I AA_I S_I AA_E
+ذریعہ Z_B A_I R_I II_I AA_E
+ذریعے Z_B A_I R_I II_I AE_E
+ذکر Z_B A_I K_I A_I R_E
+ذیشان Z_B II_I SH_I AA_I N_E
+رابطہ R_B AA_I B_I I_I TD_I AA_E
+رابعہ R_B AA_I B_I I_I AA_E
+رات R_B AA_I TD_E
+راجہ R_B AA_I DZZ_I AA_E
+راحت R_B AA_I H_I A_I TD_E
+راحیل R_B AA_I H_I II_I L_E
+راحیمہ R_B AA_I H_I II_I M_I AA_E
+راستہ R_B AA_I S_I TD_I AA_E
+راستے R_B AA_I S_I TD_I AE_E
+راشد R_B AA_I SH_I I_I DD_E
+رانگ R_B AA_I NG_E
+راہمہ R_B AA_I H_I A_I M_I AA_E
+راہیمہ R_B AA_I H_I II_I M_I AA_E
+راہیں R_B AA_I H_I AYN_E
+راہیے R_B AA_I H_I I_I J_I AE_E
+راولپنڈی R_B AA_I V_I A_I L_I P_I A_I N_I DD_I II_E
+راؤ R_B AA_I OO_E
+راؤف R_B AA_I UU_I F_E
+رائٹ R_B AA_I I_I TT_E
+رائٹس R_B AA_I I_I TT_I S_E
+رائڈر R_B AA_I A_I D_I R_E
+رائس R_B AA_I I_I S_E
+رائل R_B AA_I I_I L_E
+رائمل R_B AA_I I_I M_I A_I L_E
+رائی R_B AA_I II_E
+رائیڈ R_B AA_I II_I DD_E
+رائیڈر R_B AA_I II_I DD_I A_I R_E
+رائیڈرز R_B AA_I II_I DD_I A_I R_I Z_E
+رائیڈروں R_B AA_I II_I DD_I A_I R_I OON_E
+رباب R_B U_I B_I AA_I B_E
+ربیکا R_B A_I B_I II_I K_I AA_E
+رپٹ R_B I_I P_I TT_E
+رپریزنٹ R_B I_I P_I R_I AY_I Z_I A_I N_I TT_E
+رپلائے R_B I_I P_I A_I L_I AA_I AY_E
+رپیز R_B I_I P_I II_I Z_E
+رجسٹر R_B A_I DZZ_I I_I S_I TT_I A_I R_E
+رجسٹرڈ R_B A_I DZZ_I I_I S_I TT_I A_I R_I DD_E
+رجسٹریشن R_B A_I DZZ_I I_I S_I TT_I A_I R_I AE_I SH_I A_I N_E
+رحما R_B A_I H_I M_I AA_E
+رحمان R_B A_I H_I M_I AA_I N_E
+رحمت R_B A_I H_I M_I A_I TD_E
+رحمہ R_B A_I H_I M_I AA_E
+رحیم R_B A_I H_I II_I M_E
+رحیمہ R_B A_I H_I II_I M_I AA_E
+ردا R_B A_I DD_I DD_I AA_E
+رزلٹ R_B I_I Z_I A_I L_I TT_E
+رسپونڈنگ R_B A_I S_I P_I UU_I N_I DD_I I_I NG_E
+رسپونس R_B A_I S_I P_I OO_I N_I S_E
+رستے R_B A_I S_I TD_I AY_E
+رسیونگ R_B A_I S_I II_I V_I I_I NG_E
+رش R_B I_I SH_E
+رضوان R_B I_I Z_I V_I AA_I N_E
+رضویہ R_B I_I Z_I V_I I_I J_I AA_E
+رفیق R_B A_I F_I II_I Q_E
+رقو R_B A_I Q_I UU_E
+رکھ R_B A_I KH_E
+رکھا R_B A_I K_I KH_I AA_E
+رکھتے R_B A_I KH_I TD_I AE_E
+رکھنا R_B A_I KH_I N_I AA_E
+رکھنے R_B A_I KH_I N_I AE_E
+رکھوائی R_B A_I KH_I V_I AA_I II_E
+رکھے R_B A_I K_I KH_I AE_E
+رکھی R_B A_I K_I KH_I II_E
+رکھیں R_B A_I K_I KH_I IIN_E
+رکھئیے R_B A_I KH_I II_I AE_E
+رکوائرڈ R_B U_I K_I V_I AA_I AE_I R_I DD_E
+رکوائرمنٹس R_B U_I K_I V_I AA_I AE_I R_I M_I AE_I N_I TT_I S_E
+رکوائیرڈ R_B U_I K_I V_I AA_I I_I J_I A_I R_I DD_E
+رکیے R_B A_I K_I II_I AE_E
+رمضان R_B A_I M_I Z_I AA_I N_E
+رنڈی R_B A_I N_I DD_I II_E
+رنگ R_B A_I NG_E
+رننگ R_B I_I N_I I_I NG_E
+رہ R_B AA_E
+رہا R_B A_I H_I AA_E
+رہاش R_B A_I H_I AA_I SH_E
+رہاں R_B A_I H_I AAN_E
+رہتا R_B A_I H_I TD_I AA_E
+رہتے R_B A_I H_I TD_I AE_E
+رہتی R_B AEH_I H_I TD_I II_E
+رہنمائی R_B A_I H_I N_I U_I M_I AA_I II_E
+رہنے R_B AEH_I H_I N_I AY_E
+رہوں R_B A_I H_I UUN_E
+رہے R_B A_I H_I AY_E
+رہی R_B A_I H_I II_E
+رہیگا R_B A_I H_I II_I G_I AA_E
+رہیں R_B A_I H_I AEN_E
+رہیے R_B A_I H_I II_I AE_E
+رہیئے R_B H_I II_I AY_E
+رہیۓ R_B A_I H_I II_E
+رہئیے R_B A_I H_I II_I AE_E
+روباب R_B OO_I B_I AA_I B_E
+روپے R_B UU_I P_I AE_E
+روپی R_B UU_I P_I II_E
+روپیز R_B OO_I P_I II_I Z_E
+روپیہ R_B UU_I P_I I_I J_I AA_E
+روٹیٹ R_B OO_I TT_I AY_I TT_E
+روڈ R_B OO_I DD_E
+روڈلی R_B OO_I DD_I L_I II_E
+روز R_B OO_I Z_E
+روزہ R_B OO_I Z_I AA_E
+روک R_B OO_I K_E
+روکنا R_B OO_I K_I N_I AA_E
+روکیں R_B OO_I K_I AYN_E
+روکئیے R_B OO_I K_I A_I II_I AY_E
+رولز R_B OO_I L_I Z_E
+روم R_B UU_I M_E
+رومان R_B UU_I M_I AA_I N_E
+رومی R_B UU_I M_I II_E
+رویال R_B UU_I J_I AA_I L_E
+روئل R_B UU_I I_I L_E
+روئیل R_B UU_I II_I L_E
+رؤف R_B A_I UU_I F_E
+رے R_B AY_E
+ری R_B II_E
+ریاض R_B I_I J_I AA_I Z_E
+ریب R_B II_I B_E
+ریپ R_B AY_I P_E
+ریپریزنٹ R_B II_I P_I R_I AY_I Z_I A_I N_I TT_E
+ریپریزنٹیٹو R_B II_I P_I R_I AY_I Z_I A_I N_I TT_I AY_I TT_I OO_E
+ریپلائے R_B II_I P_I A_I L_I AA_I AY_E
+ریپلیس R_B II_I P_I A_I L_I AE_I S_E
+ریپلیسمنٹ R_B II_I P_I A_I L_I AE_I S_I M_I E_I N_I TT_E
+ریپیتیں R_B II_I P_I A_I II_I J_I A_I TD_I AYN_E
+ریپیٹ R_B II_I P_I II_I TT_E
+ریپیٹیٹ R_B II_I P_I II_I TT_I AY_I TT_E
+ریپیٹیٹیٹ R_B II_I P_I II_I TT_I AY_I TT_I AY_I TT_E
+ریپیٹینگ R_B II_I P_I II_I TT_I AE_I NG_E
+ریپیزنٹیٹو R_B II_I P_I II_I Z_I A_I N_I TT_I AY_I TT_I OO_E
+ریٹ R_B AE_I TT_E
+ریٹرن R_B AE_I TT_I R_I A_I N_E
+ریٹس R_B AE_I TT_I S_E
+ریجسٹر R_B II_I DZZ_I I_I S_I TT_I A_I R_E
+ریجنل R_B II_I DZZ_I N_I A_I L_E
+ریچڈ R_B AE_I TSH_I DD_E
+ریحاد R_B AY_I H_I AA_I DD_E
+ریدا R_B AY_I DD_I AA_E
+ریڈی R_B AE_I DD_I II_E
+ریڈیم R_B AY_I DD_I I_I J_I A_I M_E
+ریزن R_B AY_I Z_I A_I N_E
+ریزولو R_B AE_I Z_I OO_I L_I OO_E
+ریزولوشن R_B AY_I Z_I OO_I L_I UU_I SH_I A_I N_E
+ریزیڈنسی R_B AY_I Z_I II_I DD_I A_I N_I S_I II_E
+ریسپیکٹ R_B AY_I S_I P_I AE_I K_I TT_E
+ریسٹورنٹ R_B E_I S_I TT_I UU_I R_I E_I N_I TT_E
+ریسنٹلی R_B AY_I S_I A_I N_I TT_I L_I II_E
+ریسیپٹ R_B II_I S_I II_I P_I A_I TT_E
+ریسیو R_B II_I S_I II_I V_E
+ریشو R_B AY_I SH_I OO_E
+ریفرینس R_B AE_I F_I R_I AE_I N_I S_E
+ریفنڈ R_B II_I F_I A_I N_I DD_E
+ریفوس R_B II_I F_I OO_I S_E
+ریکارڈ R_B II_I K_I AA_I R_I DD_E
+ریکارڈر R_B II_I K_I AA_I R_I DD_I A_I R_E
+ریکارڈنگ R_B II_I K_I AA_I R_I DD_I I_I NG_E
+ریکارڈنگز R_B II_I K_I AA_I R_I DD_I I_I NG_I Z_E
+ریکوائرڈ R_B II_I K_I V_I AA_I AE_I R_I DD_E
+ریکوائرمنٹ R_B II_I K_I V_I AA_I AE_I R_I M_I AE_I N_I TT_E
+ریکورڈ R_B II_I K_I OO_I R_I DD_E
+ریکورڈیڈ R_B II_I K_I OO_I R_I DD_I II_I DD_E
+ریکویسٹ R_B II_I K_I OO_I E_I S_I TT_E
+ریگ R_B AY_I G_E
+ریگولر R_B AE_I G_I UU_I L_I A_I R_E
+ریگولرلی R_B AE_I G_I UU_I L_I R_I L_I II_E
+ریلی R_B AY_I L_I II_E
+ریلیٹڈ R_B II_I L_I II_I TT_I I_I DD_E
+ریلیٹیڈ R_B II_I L_I II_I TT_I II_I DD_E
+ریلیشن R_B AE_I L_I AY_I SH_I A_I N_E
+ریمارک R_B II_I M_I AA_I R_I K_E
+ریموو R_B II_I M_I UU_I V_E
+ریمیننگ R_B II_I M_I AY_I N_I I_I NG_E
+رینا R_B AE_I N_I AA_E
+رینڈملی R_B AE_I N_I DD_I A_I M_I L_I II_E
+ریوینیو R_B II_I V_I AE_I N_I II_I OO_E
+رئیلی R_B A_I II_I L_I II_E
+زادہ Z_B AA_I DD_I AA_E
+زار Z_B AA_I R_E
+زارہ Z_B AA_I R_I AA_E
+زاہد Z_B AA_I H_I I_I DD_E
+زبردستی Z_B A_I B_I A_I R_I DD_I A_I S_I TD_I II_E
+زبیر Z_B A_I B_I II_I R_E
+زد Z_B A_I DD_E
+زدہ Z_B A_I DD_I AA_E
+زلمی Z_B I_I L_I M_I II_E
+زمانی Z_B A_I M_I AA_I N_I II_E
+زمزمہ Z_B A_I M_I Z_I I_I M_I AA_E
+زندگی Z_B I_I N_I DD_I A_I G_I II_E
+زنگرز Z_B A_I NG_I G_I A_I R_I Z_E
+زہرا Z_B AEH_I H_I R_I AA_E
+زونل Z_B OO_I N_I A_I L_E
+زوہیب Z_B OO_I H_I II_I B_E
+زی Z_B II_E
+زیادہ Z_B I_I J_I AA_I DD_I AA_E
+زیان Z_B I_I J_I AA_I N_E
+زیڈ Z_B AY_I DD_E
+زیرو Z_B II_I R_I OO_E
+زیشان Z_B AY_I SH_I AA_I N_E
+زین Z_B II_I N_E
+زینب Z_B AE_I N_I B_E
+سا S_B AA_E
+ساِس S_B AA_I I_I S_E
+ساِسس S_B AA_I I_I S_I I_I S_E
+ساِسیجز S_B AA_I I_I S_I II_I DZZ_I I_I Z_E
+سابیشری S_B AA_I B_I II_I SH_I R_I II_E
+سات S_B AA_I TD_E
+ساتھ S_B AA_I TDH_E
+سادھی S_B AA_I DDH_I II_E
+سارا S_B AA_I R_I AA_E
+سارہ S_B AA_I R_I AA_E
+ساروں S_B AA_I R_I OON_E
+سارے S_B AA_I R_I AY_E
+ساری S_B AA_I R_I II_E
+ساڑھے S_B AA_I RRH_I AE_E
+ساسج S_B AA_I S_I I_I DZZ_E
+ساسس S_B AA_I S_I I_I S_E
+ساسیج S_B AA_I S_I II_I DZZ_E
+سال S_B AA_I L_E
+سالٹ S_B AA_I L_I T_E
+سالہ S_B AA_I L_I AA_E
+سامنا S_B AA_I M_I N_I AA_E
+سامنے S_B AA_I M_I N_I AE_E
+سانپ S_B AA_I M_I P_E
+ساندہ S_B AA_I N_I DD_I AA_E
+ساہی S_B AA_I H_I II_E
+ساور S_B AA_I V_I A_I R_E
+سائبر S_B AA_I I_I B_I A_I R_E
+سائٹ S_B AA_I I_I TT_E
+سائرہ S_B AA_I I_I R_I AA_E
+سائز S_B AA_I I_I Z_E
+سائمہ S_B AA_I I_I M_I AA_E
+سائنس S_B AA_I I_I N_I S_E
+سائیڈ S_B AA_I II_I DD_E
+سب S_B A_I B_E
+سبزیاں S_B A_I B_I Z_I I_I J_I AAN_E
+سپ S_B A_I P_E
+سپر S_B U_I P_I A_I R_E
+سپرائٹ S_B U_I P_I A_I R_I AA_I I_I TT_E
+سپرمین S_B A_I P_I A_I R_I M_I II_I N_E
+سپروائزر S_B U_I P_I A_I R_I V_I AA_I I_I Z_I A_I R_E
+سپریٹ S_B I_I P_I R_I II_I TT_E
+سپریٹلی S_B I_I P_I R_I AE_I TT_I L_I II_E
+سپلائی S_B A_I P_I L_I AA_I II_E
+سپیسیفکلی S_B A_I P_I AY_I S_I II_I F_I I_I K_I L_I II_E
+سپیکنگ S_B A_I P_I AY_I K_I I_I NG_E
+ستارہ S_B A_I TD_I AA_I R_I AA_E
+ستائیس S_B A_I TD_I TD_I AA_I II_I S_E
+ستر S_B A_I TD_I TD_I A_I R_E
+سترہ S_B A_I TD_I R_I AA_E
+سٹارٹ S_B A_I TT_I AA_I R_I TT_E
+سٹرکٹلی S_B A_I TT_I R_I A_I K_I TT_I L_I II_E
+سٹریٹ S_B A_I TT_I R_I AE_I TT_E
+سٹریٹجی S_B A_I TT_I R_I AE_I TT_I I_I DZZ_I II_E
+سٹی S_B A_I TT_I II_E
+سٹیپ S_B A_I TT_I II_I P_E
+سٹیٹس S_B A_I TT_I AY_I TT_I S_E
+سٹیزن S_B A_I TT_I II_I Z_I A_I N_E
+سجاد S_B A_I DZZ_I DZZ_I AA_I DD_E
+سجیسٹ S_B A_I DZZ_I E_I S_I TT_E
+سچ S_B A_I TSH_E
+سچل S_B A_I TSH_I TSH_I A_I L_E
+سحر S_B I_I H_I R_E
+سخت S_B A_I X_I TD_E
+سدرہ S_B A_I DD_I DD_I R_I AA_E
+سدہ S_B A_I DD_I AA_E
+سر S_B A_I R_E
+سرای S_B A_I R_I AA_I II_E
+سرپرائز S_B A_I R_I P_I A_I R_I AA_I I_I Z_E
+سرٹو S_B A_I R_I TT_I OO_E
+سرچ S_B A_I R_I TSH_E
+سردار S_B A_I R_I DD_I AA_I R_E
+سرف S_B A_I R_I F_E
+سرفراز S_B A_I R_I F_I A_I R_I AA_I Z_E
+سرکولر S_B A_I R_I K_I OO_I L_I A_I R_E
+سرگودھا S_B A_I R_I G_I OO_I DDH_I AA_E
+سرمد S_B A_I R_I M_I A_I DD_E
+سرمست S_B A_I R_I M_I A_I S_I TD_E
+سرمیں S_B A_I R_I M_I AYN_E
+سرور S_B A_I R_I V_I A_I R_E
+سروس S_B A_I R_I V_I I_I S_E
+سرونگ S_B A_I R_I UU_I NG_E
+سروو S_B A_I R_I V_I OO_E
+سرے S_B A_I R_I R_I AY_E
+سری S_B A_I R_I II_E
+سڑا S_B A_I RR_I AA_E
+سستی S_B A_I S_I TD_I II_E
+سسٹر S_B I_I S_I TT_I A_I R_E
+سسٹم S_B I_I S_I TT_I A_I M_E
+سسر S_B I_I S_I A_I R_E
+سع S_B A_E
+سعادت S_B A_I AA_I DD_I A_I TD_E
+سعد S_B A_I DD_E
+سعدی S_B A_I DD_I II_E
+سعدیہ S_B A_I DD_I AY_I J_I AA_E
+سعود S_B A_I UU_I DD_E
+سعید S_B A_I II_I DD_E
+سکتا S_B A_I K_I TD_I AA_E
+سکتے S_B A_I K_I TD_I AY_E
+سکتی S_B A_I K_I TD_I II_E
+سکتیں S_B A_I K_I TD_I IIN_E
+سکٹر S_B I_I K_I TT_I A_I R_E
+سکرین S_B I_I K_I R_I II_I N_E
+سکس S_B I_I K_I S_E
+سکسٹی S_B I_I K_I S_I I_I TT_I II_E
+سکسٹین S_B I_I K_I S_I TT_I II_I N_E
+سکنڈز S_B A_I K_I A_I N_I DD_I Z_E
+سکھائی S_B I_I KH_I AA_I II_E
+سکوں S_B A_I K_I OON_E
+سکونگا S_B A_I K_I UU_I NG_I G_I AA_E
+سکے S_B A_I K_I AE_E
+سکی S_B A_I K_I II_E
+سکیں S_B A_I K_I AEN_E
+سگنل S_B I_I G_I N_I A_I L_E
+سگنلز S_B I_I G_I N_I A_I L_I Z_E
+سلاد S_B A_I L_I AA_I DD_E
+سلام S_B A_I L_I AA_I M_E
+سلامت S_B A_I L_I AA_I M_I A_I TD_E
+سلائس S_B A_I L_I AA_I I_I S_E
+سلپ S_B A_I L_I P_E
+سلسلے S_B I_I L_I S_I I_I L_I AE_E
+سلطان S_B U_I L_I TD_I AA_I N_E
+سلو S_B U_I L_I UU_E
+سلوک S_B U_I L_I UU_I K_E
+سلیش S_B A_I L_I II_I SH_E
+سلیم S_B A_I L_I II_I M_E
+سلیمان S_B A_I L_I II_I M_I AA_I N_E
+سم S_B A_I M_E
+سمبارا S_B A_I M_I B_I AA_I R_I AA_E
+سمبل S_B A_I M_I B_I A_I L_E
+سمپل S_B A_I M_I P_I A_I L_E
+سمتھنگ S_B A_I M_I TDH_I A_I NG_E
+سمجھ S_B A_I M_I A_I DZZH_E
+سمجھا S_B A_I M_I DZZH_I AA_E
+سمجھانے S_B A_I M_I DZZH_I AA_I N_I AE_E
+سمجھایا S_B A_I M_I DZZH_I AA_I J_I AA_E
+سمجھے S_B A_I M_I DZZH_I AE_E
+سمجھی S_B A_I M_I DZZH_I II_E
+سمجھیں S_B A_I M_I DZZH_I AEN_E
+سممی S_B A_I M_I A_I M_I II_E
+سمنہ S_B A_I M_I N_I AA_E
+سمول S_B A_I M_I OO_I L_E
+سموئیر S_B A_I M_I OO_I I_I J_I A_I R_E
+سمی S_B A_I M_I II_E
+سمیر S_B A_I M_I II_I R_E
+سمینہ S_B A_I M_I II_I N_I AA_E
+سمیہ S_B A_I M_I I_I J_I AA_E
+سمیئہ S_B A_I M_I AY_I A_I AA_E
+سن S_B A_I N_E
+سنا S_B U_I N_I AA_E
+سنائیں S_B U_I N_I AA_I AYN_E
+سنتا S_B U_I N_I TD_I AA_E
+سنتے S_B U_I N_I TD_I AY_E
+سنٹر S_B E_I N_I TT_I A_I R_E
+سندھ S_B U_I N_I DDH_E
+سنڈے S_B U_I N_I DD_I AY_E
+سنڈیز S_B U_I N_I DD_I II_I Z_E
+سنکڈز S_B U_I N_I K_I DD_I Z_E
+سنگاپور S_B A_I NG_I G_I AA_I P_I UU_I R_E
+سنگل S_B I_I NG_I G_I A_I L_E
+سننا S_B U_I N_I N_I AA_E
+سننے S_B U_I N_I N_I AY_E
+سنی S_B U_I N_I II_E
+سنیں S_B U_I N_I AEN_E
+سہ S_B AA_E
+سہی S_B A_I H_I II_E
+سو S_B OO_E
+سوا S_B A_I V_I AA_E
+سوچ S_B OO_I TSH_E
+سوچا S_B OO_I TSH_I AA_E
+سور S_B UU_I R_E
+سوری S_B UU_I R_I II_E
+سوس S_B UU_I S_E
+سوسایٹی S_B OO_I S_I II_I TT_I II_E
+سوسائٹی S_B OO_I S_I AA_I I_I TT_I II_E
+سوسائیٹی S_B OO_I S_I AA_I II_I TT_I II_E
+سوسج S_B OO_I S_I DZZ_E
+سوسجز S_B OO_I S_I DZZ_I I_I Z_E
+سوسز S_B A_I V_I I_I S_I I_I Z_E
+سوسس S_B OO_I S_I A_I S_E
+سوسیج S_B OO_I S_I AY_I DZZ_E
+سوفٹ S_B OO_I F_I TT_E
+سوگرہ S_B OO_I G_I A_I R_I AA_E
+سول S_B UU_I L_E
+سولا S_B OO_I L_I AA_E
+سولٹڈ S_B OO_I L_I TT_I I_I DD_E
+سولیمان S_B OO_I L_I II_I M_I AA_I N_E
+سومی S_B OO_I M_I II_E
+سون S_B UU_I N_E
+سونتی S_B UU_I N_I A_I TD_I II_E
+سونک S_B OO_I N_I I_I K_E
+سونگ S_B OO_I NG_E
+سونے S_B UU_I N_I AE_E
+سونیا S_B OO_I N_I I_I J_I AA_E
+سوہا S_B OO_I H_I AA_E
+سویٹ S_B A_I V_I AY_I TT_E
+سوئے S_B OO_I AE_E
+سوئیٹ S_B UU_I II_I TT_E
+سے S_B AY_E
+سی S_B II_E
+سیاپا S_B I_I J_I AA_I P_I AA_E
+سیالکوٹ S_B I_I J_I AA_I L_I K_I OO_I TT_E
+سیپ S_B II_I P_E
+سیپرپٹ S_B AE_I P_I R_I I_I P_I TT_E
+سیپرپٹلی S_B AE_I P_I R_I I_I P_I TT_I L_I II_E
+سیپریٹ S_B II_I P_I R_I AY_I TT_E
+سیپریٹلی S_B II_I P_I R_I AE_I TT_I L_I II_E
+سیٹ S_B II_I TT_E
+سیٹسفائڈ S_B AE_I TT_I S_I F_I AA_I I_I DD_E
+سیٹلائٹ S_B AE_I TT_I L_I AA_I I_I TT_E
+سید S_B II_I DD_E
+سیدا S_B AY_I DD_I AA_E
+سیدھی S_B II_I DDH_I II_E
+سیڈ S_B II_I DD_E
+سیر S_B II_I R_E
+سیرپ S_B AE_I R_I P_E
+سیڑھیوں S_B II_I RRH_I II_I OON_E
+سیس S_B II_I S_E
+سیف S_B AE_I F_E
+سیکٹر S_B AE_I K_I TT_I A_I R_E
+سیکنڈ S_B AE_I K_I I_I N_I DD_E
+سیکنڈز S_B AE_I K_I I_I N_I DD_I Z_E
+سیکنڈلی S_B AE_I K_I I_I N_I DD_I L_I II_E
+سیکینڈ S_B II_I K_I J_I A_I N_I DD_E
+سیل S_B II_I L_E
+سیلکٹ S_B AE_I L_I I_I K_I TT_E
+سیلون S_B AE_I L_I UU_I N_E
+سیم S_B II_I M_E
+سیمپل S_B AE_I M_I P_I A_I L_E
+سیمہ S_B II_I M_I AA_E
+سین S_B II_I N_E
+سیناریو S_B II_I N_I AA_I R_I II_I V_E
+سینٹر S_B AE_I N_I TT_I A_I R_E
+سینٹرل S_B AE_I N_I TT_I A_I R_I A_I L_E
+سینٹرلائزڈ S_B AE_I N_I TT_I A_I R_I A_I L_I AA_I I_I Z_I DD_E
+سینڈ S_B AE_I N_I DD_E
+سینڈوچ S_B AY_I N_I DD_I V_I I_I TSH_E
+سینیار S_B AE_I N_I J_I AA_I R_E
+سینیریو S_B AE_I N_I AY_I R_I II_I OO_E
+سینئیر S_B II_I N_I I_I J_I A_I R_E
+سیو S_B II_I OO_E
+سیواے S_B II_I V_I AA_I AY_E
+سیون S_B AE_I V_I A_I N_E
+سیونٹی S_B AE_I V_I A_I N_I TT_I II_E
+سیونٹین S_B AE_I V_I A_I N_I TT_I II_I N_E
+سیوے S_B II_I V_I AY_E
+سیئنگ S_B II_I I_I NG_E
+شاپ SH_B AA_I P_E
+شاٹ SH_B AA_I TT_E
+شادمان SH_B AA_I DD_I M_I AA_I N_E
+شارٹ SH_B AA_I R_I TT_E
+شارون SH_B AA_I R_I UU_I N_E
+شازیب SH_B AA_I Z_I II_I B_E
+شازیہ SH_B AA_I Z_I I_I J_I AA_E
+شام SH_B AA_I M_E
+شامیر SH_B AA_I M_I II_I R_E
+شاہ SH_B AA_E
+شاہد SH_B AA_I H_I I_I DD_E
+شاہریار SH_B AA_I H_I R_I J_I AA_I R_E
+شاہزیب SH_B AA_I H_I Z_I II_I B_E
+شاہمیر SH_B AA_I H_I M_I II_I R_E
+شاید SH_B AA_I J_I A_I DD_E
+شائستہ SH_B AA_I I_I S_I TD_I AA_E
+شبنم SH_B A_I B_I N_I A_I M_E
+شپ SH_B I_I P_E
+شجاعت SH_B U_I DZZ_I AA_I A_I TD_E
+شرابہ SH_B A_I R_I AA_I B_I AA_E
+شرافت SH_B A_I R_I AA_I F_I A_I TD_E
+شرجیل SH_B A_I R_I DZZ_I II_I L_E
+شرم SH_B A_I R_I M_E
+شرو SH_B A_I R_I UU_E
+شروع SH_B U_I R_I UU_E
+شزا SH_B I_I Z_I AA_E
+شعیب SH_B A_I II_I B_E
+شفٹ SH_B A_I F_I TT_E
+شفٹس SH_B I_I F_I TT_I S_E
+شفٹوں SH_B I_I F_I TT_I OON_E
+شک SH_B I_I K_E
+شکایت SH_B I_I K_I AA_I J_I A_I TD_E
+شکر SH_B U_I K_I A_I R_E
+شکریہ SH_B U_I K_I R_I I_I J_I AA_E
+شکیل SH_B A_I K_I II_I L_E
+شگر SH_B A_I G_I A_I R_E
+شمس SH_B A_I M_I S_E
+شمسی SH_B A_I M_I S_I II_E
+شمیم SH_B A_I M_I II_I M_E
+شہباز SH_B A_I H_I B_I AA_I Z_E
+شہر SH_B E_I H_I R_E
+شہروز SH_B AEH_I H_I R_I UU_I Z_E
+شہریار SH_B AEH_I H_I R_I J_I AA_I R_E
+شہزاد SH_B A_I H_I Z_I AA_I DD_E
+شہناز SH_B A_I H_I N_I AA_I Z_E
+شہید SH_B A_I H_I II_I DD_E
+شو SH_B OO_E
+شوپر SH_B UU_I P_I A_I R_E
+شوٹ SH_B UU_I TT_E
+شوٹس SH_B UU_I TT_I S_E
+شورٹ SH_B OO_I R_I TT_E
+شوکت SH_B O_I K_I A_I TD_E
+شوگر SH_B UU_I G_I A_I R_E
+شی SH_B II_E
+شیخ SH_B AE_I X_E
+شیراز SH_B AY_I R_I AA_I Z_E
+شیریار SH_B AE_I R_I J_I AA_I R_E
+شیزاد SH_B AE_I Z_I AA_I DD_E
+شیزہ SH_B II_I Z_I AA_E
+شیک SH_B AY_I K_E
+شیکس SH_B AE_I K_I S_E
+شیل SH_B AY_I L_E
+شیم SH_B AE_I M_E
+شیو SH_B AE_I V_E
+شیور SH_B AY_I V_I A_I R_E
+شئیر SH_B A_I J_I A_I R_E
+صاحب S_B AA_I H_I I_I B_E
+صارم S_B AA_I R_I M_E
+صالح S_B AA_I L_I AY_E
+صبا S_B A_I B_I AA_E
+صبح S_B A_I B_I AY_E
+صبر S_B A_I B_I R_E
+صحاب S_B A_I H_I AA_I B_E
+صحیح S_B A_I H_I II_E
+صدر S_B A_I DD_I R_E
+صدف S_B A_I DD_I A_I F_E
+صدیق S_B I_I DD_I DD_I II_I Q_E
+صدیقی S_B I_I DD_I DD_I II_I Q_I II_E
+صرف S_B A_I R_I F_E
+صفی S_B A_I F_I II_E
+صفیہ S_B A_I F_I I_I J_I AA_E
+صمد S_B S_I A_I M_I A_I DD_E
+صوبہ S_B UU_I B_I AA_E
+صوبیہ S_B UU_I B_I I_I J_I AA_E
+صوتی S_B UU_I TD_I II_E
+صور S_B UU_I R_E
+صورت S_B UU_I R_I A_I TD_E
+صورتیں S_B UU_I R_I A_I TD_I AYN_E
+ضایع Z_B AA_I II_E
+ضرور Z_B A_I R_I UU_I R_E
+ضرورت Z_B A_I R_I UU_I R_I A_I TD_E
+ضمیر Z_B A_I M_I II_I R_E
+طارق TD_B AA_I R_I I_I Q_E
+طب TD_B A_I B_E
+طبعیت TD_B A_I B_I A_I J_I J_I A_I TD_E
+طحہ TD_B H_I AA_E
+طرح TD_B A_I R_I H_E
+طرف TD_B A_I R_I F_E
+طریقہ TD_B A_I R_I II_I Q_I AA_E
+طریقے TD_B A_I R_I II_I Q_I AY_E
+طلال TD_B A_I L_I AA_I L_E
+طلحہ TD_B A_I L_I H_I AA_E
+طور TD_B UU_I R_E
+طیب TD_B AY_I J_I A_I B_E
+طیبہ TD_B A_I J_I J_I I_I B_I AA_E
+ظاہری Z_B AA_I H_I A_I R_I II_E
+ظاھر Z_B AA_I DDH_I A_I R_E
+ظفر Z_B A_I F_I A_I R_E
+ظفیر Z_B A_I F_I II_I R_E
+ظنیرہ Z_B A_I N_I II_I R_I AA_E
+ظہیر Z_B A_I H_I II_I R_E
+عاتیقہ AA_B TD_I II_I Q_I AA_E
+عارف AA_B R_I I_I F_E
+عاطف AA_B TD_I I_I F_E
+عام AA_B M_E
+عائشہ AA_B I_I SH_I AA_E
+عبّاس A_B B_I AA_I S_E
+عباد I_B B_I AA_I DD_E
+عباس A_B B_I B_I AA_I S_E
+عبدالباِسط A_B B_I DD_I U_I L_I A_I B_I AA_I I_I S_I TD_E
+عبدالرحمان A_B B_I DD_I U_I L_I R_I A_I H_I M_I AA_I N_E
+عبدالمتین A_B B_I DD_I U_I L_I M_I TD_I II_I N_E
+عبدل A_B B_I DD_I I_I L_E
+عبدلرحمان A_B B_I DD_I L_I R_I A_I H_I M_I AA_I N_E
+عبدللہ A_B B_I DD_I L_I L_I AA_E
+عبدلوا A_B B_I DD_I A_I L_I V_I AA_E
+عبدلواِسع A_B B_I DD_I L_I A_I I_I S_I AY_E
+عبدلواحد A_B B_I DD_I I_I L_I V_I AA_I H_I I_I DD_E
+عبدلواسع A_B B_I DD_I I_I L_I V_I AA_I S_I AY_E
+عبدلوحید A_B B_I DD_I I_I L_I O_I H_I II_I DD_E
+عتیق A_B TD_I II_I Q_E
+عثمان U_B S_I M_I AA_I N_E
+عجیب A_B DZZ_I II_I B_E
+عدنان A_B DD_I N_I AA_I N_E
+عدیل A_B DD_I II_I L_E
+عرض A_B R_I Z_E
+عرفان I_B R_I F_I AA_I N_E
+عریب A_B R_I AE_I B_E
+عریبیہ A_B R_I AE_I B_I I_I J_I AA_E
+عریشا A_B R_I AY_I SH_I AA_E
+عریشمہ A_B R_I AE_I SH_I M_I AA_E
+عزت I_B Z_I Z_I A_I TD_E
+عزیز A_B Z_I II_I Z_E
+عزیزہ A_B Z_I II_I Z_I AA_E
+عسکری A_B S_I K_I A_I R_I II_E
+عطیب A_B TD_I II_I B_E
+عظیم A_B Z_I II_I M_E
+عکاشہ A_B K_I K_I AA_I SH_I AA_E
+علاقہ A_B L_I L_I AA_I Q_I AA_E
+علامہ A_B L_I L_I AA_I M_I AA_E
+علاوہ I_B L_I AA_I V_I AA_E
+علم A_B L_I A_I M_E
+علمدار A_B L_I A_I M_I DD_I AA_I R_E
+علی A_B L_I II_E
+علیحدہ A_B L_I AY_I H_I I_I DD_I AA_E
+علیم A_B L_I II_I M_E
+علینہ A_B L_I II_I N_I AA_E
+عمار I_B M_I AA_I R_E
+عمارہ I_B M_I AA_I R_I AA_E
+عمان A_B M_I AA_I N_E
+عمر U_B M_I R_E
+عمران U_B M_I R_I AA_I N_E
+عمیر A_B M_I II_I R_E
+عورت O_B R_I A_I TD_E
+عیان I_B J_I AA_I N_E
+عید A_B II_I DD_E
+عیشل AE_B SH_I A_I L_E
+غائب 7_B AA_I I_I B_E
+غرض 7_B A_I R_I A_I Z_E
+غرق 7_B R_I A_I Q_E
+غریب 7_B A_I R_I II_I B_E
+غصہ 7_B U_I S_I S_I AA_E
+غضنفر 7_B A_I Z_I N_I A_I F_I A_I R_E
+غلط 7_B A_I L_I A_I TD_E
+غلطی 7_B A_I L_I TD_I II_E
+غیرت 7_B AE_I R_I A_I TD_E
+فِکر F_B I_I K_I A_I R_E
+فاِسٹ F_B AA_I I_I S_I TT_E
+فاِنٹا F_B AA_I I_I N_I TT_I AA_E
+فاتھر F_B AA_I TDH_I A_I R_E
+فاخر F_B AA_I X_I I_I R_E
+فار F_B AA_I R_E
+فاروا F_B AA_I R_I V_I AA_E
+فارورڈ F_B AA_I R_I V_I A_I R_I DD_E
+فاروق F_B AA_I R_I UU_I Q_E
+فاریہ F_B AA_I R_I I_I J_I AA_E
+فاسٹ F_B AA_I S_I TT_E
+فاطمہ F_B AA_I TD_I M_I AA_E
+فالو F_B AA_I L_I UU_E
+فانٹا F_B AA_I N_I T_I AA_E
+فائدہ F_B AA_I I_I DD_I AA_E
+فائزہ F_B AA_I I_I Z_I AA_E
+فائف F_B AA_I I_I F_E
+فائل F_B AA_I I_I L_E
+فائن F_B AA_I I_I N_E
+فائیو F_B AA_I II_I V_E
+فر F_B A_I R_E
+فراز F_B A_I R_I AA_I Z_E
+فرافت F_B A_I R_I AA_I F_I A_I TD_E
+فرام F_B A_I R_I AA_I M_E
+فرائز F_B A_I R_I AA_I I_I Z_E
+فرائیڈ F_B A_I R_I AA_I II_I DD_E
+فرحان F_B A_I R_I H_I AA_I N_E
+فرحین F_B A_I R_I H_I AE_I N_E
+فردر F_B A_I R_I DD_I A_I R_E
+فردوس F_B I_I R_I DD_I O_I S_E
+فرسٹ F_B A_I R_I S_I A_I TT_E
+فرق F_B A_I R_I Q_E
+فرقان F_B U_I R_I Q_I AA_I N_E
+فرما F_B A_I R_I M_I AA_E
+فرمایا F_B A_I R_I M_I AA_I J_I AA_E
+فرمائیگا F_B A_I R_I M_I AA_I II_I G_I AA_E
+فرمائیے F_B A_I R_I M_I AA_I II_I AY_E
+فرنچائز F_B A_I R_I A_I N_I TSH_I AA_I I_I Z_E
+فری F_B A_I R_I II_E
+فریال F_B A_I R_I J_I AA_I L_E
+فریج F_B A_I R_I II_I DZZ_E
+فریحہ F_B A_I R_I II_I H_I AA_E
+فریش F_B A_I R_I AE_I SH_E
+فریکوینسی F_B A_I R_I II_I K_I UU_I J_I A_I N_I S_I II_E
+فزا F_B I_I Z_I AA_E
+فس F_B A_I S_E
+فش F_B I_I SH_E
+فصیح F_B A_I S_I II_I H_E
+فضا F_B I_I Z_I AA_E
+فضل F_B A_I Z_I L_E
+ففتھ F_B I_I F_I TDH_E
+ففٹی F_B I_I F_I TT_I II_E
+ففٹین F_B F_I T_I II_I N_E
+فقط F_B U_I Q_I A_I TD_E
+فکر F_B I_I K_I R_E
+فکس F_B I_I K_I S_E
+فل F_B A_I L_E
+فلانا F_B I_I L_I AA_I N_I AA_E
+فلانے F_B I_I L_I AA_I N_I AY_E
+فلت F_B L_I A_I TD_E
+فلحال F_B A_I L_I H_I AA_I L_E
+فلریس F_B A_I L_I A_I R_I AE_I S_E
+فلنگ F_B L_I I_I NG_E
+فلو F_B A_I L_I OO_E
+فلور F_B A_I L_I OO_I R_E
+فلوری F_B A_I L_I OO_I R_I II_E
+فلوقت F_B A_I L_I OO_I Q_I A_I TD_E
+فلی F_B A_I L_I II_E
+فلیٹ F_B A_I L_I AE_I TT_E
+فلیور F_B A_I L_I AE_I V_I A_I R_E
+فلیورز F_B A_I L_I AE_I V_I A_I R_I Z_E
+فمیلی F_B M_I II_I L_I II_E
+فن F_B A_I N_E
+فنکشنل F_B A_I N_I K_I SH_I A_I N_I A_I L_E
+فہیم F_B A_I H_I II_I M_E
+فواد F_B A_I V_I AA_I DD_E
+فودپندہ F_B O_I DD_I P_I A_I N_I DD_I AA_E
+فوڈ F_B UU_I DD_E
+فور F_B OO_I R_E
+فورا F_B OO_I R_I AA_E
+فورتھ F_B OO_I R_I TDH_E
+فورٹی F_B OO_I R_I TT_I II_E
+فورٹیفائیو F_B OO_I R_I TT_I II_I F_I AA_I II_I V_E
+فورٹین F_B OO_I R_I TT_I AE_I N_E
+فورس F_B OO_I R_I S_E
+فورن F_B OO_I R_I A_I N_E
+فوری F_B OO_I R_I II_E
+فوزیہ F_B OO_I Z_I I_I J_I AA_E
+فول F_B OO_I L_E
+فولو F_B OO_I L_I OO_E
+فون F_B OO_I N_E
+فی F_B II_E
+فیڈ F_B II_I DD_E
+فیز F_B AE_I Z_E
+فیزایڈ F_B AE_I Z_I AA_I AY_I DD_E
+فیزبک F_B AE_I Z_I B_I A_I K_E
+فیزفائیو F_B AE_I Z_I F_I AA_I II_I V_E
+فیزہوتا F_B AE_I Z_I H_I OO_I TD_I AA_E
+فیسٹیول F_B AE_I S_I TT_I II_I V_I A_I L_E
+فیسڈ F_B AE_I S_I DD_E
+فیصل F_B AE_I S_I A_I L_E
+فیصلہ F_B AY_I S_I L_I AA_E
+فیضان F_B AY_I Z_I AA_I N_E
+فیکٹ F_B AE_I K_I TT_E
+فیل F_B II_I L_E
+فیلنگز F_B II_I L_I I_I NG_I Z_E
+فیلو F_B II_I L_I OO_E
+فیلیٹ F_B II_I L_I AE_I TT_E
+فیمس F_B AE_I M_I S_E
+فیملی F_B AY_I M_I L_I II_E
+فینٹا F_B AE_I N_I TT_I AA_E
+فیو F_B I_I J_I UU_E
+فیور F_B I_I J_I UU_I R_E
+قادر Q_B AA_I DD_I I_I R_E
+قادریہ Q_B AA_I DD_I A_I R_I J_I AA_E
+قارٹر Q_B AA_I R_I TT_I A_I R_E
+قاسم Q_B AA_I S_I I_I M_E
+قاعدہ Q_B AA_I I_I DD_I AA_E
+قبل Q_B A_I B_I L_E
+قراةالعین Q_B A_I R_I AA_I L_I A_I II_I N_E
+قربان Q_B U_I R_I B_I AA_I N_E
+قریب Q_B A_I R_I II_I B_E
+قریشی Q_B U_I R_I AY_I SH_I II_E
+قسم Q_B A_I S_I A_I M_E
+قصور Q_B U_I S_I UU_I R_E
+قطعًا Q_B A_I TD_I A_I N_E
+كے AE_S
+کا K_B AA_E
+کاپوچینو K_B AA_I P_I OO_I TSH_I II_I N_I OO_E
+کاٹ K_B AA_I TT_E
+کاٹنی K_B AA_I TT_I N_I II_E
+کاٹے K_B AA_I TT_I AY_E
+کاٹی K_B AA_I TT_I II_E
+کار K_B AA_I R_E
+کارخانہ K_B AA_I R_I X_I AA_I N_I AA_E
+کارڈ K_B AA_I R_I DD_E
+کارڈیموم K_B AA_I R_I DD_I II_I M_I UU_I M_E
+کارساز K_B AA_I R_I S_I AA_I Z_E
+کارک K_B AA_I R_I K_E
+کاری K_B AA_I R_I II_E
+کاسمن K_B AA_I S_I M_I A_I N_E
+کاسی K_B AA_I S_I II_E
+کاشف K_B AA_I SH_I I_I F_E
+کاشفہ K_B AA_I SH_I I_I F_I AA_E
+کاظمہ K_B AA_I Z_I M_I AA_E
+کافی K_B AA_I F_I II_E
+کال K_B AA_I L_E
+کالج K_B AA_I L_I I_I DZZ_E
+کالز K_B AA_I L_I Z_E
+کالنگ K_B AA_I L_I I_I NG_E
+کالونی K_B AA_I L_I UU_I N_I II_E
+کالیں K_B AA_I L_I AYN_E
+کام K_B AA_I M_E
+کامران K_B AA_I M_I R_I AA_I N_E
+کاہوں K_B AA_I H_I OON_E
+کاؤنٹر K_B AA_I UU_I N_I TT_I A_I R_E
+کائنات K_B AA_I I_I N_I AA_I TD_E
+کائنڈ K_B AA_I I_I N_I DD_E
+کائنڈلی K_B AA_I I_I N_I DD_I L_I II_E
+کائینڈلی K_B AA_I I_I J_I A_I N_I DD_I L_I II_E
+کب K_B A_I B_E
+کباب K_B A_I B_I AA_I B_E
+کبھی K_B A_I BH_I II_E
+کپ K_B A_I P_E
+کتاب K_B I_I TD_I AA_I B_E
+کتن K_B I_I TD_I N_E
+کتنا K_B I_I TD_I N_I AA_E
+کتنے K_B I_I TD_I N_I AY_E
+کتنی K_B I_I TD_I N_I II_E
+کٹ K_B A_I TT_E
+کچ K_B U_I TSH_E
+کچا K_B U_I TSH_I TSH_I AA_E
+کچھ K_B U_I TSHH_E
+کدھر K_B U_I DDH_I DDH_I A_I R_E
+کڈز K_B U_I DD_I Z_E
+کڈی K_B U_I DD_I II_E
+کر K_B A_I R_E
+کرا K_B A_I R_I AA_E
+کراتا K_B A_I R_I AA_I TD_I AA_E
+کراتے K_B A_I R_I AA_I TD_I AY_E
+کراچی K_B A_I R_I AA_I TSH_I II_E
+کراس K_B A_I R_I AA_I S_E
+کرانا K_B A_I R_I AA_I N_I AA_E
+کراؤ K_B A_I R_I AA_I OO_E
+کرایا K_B A_I R_I AA_I J_I AA_E
+کراینگے K_B A_I R_I AA_I AE_I NG_I G_I AY_E
+کرائیے K_B A_I R_I AA_I II_I AY_E
+کرپسی K_B A_I R_I P_I S_I II_E
+کرتا K_B A_I R_I TD_I AA_E
+کرتے K_B A_I R_I TD_I AY_E
+کرتی K_B A_I R_I TD_I II_E
+کرتیں K_B U_I R_I TD_I IIN_E
+کرد K_B U_I R_I DD_E
+کردو K_B U_I R_I DD_I UU_E
+کردوں K_B U_I R_I DD_I OON_E
+کردیجیئے K_B U_I R_I DD_I II_I DZ_I II_I AE_E
+کردیجئے K_B U_I R_I DD_I II_I DZZ_I I_I AE_E
+کردیں K_B U_I R_I DD_I AYN_E
+کردینا K_B U_I R_I DD_I II_I N_I AA_E
+کرراہیۓ K_B A_I R_I R_I AA_I H_I II_E
+کرریکٹ K_B A_I R_I R_I AY_I K_I TT_E
+کرس K_B U_I R_I S_E
+کرسپ K_B A_I R_I A_I S_I P_E
+کرسپی K_B A_I R_I A_I S_I P_I II_E
+کرک K_B U_I R_I K_E
+کرلو K_B U_I R_I L_I OO_E
+کرلے K_B U_I R_I L_I AY_E
+کرلیتے K_B U_I R_I L_I II_I TD_I AY_E
+کرلیجئے K_B U_I R_I L_I II_I DZZ_I I_I AE_E
+کرلیں K_B U_I R_I L_I AYN_E
+کرلیئگا K_B U_I R_I L_I II_I I_I G_I AA_E
+کرم K_B A_I R_I M_E
+کرنا K_B A_I R_I N_I AA_E
+کرنچ K_B A_I R_I A_I N_I TSH_E
+کرنل K_B A_I R_I A_I N_I A_I L_E
+کرنے K_B A_I R_I N_I AY_E
+کرنی K_B U_I R_I N_I II_E
+کرہے K_B A_I R_I H_I AY_E
+کرو K_B A_I R_I OO_E
+کروا K_B A_I R_I V_I AA_E
+کرواتا K_B A_I R_I V_I AA_I TD_I AA_E
+کرواتے K_B A_I R_I V_I AA_I TD_I AY_E
+کرواتی K_B A_I R_I V_I AA_I TD_I II_E
+کرواتیں K_B A_I R_I V_I AA_I TD_I AYN_E
+کروادیتی K_B A_I R_I V_I AA_I DD_I II_I TD_I II_E
+کروادیں K_B A_I R_I V_I AA_I DD_I AYN_E
+کروالیجیے K_B A_I R_I V_I AA_I L_I II_I DZZ_I II_I AY_E
+کروانا K_B A_I R_I V_I AA_I N_I AA_E
+کروانے K_B A_I R_I V_I AA_I N_I AY_E
+کروانی K_B A_I R_I V_I AA_I N_I II_E
+کرواؤ K_B A_I R_I V_I AA_I OO_E
+کرواؤں K_B A_I R_I V_I AA_I OON_E
+کروایا K_B A_I R_I V_I AA_I J_I AA_E
+کروایے K_B A_I R_I V_I AA_I J_I AY_E
+کروائی K_B A_I R_I V_I AA_I II_E
+کروائیں K_B A_I R_I V_I AA_I AEN_E
+کروائیے K_B A_I R_I V_I AA_I II_I AY_E
+کروآ K_B A_I R_I OO_I AA_E
+کروں K_B A_I R_I OON_E
+کروے K_B A_I R_I V_I AE_E
+کرے K_B U_I R_I AE_E
+کری K_B A_I R_I II_E
+کریڈیٹ K_B A_I R_I AE_I DD_I AY_I TT_E
+کریسپی K_B A_I R_I AE_I S_I P_I II_E
+کریکٹ K_B A_I R_I AE_I K_I TT_E
+کریکٹر K_B A_I R_I AE_I K_I TT_I A_I R_E
+کریم K_B A_I R_I II_I M_E
+کریمز K_B A_I R_I II_I M_I Z_E
+کریمل K_B A_I R_I II_I M_I I_I L_E
+کریں K_B A_I R_I AEN_E
+کریںوہ K_B A_I R_I AE_I OO_E
+کریے K_B A_I R_I J_I AY_E
+کرئیے K_B A_I R_I I_I J_I AY_E
+کڑک K_B U_I RR_I A_I K_E
+کس K_B A_I S_E
+کسٹرڈ K_B I_I S_I TT_I A_I R_I DD_E
+کسٹمر K_B A_I S_I TT_I A_I M_I A_I R_E
+کسٹمرز K_B A_I S_I TT_I A_I M_I A_I R_I Z_E
+کسی K_B A_I S_I II_E
+کش K_B A_I SH_E
+کشمیر K_B A_I SH_I M_I II_I R_E
+کل K_B A_I L_E
+کلاک K_B A_I L_I AA_I K_E
+کلائنٹ K_B A_I L_I AA_I I_I N_I TT_E
+کلب K_B A_I L_I A_I B_E
+کلٹیکس K_B A_I L_I TT_I AE_I K_I S_E
+کلثوم K_B U_I L_I S_I UU_I M_E
+کلر K_B A_I L_I A_I R_E
+کلفٹن K_B A_I L_I L_I I_I F_I TT_I A_I N_E
+کلک K_B U_I L_I K_E
+کلو K_B A_I L_I OO_E
+کلوز K_B A_I L_I OO_I Z_E
+کلوزسٹ K_B A_I L_I OO_I Z_I I_I S_I TT_E
+کلوزنگ K_B A_I L_I OO_I Z_I NG_E
+کلوس K_B A_I L_I OO_I S_E
+کلوک K_B A_I L_I OO_I K_E
+کلی K_B A_I L_I II_E
+کلیکٹ K_B A_I L_I AE_I K_I TT_E
+کلیم K_B A_I L_I II_I M_E
+کلین K_B A_I L_I II_I N_E
+کلینک K_B A_I L_I II_I N_I I_I K_E
+کلئیر K_B A_I L_I I_I J_I A_I R_E
+کم K_B A_I M_E
+کمبینیشن K_B A_I M_I B_I II_I N_I AY_I SH_I A_I N_E
+کمپلیٹ K_B A_I M_I P_I L_I AY_I TT_E
+کمپلیٹلی K_B A_I M_I P_I L_I AY_I TT_I L_I II_E
+کمپلین K_B A_I M_I P_I L_I AY_I N_E
+کمپلینز K_B A_I M_I P_I L_I AY_I N_I Z_E
+کمپلیننگ K_B A_I M_I P_I L_I AY_I N_I I_I NG_E
+کمپنی K_B A_I M_I P_I A_I N_I II_E
+کمٹمنٹ K_B A_I M_I TT_I M_I A_I N_I TT_E
+کمرشل K_B A_I M_I A_I R_I SH_I A_I L_E
+کمنگ K_B A_I M_I I_I NG_E
+کمیونکیٹ K_B A_I M_I J_I UU_I N_I K_I AY_I TT_E
+کن K_B A_I N_E
+کنال K_B A_I N_I AA_I L_E
+کنٹرول K_B A_I N_I TT_I R_I OO_I L_E
+کنٹینیو K_B A_I N_I TT_I II_I N_I II_I OO_E
+کنڈریل K_B A_I N_I DD_I R_I I_I J_I A_I L_E
+کنڈیشن K_B A_I N_I DD_I II_I SH_I A_I N_E
+کنڈیشنز K_B A_I N_I DD_I II_I SH_I A_I N_I Z_E
+کنزیوم K_B A_I N_I Z_I I_I J_I UU_I M_E
+کنزیومرز K_B U_I N_I Z_I J_I OO_I M_I R_I K_I OO_I R_I T_I Z_E
+کنسرن K_B A_I N_I S_I A_I R_I A_I N_E
+کنسرنڈ K_B A_I N_I S_I A_I R_I I_I N_I DD_E
+کنسلیشن K_B A_I N_I S_I A_I L_I AE_I SH_I A_I N_E
+کنفرم K_B N_I F_I R_I M_E
+کنفرمیشن K_B N_I F_I R_I M_I AY_I SH_I A_I N_E
+کنفرنٹ K_B A_I N_I F_I A_I R_I A_I N_I TT_E
+کنفیوژن K_B A_I N_I F_I I_I J_I UU_I ZZ_I A_I N_E
+کنو K_B A_I N_I OO_E
+کنورٹ K_B A_I N_I V_I A_I R_I TT_E
+کنوے K_B A_I N_I V_I AY_E
+کنیکٹ K_B U_I N_I AE_I K_I TT_E
+کنیکشن K_B A_I N_I AE_I K_I SH_I A_I N_E
+کہ K_B AA_E
+کہا K_B A_I H_I AA_E
+کہاں K_B A_I H_I AAN_E
+کہانی K_B A_I H_I AA_I N_I II_E
+کہتا K_B A_I H_I TD_I AA_E
+کہتے K_B A_I H_I TD_I AY_E
+کہتی K_B A_I H_I TD_I II_E
+کہتیں K_B A_I H_I A_I TD_I AYN_E
+کہنا K_B A_I H_I N_I AA_E
+کہنے K_B A_I H_I N_I AY_E
+کہہ K_B OOH_I H_E
+کہو K_B A_I H_I OO_E
+کہوں K_B A_I H_I UUN_E
+کہے K_B A_I H_I AY_E
+کہی K_B A_I H_I II_E
+کہیں K_B A_I H_I AYN_E
+کہیںسے K_B A_I H_I S_I S_I AE_E
+کہیے K_B A_I H_I II_I J_I AY_E
+کہئے K_B A_I H_I II_I AE_E
+کھا KH_B AA_E
+کھاِنا KH_B AA_I I_I N_I AA_E
+کھاتا KH_B AA_I TD_I AA_E
+کھاتے KH_B AA_I TD_I AY_E
+کھاتی KH_B AA_I TD_I II_E
+کھانا KH_B AA_I N_I AA_E
+کھانے KH_B AA_I N_I AY_E
+کھانی KH_B AA_I N_I II_E
+کھاؤ KH_B AA_I OO_E
+کھاؤں KH_B AA_I OON_E
+کھایا KH_B AA_I J_I AA_E
+کھائے KH_B AA_I AY_E
+کھائیں KH_B AA_I AEN_E
+کھڑا KH_B A_I RR_I AA_E
+کھڑے KH_B A_I RR_I AE_E
+کھڑی KH_B A_I RR_I II_E
+کھلا KH_B I_I L_I AA_E
+کھلی KH_B A_I L_I II_E
+کھول KH_B OO_I L_E
+کھولا KH_B OO_I L_I AA_E
+کھولنے KH_B OO_I L_I N_I AE_E
+کو K_B OO_E
+کواپریشن K_B U_I V_I AA_I P_I A_I R_I AY_I SH_I A_I N_E
+کواٹر K_B A_I V_I AA_I TT_I A_I R_E
+کوالٹی K_B A_I V_I AA_I L_I TT_I II_E
+کوائٹ K_B U_I V_I AA_I I_I TT_E
+کوآپریٹیو K_B OO_I AA_I P_I R_I AY_I TT_I II_I V_E
+کوآرڈینیٹ K_B OO_I AA_I R_I DD_I II_I N_I AE_I TT_E
+کوبھائی K_B UU_I BH_I AA_I II_E
+کوپرائٹ K_B UU_I P_I A_I R_I AA_I I_I TT_E
+کوٹیجس K_B OO_I TT_I AY_I DZZ_I S_E
+کوڈ K_B O_I DD_E
+کورپریٹ K_B OO_I R_I P_I R_I AY_I TT_E
+کورپریشن K_B OO_I R_I P_I R_I AY_I SH_I A_I N_E
+کورٹ K_B OO_I R_I TT_E
+کورڈ K_B OO_I R_I DD_E
+کورنر K_B OO_I R_I N_I A_I R_E
+کورنگی K_B O_I R_I A_I NG_I G_I II_E
+کورنیٹو K_B OO_I R_I N_I AY_I TT_I OO_E
+کوسٹ K_B OO_I S_I TT_E
+کوشش K_B OO_I SH_I I_I SH_E
+کوفز K_B UU_I F_I Z_E
+کوفی K_B UU_I F_I II_E
+کوفیز K_B UU_I F_I II_I Z_E
+کوک K_B OO_I K_E
+کوکا K_B OO_I K_I AA_E
+کوکی K_B UU_I K_I II_E
+کوکیز K_B UU_I K_I II_I Z_E
+کول K_B OO_I L_E
+کولا K_B OO_I L_I AA_E
+کولٹی K_B OO_I L_I TT_I II_E
+کولج K_B OO_I L_I DZZ_E
+کولڈ K_B OO_I L_I DD_E
+کولز K_B OO_I L_I Z_E
+کولنگ K_B OO_I L_I I_I NG_E
+کولونی K_B OO_I L_I OO_I N_I II_E
+کولیٹی K_B UU_I L_I AY_I TT_I II_E
+کولیگ K_B OO_I L_I II_I G_E
+کومپلیکس K_B OO_I M_I P_I A_I L_I II_I K_I S_E
+کومپلیمنٹری K_B OO_I M_I P_I L_I II_I M_I A_I N_I TT_I A_I R_I II_E
+کومپلیمینٹ K_B OO_I M_I P_I L_I II_I M_I AE_I N_I TT_E
+کومپلیمینٹری K_B OO_I M_I P_I L_I II_I M_I AE_I N_I TT_I A_I R_I II_E
+کومپلینٹ K_B OO_I M_I P_I L_I AY_I N_I TT_E
+کومپنسیٹ K_B OO_I M_I P_I A_I N_I S_I II_I TT_E
+کومپنسیشن K_B OO_I M_I P_I A_I N_I S_I AE_I SH_I A_I N_E
+کون K_B OO_I N_E
+کونٹیکٹ K_B OO_I N_I TT_I AE_I K_I TT_E
+کونٹینینٹل K_B OO_I N_I TT_I AY_I N_I AE_I N_I TT_I A_I L_E
+کونسا K_B OO_I N_I S_I AA_E
+کونسے K_B OO_I N_I S_I AY_E
+کونسی K_B O_I N_I S_I II_E
+کونفرمڈ K_B O_I N_I F_I A_I R_I M_I A_I DD_E
+کوورج K_B UU_I V_I R_I I_I DZZ_E
+کوے K_B UU_I AE_E
+کویری K_B A_I V_I AE_I R_I II_E
+کویریز K_B UU_I II_I R_I II_I Z_E
+کوئٹہ K_B UU_I I_I TT_I AA_E
+کوئلہ K_B OO_I I_I L_I AA_E
+کوئی K_B OO_I II_E
+کے K_B AY_E
+کی K_B II_E
+کیا K_B I_I J_I AA_E
+کیالیکن K_B I_I J_I AA_I L_I II_I K_I A_I N_E
+کیپ K_B II_I P_E
+کیپٹین K_B AE_I P_I TT_I II_I N_E
+کیپچینو K_B AE_I P_I I_I TSH_I TSH_I II_I N_I OO_E
+کیپوچینو K_B II_I P_I OO_I TSH_I II_I N_I OO_E
+کیٹ K_B AE_I TT_E
+کیٹچ K_B AE_I TT_I TSH_E
+کیجیے K_B II_I DZZ_I II_I AE_E
+کیجیئے K_B II_I DZZ_I II_I AY_E
+کیجیۓ K_B II_I DZZ_I II_E
+کیجئے K_B II_I DZZ_I I_I AE_E
+کیچ K_B II_I TSH_E
+کیچپ K_B II_I TSH_I P_E
+کیریمل K_B AE_I R_I AE_I M_I I_I L_E
+کیس K_B AE_I S_E
+کیسے K_B AE_I S_I AY_E
+کیسی K_B AE_I S_I II_E
+کیش K_B AE_I SH_E
+کیفے K_B AY_I F_I AE_E
+کیک K_B AY_I K_E
+کیکس K_B AY_I K_I S_E
+کیل K_B AY_I L_E
+کیلاش K_B AE_I L_I AA_I SH_E
+کیلکیولیٹ K_B AE_I L_I K_I UU_I L_I AY_I TT_E
+کیم K_B AE_I M_E
+کیمپس K_B AE_I M_I P_I A_I S_E
+کین K_B II_I N_E
+کینٹ K_B AE_I N_I TT_E
+کینسل K_B AE_I N_I S_I A_I L_E
+کینیڈا K_B AE_I N_I AY_I DD_I AA_E
+کیو K_B I_I J_I UU_E
+کیوری K_B I_I J_I UU_I R_I II_E
+کیوں K_B II_I OON_E
+کیونکہ K_B I_I J_I UU_I N_I K_I AE_E
+کیے K_B II_I AE_E
+کیئر K_B AY_I A_I R_E
+کئے K_B I_I AE_E
+گا G_B AA_E
+گارڈ G_B AA_I R_I DD_E
+گارڈن G_B AA_I R_I DD_I A_I N_E
+گارلک G_B AA_I R_I L_I I_I K_E
+گاری G_B AA_I R_I II_E
+گارینٹی G_B AA_I R_I AE_I N_I TT_I II_E
+گاڑی G_B AA_I RR_I II_E
+گالیاں G_B AA_I L_I I_I J_I AAN_E
+گائز G_B AA_I I_I Z_E
+گائے G_B AA_I AY_E
+گائیڈ G_B AA_I II_I DD_E
+گآئے G_B U_I AA_I AE_E
+گجراں G_B U_I DZZ_I R_I AAN_E
+گڈ G_B U_I DD_E
+گر G_B A_I R_E
+گرا G_B I_I R_I AA_E
+گرامر G_B A_I R_I AA_I M_I A_I R_E
+گرانڈ G_B A_I R_I AA_I N_I DD_E
+گراؤنڈ G_B I_I R_I AA_I UU_I N_I DD_E
+گرل G_B I_I R_I I_I L_E
+گرلز G_B A_I R_I L_I Z_E
+گرم G_B A_I R_I A_I M_E
+گرمی G_B A_I R_I M_I II_E
+گروپ G_B U_I R_I UU_I P_E
+گری G_B I_I R_I II_E
+گریڈ G_B I_I R_I AE_I DD_E
+گریم G_B I_I R_I II_I M_E
+گرین G_B I_I R_I II_I N_E
+گرینڈ G_B I_I R_I AE_I N_I DD_E
+گزار G_B U_I Z_I AA_I R_E
+گزر G_B U_I Z_I A_I R_E
+گلاِس G_B A_I L_I AA_I I_I S_E
+گلبرگ G_B A_I L_I L_I A_I R_I G_E
+گلریز G_B U_I L_I R_I AE_I Z_E
+گلستان G_B U_I L_I I_I S_I TD_I AA_I N_E
+گلش G_B U_I L_I SH_E
+گلشن G_B U_I L_I SH_I A_I N_E
+گلف G_B A_I L_I F_E
+گلی G_B A_I L_I II_E
+گلیستان G_B A_I L_I AE_I S_I TD_I AA_I N_E
+گندہ G_B A_I N_I DD_I AA_E
+گندے G_B A_I N_I DD_I AY_E
+گندی G_B A_I N_I DD_I II_E
+گھاری GH_B AA_I R_I II_E
+گھٹنے GH_B A_I TT_I N_I AY_E
+گھٹیا GH_B A_I TT_I J_I AA_E
+گھر GH_B A_I R_E
+گھروں GH_B A_I R_I OON_E
+گھنٹہ GH_B A_I N_I TT_I AA_E
+گھنٹوں GH_B A_I N_I TT_I OON_E
+گھنٹے GH_B E_I N_I TT_I AE_E
+گھوم GH_B UU_I M_E
+گھوما GH_B UU_I M_I AA_E
+گو G_B OO_E
+گوا G_B A_I V_I AA_E
+گواوا G_B A_I V_I AA_I V_I AA_E
+گوبھی G_B OO_I BH_I II_E
+گوگل G_B UU_I G_I A_I L_E
+گولف G_B OO_I L_I F_E
+گولی G_B OO_I L_I II_E
+گے G_B AE_E
+گی G_B II_E
+گیا G_B I_I J_I AA_E
+گیارہ G_B I_I J_I AA_I R_I AA_E
+گیٹ G_B AE_I TT_E
+گیٹنگ G_B AE_I TT_I I_I NG_E
+گیس G_B AY_I S_E
+گیسٹ G_B AE_I S_I TT_E
+گیند G_B AY_I N_I DD_E
+گیون G_B AE_I V_I A_I N_E
+گئے G_B A_I AE_E
+گئی G_B A_I II_E
+لِڈ L_B I_I DD_E
+لا L_B AA_E
+لاِسٹ L_B AA_I I_I S_I TT_E
+لاتا L_B AA_I TD_I AA_E
+لاتے L_B AA_I TD_I AY_E
+لاتی L_B AA_I TD_I II_E
+لاٹے L_B AA_I TT_I AY_E
+لاثی L_B AA_I S_I II_E
+لارج L_B AA_I R_I DZ_E
+لازمی L_B AA_I Z_I M_I II_E
+لاسٹ L_B AA_I S_I TT_E
+لاک L_B AA_I K_E
+لاکھانی L_B AA_I KH_I AA_I N_I II_E
+لاکھوں L_B AA_I KH_I OON_E
+لاگ L_B AA_I G_E
+لالہ L_B AA_I L_I AA_E
+لانچ L_B AA_I N_I TSH_E
+لاہور L_B AA_I H_I O_I R_E
+لاھور L_B AA_I UU_I R_E
+لاؤ L_B AA_I OO_E
+لائبہ L_B AA_I I_I B_I AA_E
+لائٹ L_B AA_I I_I TT_E
+لائٹس L_B AA_I I_I TT_I S_E
+لائٹلی L_B AA_I I_I TT_I L_I II_E
+لائف L_B AA_I I_I F_E
+لائن L_B AA_I I_I N_E
+لائے L_B AA_I AY_E
+لائیک L_B AA_I II_I K_E
+لبرٹی L_B I_I B_I A_I R_I TT_I II_E
+لبریز L_B I_I B_I R_I II_I Z_E
+لڑکا L_B A_I RR_I K_I AA_E
+لڑکی L_B A_I RR_I K_I II_E
+لسٹ L_B I_I S_I TT_E
+لطیف L_B A_I TD_I II_I F_E
+لک L_B A_I K_E
+لکهیں L_B A_I K_I AYN_E
+لکھ L_B I_I KH_E
+لکھا L_B I_I KH_I KH_I AA_E
+لکھتیں L_B I_I KH_I TD_I IIN_E
+لکھوا L_B I_I KH_I V_I AA_E
+لکھوانا L_B I_I KH_I V_I AA_I N_I AA_E
+لکھواؤ L_B I_I KH_I V_I AA_I OO_E
+لکھوایا L_B I_I KH_I V_I AA_I J_I AA_E
+لکھوایۓ L_B I_I KH_I V_I AA_I II_E
+لکھوائے L_B I_I KH_I V_I AA_I AY_E
+لکھوائی L_B I_I KH_I V_I AA_I II_E
+لکھے L_B I_I KH_I AE_E
+لکھی L_B I_I KH_I II_E
+لکھیں L_B I_I KH_I AEN_E
+لکھیے L_B I_I KH_I J_I AE_E
+لکھئیے L_B I_I KH_I II_I AE_E
+لگ L_B A_I G_E
+لگا L_B A_I G_I AA_E
+لگاتے L_B A_I G_I AA_I TD_I AY_E
+لگاتی L_B A_I G_I AA_I TD_I II_E
+لگائے L_B A_I G_I AA_I AE_E
+لگتا L_B A_I G_I TD_I AA_E
+لگتی L_B A_I G_I TD_I II_E
+لگتیں L_B A_I G_I TD_I IIN_E
+لگے L_B A_I G_I AE_E
+لگےگا L_B A_I G_I AY_I G_I AA_E
+لگی L_B A_I G_I II_E
+لگیں L_B A_I G_I AEN_E
+لمبی L_B A_I M_I B_I II_E
+لنچ L_B A_I N_I TSH_E
+لنک L_B I_I N_I K_E
+لو L_B OO_E
+لوٹلو L_B OO_I TT_I L_I OO_E
+لوجز L_B O_I DZZ_I Z_E
+لودھی L_B OO_I DDH_I II_E
+لوڈڈ L_B OO_I DD_I I_I DD_E
+لوک L_B O_I K_E
+لوکل L_B OO_I K_I A_I L_E
+لوکیشن L_B UU_I K_I AE_I SH_I A_I N_E
+لوگ L_B OO_I G_E
+لوگو L_B OO_I G_I OO_E
+لوگوں L_B OO_I G_I OON_E
+لوگے L_B OO_I G_I AE_E
+لوگی L_B OO_I G_I II_E
+لوں L_B OON_E
+لونچ L_B O_I N_I TSH_E
+لوؤن L_B OO_I A_I OO_I N_E
+لے L_B AE_E
+لےلو L_B AY_I L_I OO_E
+لےلیں L_B AY_I L_I AEN_E
+لی L_B II_E
+لیا L_B I_I J_I AA_E
+لیتا L_B AE_I TD_I AA_E
+لیتے L_B AE_I TD_I AE_E
+لیتی L_B AE_I TD_I II_E
+لیٹ L_B AY_I TT_E
+لیٹر L_B AY_I TT_I A_I R_E
+لیٹرلی L_B AY_I TT_I A_I R_I L_I II_E
+لیٹریلی L_B AY_I TT_I R_I II_I L_I II_E
+لیٹس L_B AY_I TT_I S_E
+لیجیئے L_B II_I DZZ_I II_I AY_E
+لیجئے L_B II_I DZZ_I I_I AE_E
+لیجئیے L_B II_I DZZ_I I_I J_I AY_E
+لیڈ L_B II_I DD_E
+لیس L_B AE_I S_E
+لیفٹ L_B AE_I F_I TT_E
+لیکن L_B AE_I K_I I_I N_E
+لیکے L_B AE_I K_I AY_E
+لیگا L_B II_I G_I AA_E
+لیمیٹڈ L_B II_I M_I II_I TT_I I_I DD_E
+لیں L_B AEN_E
+لیںگی L_B AE_I G_I II_E
+لین L_B II_I N_E
+لینا L_B II_I N_I AA_E
+لینٹن L_B AY_I N_I TT_I A_I N_E
+لینڈ L_B AE_I N_I DD_E
+لینگویج L_B AY_I NG_I V_I II_I DZZ_E
+لینگے L_B AE_I NG_I G_I AY_E
+لینے L_B AE_I N_I AE_E
+لینی L_B AY_I N_I II_E
+لیول L_B AE_I V_I A_I L_E
+لیے L_B II_I AE_E
+لئے L_B I_I AY_E
+لئیے L_B A_I II_I AY_E
+ماحول M_B AA_I H_I OO_I L_E
+مادر M_B AA_I DD_I I_I R_E
+مادم M_B AA_I DD_I U_I M_E
+ماڈل M_B AA_I DD_I A_I L_E
+مارا M_B AA_I R_I AA_E
+مارتیں M_B AA_I R_I A_I TD_I AYN_E
+مارک M_B AA_I R_I K_E
+مارنے M_B AA_I R_I N_I AY_E
+ماروں M_B AA_I R_I OON_E
+ماریہ M_B AA_I R_I J_I AA_E
+ماشااللہ M_B AA_I SH_I AA_I L_I L_I AA_E
+مال M_B AA_I L_E
+مام M_B AA_I M_E
+ماما M_B AA_I M_I AA_E
+مامو M_B AA_I M_I UU_E
+ماں M_B AAN_E
+مانگ M_B AA_I NG_E
+مانگتے M_B AA_I NG_I TD_I AY_E
+ماہم M_B AA_I H_I A_I M_E
+ماہین M_B AA_I H_I II_I N_E
+ماؤنٹین M_B AA_I UU_I N_I TT_I AE_I N_E
+مایا M_B AA_I J_I AA_E
+مایو M_B AA_I J_I UU_E
+مایونیز M_B AA_I J_I UU_I N_I II_I Z_E
+مائدہ M_B AA_I I_I DD_I AA_E
+مائرہ M_B AA_I I_I R_I AA_E
+مائزہ M_B AA_I I_I Z_I AA_E
+مائلو M_B AA_I I_I L_I OO_E
+مائنز M_B AA_I I_I N_I Z_E
+مائنس M_B AA_I I_I N_I S_E
+مائے M_B AA_I AY_E
+مائیکرو M_B AA_I II_I K_I R_I OO_E
+مبشر M_B U_I B_I A_I SH_I SH_I A_I R_E
+مبنٹ M_B A_I B_I N_I TT_E
+مبین M_B U_I B_I AY_I J_I A_I N_E
+مت M_B A_I TD_E
+متعلقہ M_B U_I TD_I A_I A_I L_I L_I I_I Q_I AA_E
+متلبن M_B U_I TD_I A_I L_I B_I A_I N_E
+متین M_B U_I TD_I II_I N_E
+مثلا M_B U_I S_I A_I L_I L_I A_I N_E
+مجال M_B U_I DZZ_I AA_I L_E
+مجتبیٰ M_B U_I DZZ_I TD_I A_I B_I II_E
+مجھ M_B U_I DZZH_E
+مجھے M_B U_I DZZH_I AE_E
+مجو M_B U_I DZZ_I UU_E
+مجے M_B U_I DZZ_I AE_E
+مجید M_B A_I DZZ_I II_I DD_E
+مچ M_B A_I TSH_E
+مچاؤں M_B A_I TSH_I AA_I OON_E
+مچائے M_B A_I TSH_I AA_I AY_E
+مچھ M_B A_I TSH_E
+محافظ M_B U_I H_I AA_I F_I I_I Z_E
+محسن M_B U_I H_I S_I A_I N_E
+محصول M_B A_I H_I S_I UU_I L_E
+محلّہ M_B E_I H_I L_I J_I U_I AA_E
+محمّد M_B U_I H_I A_I M_I M_I UU_I V_I DD_E
+محمود M_B A_I H_I M_I UU_I DD_E
+محھے M_B E_I H_I AY_E
+محیح M_B A_I H_I II_E
+مخاطب M_B U_I X_I AA_I TD_I I_I B_E
+مدیحہ M_B A_I DD_I II_I H_I AA_E
+مدینہ M_B A_I DD_I DD_I II_I N_I AA_E
+مڈ M_B U_I DD_E
+مرا M_B U_I R_I AA_E
+مراد M_B U_I R_I AA_I DD_E
+مرتبہ M_B A_I R_I TD_I A_I B_I AA_E
+مرتضیٰ M_B U_I R_I TD_I A_I Z_I II_E
+مرچی M_B I_I R_I TSH_I II_E
+مرد M_B U_I R_I DD_E
+مرسیز M_B A_I R_I S_I II_I Z_E
+مرضی M_B A_I R_I Z_I II_E
+مرکز M_B U_I R_I K_I A_I Z_E
+مری M_B A_I R_I II_E
+مریم M_B A_I R_I II_I M_E
+مرینڈا M_B U_I R_I AE_I N_I DD_I AA_E
+مزید M_B A_I Z_I II_I DD_E
+مس M_B A_I S_E
+مسترد M_B U_I S_I TD_I A_I R_I A_I DD_E
+مسٹر M_B I_I S_I TT_I A_I R_E
+مسٹرڈ M_B I_I S_I TT_I A_I R_I DD_E
+مسٹیک M_B A_I S_I TT_I II_I K_E
+مسجد M_B A_I S_I DZZ_I I_I DD_E
+مسز M_B I_I S_I I_I Z_E
+مسس M_B U_I S_I A_I S_E
+مسسنگ M_B A_I S_I S_I I_I NG_E
+مسطفیٰ M_B U_I S_I TD_I F_I II_E
+مسلے M_B U_I S_I L_I AY_E
+مسئلہ M_B A_I S_I A_I L_I AA_E
+مشال M_B U_I SH_I AA_I L_E
+مشرق M_B A_I SH_I R_I I_I Q_E
+مشکل M_B U_I SH_I K_I A_I L_E
+مشن M_B A_I SH_I A_I N_E
+مشہور M_B A_I SH_I H_I UU_I R_E
+مشین M_B A_I SH_I II_I N_E
+مصروف M_B A_I S_I R_I UU_I F_E
+مصطفیٰ M_B U_I S_I TD_I A_I F_I II_E
+مطابق M_B U_I TD_I AA_I B_I I_I Q_E
+مطلب M_B U_I TD_I L_I A_I B_E
+مظہر M_B U_I Z_I H_I A_I R_E
+معاملہ M_B U_I AA_I M_I A_I L_I AA_E
+معاویہ M_B U_I AA_I V_I I_I J_I AA_E
+معذرت M_B U_I A_I Z_I Z_I A_I R_I A_I TD_E
+معلوم M_B A_I L_I UU_I M_E
+معلومات M_B A_I L_I UU_I M_I AA_I TD_E
+معمولی M_B AA_I M_I UU_I L_I II_E
+معیز M_B A_I II_I Z_E
+مف M_B U_I F_E
+مفن M_B U_I F_I A_I N_E
+مفنز M_B U_I F_I A_I N_I Z_E
+مفین M_B U_I F_I II_I N_E
+مقابلے M_B U_I Q_I AA_I B_I L_I AY_E
+مقبول M_B A_I Q_I B_I UU_I L_E
+مقدّس M_B U_I Q_I A_I DD_I DD_I J_I U_I S_E
+مقصد M_B A_I Q_I S_I A_I DD_E
+مکدونلڈ M_B A_I K_I DD_I OO_I N_I L_I DD_E
+مکڈونلڈز M_B U_I K_I D_I OO_I N_I L_I D_I Z_E
+مکس M_B I_I K_I S_E
+مکی M_B U_I K_I K_I II_E
+مگ M_B A_I G_E
+مگر M_B A_I G_I A_I R_E
+مل M_B A_I L_E
+ملا M_B I_I L_I AA_E
+ملازم M_B U_I L_I AA_I Z_I I_I M_E
+ملازموں M_B U_I L_I AA_I Z_I I_I M_I OON_E
+ملاقات M_B U_I L_I L_I AA_I Q_I AA_I TD_E
+ملانے M_B I_I L_I AA_I N_I AY_E
+ملایا M_B I_I L_I L_I AA_I J_I AA_E
+ملائکہ M_B U_I L_I AA_I I_I K_I AA_E
+ملت M_B I_I L_I L_I A_I TD_E
+ملتا M_B U_I L_I TD_I AA_E
+ملتان M_B U_I L_I TD_I AA_I N_E
+ملٹی M_B I_I L_I TT_I II_E
+ملٹیپل M_B A_I L_I TT_I II_I P_I A_I L_E
+ملٹیپلس M_B A_I L_I TT_I II_I P_I A_I L_I A_I S_E
+ملک M_B U_I L_I K_E
+ملنا M_B I_I L_I N_I AA_E
+ملنے M_B I_I L_I N_I AE_E
+ملنی M_B I_I L_I N_I II_E
+ملے M_B I_I L_I AE_E
+ملی M_B A_I L_I II_E
+ملیر M_B I_I L_I II_I R_E
+ملیگا M_B A_I L_I II_I G_I AA_E
+ملیں M_B I_I L_I AEN_E
+ملینیم M_B I_I L_I II_I N_I I_I J_I A_I M_E
+ممّا M_B A_I M_I AA_E
+مں M_S
+مناہل M_B A_I N_I AA_I H_I A_I L_E
+منٹ M_B A_I N_I TT_E
+منٹس M_B I_I N_I TT_I S_E
+منصور M_B A_I N_I S_I UU_I R_E
+منگ M_B A_I NG_E
+منگائیں M_B A_I NG_I G_I AA_I AEN_E
+منگوا M_B A_I NG_I V_I AA_E
+منگواتی M_B A_I NG_I V_I AA_I TD_I II_E
+منگوانا M_B A_I NG_I V_I AA_I N_I AA_E
+منگوانی M_B A_I NG_I V_I AA_I N_I II_E
+منگواؤ M_B A_I NG_I V_I AA_I OO_E
+منگواؤں M_B A_I NG_I V_I AA_I OON_E
+منگوایا M_B A_I NG_I V_I AA_I J_I AA_E
+منگوائے M_B A_I NG_I V_I AA_I AY_E
+منگوائی M_B A_I NG_I V_I AA_I II_E
+منگوائیں M_B A_I NG_I V_I AA_I AYN_E
+منہ M_B U_I N_I AA_E
+منہاج M_B U_I N_I H_I AA_I DZZ_E
+منہاس M_B A_I N_I H_I AA_I S_E
+منی M_B A_I N_I II_E
+منیب M_B U_I N_I II_I B_E
+منیجر M_B A_I N_I AE_I DZZ_I A_I R_E
+منیر M_B U_I N_I II_I R_E
+منیش M_B A_I N_I II_I SH_E
+منیمم M_B U_I N_I II_I M_I M_E
+مہران M_B OOH_I H_I R_I AA_I N_E
+مہربانی M_B E_I H_I E_I R_I B_I AA_I N_I II_E
+مہرنسا M_B OOH_I H_I R_I N_I S_I AA_E
+مہرین M_B AEH_I H_I R_I II_I N_E
+مہک M_B AEH_I H_I A_I K_E
+مہمانوں M_B U_I H_I M_I AA_I N_I OON_E
+مہیش M_B A_I H_I II_I SH_E
+مو M_B OO_E
+موبائل M_B OO_I B_I AA_I I_I L_E
+موٹرز M_B OO_I TT_I A_I R_I Z_E
+موجود M_B O_I DZZ_I UU_I DD_E
+موحسن M_B O_I H_I S_I A_I N_E
+موڈ M_B UU_I DD_E
+مور M_B OO_I R_E
+مورننگ M_B O_I R_I I_I N_I I_I NG_E
+موسٹ M_B OO_I S_I TT_E
+موصول M_B O_I S_I UU_I L_E
+موقع M_B O_I Q_I AA_E
+موکہ M_B OO_I K_I AA_E
+مولتان M_B OO_I L_I TD_I AA_I N_E
+مولز M_B OO_I L_I Z_E
+مومن M_B OO_I M_I I_I N_E
+مومنٹ M_B OO_I M_I I_I N_I TT_E
+مومنٹس M_B OO_I M_I I_I N_I TT_I S_E
+مومینہ M_B OO_I M_I II_I N_I AA_E
+مونیب M_B UU_I N_I II_I B_E
+مؤقف M_B UU_I A_I Q_I Q_I A_I F_E
+مے M_B AY_E
+می M_B II_E
+میاں M_B I_I J_I AAN_E
+میٹر M_B II_I TT_I A_I R_E
+میدیکوس M_B AY_I DD_I II_I K_I UU_I S_E
+میڈ M_B AE_I DD_E
+میڈم M_B AE_I DD_I A_I M_E
+میڈیکل M_B AY_I DD_I II_I K_I A_I L_E
+میڈیم M_B AE_I DD_I I_I J_I A_I M_E
+میر M_B II_I R_E
+میرا M_B AY_I R_I AA_E
+میرے M_B AE_I R_I AE_E
+میری M_B II_I R_I II_E
+میزان M_B II_I Z_I AA_I N_E
+میس M_B AE_I S_E
+میسج M_B AY_I S_I I_I DZZ_E
+میعل M_B AE_I AA_I L_E
+میعلز M_B II_I A_I L_I Z_E
+میک M_B AE_I K_E
+میکڈونلڈ M_B AY_I K_I D_I OO_I N_I L_I DD_E
+میکڈونلڈز M_B AY_I K_I D_I OO_I N_I L_I D_I Z_E
+میگا M_B AE_I G_I AA_E
+میل M_B II_I L_E
+میلز M_B II_I L_I Z_E
+میلی M_B AE_I L_I II_E
+میم M_B II_I M_E
+میمبر M_B AE_I M_I B_I A_I R_E
+میمن M_B AE_I M_I A_I N_E
+میمون M_B AE_I M_I UU_I N_E
+میمونہ M_B AE_I M_I UU_I N_I AA_E
+میں M_B AYN_E
+میںشن M_B AE_I SH_I A_I N_E
+مینٹ M_B AE_I N_I TT_E
+مینٹل M_B AE_I N_I TT_I A_I L_E
+مینجمنٹ M_B AY_I N_I I_I DZZ_I M_I E_I N_I TT_E
+مینز M_B II_I N_I Z_E
+مینشن M_B AE_I N_I SH_I A_I N_E
+مینہ M_B II_I N_I AA_E
+مینی M_B AE_I N_I II_E
+مینیجر M_B AE_I N_I AY_I DZZ_I A_I R_E
+مینیو M_B AE_I N_I II_I OO_E
+مینیوز M_B AE_I J_I UU_I Z_E
+میو M_B II_I V_E
+میوزک M_B I_I J_I UU_I Z_I I_I K_E
+میونیز M_B I_I J_I UU_I N_I II_I Z_E
+میئر M_B AY_I A_I R_E
+مئے M_B A_I I_I AE_E
+مئی M_B A_I II_E
+ں A_B TD_E
+نا N_B AA_E
+ناٹ N_B AA_I TT_E
+ناجیب N_B AA_I DZZ_I II_I B_E
+نادیہ N_B AA_I DD_I I_I J_I AA_E
+نارتھ N_B AA_I R_I TDH_E
+نارمل N_B AA_I R_I M_I I_I L_E
+نارملی N_B AA_I R_I M_I I_I L_I II_E
+نازش N_B AA_I Z_I I_I SH_E
+ناشتہ N_B AA_I SH_I TD_I AA_E
+ناصر N_B AA_I S_I I_I R_E
+ناظم N_B AA_I Z_I I_I M_E
+ناکاش N_B AA_I K_I AA_I SH_E
+نام N_B AA_I M_E
+ناو N_B AA_I V_E
+ناینٹی N_B AA_I AY_I N_I TT_I II_E
+نائٹ N_B AA_I I_I TT_E
+نائلہ N_B AA_I I_I L_I AA_E
+نائن N_B AA_I I_I N_E
+نائنٹی N_B AA_I I_I N_I TT_I II_E
+نائنٹین N_B AA_I I_I N_I TT_I II_I N_E
+نبمر N_B A_I B_I A_I M_I A_I R_E
+نبیل N_B A_I B_I II_I L_E
+نتھنگ N_B A_I TDH_I NG_E
+نٹ N_B A_I TT_E
+نجیب N_B A_I DZZ_I II_I B_E
+ندا N_B I_I DD_I AA_E
+نذر N_B U_I Z_I U_I R_E
+نرم N_B A_I R_I M_E
+نزد N_B A_I Z_I DD_E
+نزیب N_B A_I Z_I II_I B_E
+نسیم N_B A_I S_I II_I M_E
+نشیمن N_B A_I SH_I II_I M_I A_I N_E
+نظر N_B A_I Z_I A_I R_E
+نعمان N_B AA_I M_I AA_I N_E
+نعیم N_B A_I II_I M_E
+نقاش N_B A_I Q_I Q_I AA_I SH_E
+نقصان N_B U_I Q_I S_I AA_I N_E
+نقلی N_B A_I Q_I L_I II_E
+نقوی N_B A_I Q_I V_I II_E
+نکال N_B I_I K_I AA_I L_E
+نکالنا N_B I_I K_I AA_I L_I N_I AA_E
+نکالو N_B I_I K_I AA_I L_I OO_E
+نکالی N_B I_I K_I AA_I L_I II_E
+نکل N_B I_I K_I A_I L_E
+نکلا N_B I_I K_I L_I AA_E
+نکلتا N_B I_I K_I A_I L_I TD_I AA_E
+نکلنا N_B I_I K_I A_I L_I N_I AA_E
+نکلنے N_B I_I K_I A_I L_I N_I AY_E
+نکلوا N_B I_I K_I A_I L_I V_I AA_E
+نکلوانی N_B I_I K_I A_I L_I V_I AA_I N_I II_E
+نکلے N_B I_I K_I L_I AY_E
+نگٹس NG_B TT_I S_E
+نگیٹ N_B I_I G_I AE_I TT_E
+نگیٹس N_B I_I G_I AE_I TT_I S_E
+نمائندہ N_B U_I M_I AA_I I_I N_I DD_I AA_E
+نمائندے N_B U_I M_I AA_I I_I N_I DD_I AY_E
+نمبر N_B A_I M_I B_I A_I R_E
+نمبرز N_B A_I M_I B_I A_I R_I Z_E
+نمک N_B A_I M_I A_I K_E
+نہ N_B AA_E
+نہت N_B I_I H_I A_I TD_E
+نہں N_B UUN_E
+نہی N_B A_I H_I II_E
+نہیں N_B A_I H_I IIN_E
+نو N_B OO_E
+نواز N_B A_I V_I AA_I Z_E
+نوٹ N_B OO_I TT_E
+نور N_B UU_I R_E
+نورتھ N_B O_I R_I TDH_E
+نورمل N_B O_I R_I M_I I_I L_E
+نوشین N_B OO_I SH_I II_I N_E
+نوکری N_B O_I K_I A_I R_I II_E
+نوں N_B OON_E
+نون N_B UU_I N_E
+نوے N_B A_I V_I V_I AE_E
+نوید N_B A_I V_I II_I DD_E
+نے N_B AY_E
+نی N_B II_E
+نیا N_B I_I J_I AA_E
+نیبر N_B AE_I B_I A_I R_E
+نیٹ N_B AE_I TT_E
+نیچے N_B II_I TSH_I AE_E
+نیڈ N_B II_I DD_E
+نیز N_B II_I Z_E
+نیسلے N_B AY_I S_I L_I AY_E
+نیکسٹ N_B AE_I K_I S_I TT_E
+نیم N_B II_I M_E
+نیہں N_B II_I H_E
+نیو N_B II_I V_E
+نیور N_B AY_I V_I A_I R_E
+نیوز N_B I_I J_I UU_I Z_E
+نیئرز N_B II_I A_I R_I Z_E
+نیئرسٹ N_B AY_I A_I R_I I_I S_I TT_E
+نئے N_B A_I AE_E
+نئی N_B A_I II_E
+نئیر N_B A_I J_I A_I R_E
+نئیرسٹ N_B A_I J_I A_I R_I S_I A_I TT_E
+هو V_S
+هوں OON_S
+ہا H_B AA_E
+ہاتھ H_B AA_I TDH_E
+ہاٹ H_B AA_I TT_E
+ہار H_B AA_I R_E
+ہارڈ H_B AA_I R_I DD_E
+ہارڈلی H_B AA_I R_I DD_I L_I II_E
+ہارون H_B AA_I R_I UU_I N_E
+ہاف H_B AA_I F_E
+ہال H_B AA_I L_E
+ہاں H_B AAN_E
+ہانگ H_B AA_I NG_E
+ہاور H_B AA_I V_I A_I R_E
+ہاؤ H_B AA_I OO_E
+ہاؤس H_B AA_I UU_I S_E
+ہاؤسنگ H_B AA_I UU_I S_I I_I NG_E
+ہائقہ H_B AA_I I_I Q_I AA_E
+ہائی H_B AA_I II_E
+ہائیپر H_B AA_I II_I P_I A_I R_E
+ہائیر H_B AA_I II_I R_E
+ہٹ H_B A_I TT_E
+ہٹا H_B A_I TT_I AA_E
+ہر H_B A_I R_E
+ہرفن H_B A_I R_I F_I A_I N_E
+ہرلی H_B A_I R_I L_I II_E
+ہزار H_B A_I Z_I AA_I R_E
+ہسبنڈ H_B A_I S_I B_I A_I N_I DD_E
+ہسپتال H_B A_I S_I P_I A_I TD_I AA_I L_E
+ہسٹری H_B I_I S_I TT_I I_I R_I II_E
+ہش H_B I_I SH_E
+ہشیور H_B A_I SH_I J_I R_E
+ہفتہ H_B A_I F_I TD_I AA_E
+ہفتے H_B A_I F_I TD_I AE_E
+ہل H_B A_I L_E
+ہلاں H_B A_I L_I AAN_E
+ہلکی H_B A_I L_I K_I II_E
+ہم H_B A_I M_E
+ہمارا H_B A_I M_I AA_I R_I AA_E
+ہمارے H_B A_I M_I AA_I R_I AE_E
+ہماری H_B A_I M_I AA_I R_I II_E
+ہمدان H_B A_I M_I DD_I AA_I N_E
+ہمدرد H_B A_I M_I DD_I A_I R_I DD_E
+ہمہ H_B A_I M_I AA_E
+ہمیشہ H_B A_I M_I AE_I SH_I AA_E
+ہمیں H_B A_I M_I AEN_E
+ہنڈ H_B A_I N_I DD_E
+ہنڈریڈ H_B A_I N_I DD_I R_I AE_I DD_E
+ہنس H_B A_I N_I S_E
+ہنسنے H_B A_I N_I S_I N_I AE_E
+ہنی H_B A_I N_I II_E
+ہہاں H_B A_I H_I AAN_E
+ہو H_B OO_E
+ہوا H_B A_I V_I AA_E
+ہوائیں H_B A_I V_I AA_I AYN_E
+ہوپ H_B OO_I P_E
+ہوتا H_B OO_I TD_I AA_E
+ہوتے H_B OO_I TD_I AY_E
+ہوتی H_B OO_I TD_I II_E
+ہوتیں H_B OO_I TD_I IIN_E
+ہوٹ H_B OO_I T_E
+ہوٹل H_B OO_I TT_I A_I L_E
+ہوجائےگا H_B UU_I DZZ_I AA_I AY_I G_I AA_E
+ہوجائیں H_B UU_I DZZ_I AA_I AYN_E
+ہورہا H_B OO_I R_I H_I AA_E
+ہوسپیٹل H_B OO_I S_I P_I II_I TT_I A_I L_E
+ہوسکتا H_B OO_I S_I K_I A_I TD_I AA_E
+ہوگا H_B OO_I G_I AA_E
+ہوگی H_B OO_I G_I II_E
+ہوگیا H_B OO_I G_I II_I AA_E
+ہوگئے H_B OO_I G_I I_I AY_E
+ہولڈ H_B OO_I L_I DD_E
+ہولڈنگ H_B OO_I L_I DD_I I_I NG_E
+ہوم H_B OO_I M_E
+ہوں H_B OON_E
+ہون H_B OO_I N_E
+ہونا H_B OO_I N_I AA_E
+ہونگی H_B OO_I NG_I II_E
+ہونے H_B OO_I N_I AY_E
+ہونی H_B OO_I N_I II_E
+ہونیسٹ H_B OO_I N_I II_I S_I TT_E
+ہووے H_B OO_I V_I AY_E
+ہویں H_B V_I AYN_E
+ہویے H_B A_I V_I II_I AY_E
+ہوئے H_B UU_I AE_E
+ہوئی H_B UU_I II_E
+ہے H_B AE_E
+ہےتو H_B A_I J_I TD_I OO_E
+ہی H_B II_E
+ہیپی H_B AE_I P_I II_E
+ہیڈ H_B AY_I DD_E
+ہیرا H_B AE_I R_I AA_E
+ہیروز H_B AE_I R_I OO_I Z_E
+ہیز H_B AE_I Z_E
+ہیش H_B AE_I SH_E
+ہیلپ H_B AE_I L_I P_E
+ہیلو H_B AE_I L_I OO_E
+ہیم H_B AE_I M_E
+ہیں H_B AYN_E
+ہینڈ H_B AE_I N_I DD_E
+ہینڈل H_B AE_I N_I DD_I A_I L_E
+ہیو H_B AE_I V_E
+ہیوملیشن H_B I_I J_I UU_I M_I I_I L_I AE_I SH_I A_I N_E
+ہییر H_B AY_I J_I A_I R_E
+ہییں H_B II_I AYN_E
+ہیئر H_B AE_I A_I R_E
+ھو KH_B OO_E
+ھوگی OO_B G_I II_E
+ھوم UU_B M_E
+و V_S
+وُڈ V_B A_I U_I DD_E
+وا V_B AA_E
+واِسع V_B AA_I I_I S_I AY_E
+واِسے V_B AA_I I_I S_I AE_E
+واپڈا V_B AA_I P_I DD_I AA_E
+واپس V_B AA_I P_I S_E
+واپسی V_B AA_I P_I S_I II_E
+واٹ V_B AA_I TT_E
+واٹر V_B AA_I TT_I A_I R_E
+واٹس V_B AA_I TT_I S_E
+وادیں V_B AA_I DD_I AYN_E
+وارہی V_B AA_I R_I H_I II_E
+وارورڈ V_B AA_I R_I V_I A_I R_I DD_E
+واز V_B AA_I Z_E
+واسے V_B AA_I S_I AY_E
+واقع V_B AA_I Q_I AE_E
+واک V_B AA_I K_E
+واکنگ V_B AA_I K_I I_I NG_E
+والا V_B AA_I L_I AA_E
+والہ V_B AA_I L_I AA_E
+والوں V_B AA_I L_I OON_E
+والے V_B AA_I L_I AY_E
+والی V_B AA_I L_I II_E
+وانٹ V_B AA_I N_I TT_E
+وانے V_B AA_I N_I AY_E
+واہ V_B AA_E
+واؤ V_B AA_I OO_E
+واؤں V_B AA_I OON_E
+واے V_B AA_I AY_E
+وایا V_B AA_I J_I AA_E
+وایں V_B AA_I AYN_E
+وایۓ V_B AA_I II_E
+وائٹ V_B AA_I I_I TT_E
+وائڈ V_B AA_I I_I DD_E
+وائز V_B AA_I I_I Z_E
+وائس V_B AA_I I_I S_E
+وائے V_B AA_I AY_E
+وائیڈ V_B AA_I II_I DD_E
+وائیں V_B AA_I AYN_E
+وائیے V_B AA_I I_I J_I AY_E
+وٹس V_B I_I TT_I S_E
+وجہ V_B A_I DZZ_I AA_E
+وچ V_B I_I TSH_E
+وحید V_B A_I H_I II_I DD_E
+ودھ V_B DDH_E
+ودھن V_B A_I DDH_I A_I N_E
+ودھنوں V_B A_I DDH_I A_I N_I OON_E
+ودھھ V_B A_I DDH_E
+ور V_B A_I R_E
+ورانچ V_B A_I R_I AA_I N_I TSH_E
+ورٹھ V_B A_I R_I TTH_E
+وردہ V_B A_I R_I DD_I AA_E
+ورک V_B A_I R_I K_E
+ورکنگ V_B A_I R_I K_I I_I NG_E
+ورلڈ V_B A_I R_I DD_E
+ورنہ V_B A_I R_I N_I AA_E
+وری V_B A_I R_I II_E
+وریو V_B A_I R_I J_I UU_E
+وزٹ V_B A_I Z_I A_I TT_E
+وسیم V_B A_I S_I II_I M_E
+وعلیکم V_B Y_I L_I AY_I K_I M_E
+وغیرہ V_B A_I 7_I AY_I R_I AA_E
+وقت V_B A_I Q_I TD_E
+وکی V_B A_I K_I II_E
+ول V_B A_I L_E
+ولا V_B A_I L_I AA_E
+ولی V_B A_I L_I II_E
+ولیج V_B I_I L_I II_I DZZ_E
+ولید V_B A_I L_I II_I DD_E
+ومن V_B A_I M_I A_I N_E
+وں OON_S
+ون V_B A_I N_E
+ونگ V_B I_I NG_E
+ونگز V_B I_I NG_I Z_E
+ونیلا V_B A_I N_I II_I L_I AA_E
+وہ V_B AA_E
+وہاں V_B A_I H_I AAN_E
+وہٹ V_B A_I H_I TT_E
+وہی V_B A_I H_I II_E
+وہیں V_B A_I H_I AYN_E
+وو V_B OO_E
+ووالا OO_B V_I AA_I L_I AA_E
+ووٹ V_B OO_I TT_E
+ووٹس V_B OO_I TT_I S_E
+ووج V_B OO_I DZZ_E
+ووڈ V_B UU_I DD_E
+وومن V_B UU_I M_I OO_I E_I N_E
+وومین V_B OO_I M_I II_I N_E
+وے V_B AE_E
+ویب V_B AY_I B_E
+ویٹ V_B AE_I TT_E
+ویٹنگ V_B AE_I TT_I I_I NG_E
+ویجٹیبلز V_B AE_I DZZ_I TT_I AY_I B_I A_I L_I Z_E
+ویجی V_B AY_I DZZ_I II_E
+ویجیٹیبل V_B AY_I DZZ_I II_I TT_I AY_I B_I A_I L_E
+ویری V_B AE_I R_I II_E
+ویریفائے V_B AE_I R_I II_I F_I AA_I AY_E
+ویریفائی V_B AE_I R_I II_I F_I AA_I II_E
+ویریفیکیشن V_B AE_I R_I II_I F_I II_I K_I AY_I SH_I A_I N_E
+ویسا V_B AE_I S_I AA_E
+ویسٹ V_B AE_I S_I TT_E
+ویسے V_B AY_I S_I AE_E
+ویل V_B AE_I L_E
+ویلا V_B AE_I L_I AA_E
+ویلاز V_B AE_I L_I AA_I Z_E
+ویلڈ V_B AE_I L_I DD_E
+ویلفئیر V_B E_I L_I F_I AE_I II_I R_E
+ویلکم V_B AE_I L_I K_I A_I M_E
+ویلو V_B AE_I L_I OO_E
+ویلی V_B AE_I L_I II_E
+ویلیڈ V_B AE_I L_I II_I DD_E
+ویلیو V_B AY_I L_I J_I UU_E
+ویلیود V_B AY_I L_I J_I UU_I DD_E
+ویلیوڈ V_B AY_I L_I J_I UU_I DD_E
+ویں V_B AYN_E
+وین V_B AE_I N_E
+ویو V_B AE_I V_E
+ویوس V_B AE_I V_I I_I S_E
+ویئر V_B AE_I A_I R_E
+ی II_S
+یا J_B AA_E
+یاِسر J_B AA_I I_I S_I A_I R_E
+یاد J_B AA_I DD_E
+یار J_B AA_I R_E
+یاسر J_B AA_I S_I A_I R_E
+یاہ J_B AA_E
+یت J_B A_I TD_E
+یتی J_B A_I TD_I II_E
+یرز J_B A_I R_I Z_E
+یس J_B A_I S_E
+یسٹ E_B S_I TT_E
+یعقوب J_B A_I Q_I UU_I B_E
+یعنی J_B A_I N_I II_E
+یقین J_B A_I Q_I II_I N_E
+یگا J_B A_I G_I AA_E
+یں AYN_S
+یہ J_B AA_E
+یہاں J_B A_I H_I AAN_E
+یہہ J_B A_I H_I AA_E
+یہی J_B AE_I H_I II_E
+یہیں J_B A_I H_I AYN_E
+یو J_B UU_E
+یوجولی J_B UU_I DZZ_I OO_I L_I II_E
+یور J_B UU_I R_E
+یوز J_B UU_I Z_E
+یوسف J_B UU_I S_I U_I F_E
+یوشولی J_B UU_I SH_I UU_I L_I II_E
+یومنا J_B UU_I M_I N_I AA_E
+یونٹ J_B UU_I N_I A_I TT_E
+یونین J_B UU_I N_I I_I J_I A_I N_E
+یونیورسٹی J_B UU_I N_I II_I V_I A_I R_I S_I I_I TT_I II_E
+<eps> SIL

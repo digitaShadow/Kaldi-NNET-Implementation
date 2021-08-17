@@ -1,0 +1,15 @@
+rumi_speaker_00205A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:52063
+rumi_speaker_00205B /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:52322
+rumi_speaker_00206A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:52581
+rumi_speaker_00206B /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:52840
+rumi_speaker_00207A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:53099
+rumi_speaker_00207B /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:53358
+rumi_speaker_00208A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:53617
+rumi_speaker_00208B /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:53876
+rumi_speaker_00209A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:54135
+rumi_speaker_00209B /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:54394
+rumi_speaker_0020A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:54652
+rumi_speaker_0020B /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:54910
+rumi_speaker_00211A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:55169
+rumi_speaker_00211B /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:55428
+rumi_speaker_00212A /kaldi/egs/Urdu_ASR_CASLT_RUMI_30072021/mfcc/cmvn_train.ark:55687

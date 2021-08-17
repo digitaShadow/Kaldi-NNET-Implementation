@@ -1,0 +1,3456 @@
+<OOV> <OOV> OOV_S
+<SIL> <SIL> SIL_S
+<eps> <eps> SIL
+آ آ AA_S
+آؤ آؤ AA_B OO_E
+آؤٹ آؤٹ AA_B A_I OO_I T_E
+آؤں آؤں AA_B UUN_E
+آئ آئ AA_B I_E
+آئس آئس AA_B I_I S_E
+آئسکریم آئسکریم AA_B I_I S_I K_I A_I R_I II_I M_E
+آئندہ آئندہ AA_B I_I N_I DD_I AA_E
+آئی آئی AA_B II_E
+آئیزہ آئیزہ AA_B II_I Z_I AA_E
+آئیم آئیم AA_B II_I M_E
+آئیندہ آئیندہ AA_B I_I N_I DD_I AA_E
+آئینگی آئینگی AA_B II_I A_I NG_I G_I II_E
+آئیڈیا آئیڈیا AA_B II_I DD_I I_I J_I AA_E
+آئیڈیل آئیڈیل AA_B II_I DD_I I_I J_I A_I L_E
+آئیگی آئیگی AA_B II_I G_I II_E
+آئیں آئیں AA_B IIN_E
+آئیے آئیے AA_B II_I AE_E
+آئے آئے AA_B AE_E
+آئےگا آئےگا AA_B I_I AY_I G_I AA_E
+آب آب AA_B B_E
+آباد آباد AA_B B_I AA_I DD_E
+آتا آتا AA_B TD_I AA_E
+آتی آتی AA_B TD_I II_E
+آتے آتے AA_B TD_I AY_E
+آج آج AA_B DZZ_E
+آجائے آجائے AA_B DZZ_I AA_I AY_E
+آجاتے آجاتے AA_B DZZ_I AA_I TD_I AY_E
+آجانی آجانی AA_B DZZ_I AA_I N_I II_E
+آجایئے آجایئے AA_B DZZ_I AA_I J_I I_I AE_E
+آجاینگے آجاینگے AA_B DZZ_I AA_I II_I NG_I G_I AE_E
+آخر آخر AA_B X_I I_I R_E
+آخری آخری AA_B X_I I_I R_I II_E
+آدمی آدمی AA_B DD_I M_I II_E
+آدمیوں آدمیوں AA_B DD_I M_I II_I OON_E
+آدھا آدھا AA_B DDH_I AA_E
+آدھی آدھی AA_B DDH_I II_E
+آدھے آدھے AA_B DDH_I AE_E
+آر آر AA_B R_E
+آرام آرام AA_B R_I AA_I M_E
+آراونڈ آراونڈ AA_B R_I AA_I V_I I_I N_I DD_E
+آرمی آرمی AA_B R_I M_I II_E
+آرڈر آرڈر AA_B R_I DD_I A_I R_E
+آرڈرز آرڈرز AA_B R_I DD_I A_I R_I Z_E
+آرڈرنگ آرڈرنگ AA_B R_I DD_I R_I I_I NG_E
+آرڈرکیےہیں آرڈرکیےہیں AA_B R_I DD_I A_I R_I K_I J_I AY_I H_I AYN_E
+آرکائیو آرکائیو AA_B R_I K_I AA_I II_I V_E
+آرکیٹک آرکیٹک AA_B R_I K_I II_I TT_I I_I K_E
+آرہا آرہا AA_B R_I H_I AA_E
+آرہہی آرہہی AA_B R_I H_I H_I II_E
+آرہی آرہی AA_B R_I H_I II_E
+آس آس AA_B S_E
+آسانی آسانی AA_B S_I AA_I N_I II_E
+آسلام آسلام AA_B S_I L_I AA_I M_E
+آسکتا آسکتا AA_B S_I A_I K_I TD_I AA_E
+آسکنگ آسکنگ AA_B S_I K_I NG_E
+آشر آشر AA_B SH_I R_E
+آشنا آشنا AA_B SH_I N_I AA_E
+آصف آصف AA_B S_I I_I F_E
+آف آف AA_B F_E
+آفر آفر AA_B F_I A_I R_E
+آفس آفس AA_B F_I I_I S_E
+آفٹر آفٹر AA_B F_I TT_I A_I R_E
+آفیسر آفیسر AA_B F_I II_I S_I A_I R_E
+آفیسرز آفیسرز AA_B F_I II_I S_I A_I R_I Z_E
+آفیشل آفیشل AA_B F_I II_I SH_I A_I L_E
+آل آل AA_B L_E
+آلاؤ آلاؤ AA_B L_I AA_I OO_E
+آلرائٹ آلرائٹ AA_B L_I A_I R_I AA_I I_I TT_E
+آلریڈی آلریڈی AA_B L_I R_I AE_I DD_I II_E
+آلموسٹ آلموسٹ AA_B L_I M_I OO_I S_I TT_E
+آلو آلو AA_B L_I UU_E
+آلویز آلویز AA_B L_I V_I II_I Z_E
+آلٹرنیٹ آلٹرنیٹ AA_B L_I T_I R_I N_I AY_I T_E
+آمبیر آمبیر AA_B M_I B_I II_I R_E
+آمر آمر AA_B M_I A_I R_E
+آملیٹ آملیٹ AA_B M_I L_I AY_I TT_E
+آمنہ آمنہ AA_B M_I N_I AA_E
+آن آن AA_B N_E
+آنا آنا AA_B N_I AA_E
+آنسر آنسر AA_B N_I S_I R_E
+آنلی آنلی AA_B N_I L_I II_E
+آنی آنی AA_B N_I II_E
+آنے آنے AA_B N_I AE_E
+آواز آواز AA_B V_I AA_I Z_E
+آوت آوت AA_B V_I A_I TD_E
+آور آور AA_B V_I A_I R_E
+آورز آورز AA_B V_I A_I R_I Z_E
+آوے آوے AA_B V_I AY_E
+آٹھ آٹھ AA_B TTH_E
+آپ آپ AA_B P_E
+آپا آپا AA_B P_I AA_E
+آپارٹ آپارٹ AA_B P_I AA_I R_I TT_E
+آپشن آپشن AA_B P_I SH_I A_I N_E
+آپشنس آپشنس AA_B P_I SH_I A_I N_I I_I S_E
+آپولوجی آپولوجی AA_B P_I OO_I L_I OO_I DZZ_I II_E
+آپکی آپکی AA_B P_I K_I II_E
+آچکی آچکی AA_B TSH_I A_I K_I II_E
+آکر آکر AA_B K_I A_I R_E
+آکے آکے AA_B K_I AY_E
+آگ آگ AA_B G_E
+آگئی آگئی AA_B G_I II_E
+آگیا آگیا AA_B G_I I_I J_I AA_E
+آگین آگین AA_B G_I II_I N_E
+آگینسٹ آگینسٹ AA_B G_I II_I N_I I_I S_I TT_E
+آگے آگے AA_B G_I AE_E
+آں آں AA_S
+آہستہ آہستہ AA_B H_I I_I S_I TD_I AA_E
+آیئے آیئے AA_B J_I I_I AE_E
+آیا آیا AA_B J_I AA_E
+آید آید AA_B DD_I I_I DD_E
+ا ا A_S
+ائی ائی A_B II_E
+ائیرپورٹ ائیرپورٹ A_B II_I R_I I_I P_I OO_I R_I TT_E
+ائے ائے AA_B AY_E
+ااچھا ااچھا A_B TSHH_I AA_E
+اب اب A_B B_E
+اباؤٹ اباؤٹ A_B B_I AA_I UU_I TT_E
+ابرار ابرار A_B B_I R_I AA_I R_E
+ابراہیم ابراہیم I_B B_I R_I AA_I H_I II_I M_E
+ابو ابو A_B B_I UU_E
+ابوبکر ابوبکر A_B B_I UU_I B_I A_I K_I R_E
+ابوو ابوو A_B B_I UU_I V_E
+ابَو ابَو A_B B_I I_I UU_E
+ابّا ابّا A_B B_I AA_E
+ابّو ابّو A_B B_I UU_I V_I UU_E
+ابھی ابھی A_B BH_I II_E
+ابھے ابھے U_B BH_I AY_E
+ابی ابی A_B B_I II_E
+ابیحہ ابیحہ A_B B_I II_I H_I AA_E
+ابے ابے A_B B_I AY_E
+ات ات I_B TD_E
+اتا اتا U_B TD_I AA_E
+اتحاد اتحاد I_B TD_I TD_I I_I H_I AA_I DD_E
+اترنا اترنا U_B TD_I A_I R_I N_I AA_E
+اتلیسٹ اتلیسٹ A_B TD_I L_I II_I S_I TT_E
+اتنا اتنا I_B TD_I N_I AA_E
+اتنی اتنی I_B TD_I N_I II_E
+اتنے اتنے I_B TD_I N_I AY_E
+اتھارہ اتھارہ A_B TDH_I AA_I R_I AA_E
+اتھر اتھر A_B TDH_I A_I R_E
+اتے اتے I_B TD_I AY_E
+اجاز اجاز A_B DZZ_I AA_I Z_E
+اجمل اجمل A_B DZZ_I M_I A_I L_E
+احتشام احتشام I_B H_I TD_I I_I SH_I AA_I M_E
+احد احد A_B H_I H_I I_I DD_E
+احساس احساس I_B H_I S_I AA_I S_E
+احسان احسان A_B H_I S_I AA_I N_E
+احسن احسن A_B H_I S_I A_I N_E
+احمد احمد A_B H_I M_I A_I DD_E
+اختر اختر A_B X_I TD_I A_I R_E
+ادر ادر I_B DD_I R_E
+ادریس ادریس I_B DD_I R_I AE_I S_E
+ادھ ادھ U_B DDH_E
+ادھر ادھر U_B DDH_I A_I R_E
+اراؤنڈ اراؤنڈ A_B R_I AA_I UU_I N_I DD_E
+ارجنٹ ارجنٹ A_B R_I DZZ_I A_I N_I TT_E
+ارجنٹلی ارجنٹلی A_B R_I DZZ_I A_I N_I TT_I L_I II_E
+ارجینٹ ارجینٹ A_B R_I DZZ_I AE_I N_I TT_E
+ارحم ارحم A_B R_I H_I A_I M_E
+ارحمان ارحمان A_B R_I A_I H_I M_I AA_I N_E
+اردر اردر A_B R_I DD_I A_I R_E
+اردو اردو A_B R_I DD_I UU_E
+اردے اردے A_B R_I DD_I AY_E
+ارسلان ارسلان A_B R_I S_I A_I L_I AA_I N_E
+ارسلہ ارسلہ A_B R_I S_I A_I L_I AA_E
+ارشاد ارشاد I_B R_I SH_I AA_I DD_E
+ارشد ارشد A_B R_I SH_I A_I DD_E
+ارلی ارلی A_B R_I L_I II_E
+اریب اریب A_B R_I II_I B_E
+اریس اریس A_B R_I AE_I S_E
+ارینج ارینج A_B R_I AE_I N_I DZZ_E
+ارے ارے A_B R_I AY_E
+از از A_B Z_E
+ازل ازل A_B Z_I A_I L_E
+اسامہ اسامہ A_B S_I AA_I M_I AA_E
+استشنا استشنا I_B S_I TD_I I_I SH_I N_I AA_E
+اسد اسد A_B S_I DD_E
+اسلام اسلام I_B S_I L_I AA_I M_E
+اسلم اسلم I_B S_I L_I A_I M_E
+اسما اسما A_B S_I M_I AA_E
+اسموتھی اسموتھی I_B S_I M_I OO_I TDH_I II_E
+اسمودی اسمودی I_B S_I M_I UU_I DD_I II_E
+اسمول اسمول I_B S_I M_I OO_I L_E
+اسٹار اسٹار I_B S_I TT_I AA_I R_E
+اسٹارٹ اسٹارٹ I_B S_I TT_I AA_I R_I TT_E
+اسٹارٹنگ اسٹارٹنگ I_B S_I TT_I AA_I R_I TT_I I_I NG_E
+اسٹاف اسٹاف I_B S_I TT_I AA_I F_E
+اسٹاِنس اسٹاِنس I_B S_I TT_I AA_I I_I N_I S_E
+اسٹرابری اسٹرابری I_B S_I TT_I A_I R_I AA_I B_I A_I R_I II_E
+اسٹرابیری اسٹرابیری I_B S_I TT_I A_I R_I AA_I B_I II_I R_I II_E
+اسٹرٹ اسٹرٹ I_B S_I TT_I A_I R_I TT_E
+اسٹرکٹلی اسٹرکٹلی I_B S_I TT_I A_I R_I A_I K_I TT_I L_I II_E
+اسٹریٹ اسٹریٹ I_B S_I TT_I A_I R_I AY_I TT_E
+اسٹل اسٹل I_B S_I TT_I A_I L_E
+اسٹور اسٹور I_B S_I TT_I OO_I R_E
+اسٹوپڈ اسٹوپڈ I_B S_I TT_I OO_I P_I A_I DD_E
+اسٹینڈرڈ اسٹینڈرڈ I_B S_I TT_I AE_I N_I DD_I A_I R_I DD_E
+اسٹیٹ اسٹیٹ I_B S_I TT_I AY_I TT_E
+اسٹے اسٹے I_B S_I TT_I AY_E
+اسپائس اسپائس I_B S_I P_I AA_I I_I S_E
+اسپائسی اسپائسی I_B S_I P_I AA_I I_I S_I II_E
+اسپائیسی اسپائیسی I_B S_I P_I AA_I II_I S_I II_E
+اسپرائٹ اسپرائٹ I_B S_I P_I A_I R_I AA_I I_I TT_E
+اسپرائیٹ اسپرائیٹ I_B S_I P_I A_I R_I AA_I II_I TT_E
+اسپرنکل اسپرنکل I_B S_I P_I A_I R_I N_I I_I K_I A_I L_E
+اسپرنگ اسپرنگ I_B S_I P_I R_I I_I NG_E
+اسپریڈ اسپریڈ I_B S_I P_I A_I R_I AE_I DD_E
+اسپیشل اسپیشل I_B S_I P_I AE_I SH_I A_I L_E
+اسپیشلی اسپیشلی I_B S_I P_I AE_I SH_I A_I L_I II_E
+اسپیکنگ اسپیکنگ I_B S_I P_I AE_I K_I I_I NG_E
+اسپے اسپے I_B S_I P_I AY_E
+اسکریمبل اسکریمبل I_B S_I K_I A_I R_I II_I M_I B_I A_I L_E
+اسکل اسکل I_B S_I K_I A_I L_E
+اسکو اسکو I_B S_I K_I OO_E
+اسکوائر اسکوائر I_B S_I K_I U_I V_I AA_I I_I R_E
+اسکول اسکول I_B S_I K_I UU_I L_E
+اسکی اسکی I_B S_I K_I II_E
+اسی اسی A_B S_I II_E
+اسے اسے U_B S_I AE_E
+اشنا اشنا A_B SH_I N_I AA_E
+اشو اشو I_B SH_I OO_E
+اصل اصل A_B S_I L_E
+اطمنان اطمنان I_B TD_I M_I N_I AA_I N_E
+اعجاز اعجاز AY_B DZZ_I AA_I Z_E
+اعلی اعلی AA_B L_I II_E
+اف اف A_B F_E
+افشا افشا I_B F_I SH_I AA_E
+افشاں افشاں A_B F_I SH_I AAN_E
+افضل افضل A_B F_I Z_I A_I L_E
+اقبال اقبال I_B Q_I B_I AA_I L_E
+اقثر اقثر A_B Q_I S_I S_I U_I R_E
+اقرا اقرا I_B Q_I R_I AA_E
+اقصیٰ اقصیٰ A_B Q_I S_I II_E
+ال ال A_B L_E
+الا الا A_B L_I AA_E
+الاؤ الاؤ A_B L_I AA_I OO_E
+الامن الامن A_B L_I AA_I M_I A_I N_E
+الحمدللہ الحمدللہ A_B L_I H_I A_I M_I DD_I L_I L_I AA_E
+الرائٹ الرائٹ A_B L_I A_I R_I AA_I I_I TT_E
+العابدین العابدین A_B L_I AA_I B_I I_I DD_I II_I N_E
+الفلاح الفلاح A_B L_I F_I A_I L_I AA_E
+اللہ اللہ A_B L_I L_I AA_E
+الوقت الوقت A_B L_I V_I A_I Q_I A_I TD_E
+الٹرنیٹ الٹرنیٹ AA_B L_I T_I R_I N_I AY_I T_E
+الگ الگ A_B L_I A_I G_E
+الہ الہ A_B L_I AA_E
+الی الی A_B L_I II_E
+الیاس الیاس I_B L_I J_I AA_I S_E
+الینا الینا A_B L_I II_I N_I AA_E
+الیون الیون A_B L_I AY_I V_I A_I N_E
+الیپینو الیپینو A_B L_I AY_I P_I II_I N_I OO_E
+الے الے A_B L_I AY_E
+ام ام A_B M_E
+اماؤ اماؤ A_B M_I AA_I OO_E
+اماؤنٹ اماؤنٹ AA_B M_I AA_I A_I OO_I N_I T_E
+امان امان A_B M_I AA_I N_E
+امانت امانت A_B M_I AA_I N_I A_I TD_E
+امرین امرین A_B M_I R_I II_I N_E
+امل امل A_B M_I A_I L_E
+امپروو امپروو I_B M_I P_I A_I R_I UU_E
+امپلوائے امپلوائے I_B M_I P_I A_I L_I V_I AA_I AY_E
+امیمہ امیمہ A_B M_I II_I M_I AA_E
+امین امین A_B M_I II_I N_E
+ان ان I_B N_E
+انار انار A_B N_I AA_I R_E
+انتظار انتظار I_B N_I TD_I I_I Z_I AA_I R_E
+انجام انجام A_B N_I DZZ_I AA_I M_E
+انجم انجم I_B N_I DZZ_I A_I M_E
+انجوائے انجوائے I_B N_I DZZ_I V_I AA_I AY_E
+اندر اندر A_B N_I DD_I A_I R_E
+انزلا انزلا A_B N_I Z_I A_I L_I AA_E
+انزلہ انزلہ A_B N_I Z_I A_I L_I AA_E
+انسان انسان I_B N_I S_I AA_I N_E
+انسنٹ انسنٹ I_B N_I S_I A_I N_I TT_E
+انسٹرکشن انسٹرکشن I_B N_I S_I TT_I A_I R_I A_I K_I SH_I A_I N_E
+انسٹرکشنز انسٹرکشنز I_B N_I S_I TT_I A_I R_I A_I K_I SH_I A_I N_I Z_E
+انسٹیٹیوٹ انسٹیٹیوٹ I_B N_I S_I TT_I II_I TT_I J_I OO_I TT_E
+انشا انشا I_B N_I SH_I AA_E
+انشااللہ انشااللہ I_B N_I SH_I AA_I A_I L_I L_I AA_E
+انصاری انصاری A_B N_I S_I AA_I R_I II_E
+انعم انعم A_B N_I A_I M_E
+انفارمیشن انفارمیشن I_B N_I F_I AA_I R_I M_I AE_I SH_I A_I N_E
+انفورم انفورم I_B N_I F_I OO_I R_I A_I M_E
+انفورمیشنز انفورمیشنز I_B N_I F_I OO_I R_I M_I AY_I SH_I A_I N_I Z_E
+انفیکٹ انفیکٹ I_B N_I F_I AE_I K_I TT_E
+اننیق اننیق I_B N_I N_I II_I Q_E
+انور انور I_B N_I V_I A_I R_E
+انوشہ انوشہ I_B N_I OO_I SH_I A_I AA_E
+انوولو انوولو I_B N_I V_I OO_I L_I OO_E
+انویسٹیگیٹ انویسٹیگیٹ I_B N_I V_I AE_I S_I TT_I II_I G_I AY_I TT_E
+انٹر انٹر I_B N_I TT_I A_I R_E
+انٹرنیشنل انٹرنیشنل I_B N_I TT_I A_I R_I N_I AY_I SH_I N_I A_I L_E
+انٹرپٹ انٹرپٹ I_B N_I TT_I A_I R_I P_I TT_E
+انٹیرئر انٹیرئر I_B N_I TT_I AE_I R_I I_I A_I R_E
+انچارج انچارج I_B N_I TSH_I AA_I R_I DZZ_E
+انڈرسٹینڈ انڈرسٹینڈ I_B N_I DD_I R_I I_I S_I TT_I AE_I N_I DD_E
+انکا انکا I_B N_I K_I AA_E
+انکلیوڈڈ انکلیوڈڈ I_B N_I K_I A_I L_I J_I UU_I DD_I DD_E
+انکمپلیٹ انکمپلیٹ I_B N_I K_I A_I M_I P_I L_I AY_I TT_E
+انکو انکو I_B N_I K_I OO_E
+انگریڈینٹ انگریڈینٹ A_B NG_I R_I AE_I DD_I II_I N_I TT_E
+انگریڈینٹس انگریڈینٹس A_B NG_I R_I AY_I DD_I AY_I N_I TT_I S_E
+انھیں انھیں A_B N_I TTH_I AYN_E
+انھے انھے A_B N_I AY_E
+انہونے انہونے A_B N_I H_I OO_I N_I AY_E
+انہوں انہوں I_B N_I H_I OON_E
+انہی انہی I_B N_I H_I II_E
+انہیں انہیں I_B N_I H_I AEN_E
+انیس انیس A_B N_I II_I S_E
+انین انین A_B N_I II_I N_E
+انینز انینز A_B N_I II_I N_I Z_E
+او او OO_S
+اوبلیک اوبلیک OO_B B_I L_I II_I K_E
+اوبویسلی اوبویسلی OO_B B_I V_I AY_I S_I L_I II_E
+اور اور O_B R_E
+اورنج اورنج OO_B R_I A_I N_I DZZ_E
+اورنگ اورنگ O_B R_I A_I NG_E
+اورڈر اورڈر O_B R_I DD_I A_I R_E
+اورہیش اورہیش O_B R_I II_I H_I SH_E
+اورینج اورینج OO_B R_I AE_I N_I DZZ_E
+اوریو اوریو OO_B R_I II_I OO_E
+اوفس اوفس OO_B F_I S_E
+اوفکورس اوفکورس OO_B F_I I_I K_I OO_I R_I A_I S_E
+اوفیسر اوفیسر OO_B F_I AY_I S_I A_I R_E
+اوفیشل اوفیشل OO_B F_I II_I SH_I A_I L_E
+اول اول OO_B L_E
+اولڈ اولڈ OO_B L_I DD_E
+اون اون UU_B N_E
+اونر اونر OO_B N_I A_I R_E
+اونرز اونرز OO_B N_I A_I R_I Z_E
+اونز اونز OO_B N_I Z_E
+اونس اونس O_B N_I S_E
+اونلی اونلی OO_B N_I L_I II_E
+اونلیٹوٹل اونلیٹوٹل OO_B N_I L_I AY_I TT_I OO_I TT_I A_I L_E
+اوور اوور OO_B V_I A_I R_E
+اوپر اوپر UU_B P_I A_I R_E
+اوپن اوپن OO_B P_I A_I N_E
+اوکے اوکے OO_B K_I AY_E
+اویل اویل A_B V_I II_I L_E
+اویلیبل اویلیبل A_B V_I II_I L_I AY_I B_I A_I L_E
+اوینیو اوینیو A_B V_I AE_I N_I II_I OO_E
+اویٹنگ اویٹنگ A_B V_I AE_I TT_I I_I NG_E
+اوے اوے A_B V_I AY_E
+اُس اُس U_B S_E
+اُسی اُسی U_B S_I II_E
+اُٹھاہیں اُٹھاہیں U_B TTH_I AA_I H_I AYN_E
+اِس اِس A_B I_I S_E
+اِستشنا اِستشنا A_B I_I S_I TD_I A_I SH_I N_I AA_E
+اِستعمال اِستعمال A_B I_I S_I TD_I AE_I M_I AA_I L_E
+اِسلام اِسلام A_B I_I S_I L_I AA_I M_E
+اِسموتھی اِسموتھی A_B I_I S_I M_I OO_I TDH_I II_E
+اِسموتھیاں اِسموتھیاں A_B I_I S_I M_I OO_I TDH_I TDH_I I_I J_I AAN_E
+اِسمول اِسمول A_B I_I S_I M_I OO_I L_E
+اِسمیل اِسمیل A_B I_I S_I M_I II_I L_E
+اِسنیک اِسنیک A_B I_I S_I N_I II_I K_E
+اِسٹارٹ اِسٹارٹ A_B I_I S_I TT_I AA_I R_I TT_E
+اِسٹرابیری اِسٹرابیری A_B I_I S_I TT_I A_I R_I AA_I B_I II_I R_I II_E
+اِسٹرکلی اِسٹرکلی A_B I_I S_I TT_I A_I R_I I_I K_I L_I II_E
+اِسٹریٹ اِسٹریٹ A_B I_I S_I TT_I A_I R_I AY_I TT_E
+اِسٹل اِسٹل A_B I_I S_I TT_I A_I L_E
+اِسٹیمیٹ اِسٹیمیٹ A_B I_I S_I TT_I II_I M_I II_I TT_E
+اِسٹینڈرڈ اِسٹینڈرڈ A_B I_I S_I TT_I AE_I N_I DD_I A_I R_I DD_E
+اِسپائیسی اِسپائیسی A_B I_I S_I P_I AA_I II_I S_I II_E
+اِسپرائیٹ اِسپرائیٹ A_B I_I S_I P_I A_I R_I AA_I II_I TT_E
+اِسکریمبل اِسکریمبل A_B I_I S_I K_I A_I R_I II_I M_I B_I A_I L_E
+اِسی اِسی A_B I_I S_I II_E
+اِسے اِسے A_B I_I S_I AE_E
+اِن اِن A_B I_I A_I N_E
+اِنتہائی اِنتہائی A_B I_I N_I TD_I I_I H_I AA_I II_E
+اِندازہ اِندازہ A_B I_I N_I DD_I AA_I Z_I AA_E
+اِندر اِندر A_B I_I A_I N_I DD_I A_I R_E
+اِنسٹرکیشن اِنسٹرکیشن A_B I_I I_I N_I S_I TT_I A_I R_I A_I K_I AY_I SH_I A_I N_E
+اِنشااللہ اِنشااللہ A_B I_I N_I SH_I AA_I A_I L_I L_I AA_E
+اِنفارم اِنفارم A_B I_I N_I F_I AA_I R_I M_E
+اِنفورمیشن اِنفورمیشن A_B I_I N_I F_I OO_I R_I M_I AY_I SH_I A_I N_E
+اِنکی اِنکی A_B I_I N_I K_I II_E
+اِنہوں اِنہوں A_B I_I N_I H_I OON_E
+اِٹ اِٹ A_B I_I TT_E
+اٹ اٹ A_B TT_E
+اٹس اٹس A_B TT_I S_E
+اٹکی اٹکی A_B TT_I K_I II_E
+اٹھ اٹھ U_B TTH_E
+اٹھا اٹھا U_B TTH_I AA_E
+اٹھائیے اٹھائیے U_B TTH_I AA_I II_I AY_E
+اٹھائے اٹھائے U_B TTH_I AA_I AE_E
+اٹھاتے اٹھاتے U_B TTH_I AA_I TD_I AY_E
+اٹھارٹی اٹھارٹی A_B TTH_I TTH_I AA_I R_I TT_I II_E
+اٹھارہ اٹھارہ A_B TTH_I TTH_I AA_I R_I AA_E
+اٹھانا اٹھانا U_B TTH_I AA_I N_I AA_E
+اٹھوایں اٹھوایں U_B TTH_I V_I AA_I AYN_E
+اٹینڈ اٹینڈ A_B TT_I AE_I N_I DD_E
+اپ اپ A_B P_E
+اپارٹمنٹ اپارٹمنٹ A_B P_I AA_I R_I TT_I M_I I_I N_I TT_E
+اپر اپر A_B P_I R_E
+اپروول اپروول A_B P_I R_I OO_I V_I A_I L_E
+اپریل اپریل A_B P_I R_I II_I L_E
+اپسے اپسے A_B P_I I_I S_I AY_E
+اپلیکیشن اپلیکیشن A_B P_I L_I II_I K_I AY_I SH_I A_I N_E
+اپنا اپنا A_B P_I N_I AA_E
+اپنی اپنی A_B P_I N_I II_E
+اپنے اپنے A_B P_I N_I AY_E
+اپوزٹ اپوزٹ A_B P_I OO_I Z_I A_I TT_E
+اپوزیٹ اپوزیٹ A_B P_I OO_I Z_I II_I TT_E
+اپولوجائز اپولوجائز A_B P_I OO_I L_I OO_I DZZ_I AA_I I_I Z_E
+اپوینٹنگ اپوینٹنگ A_B P_I A_I V_I AY_I N_I TT_I I_I NG_E
+اپڈیٹ اپڈیٹ A_B P_I DD_I AY_I TT_E
+اپڈیٹس اپڈیٹس A_B P_I DD_I II_I TT_I S_E
+اپکا اپکا A_B P_I K_I AA_E
+اچار اچار A_B TSH_I AA_I R_E
+اچھا اچھا A_B TSHH_I TSHH_I AA_E
+اچھی اچھی A_B TSH_I TSHH_I II_E
+اچھے اچھے A_B TSH_I TSHH_I AE_E
+اڈوائس اڈوائس A_B DD_I V_I AA_I I_I S_E
+اڑاونڈ اڑاونڈ U_B RR_I AA_I V_I I_I N_I DD_E
+اڑتالیس اڑتالیس A_B RR_I TD_I AA_I L_I II_I S_E
+اک اک A_B K_E
+اکاؤنٹ اکاؤنٹ A_B K_I AA_I UU_I N_I TT_E
+اکثر اکثر A_B K_I S_I A_I R_E
+اکرام اکرام A_B K_I R_I AA_I M_E
+اکسیڈنٹ اکسیڈنٹ U_B K_I S_I II_I DD_I A_I N_I TT_E
+اکوڑدنگ اکوڑدنگ A_B K_I V_I RR_I DD_I NG_E
+اکٹیو اکٹیو I_B K_I TT_I I_I J_I UU_E
+اکے اکے A_B K_I AY_E
+اگر اگر A_B G_I A_I R_E
+اگلی اگلی A_B G_I L_I II_E
+اگو اگو A_B G_I OO_E
+اگین اگین A_B G_I II_I N_E
+اگینسٹ اگینسٹ A_B G_I II_I N_I I_I S_I TT_E
+اہ اہ AA_S
+اہے اہے A_B H_I AE_E
+ای ای II_S
+ایئر ایئر AY_B A_I R_E
+ایان ایان I_B J_I AA_I N_E
+ایبسولیوٹلی ایبسولیوٹلی AE_B B_I A_I S_I V_I L_I OO_I TT_I L_I II_E
+ایبل ایبل AY_B B_I A_I L_E
+ایبٹ ایبٹ AE_B B_I A_I TT_E
+ایجاز ایجاز AY_B DZZ_I AA_I Z_E
+ایجوۓ ایجوۓ AY_B DZZ_I UU_E
+ایدھر ایدھر AE_B DDH_I A_I R_E
+ایرر ایرر AE_B R_I A_I R_E
+ایریا ایریا AE_B R_I I_I J_I AA_E
+ایریاز ایریاز AE_B R_I I_I J_I AA_I Z_E
+ایریاس ایریاس AE_B R_I I_I J_I AA_I S_E
+ایز ایز II_B Z_E
+ایزا ایزا AY_B Z_I AA_E
+ایزلی ایزلی AY_B Z_I A_I L_I II_E
+ایزی ایزی AY_B Z_I II_E
+ایس ایس E_B S_E
+ایسا ایسا AY_B S_I AA_E
+ایسٹیمیٹ ایسٹیمیٹ AE_B S_I TT_I II_I M_I II_I TT_E
+ایسی ایسی AY_B S_I II_E
+ایسے ایسے AY_B S_I AE_E
+ایف ایف E_B F_E
+ایل ایل II_B L_E
+ایلس ایلس AE_B L_I A_I S_E
+ایم ایم II_B M_E
+ایمبیسی ایمبیسی AE_B M_I B_I AE_I S_I II_E
+ایمرجنسی ایمرجنسی AY_B M_I A_I R_I DZZ_I A_I N_I S_I II_E
+این این AE_B N_E
+اینڈ اینڈ AE_B N_I DD_E
+اینی اینی AE_B N_I II_E
+اینیشیئل اینیشیئل AE_B N_I II_I SH_I II_I A_I L_E
+ایوب ایوب AE_B J_I UU_I B_E
+ایورج ایورج II_B V_I A_I R_I DZZ_E
+ایوری ایوری AY_B V_I R_I II_E
+ایون ایون AE_B V_I A_I N_E
+ایونیو ایونیو AY_B V_I A_I N_I J_I UU_E
+ایٹ ایٹ AE_B TT_E
+ایٹلیسٹ ایٹلیسٹ AE_B TT_I L_I AE_I S_I TT_E
+ایٹڈبل ایٹڈبل AE_B TT_I DD_I A_I B_I A_I L_E
+ایٹھ ایٹھ AE_B TTH_E
+ایٹی ایٹی AE_B TT_I II_E
+ایٹین ایٹین AE_B TT_I II_I N_E
+ایپ ایپ AE_B P_E
+ایپریشیئٹ ایپریشیئٹ AE_B P_I R_I AY_I SH_I II_I A_I T_E
+ایپل ایپل AE_B P_I A_I L_E
+ایپلی ایپلی AE_B P_I L_I II_E
+ایپلیکیشن ایپلیکیشن AE_B P_I L_I II_I K_I AY_I SH_I A_I N_E
+ایپپل ایپپل AE_B P_I P_I A_I L_E
+ایچ ایچ AE_B TSH_E
+ایڈ ایڈ AE_B DD_E
+ایڈاون ایڈاون AE_B DD_I AA_I V_I A_I N_E
+ایڈریس ایڈریس AY_B DD_I R_I AY_I S_E
+ایڈریسس ایڈریسس AY_B DD_I R_I AY_I S_I I_I S_E
+ایڈس ایڈس AE_B DD_I S_E
+ایڈن ایڈن II_B DD_I A_I N_E
+ایڈوائس ایڈوائس AE_B DD_I V_I AA_I I_I S_E
+ایڈیشن ایڈیشن AE_B DD_I II_I SH_I A_I N_E
+ایڈیشنل ایڈیشنل AY_B DD_I II_I SH_I N_I A_I L_E
+ایک ایک AE_B K_E
+ایکس ایکس AE_B K_I S_E
+ایکسٹرا ایکسٹرا AA_B AY_I K_I S_I T_I R_I AA_E
+ایکسٹریملی ایکسٹریملی AA_B AY_I K_I S_I T_I R_I II_I M_I L_I II_E
+ایکسٹینشن ایکسٹینشن AE_B K_I S_I TT_I AE_I N_I SH_I A_I N_E
+ایکسپریس ایکسپریس AE_B K_I S_I P_I A_I R_I AE_I S_E
+ایکسپیرنس ایکسپیرنس AE_B K_I S_I P_I AY_I R_I E_I N_I S_E
+ایکسپیرینس ایکسپیرینس AE_B K_I S_I P_I II_I R_I AE_I N_I S_E
+ایکسپیکٹ ایکسپیکٹ AE_B K_I S_I P_I AE_I K_I TT_E
+ایکسپیکٹڈ ایکسپیکٹڈ AE_B K_I S_I P_I AE_I K_I TT_I I_I DD_E
+ایکسکلوسیو ایکسکلوسیو AE_B K_I S_I I_I K_I L_I OO_I S_I II_I OO_E
+ایکسکیوس ایکسکیوس AE_B K_I S_I K_I I_I J_I UU_I S_E
+ایکسیس ایکسیس AE_B K_I S_I II_I S_E
+ایکسیپٹ ایکسیپٹ AE_B K_I S_I II_I P_I A_I TT_E
+ایکشن ایکشن AE_B K_I SH_I A_I N_E
+ایکوریم ایکوریم II_B K_I OO_I R_I II_I M_E
+ایکٹو ایکٹو AE_B K_I TT_I I_I V_E
+ایکٹیوے ایکٹیوے AE_B K_I TT_I II_I V_I AY_E
+ایکچولی ایکچولی AE_B K_I TSH_I OO_I L_I II_E
+ایگ ایگ AY_B G_E
+ایگزٹ ایگزٹ AY_B G_I Z_I I_I TT_E
+ایگزیکٹ ایگزیکٹ AE_B G_I Z_I AE_I K_I TT_E
+ایگزیکٹو ایگزیکٹو AY_B G_I Z_I AY_I K_I I_I TT_I I_I V_E
+ایہے ایہے AE_B H_I AE_E
+اے اے AE_S
+بآئے بآئے B_B A_I AA_I AE_E
+با با B_B AA_E
+بائنگ بائنگ B_B AA_I I_I NG_E
+بائٹس بائٹس B_B AA_I I_I TT_I S_E
+بائیس بائیس B_B AA_I II_I S_E
+بائیک بائیک B_B AA_I II_I K_E
+بائے بائے B_B AA_I AY_E
+بابا بابا B_B AA_I B_I AA_E
+بات بات B_B AA_I TD_E
+باتیں باتیں B_B AA_I TD_I AYN_E
+باتے باتے B_B AA_I TD_I AY_E
+باد باد B_B AA_I DD_E
+بار بار B_B AA_I R_E
+باربی باربی B_B AA_I R_I B_I II_E
+بارھویں بارھویں B_B AA_I RH_I V_I AYN_E
+بارہ بارہ B_B AA_I R_I AA_E
+بارہوی بارہوی B_B AA_I R_I A_I H_I V_I II_E
+بارے بارے B_B AA_I R_I AY_E
+باسی باسی B_B AA_I S_I II_E
+باقاعدہ باقاعدہ B_B AA_I Q_I AA_I I_I DD_I AA_E
+باقی باقی B_B AA_I Q_I II_E
+باقیوں باقیوں B_B AA_I Q_I II_I OON_E
+بال بال B_B AA_I L_E
+بالکل بالکل B_B I_I L_I K_I U_I L_E
+باوجود باوجود B_B AA_I V_I A_I DZZ_I UU_I DD_E
+باِسی باِسی B_B AA_I I_I S_I II_E
+باپ باپ B_B AA_I P_E
+باکس باکس B_B AA_I K_I S_E
+باکسز باکسز B_B AA_I K_I S_I I_I Z_E
+باہر باہر B_B AA_I H_I A_I R_E
+ببٹ ببٹ B_B A_I B_I A_I TT_E
+بتآئے بتآئے B_B A_I TD_I AA_I AE_E
+بتا بتا B_B A_I TD_I AA_E
+بتاؤ بتاؤ B_B A_I TD_I AA_I OO_E
+بتاؤں بتاؤں B_B A_I TD_I A_I UUN_E
+بتائی بتائی B_B A_I TD_I AA_I II_E
+بتائیگا بتائیگا B_B A_I TD_I AA_I II_I G_I AA_E
+بتائیں بتائیں B_B A_I TD_I AA_I AYN_E
+بتائیے بتائیے B_B A_I TD_I AA_I II_I AY_E
+بتائے بتائے B_B A_I TD_I AA_I AY_E
+بتاتا بتاتا B_B A_I TD_I AA_I TD_I AA_E
+بتاتی بتاتی B_B A_I TD_I AA_I TD_I II_E
+بتاتے بتاتے B_B A_I TD_I AA_I TD_I AY_E
+بتادیجئے بتادیجئے B_B A_I TD_I AA_I DD_I II_I DZZ_I I_I AE_E
+بتادیں بتادیں B_B A_I TD_I AA_I DD_I AYN_E
+بتانا بتانا B_B A_I TD_I AA_I N_I AA_E
+بتانی بتانی B_B A_I TD_I AA_I N_I II_E
+بتانے بتانے B_B A_I TD_I AA_I N_I AY_E
+بتاِنا بتاِنا B_B A_I TD_I AA_I I_I N_I AA_E
+بتاِنے بتاِنے B_B A_I TD_I AA_I I_I N_I AY_E
+بتایئے بتایئے B_B A_I TD_I AA_I J_I I_I AE_E
+بتایا بتایا B_B A_I TD_I AA_I J_I AA_E
+بتایاں بتایاں B_B A_I TD_I AA_I J_I AAN_E
+بتایں بتایں B_B A_I TD_I AA_I AYN_E
+بتایے بتایے B_B A_I TD_I AA_I J_I AY_E
+بج بج B_B A_I DZZ_E
+بجا بجا B_B A_I DZZ_I AA_E
+بجائیں بجائیں B_B A_I DZZ_I AA_I AEN_E
+بجائے بجائے B_B A_I DZZ_I AA_I AY_E
+بجانے بجانے B_B A_I DZZ_I AA_I N_I AY_E
+بجنے بجنے B_B A_I DZZ_I N_I AY_E
+بجوا بجوا B_B A_I DZZ_I V_I AA_E
+بجھ بجھ B_B U_I DZZH_E
+بجے بجے B_B A_I DZZ_I AE_E
+بحریہ بحریہ B_B A_I H_I A_I R_I J_I AA_E
+بخاری بخاری B_B U_I X_I AA_I R_I II_E
+بدتمیزی بدتمیزی B_B A_I DD_I TD_I A_I M_I AY_I Z_I II_E
+بدلے بدلے B_B A_I DD_I L_I AE_E
+برا برا B_B A_I R_I AA_E
+براؤن براؤن B_B A_I R_I AA_I UU_I N_E
+براؤنز براؤنز B_B A_I R_I AA_I UU_I N_I Z_E
+براؤنی براؤنی B_B A_I R_I AA_I UU_I N_I II_E
+براؤنیز براؤنیز B_B A_I R_I AA_I UU_I N_I II_I Z_E
+برائے برائے B_B A_I R_I AA_I AY_E
+برابر برابر B_B A_I R_I AA_I B_I A_I R_E
+برات برات B_B A_I R_I AA_I TD_E
+برادر برادر B_B A_I R_I AA_I DD_I A_I R_E
+برانچ برانچ B_B A_I R_I AA_I N_I TSH_E
+برانچز برانچز B_B A_I R_I AA_I N_I TSH_I I_I Z_E
+برانڈ برانڈ B_B A_I R_I AA_I N_I DD_E
+براوو براوو B_B A_I R_I AA_I V_I OO_E
+برن برن B_B A_I R_I A_I N_E
+بروسٹ بروسٹ B_B A_I R_I OO_I S_I TT_E
+برگر برگر B_B A_I R_I G_I A_I R_E
+برگرز برگرز B_B A_I R_I G_I A_I R_I Z_E
+برہر برہر B_B A_I R_I H_I A_I R_E
+بری بری B_B A_I R_I II_E
+برینڈ برینڈ B_B A_I R_I AE_I N_I DD_E
+بریڈ بریڈ B_B A_I R_I AE_I DD_E
+بریک بریک B_B A_I R_I AE_I K_E
+بزی بزی B_B A_I Z_I II_E
+بس بس B_B A_I S_E
+بسی بسی B_B A_I S_I II_E
+بشریٰ بشریٰ B_B A_I SH_I A_I R_I II_E
+بشیر بشیر B_B A_I SH_I II_I R_E
+بعد بعد B_B AA_I DD_E
+بغیر بغیر B_B A_I 7_I AY_I R_E
+بل بل B_B A_I L_E
+بلاول بلاول B_B A_I L_I AA_I V_I A_I L_E
+بلاک بلاک B_B I_I L_I AA_I K_E
+بلند بلند B_B A_I L_I A_I N_I DD_E
+بلڈنگ بلڈنگ B_B I_I L_I DD_I I_I NG_E
+بلکہ بلکہ B_B A_I L_I K_I AE_E
+بلکے بلکے B_B A_I L_I K_I AE_E
+بلیک بلیک B_B A_I L_I II_I K_E
+بن بن B_B A_I N_E
+بنا بنا B_B A_I N_I AA_E
+بنائی بنائی B_B A_I N_I AA_I II_E
+بناِنے بناِنے B_B A_I N_I AA_I I_I N_I AY_E
+بنایا بنایا B_B A_I N_I AA_I J_I AA_E
+بنتا بنتا B_B A_I N_I TD_I AA_E
+بنتی بنتی B_B A_I N_I TD_I II_E
+بند بند B_B A_I N_I DD_E
+بندا بندا B_B A_I N_I DD_I AA_E
+بندوں بندوں B_B A_I N_I DD_I OON_E
+بندھ بندھ B_B A_I N_I DDH_E
+بندہ بندہ B_B A_I N_I DD_I AA_E
+بندی بندی B_B A_I N_I DD_I II_E
+بندے بندے B_B A_I N_I DD_I AY_E
+بنگلو بنگلو B_B A_I NG_I L_I OO_E
+بوآئز بوآئز B_B OO_I AA_I I_I Z_E
+بوائز بوائز B_B U_I V_I AA_I I_I Z_E
+بوائے بوائے B_B UU_I AA_I AE_E
+بوتل بوتل B_B OO_I TD_I A_I L_E
+بوتھ بوتھ B_B UU_I TDH_E
+بورا بورا B_B OO_I R_I AA_E
+بوس بوس B_B OO_I S_E
+بول بول B_B OO_I L_E
+بولا بولا B_B OO_I L_I AA_E
+بولتا بولتا B_B OO_I L_I TD_I AA_E
+بولتے بولتے B_B OO_I L_I TD_I AY_E
+بولنا بولنا B_B OO_I L_I N_I AA_E
+بولنے بولنے B_B OO_I L_I N_I AE_E
+بولو بولو B_B OO_I L_I OO_E
+بولوں بولوں B_B OO_I L_I OON_E
+بولی بولی B_B OO_I L_I II_E
+بولینگے بولینگے B_B OO_I L_I AY_I NG_I G_I AY_E
+بولیں بولیں B_B OO_I L_I AEN_E
+بولیے بولیے B_B OO_I L_I J_I AE_E
+بولیۓ بولیۓ B_B OO_I L_I II_E
+بولے بولے B_B OO_I L_I AE_E
+بوٹل بوٹل B_B OO_I TT_I A_I L_E
+بوٹم بوٹم B_B OO_I TT_I A_I M_E
+بوکس بوکس B_B O_I K_I S_E
+بِٹ بِٹ B_B A_I I_I TT_E
+بِٹر بِٹر B_B A_I I_I TT_I A_I R_E
+بِگ بِگ B_B A_I I_I G_E
+بٹ بٹ B_B A_I TT_E
+بٹر بٹر B_B A_I TT_I A_I R_E
+بٹن بٹن B_B A_I TT_I A_I N_E
+بچ بچ B_B A_I TSH_E
+بچا بچا B_B A_I TSH_I AA_E
+بچوں بچوں B_B A_I TSH_I TSH_I OON_E
+بچہ بچہ B_B A_I TSH_I TSH_I AA_E
+بچی بچی B_B A_I TSH_I II_E
+بچے بچے B_B A_I TSH_I TSH_I AE_E
+بڈی بڈی B_B A_I DD_I II_E
+بڑا بڑا B_B A_I RR_I AA_E
+بڑوں بڑوں B_B A_I RR_I OON_E
+بڑھا بڑھا B_B A_I RRH_I AA_E
+بڑھانا بڑھانا B_B A_I RRH_I AA_I N_I AA_E
+بڑی بڑی B_B A_I RR_I II_E
+بڑے بڑے B_B A_I RR_I AE_E
+بک بک B_B A_I K_E
+بکواس بکواس B_B A_I K_I V_I AA_I S_E
+بکٹس بکٹس B_B A_I K_I TT_I S_E
+بکیٹ بکیٹ B_B A_I K_I AY_I TT_E
+بگر بگر B_B I_I G_I A_I R_E
+بگڑ بگڑ B_B I_I G_I A_I RR_E
+بھئی بھئی BH_B A_I II_E
+بھائی بھائی BH_B AA_I II_E
+بھالے بھالے BH_B AA_I L_I AY_E
+بھاٹا بھاٹا BH_B AA_I TT_I AA_E
+بھایا بھایا BH_B AA_I J_I AA_E
+بھجوا بھجوا BH_B I_I DZZ_I V_I AA_E
+بھجوائیں بھجوائیں BH_B I_I DZZ_I V_I AA_I AEN_E
+بھجوائیے بھجوائیے BH_B I_I DZZ_I V_I AA_I II_I AY_E
+بھجوائے بھجوائے BH_B I_I DZZ_I V_I AA_I AY_E
+بھجوایا بھجوایا BH_B I_I DZZ_I V_I AA_I J_I AA_E
+بھجے بھجے BH_B I_I DZZ_I AE_E
+بھرا بھرا BH_B A_I R_I AA_E
+بھلا بھلا BH_B A_I L_I AA_E
+بھول بھول BH_B UU_I L_E
+بھڑوے بھڑوے BH_B A_I RR_I V_I AE_E
+بھی بھی BH_B II_E
+بھیا بھیا BH_B A_I J_I AA_E
+بھیج بھیج BH_B AE_I DZZ_E
+بھیجئے بھیجئے BH_B AE_I DZZ_I I_I AE_E
+بھیجا بھیجا BH_B AE_I DZZ_I AA_E
+بھیجتے بھیجتے BH_B AY_I DZZ_I TD_I AY_E
+بھیجنا بھیجنا BH_B AY_I DZZ_I N_I AA_E
+بھیجو بھیجو BH_B AY_I DZZ_I OO_E
+بھیجوا بھیجوا BH_B AE_I DZZ_I V_I AA_E
+بھیجی بھیجی BH_B AE_I DZZ_I II_E
+بھیجینگے بھیجینگے BH_B AE_I DZZ_I II_I NG_I G_I AE_E
+بھیجیں بھیجیں BH_B AE_I DZZ_I AEN_E
+بھیجیے بھیجیے BH_B AE_I DZZ_I II_I AY_E
+بھیجے بھیجے BH_B AE_I DZZ_I AE_E
+بھیک بھیک BH_B II_I K_E
+بہار بہار B_B A_I H_I AA_I R_E
+بہت بہت B_B A_I H_I A_I TD_E
+بہتر بہتر B_B E_I H_I TD_I A_I R_E
+بہن بہن B_B A_I H_I A_I N_E
+بی بی B_B II_E
+بیانی بیانی B_B I_I J_I AA_I N_I II_E
+بیزی بیزی B_B AE_I Z_I II_E
+بیس بیس B_B II_I S_E
+بیسس بیسس B_B AE_I S_I I_I S_E
+بیسمنٹ بیسمنٹ B_B AE_I S_I M_I E_I N_I TT_E
+بیسکلی بیسکلی B_B AE_I S_I K_I L_I II_E
+بیسیکلی بیسیکلی B_B AE_I S_I II_I K_I A_I L_I II_E
+بیشک بیشک B_B AE_I SH_I K_E
+بیف بیف B_B II_I F_E
+بیل بیل B_B AE_I L_E
+بیلنس بیلنس B_B AE_I L_I I_I N_I S_E
+بیلو بیلو B_B AE_I L_I OO_E
+بین بین B_B II_I N_E
+بینڈ بینڈ B_B AE_I N_I DD_E
+بینک بینک B_B AE_I N_I K_E
+بینگ بینگ B_B AE_I NG_E
+بیوقوف بیوقوف B_B AY_I V_I A_I Q_I UU_I F_E
+بیٹ بیٹ B_B AE_I TT_E
+بیٹا بیٹا B_B AE_I TT_I AA_E
+بیٹمین بیٹمین B_B AE_I TT_I M_I II_I N_E
+بیٹھ بیٹھ B_B AY_I TTH_E
+بیٹھا بیٹھا B_B AY_I TTH_I AA_E
+بیٹھائے بیٹھائے B_B AY_I TTH_I AA_I AY_E
+بیٹھایا بیٹھایا B_B AY_I TTH_I AA_I J_I AA_E
+بیٹھنا بیٹھنا B_B AE_I TTH_I N_I AA_E
+بیٹھو بیٹھو B_B AY_I TTH_I OO_E
+بیٹھی بیٹھی B_B AY_I TTH_I II_E
+بیٹھے بیٹھے B_B AY_I TTH_I AE_E
+بیٹی بیٹی B_B AE_I TT_I II_E
+بیٹے بیٹے B_B AE_I TT_I AY_E
+بیچ بیچ B_B AE_I TSH_E
+بیچارہ بیچارہ B_B AY_I TSH_I AA_I R_I AA_E
+بیچاری بیچاری B_B AY_I TSH_I AA_I R_I II_E
+بیچارے بیچارے B_B AE_I TSH_I AA_I R_I AE_E
+بیڈ بیڈ B_B AY_I DD_E
+بیک بیک B_B AY_I K_E
+بیکری بیکری B_B AE_I K_I R_I II_E
+بیکز بیکز B_B AY_I K_I Z_E
+بیکن بیکن B_B AY_I K_I A_I N_E
+بیکوز بیکوز B_B AY_I K_I UU_I Z_E
+بیکیو بیکیو B_B AY_I K_I I_I J_I UU_E
+بیگ بیگ B_B AY_I G_E
+بیگر بیگر B_B AY_I G_I A_I R_E
+بیہاینڈ بیہاینڈ B_B AY_I H_I AA_I AY_I N_I D_E
+بیہیو بیہیو B_B AY_I H_I II_I OO_E
+بے بے B_B AY_E
+بےبی بےبی B_B AY_I B_I II_E
+بےحد بےحد B_B AY_I H_I I_I DD_E
+تا تا TD_B AA_E
+تابندہ تابندہ TD_B AA_I B_I I_I N_I DD_I AA_E
+تاجدین تاجدین TD_B AA_I DZZ_I DD_I II_I N_E
+تاریخ تاریخ TD_B AA_I R_I II_I X_E
+تاشی تاشی TD_B AA_I SH_I II_E
+تاشین تاشین TD_B AA_I SH_I II_I N_E
+تافتان تافتان TD_B AA_I F_I TD_I AA_I N_E
+تاکہ تاکہ TD_B AA_I K_I AA_E
+تب تب TD_B A_I B_E
+تبریز تبریز TD_B A_I B_I R_I II_I Z_E
+تبھی تبھی TD_B A_I BH_I II_E
+ترقیاتی ترقیاتی TD_B A_I R_I Q_I I_I J_I AA_I TD_I II_E
+تسمیہ تسمیہ TD_B A_I S_I M_I I_I J_I AA_E
+تصویر تصویر TD_B A_I S_I V_I II_I R_E
+تصویریں تصویریں TD_B A_I S_I V_I II_I R_I AEN_E
+تفصیل تفصیل TD_B A_I F_I S_I II_I L_E
+تفصیلات تفصیلات TD_B A_I F_I S_I II_I L_I AA_I TD_E
+تقریبا تقریبا TD_B A_I Q_I R_I II_I B_I A_I N_E
+تقریباً تقریباً TD_B A_I Q_I R_I II_I B_I A_I N_E
+تقریبًا تقریبًا TD_B A_I Q_I R_I II_I B_I A_I A_I N_E
+تم تم TD_B A_I M_E
+تماشا تماشا TD_B A_I M_I AA_I SH_I AA_E
+تماشے تماشے TD_B A_I M_I AA_I SH_I AY_E
+تمام تمام TD_B A_I M_I AA_I M_E
+تماچہ تماچہ TD_B A_I M_I AA_I TSH_I AA_E
+تمھیں تمھیں TD_B U_I M_I M_I AYN_E
+تمہارا تمہارا TD_B U_I M_I H_I AA_I R_I AA_E
+تمہارے تمہارے TD_B U_I M_I H_I AA_I R_I AE_E
+تمہیں تمہیں TD_B U_I M_I H_I AEN_E
+تمہے تمہے TD_B U_I M_I H_I AE_E
+تمیز تمیز TD_B A_I M_I II_I Z_E
+تمیم تمیم TD_B A_I M_I II_I M_E
+تنزیلا تنزیلا TD_B A_I N_I Z_I II_I L_I AA_E
+تنزیلہ تنزیلہ TD_B A_I N_I Z_I II_I L_I AA_E
+تنگ تنگ TD_B A_I NG_E
+تو تو TD_B OO_E
+توکہا توکہا TD_B A_I V_I A_I K_I A_I H_I AA_E
+تویلو تویلو TD_B A_I V_I II_I L_I OO_E
+تک تک TD_B A_I K_E
+تکلیف تکلیف TD_B A_I K_I L_I II_I F_E
+تھ تھ TDH_S
+تھا تھا TDH_B AA_E
+تھاؤزنڈ تھاؤزنڈ TDH_B AA_I UU_I Z_I A_I N_I DD_E
+تھاؤزینڈ تھاؤزینڈ TDH_B AA_I UU_I Z_I AE_I N_I DD_E
+تھائی تھائی TDH_B AA_I II_E
+تھائے تھائے TDH_B AA_I AY_E
+تھاوُزنڈ تھاوُزنڈ TDH_B AA_I V_I A_I U_I Z_I A_I N_I DD_E
+تھرو تھرو TDH_B A_I R_I UU_E
+تھرٹی تھرٹی TDH_B I_I R_I TT_I II_E
+تھرٹین تھرٹین TDH_B R_I T_I II_I N_E
+تھرڈ تھرڈ TDH_B A_I R_I DD_E
+تھری تھری TDH_B R_I II_E
+تھریون تھریون TDH_B I_I R_I II_I V_I A_I N_E
+تھنک تھنک TDH_B I_I N_I K_E
+تھنگ تھنگ TDH_B A_I NG_E
+تھنگس تھنگس TDH_B A_I NG_I G_E
+تھورو تھورو TDH_B UU_I R_I UU_E
+تھوڑا تھوڑا TDH_B OO_I RR_I AA_E
+تھوڑی تھوڑی TDH_B OO_I RR_I II_E
+تھوڑے تھوڑے TDH_B OO_I RR_I AE_E
+تھپڑ تھپڑ TDH_B A_I P_I P_I A_I RR_E
+تھک تھک TDH_B A_I K_E
+تھکی تھکی TDH_B A_I K_I K_I II_E
+تھی تھی TDH_B II_E
+تھیلی تھیلی TDH_B AY_I L_I II_E
+تھینک تھینک TDH_B AY_I N_I K_E
+تھینکس تھینکس TDH_B AY_I N_I K_I S_E
+تھیں تھیں TDH_B IIN_E
+تھے تھے TDH_B AE_E
+تہ تہ TD_B AA_E
+تہمور تہمور TD_B AEH_I H_I M_I UU_I R_E
+تہہ تہہ TD_B AEH_I H_E
+تیار تیار TD_B A_I J_I J_I AA_I R_E
+تیرا تیرا TD_B AE_I R_I AA_E
+تیرہ تیرہ TD_B AE_I R_I AA_E
+تیرے تیرے TD_B AY_I R_I AE_E
+تیس تیس TD_B II_I S_E
+تیسرا تیسرا TD_B II_I S_I R_I AA_E
+تیمور تیمور TD_B II_I M_I UU_I R_E
+تین تین TD_B II_I N_E
+تینو تینو TD_B II_I N_I OO_E
+تینوں تینوں TD_B II_I N_I OON_E
+تے تے TD_B AY_E
+ثاقب ثاقب S_B AA_I Q_I I_I B_E
+ثمرا ثمرا S_B A_I M_I R_I AA_E
+ثنا ثنا S_B A_I N_I AA_E
+ثناء ثناء S_B A_I N_I AA_E
+جآر جآر DZZ_B A_I AA_I R_E
+جئیے جئیے DZZ_B A_I II_I AY_E
+جئے جئے DZZ_B A_I AE_E
+جا جا DZZ_B AA_E
+جاؤ جاؤ DZZ_B AA_I OO_E
+جاؤں جاؤں DZZ_B AA_I UUN_E
+جائینگی جائینگی DZZ_B AA_I II_I NG_I G_I II_E
+جائیں جائیں DZZ_B AA_I AEN_E
+جائیے جائیے DZZ_B AA_I II_I AY_E
+جائے جائے DZZ_B AA_I AY_E
+جاتا جاتا DZZ_B AA_I TD_I AA_E
+جاتی جاتی DZZ_B AA_I TD_I II_E
+جاتے جاتے DZZ_B AA_I TD_I AY_E
+جاری جاری DZZ_B AA_I R_I II_E
+جاز جاز DZZ_B AA_I Z_E
+جاسکی جاسکی DZZ_B AA_I S_I K_I II_E
+جامع جامع DZZ_B AA_I M_I AY_E
+جان جان DZZ_B AA_I N_E
+جانا جانا DZZ_B AA_I N_I AA_E
+جانب جانب DZZ_B AA_I N_I I_I B_E
+جاننا جاننا DZZ_B AA_I N_I N_I AA_E
+جانیب جانیب DZZ_B AA_I N_I II_I B_E
+جانے جانے DZZ_B AA_I N_I AY_E
+جاوید جاوید DZZ_B AA_I V_I AE_I DD_E
+جاکر جاکر DZZ_B AA_I K_I A_I R_E
+جاہ جاہ DZZ_B AA_I AA_E
+جاینگے جاینگے DZZ_B AA_I II_I NG_I G_I AE_E
+جاے جاے DZZ_B AA_I AY_E
+جب جب DZZ_B A_I B_E
+جبران جبران DZZ_B A_I B_I R_I AA_I N_E
+جتنا جتنا DZZ_B I_I TD_I N_I AA_E
+جتنے جتنے DZZ_B I_I TD_I N_I AY_E
+جدون جدون DZZ_B A_I DD_I UU_I N_E
+جرنل جرنل DZZ_B A_I R_I N_I A_I L_E
+جس جس DZZ_B I_I S_E
+جسٹ جسٹ DZZ_B A_I S_I TT_E
+جسی جسی DZZ_B I_I S_I II_E
+جسے جسے DZZ_B A_I S_I AY_E
+جلال جلال DZZ_B A_I L_I AA_I L_E
+جلد جلد DZZ_B I_I L_I DD_E
+جلدی جلدی DZZ_B A_I L_I DD_I II_E
+جمال جمال DZZ_B A_I M_I AA_I L_E
+جمبو جمبو DZZ_B A_I M_I B_I UU_E
+جمپنگ جمپنگ DZZ_B A_I M_I P_I I_I NG_E
+جن جن DZZ_B A_I N_E
+جناب جناب DZZ_B A_I N_I AA_I B_E
+جناح جناح DZZ_B A_I N_I AA_E
+جنہوں جنہوں DZZ_B I_I N_I H_I OON_E
+جنیجو جنیجو DZZ_B I_I N_I AE_I DZZ_I OO_E
+جنید جنید DZZ_B A_I N_I II_I DD_E
+جو جو DZZ_B OO_E
+جواب جواب DZZ_B A_I V_I AA_I B_E
+جواد جواد DZZ_B A_I V_I AA_I DD_E
+جوس جوس DZZ_B UU_I S_E
+جوسز جوسز DZZ_B O_I S_I I_I Z_E
+جوسی جوسی DZZ_B UU_I S_I II_E
+جون جون DZZ_B UU_I N_E
+جونئیر جونئیر DZZ_B UU_I N_I I_I J_I A_I R_E
+جونسی جونسی DZZ_B O_I N_I S_I II_E
+جوہر جوہر DZZ_B O_I H_I A_I R_E
+جکدیش جکدیش DZZ_B A_I K_I DD_I AY_I SH_E
+جگ جگ DZZ_B A_I G_E
+جگہ جگہ DZZ_B A_I G_I AA_E
+جھوٹ جھوٹ DZZH_B UU_I TT_E
+جھگڑا جھگڑا DZZH_B A_I G_I RR_I AA_E
+جہاں جہاں DZZ_B A_I H_I AAN_E
+جی جی DZZ_B II_E
+جیئے جیئے DZZ_B II_I AY_E
+جیزمین جیزمین DZZ_B AY_I Z_I M_I AE_I N_E
+جیسا جیسا DZZ_B AY_I S_I AA_E
+جیسے جیسے DZZ_B AY_I S_I AE_E
+جیل جیل DZZ_B AY_I L_E
+جینہ جینہ DZZ_B II_I N_I AA_E
+جینیولی جینیولی DZZ_B II_I N_I J_I UU_I L_I II_E
+جیۓ جیۓ DZZ_B II_E
+جے جے DZZ_B AY_E
+حا حا H_B AA_E
+حائقہ حائقہ H_B AA_I I_I Q_I AA_E
+حارث حارث H_B AA_I R_I I_I S_E
+حاصل حاصل H_B AA_I S_I I_I L_E
+حاضر حاضر H_B AA_I Z_I I_I R_E
+حافظ حافظ H_B AA_I F_I Z_E
+حال حال H_B AA_I L_E
+حالانکے حالانکے H_B AA_I L_I AAN_I K_I AY_E
+حالت حالت H_B AA_I L_I A_I TD_E
+حالی حالی H_B AA_I L_I II_E
+حامد حامد H_B AA_I M_I I_I DD_E
+حبیب حبیب H_B A_I B_I II_I B_E
+حد حد H_B A_I DD_E
+حدیقہ حدیقہ H_B A_I DD_I II_I Q_I AA_E
+حرکت حرکت H_B A_I R_I K_I A_I TD_E
+حرکتے حرکتے H_B A_I R_I K_I A_I TD_I AY_E
+حریم حریم H_B A_I R_I II_I M_E
+حساب حساب H_B I_I S_I AA_I B_E
+حسام حسام H_B A_I S_I AA_I M_E
+حسان حسان H_B A_I S_I AA_I N_E
+حسن حسن H_B A_I S_I A_I N_E
+حسیب حسیب H_B A_I S_I II_I B_E
+حسین حسین H_B A_I S_I II_I N_E
+حضرت حضرت H_B A_I Z_I R_I A_I TD_E
+حفصہ حفصہ H_B I_I F_I S_I S_I AA_E
+حل حل H_B A_I L_E
+حماد حماد H_B A_I M_I M_I AA_I DD_E
+حمزہ حمزہ H_B A_I M_I Z_I AA_E
+حمیداللہ حمیداللہ H_B A_I M_I II_I DD_I U_I L_I L_I AA_E
+حنا حنا H_B A_I N_I N_I AA_E
+حوالے حوالے H_B A_I V_I AA_I L_I AY_E
+حکم حکم H_B U_I K_I M_E
+حیا حیا H_B A_I J_I AA_E
+حیدر حیدر H_B AY_I DD_I A_I R_E
+حیدرآباد حیدرآباد H_B AE_I DD_I R_I AY_I AA_I B_I AA_I DD_E
+خاتون خاتون X_B AA_I TD_I UU_I N_E
+خالد خالد X_B AA_I L_I I_I DD_E
+خالی خالی X_B AA_I L_I II_E
+خاموشی خاموشی X_B AA_I M_I OO_I SH_I II_E
+خامہ خامہ X_B AA_I M_I AA_E
+خان خان X_B AA_I N_E
+خانزادہ خانزادہ X_B AA_I N_I Z_I AA_I DD_I AA_E
+خاِن خاِن X_B AA_I I_I A_I N_E
+خبری خبری X_B A_I B_I R_I II_E
+ختم ختم X_B A_I TD_I M_E
+خدا خدا X_B U_I DD_I AA_E
+خدمت خدمت X_B I_I DD_I M_I A_I TD_E
+خدیجہ خدیجہ X_B U_I DD_I II_I DZZ_I AA_E
+خراب خراب X_B A_I R_I AA_I B_E
+خرم خرم X_B U_I R_I M_E
+خرّم خرّم X_B U_I R_I J_I U_I M_E
+خلاف خلاف X_B I_I L_I AA_I F_E
+خوا خوا X_B AA_E
+خواں خواں X_B A_I V_I AAN_E
+خواہ خواہ X_B AA_E
+خود خود X_B U_I DD_E
+خوش خوش X_B U_I SH_E
+خیابان خیابان X_B A_I J_I AA_I B_I AA_I N_E
+خیابانِ خیابانِ X_B A_I J_I AA_I B_I AAN_I I_E
+خیال خیال X_B A_I J_I AA_I L_E
+خیبر خیبر X_B AE_I B_I A_I R_E
+خیر خیر X_B AY_I R_E
+خیرالورا خیرالورا X_B AY_I R_I U_I L_I UU_I R_I AA_E
+خیرالورہ خیرالورہ X_B AY_I R_I U_I L_I UU_I R_I AA_E
+خیریت خیریت X_B AE_I R_I I_I J_I A_I TD_E
+دئیے دئیے DD_B A_I II_I AY_E
+دا دا DD_B AA_E
+دائم دائم DD_B AA_I I_I M_E
+دارلصحت دارلصحت DD_B AA_I R_I U_I L_I S_I AE_I H_I H_I A_I TD_E
+دال دال DD_B AA_I L_E
+دانش دانش DD_B AA_I N_I I_I SH_E
+دانیال دانیال DD_B AA_I N_I I_I J_I AA_I L_E
+داوے داوے DD_B AA_I V_I AY_E
+دبارہ دبارہ DD_B A_I B_I AA_I R_I AA_E
+دجیئے دجیئے DD_B DZ_I II_I AE_E
+دخلیں دخلیں DD_B A_I X_I L_I AEN_E
+دراصل دراصل DD_B A_I R_I A_I S_I L_E
+درنگ درنگ DD_B R_I I_I NG_E
+درکار درکار DD_B A_I R_I K_I AA_I R_E
+دس دس DD_B A_I S_E
+دسمبر دسمبر DD_B A_I S_I A_I M_I B_I A_I R_E
+دعا دعا DD_B U_I AA_E
+دفتر دفتر DD_B A_I F_I TD_I A_I R_E
+دفتری دفتری DD_B A_I F_I TD_I A_I R_I II_E
+دفعہ دفعہ DD_B A_I F_I AA_E
+دفہ دفہ DD_B I_I F_I AA_E
+دل دل DD_B I_I L_E
+دم دم DD_B A_I M_E
+دماغ دماغ DD_B I_I M_I AA_I 7_E
+دن دن DD_B A_I N_E
+دنوں دنوں DD_B I_I N_I OON_E
+دنیا دنیا DD_B U_I N_I J_I AA_E
+دو دو DD_B OO_E
+دوبارہ دوبارہ DD_B OO_I B_I AA_I R_I AA_E
+دودو دودو DD_B UU_I DD_I OO_E
+دودھ دودھ DD_B UU_I DDH_E
+دور دور DD_B UU_I R_E
+دوست دوست DD_B OO_I S_I TD_E
+دوسرا دوسرا DD_B UU_I S_I R_I AA_E
+دوسری دوسری DD_B UU_I S_I R_I II_E
+دوسرے دوسرے DD_B UU_I S_I R_I AE_E
+دونوں دونوں DD_B OO_I N_I OON_E
+دونگا دونگا DD_B OO_I NG_I G_I AA_E
+دونگی دونگی DD_B OO_I NG_I II_E
+دوپہر دوپہر DD_B O_I P_I AEH_I H_I R_E
+دوں دوں DD_B OON_E
+دِس دِس DD_B I_I S_E
+دٹیلس دٹیلس DD_B TT_I II_I L_I A_I S_E
+دکان دکان DD_B U_I K_I AA_I N_E
+دکھ دکھ DD_B U_I KH_E
+دکھا دکھا DD_B U_I KH_I AA_E
+دکھائی دکھائی DD_B I_I KH_I AA_I II_E
+دکھنے دکھنے DD_B U_I KH_I N_I AE_E
+دکھے دکھے DD_B U_I KH_I AE_E
+دھڑلے دھڑلے DDH_B A_I RR_I A_I L_I L_I AE_E
+دہ دہ DD_B AA_E
+دی دی DD_B II_E
+دیئر دیئر DD_B AY_I A_I R_E
+دیا دیا DD_B I_I J_I AA_E
+دیتا دیتا DD_B AE_I TD_I AA_E
+دیتی دیتی DD_B AE_I TD_I II_E
+دیتے دیتے DD_B AE_I TD_I AE_E
+دیجئیے دیجئیے DD_B II_I DZZ_I I_I J_I AY_E
+دیجئے دیجئے DD_B II_I DZZ_I I_I AE_E
+دیجیئے دیجیئے DD_B II_I DZ_I II_I AE_E
+دیجیگا دیجیگا DD_B II_I DZ_I II_I G_I AA_E
+دیجیے دیجیے DD_B II_I DZZ_I II_I AY_E
+دیجیۓ دیجیۓ DD_B II_I DZZ_I II_E
+دیجے دیجے DD_B II_I DZZ_I AE_E
+دیدئیے دیدئیے DD_B II_I DD_I A_I II_I AY_E
+دیدو دیدو DD_B II_I DD_I OO_E
+دیدیں دیدیں DD_B II_I DD_I AYN_E
+دیر دیر DD_B II_I R_E
+دیزرٹس دیزرٹس DD_B AY_I Z_I A_I R_I TT_I S_E
+دیش دیش DD_B AY_I SH_E
+دیفرنٹ دیفرنٹ DD_B AY_I F_I R_I A_I N_I TT_E
+دین دین DD_B II_I N_E
+دینا دینا DD_B AE_I N_I AA_E
+دینگی دینگی DD_B AE_I NG_I G_I II_E
+دینگے دینگے DD_B AE_I NG_I G_I AY_E
+دینی دینی DD_B II_I N_I II_E
+دینے دینے DD_B AE_I N_I AE_E
+دیوار دیوار DD_B II_I V_I AA_I R_E
+دیٹ دیٹ DD_B AE_I TT_E
+دیٹس دیٹس DD_B AE_I TT_I S_E
+دیکر دیکر DD_B II_I K_I A_I R_E
+دیکھ دیکھ DD_B AE_I KH_E
+دیکھا دیکھا DD_B AE_I KH_I AA_E
+دیکھتا دیکھتا DD_B AY_I KH_I TD_I AA_E
+دیکھتی دیکھتی DD_B AY_I KH_I TD_I II_E
+دیکھنا دیکھنا DD_B AY_I KH_I N_I AA_E
+دیکھو دیکھو DD_B AE_I KH_I OO_E
+دیکھی دیکھی DD_B AE_I KH_I II_E
+دیکھیں دیکھیں DD_B AE_I KH_I AEN_E
+دیکھیے دیکھیے DD_B AE_I KH_I II_I AE_E
+دیکھے دیکھے DD_B AE_I KH_I AE_E
+دیگا دیگا DD_B II_I G_I AA_E
+دیں دیں DD_B AEN_E
+دیںا دیںا DD_B AE_E
+دیے دیے DD_B II_I AE_E
+دے دے DD_B AY_E
+ذرا ذرا Z_B A_I R_I R_I AA_E
+ذراسا ذراسا Z_B A_I R_I AA_I S_I AA_E
+ذریعہ ذریعہ Z_B A_I R_I II_I AA_E
+ذریعے ذریعے Z_B A_I R_I II_I AE_E
+ذکر ذکر Z_B A_I K_I A_I R_E
+ذیشان ذیشان Z_B II_I SH_I AA_I N_E
+رؤف رؤف R_B A_I UU_I F_E
+رئیلی رئیلی R_B A_I II_I L_I II_E
+راؤ راؤ R_B AA_I OO_E
+راؤف راؤف R_B AA_I UU_I F_E
+رائس رائس R_B AA_I I_I S_E
+رائل رائل R_B AA_I I_I L_E
+رائمل رائمل R_B AA_I I_I M_I A_I L_E
+رائٹ رائٹ R_B AA_I I_I TT_E
+رائٹس رائٹس R_B AA_I I_I TT_I S_E
+رائڈر رائڈر R_B AA_I A_I D_I R_E
+رائی رائی R_B AA_I II_E
+رائیڈ رائیڈ R_B AA_I II_I DD_E
+رائیڈر رائیڈر R_B AA_I II_I DD_I A_I R_E
+رائیڈرز رائیڈرز R_B AA_I II_I DD_I A_I R_I Z_E
+رائیڈروں رائیڈروں R_B AA_I II_I DD_I A_I R_I OON_E
+رابطہ رابطہ R_B AA_I B_I I_I TD_I AA_E
+رابعہ رابعہ R_B AA_I B_I I_I AA_E
+رات رات R_B AA_I TD_E
+راجہ راجہ R_B AA_I DZZ_I AA_E
+راحت راحت R_B AA_I H_I A_I TD_E
+راحیل راحیل R_B AA_I H_I II_I L_E
+راحیمہ راحیمہ R_B AA_I H_I II_I M_I AA_E
+راستہ راستہ R_B AA_I S_I TD_I AA_E
+راستے راستے R_B AA_I S_I TD_I AE_E
+راشد راشد R_B AA_I SH_I I_I DD_E
+رانگ رانگ R_B AA_I NG_E
+راولپنڈی راولپنڈی R_B AA_I V_I A_I L_I P_I A_I N_I DD_I II_E
+راہمہ راہمہ R_B AA_I H_I A_I M_I AA_E
+راہیمہ راہیمہ R_B AA_I H_I II_I M_I AA_E
+راہیں راہیں R_B AA_I H_I AYN_E
+راہیے راہیے R_B AA_I H_I I_I J_I AE_E
+رباب رباب R_B U_I B_I AA_I B_E
+ربیکا ربیکا R_B A_I B_I II_I K_I AA_E
+رجسٹر رجسٹر R_B A_I DZZ_I I_I S_I TT_I A_I R_E
+رجسٹرڈ رجسٹرڈ R_B A_I DZZ_I I_I S_I TT_I A_I R_I DD_E
+رجسٹریشن رجسٹریشن R_B A_I DZZ_I I_I S_I TT_I A_I R_I AE_I SH_I A_I N_E
+رحما رحما R_B A_I H_I M_I AA_E
+رحمان رحمان R_B A_I H_I M_I AA_I N_E
+رحمت رحمت R_B A_I H_I M_I A_I TD_E
+رحمہ رحمہ R_B A_I H_I M_I AA_E
+رحیم رحیم R_B A_I H_I II_I M_E
+رحیمہ رحیمہ R_B A_I H_I II_I M_I AA_E
+ردا ردا R_B A_I DD_I DD_I AA_E
+رزلٹ رزلٹ R_B I_I Z_I A_I L_I TT_E
+رستے رستے R_B A_I S_I TD_I AY_E
+رسپونس رسپونس R_B A_I S_I P_I OO_I N_I S_E
+رسپونڈنگ رسپونڈنگ R_B A_I S_I P_I UU_I N_I DD_I I_I NG_E
+رسیونگ رسیونگ R_B A_I S_I II_I V_I I_I NG_E
+رش رش R_B I_I SH_E
+رضوان رضوان R_B I_I Z_I V_I AA_I N_E
+رضویہ رضویہ R_B I_I Z_I V_I I_I J_I AA_E
+رفیق رفیق R_B A_I F_I II_I Q_E
+رقو رقو R_B A_I Q_I UU_E
+رمضان رمضان R_B A_I M_I Z_I AA_I N_E
+رننگ رننگ R_B I_I N_I I_I NG_E
+رنڈی رنڈی R_B A_I N_I DD_I II_E
+رنگ رنگ R_B A_I NG_E
+روئل روئل R_B UU_I I_I L_E
+روئیل روئیل R_B UU_I II_I L_E
+روباب روباب R_B OO_I B_I AA_I B_E
+روز روز R_B OO_I Z_E
+روزہ روزہ R_B OO_I Z_I AA_E
+رولز رولز R_B OO_I L_I Z_E
+روم روم R_B UU_I M_E
+رومان رومان R_B UU_I M_I AA_I N_E
+رومی رومی R_B UU_I M_I II_E
+روٹیٹ روٹیٹ R_B OO_I TT_I AY_I TT_E
+روپی روپی R_B UU_I P_I II_E
+روپیز روپیز R_B OO_I P_I II_I Z_E
+روپیہ روپیہ R_B UU_I P_I I_I J_I AA_E
+روپے روپے R_B UU_I P_I AE_E
+روڈ روڈ R_B OO_I DD_E
+روڈلی روڈلی R_B OO_I DD_I L_I II_E
+روک روک R_B OO_I K_E
+روکئیے روکئیے R_B OO_I K_I A_I II_I AY_E
+روکنا روکنا R_B OO_I K_I N_I AA_E
+روکیں روکیں R_B OO_I K_I AYN_E
+رویال رویال R_B UU_I J_I AA_I L_E
+رپریزنٹ رپریزنٹ R_B I_I P_I R_I AY_I Z_I A_I N_I TT_E
+رپلائے رپلائے R_B I_I P_I A_I L_I AA_I AY_E
+رپٹ رپٹ R_B I_I P_I TT_E
+رپیز رپیز R_B I_I P_I II_I Z_E
+رکوائرمنٹس رکوائرمنٹس R_B U_I K_I V_I AA_I AE_I R_I M_I AE_I N_I TT_I S_E
+رکوائرڈ رکوائرڈ R_B U_I K_I V_I AA_I AE_I R_I DD_E
+رکوائیرڈ رکوائیرڈ R_B U_I K_I V_I AA_I I_I J_I A_I R_I DD_E
+رکھ رکھ R_B A_I KH_E
+رکھئیے رکھئیے R_B A_I KH_I II_I AE_E
+رکھا رکھا R_B A_I K_I KH_I AA_E
+رکھتے رکھتے R_B A_I KH_I TD_I AE_E
+رکھنا رکھنا R_B A_I KH_I N_I AA_E
+رکھنے رکھنے R_B A_I KH_I N_I AE_E
+رکھوائی رکھوائی R_B A_I KH_I V_I AA_I II_E
+رکھی رکھی R_B A_I K_I KH_I II_E
+رکھیں رکھیں R_B A_I K_I KH_I IIN_E
+رکھے رکھے R_B A_I K_I KH_I AE_E
+رکیے رکیے R_B A_I K_I II_I AE_E
+رہ رہ R_B AA_E
+رہئیے رہئیے R_B A_I H_I II_I AE_E
+رہا رہا R_B A_I H_I AA_E
+رہاش رہاش R_B A_I H_I AA_I SH_E
+رہاں رہاں R_B A_I H_I AAN_E
+رہتا رہتا R_B A_I H_I TD_I AA_E
+رہتی رہتی R_B AEH_I H_I TD_I II_E
+رہتے رہتے R_B A_I H_I TD_I AE_E
+رہنمائی رہنمائی R_B A_I H_I N_I U_I M_I AA_I II_E
+رہنے رہنے R_B AEH_I H_I N_I AY_E
+رہوں رہوں R_B A_I H_I UUN_E
+رہی رہی R_B A_I H_I II_E
+رہیئے رہیئے R_B H_I II_I AY_E
+رہیگا رہیگا R_B A_I H_I II_I G_I AA_E
+رہیں رہیں R_B A_I H_I AEN_E
+رہیے رہیے R_B A_I H_I II_I AE_E
+رہیۓ رہیۓ R_B A_I H_I II_E
+رہے رہے R_B A_I H_I AY_E
+ری ری R_B II_E
+ریاض ریاض R_B I_I J_I AA_I Z_E
+ریب ریب R_B II_I B_E
+ریجسٹر ریجسٹر R_B II_I DZZ_I I_I S_I TT_I A_I R_E
+ریجنل ریجنل R_B II_I DZZ_I N_I A_I L_E
+ریحاد ریحاد R_B AY_I H_I AA_I DD_E
+ریدا ریدا R_B AY_I DD_I AA_E
+ریزن ریزن R_B AY_I Z_I A_I N_E
+ریزولو ریزولو R_B AE_I Z_I OO_I L_I OO_E
+ریزولوشن ریزولوشن R_B AY_I Z_I OO_I L_I UU_I SH_I A_I N_E
+ریزیڈنسی ریزیڈنسی R_B AY_I Z_I II_I DD_I A_I N_I S_I II_E
+ریسنٹلی ریسنٹلی R_B AY_I S_I A_I N_I TT_I L_I II_E
+ریسٹورنٹ ریسٹورنٹ R_B E_I S_I TT_I UU_I R_I E_I N_I TT_E
+ریسپیکٹ ریسپیکٹ R_B AY_I S_I P_I AE_I K_I TT_E
+ریسیو ریسیو R_B II_I S_I II_I V_E
+ریسیپٹ ریسیپٹ R_B II_I S_I II_I P_I A_I TT_E
+ریشو ریشو R_B AY_I SH_I OO_E
+ریفرینس ریفرینس R_B AE_I F_I R_I AE_I N_I S_E
+ریفنڈ ریفنڈ R_B II_I F_I A_I N_I DD_E
+ریفوس ریفوس R_B II_I F_I OO_I S_E
+ریلی ریلی R_B AY_I L_I II_E
+ریلیشن ریلیشن R_B AE_I L_I AY_I SH_I A_I N_E
+ریلیٹڈ ریلیٹڈ R_B II_I L_I II_I TT_I I_I DD_E
+ریلیٹیڈ ریلیٹیڈ R_B II_I L_I II_I TT_I II_I DD_E
+ریمارک ریمارک R_B II_I M_I AA_I R_I K_E
+ریموو ریموو R_B II_I M_I UU_I V_E
+ریمیننگ ریمیننگ R_B II_I M_I AY_I N_I I_I NG_E
+رینا رینا R_B AE_I N_I AA_E
+رینڈملی رینڈملی R_B AE_I N_I DD_I A_I M_I L_I II_E
+ریوینیو ریوینیو R_B II_I V_I AE_I N_I II_I OO_E
+ریٹ ریٹ R_B AE_I TT_E
+ریٹرن ریٹرن R_B AE_I TT_I R_I A_I N_E
+ریٹس ریٹس R_B AE_I TT_I S_E
+ریپ ریپ R_B AY_I P_E
+ریپریزنٹ ریپریزنٹ R_B II_I P_I R_I AY_I Z_I A_I N_I TT_E
+ریپریزنٹیٹو ریپریزنٹیٹو R_B II_I P_I R_I AY_I Z_I A_I N_I TT_I AY_I TT_I OO_E
+ریپلائے ریپلائے R_B II_I P_I A_I L_I AA_I AY_E
+ریپلیس ریپلیس R_B II_I P_I A_I L_I AE_I S_E
+ریپلیسمنٹ ریپلیسمنٹ R_B II_I P_I A_I L_I AE_I S_I M_I E_I N_I TT_E
+ریپیتیں ریپیتیں R_B II_I P_I A_I II_I J_I A_I TD_I AYN_E
+ریپیزنٹیٹو ریپیزنٹیٹو R_B II_I P_I II_I Z_I A_I N_I TT_I AY_I TT_I OO_E
+ریپیٹ ریپیٹ R_B II_I P_I II_I TT_E
+ریپیٹینگ ریپیٹینگ R_B II_I P_I II_I TT_I AE_I NG_E
+ریپیٹیٹ ریپیٹیٹ R_B II_I P_I II_I TT_I AY_I TT_E
+ریپیٹیٹیٹ ریپیٹیٹیٹ R_B II_I P_I II_I TT_I AY_I TT_I AY_I TT_E
+ریچڈ ریچڈ R_B AE_I TSH_I DD_E
+ریڈی ریڈی R_B AE_I DD_I II_E
+ریڈیم ریڈیم R_B AY_I DD_I I_I J_I A_I M_E
+ریکارڈ ریکارڈ R_B II_I K_I AA_I R_I DD_E
+ریکارڈر ریکارڈر R_B II_I K_I AA_I R_I DD_I A_I R_E
+ریکارڈنگ ریکارڈنگ R_B II_I K_I AA_I R_I DD_I I_I NG_E
+ریکارڈنگز ریکارڈنگز R_B II_I K_I AA_I R_I DD_I I_I NG_I Z_E
+ریکوائرمنٹ ریکوائرمنٹ R_B II_I K_I V_I AA_I AE_I R_I M_I AE_I N_I TT_E
+ریکوائرڈ ریکوائرڈ R_B II_I K_I V_I AA_I AE_I R_I DD_E
+ریکورڈ ریکورڈ R_B II_I K_I OO_I R_I DD_E
+ریکورڈیڈ ریکورڈیڈ R_B II_I K_I OO_I R_I DD_I II_I DD_E
+ریکویسٹ ریکویسٹ R_B II_I K_I OO_I E_I S_I TT_E
+ریگ ریگ R_B AY_I G_E
+ریگولر ریگولر R_B AE_I G_I UU_I L_I A_I R_E
+ریگولرلی ریگولرلی R_B AE_I G_I UU_I L_I R_I L_I II_E
+رے رے R_B AY_E
+زادہ زادہ Z_B AA_I DD_I AA_E
+زار زار Z_B AA_I R_E
+زارہ زارہ Z_B AA_I R_I AA_E
+زاہد زاہد Z_B AA_I H_I I_I DD_E
+زبردستی زبردستی Z_B A_I B_I A_I R_I DD_I A_I S_I TD_I II_E
+زبیر زبیر Z_B A_I B_I II_I R_E
+زد زد Z_B A_I DD_E
+زدہ زدہ Z_B A_I DD_I AA_E
+زلمی زلمی Z_B I_I L_I M_I II_E
+زمانی زمانی Z_B A_I M_I AA_I N_I II_E
+زمزمہ زمزمہ Z_B A_I M_I Z_I I_I M_I AA_E
+زندگی زندگی Z_B I_I N_I DD_I A_I G_I II_E
+زنگرز زنگرز Z_B A_I NG_I G_I A_I R_I Z_E
+زونل زونل Z_B OO_I N_I A_I L_E
+زوہیب زوہیب Z_B OO_I H_I II_I B_E
+زہرا زہرا Z_B AEH_I H_I R_I AA_E
+زی زی Z_B II_E
+زیادہ زیادہ Z_B I_I J_I AA_I DD_I AA_E
+زیان زیان Z_B I_I J_I AA_I N_E
+زیرو زیرو Z_B II_I R_I OO_E
+زیشان زیشان Z_B AY_I SH_I AA_I N_E
+زین زین Z_B II_I N_E
+زینب زینب Z_B AE_I N_I B_E
+زیڈ زیڈ Z_B AY_I DD_E
+سا سا S_B AA_E
+سائبر سائبر S_B AA_I I_I B_I A_I R_E
+سائرہ سائرہ S_B AA_I I_I R_I AA_E
+سائز سائز S_B AA_I I_I Z_E
+سائمہ سائمہ S_B AA_I I_I M_I AA_E
+سائنس سائنس S_B AA_I I_I N_I S_E
+سائٹ سائٹ S_B AA_I I_I TT_E
+سائیڈ سائیڈ S_B AA_I II_I DD_E
+سابیشری سابیشری S_B AA_I B_I II_I SH_I R_I II_E
+سات سات S_B AA_I TD_E
+ساتھ ساتھ S_B AA_I TDH_E
+سادھی سادھی S_B AA_I DDH_I II_E
+سارا سارا S_B AA_I R_I AA_E
+ساروں ساروں S_B AA_I R_I OON_E
+سارہ سارہ S_B AA_I R_I AA_E
+ساری ساری S_B AA_I R_I II_E
+سارے سارے S_B AA_I R_I AY_E
+ساسج ساسج S_B AA_I S_I I_I DZZ_E
+ساسس ساسس S_B AA_I S_I I_I S_E
+ساسیج ساسیج S_B AA_I S_I II_I DZZ_E
+سال سال S_B AA_I L_E
+سالٹ سالٹ S_B AA_I L_I T_E
+سالہ سالہ S_B AA_I L_I AA_E
+سامنا سامنا S_B AA_I M_I N_I AA_E
+سامنے سامنے S_B AA_I M_I N_I AE_E
+ساندہ ساندہ S_B AA_I N_I DD_I AA_E
+سانپ سانپ S_B AA_I M_I P_E
+ساور ساور S_B AA_I V_I A_I R_E
+ساِس ساِس S_B AA_I I_I S_E
+ساِسس ساِسس S_B AA_I I_I S_I I_I S_E
+ساِسیجز ساِسیجز S_B AA_I I_I S_I II_I DZZ_I I_I Z_E
+ساڑھے ساڑھے S_B AA_I RRH_I AE_E
+ساہی ساہی S_B AA_I H_I II_E
+سب سب S_B A_I B_E
+سبزیاں سبزیاں S_B A_I B_I Z_I I_I J_I AAN_E
+ستائیس ستائیس S_B A_I TD_I TD_I AA_I II_I S_E
+ستارہ ستارہ S_B A_I TD_I AA_I R_I AA_E
+ستر ستر S_B A_I TD_I TD_I A_I R_E
+سترہ سترہ S_B A_I TD_I R_I AA_E
+سجاد سجاد S_B A_I DZZ_I DZZ_I AA_I DD_E
+سجیسٹ سجیسٹ S_B A_I DZZ_I E_I S_I TT_E
+سحر سحر S_B I_I H_I R_E
+سخت سخت S_B A_I X_I TD_E
+سدرہ سدرہ S_B A_I DD_I DD_I R_I AA_E
+سدہ سدہ S_B A_I DD_I AA_E
+سر سر S_B A_I R_E
+سرای سرای S_B A_I R_I AA_I II_E
+سردار سردار S_B A_I R_I DD_I AA_I R_E
+سرف سرف S_B A_I R_I F_E
+سرفراز سرفراز S_B A_I R_I F_I A_I R_I AA_I Z_E
+سرمد سرمد S_B A_I R_I M_I A_I DD_E
+سرمست سرمست S_B A_I R_I M_I A_I S_I TD_E
+سرمیں سرمیں S_B A_I R_I M_I AYN_E
+سرور سرور S_B A_I R_I V_I A_I R_E
+سروس سروس S_B A_I R_I V_I I_I S_E
+سرونگ سرونگ S_B A_I R_I UU_I NG_E
+سروو سروو S_B A_I R_I V_I OO_E
+سرٹو سرٹو S_B A_I R_I TT_I OO_E
+سرپرائز سرپرائز S_B A_I R_I P_I A_I R_I AA_I I_I Z_E
+سرچ سرچ S_B A_I R_I TSH_E
+سرکولر سرکولر S_B A_I R_I K_I OO_I L_I A_I R_E
+سرگودھا سرگودھا S_B A_I R_I G_I OO_I DDH_I AA_E
+سری سری S_B A_I R_I II_E
+سرے سرے S_B A_I R_I R_I AY_E
+سستی سستی S_B A_I S_I TD_I II_E
+سسر سسر S_B I_I S_I A_I R_E
+سسٹر سسٹر S_B I_I S_I TT_I A_I R_E
+سسٹم سسٹم S_B I_I S_I TT_I A_I M_E
+سع سع S_B A_E
+سعادت سعادت S_B A_I AA_I DD_I A_I TD_E
+سعد سعد S_B A_I DD_E
+سعدی سعدی S_B A_I DD_I II_E
+سعدیہ سعدیہ S_B A_I DD_I AY_I J_I AA_E
+سعود سعود S_B A_I UU_I DD_E
+سعید سعید S_B A_I II_I DD_E
+سلائس سلائس S_B A_I L_I AA_I I_I S_E
+سلاد سلاد S_B A_I L_I AA_I DD_E
+سلام سلام S_B A_I L_I AA_I M_E
+سلامت سلامت S_B A_I L_I AA_I M_I A_I TD_E
+سلسلے سلسلے S_B I_I L_I S_I I_I L_I AE_E
+سلطان سلطان S_B U_I L_I TD_I AA_I N_E
+سلو سلو S_B U_I L_I UU_E
+سلوک سلوک S_B U_I L_I UU_I K_E
+سلپ سلپ S_B A_I L_I P_E
+سلیش سلیش S_B A_I L_I II_I SH_E
+سلیم سلیم S_B A_I L_I II_I M_E
+سلیمان سلیمان S_B A_I L_I II_I M_I AA_I N_E
+سم سم S_B A_I M_E
+سمبارا سمبارا S_B A_I M_I B_I AA_I R_I AA_E
+سمبل سمبل S_B A_I M_I B_I A_I L_E
+سمتھنگ سمتھنگ S_B A_I M_I TDH_I A_I NG_E
+سمجھ سمجھ S_B A_I M_I A_I DZZH_E
+سمجھا سمجھا S_B A_I M_I DZZH_I AA_E
+سمجھانے سمجھانے S_B A_I M_I DZZH_I AA_I N_I AE_E
+سمجھایا سمجھایا S_B A_I M_I DZZH_I AA_I J_I AA_E
+سمجھی سمجھی S_B A_I M_I DZZH_I II_E
+سمجھیں سمجھیں S_B A_I M_I DZZH_I AEN_E
+سمجھے سمجھے S_B A_I M_I DZZH_I AE_E
+سممی سممی S_B A_I M_I A_I M_I II_E
+سمنہ سمنہ S_B A_I M_I N_I AA_E
+سموئیر سموئیر S_B A_I M_I OO_I I_I J_I A_I R_E
+سمول سمول S_B A_I M_I OO_I L_E
+سمپل سمپل S_B A_I M_I P_I A_I L_E
+سمی سمی S_B A_I M_I II_E
+سمیئہ سمیئہ S_B A_I M_I AY_I A_I AA_E
+سمیر سمیر S_B A_I M_I II_I R_E
+سمینہ سمینہ S_B A_I M_I II_I N_I AA_E
+سمیہ سمیہ S_B A_I M_I I_I J_I AA_E
+سن سن S_B A_I N_E
+سنا سنا S_B U_I N_I AA_E
+سنائیں سنائیں S_B U_I N_I AA_I AYN_E
+سنتا سنتا S_B U_I N_I TD_I AA_E
+سنتے سنتے S_B U_I N_I TD_I AY_E
+سندھ سندھ S_B U_I N_I DDH_E
+سننا سننا S_B U_I N_I N_I AA_E
+سننے سننے S_B U_I N_I N_I AY_E
+سنٹر سنٹر S_B E_I N_I TT_I A_I R_E
+سنڈیز سنڈیز S_B U_I N_I DD_I II_I Z_E
+سنڈے سنڈے S_B U_I N_I DD_I AY_E
+سنکڈز سنکڈز S_B U_I N_I K_I DD_I Z_E
+سنگاپور سنگاپور S_B A_I NG_I G_I AA_I P_I UU_I R_E
+سنگل سنگل S_B I_I NG_I G_I A_I L_E
+سنی سنی S_B U_I N_I II_E
+سنیں سنیں S_B U_I N_I AEN_E
+سو سو S_B OO_E
+سوئیٹ سوئیٹ S_B UU_I II_I TT_E
+سوئے سوئے S_B OO_I AE_E
+سوا سوا S_B A_I V_I AA_E
+سور سور S_B UU_I R_E
+سوری سوری S_B UU_I R_I II_E
+سوس سوس S_B UU_I S_E
+سوسائٹی سوسائٹی S_B OO_I S_I AA_I I_I TT_I II_E
+سوسائیٹی سوسائیٹی S_B OO_I S_I AA_I II_I TT_I II_E
+سوسایٹی سوسایٹی S_B OO_I S_I II_I TT_I II_E
+سوسج سوسج S_B OO_I S_I DZZ_E
+سوسجز سوسجز S_B OO_I S_I DZZ_I I_I Z_E
+سوسز سوسز S_B A_I V_I I_I S_I I_I Z_E
+سوسس سوسس S_B OO_I S_I A_I S_E
+سوسیج سوسیج S_B OO_I S_I AY_I DZZ_E
+سوفٹ سوفٹ S_B OO_I F_I TT_E
+سول سول S_B UU_I L_E
+سولا سولا S_B OO_I L_I AA_E
+سولٹڈ سولٹڈ S_B OO_I L_I TT_I I_I DD_E
+سولیمان سولیمان S_B OO_I L_I II_I M_I AA_I N_E
+سومی سومی S_B OO_I M_I II_E
+سون سون S_B UU_I N_E
+سونتی سونتی S_B UU_I N_I A_I TD_I II_E
+سونک سونک S_B OO_I N_I I_I K_E
+سونگ سونگ S_B OO_I NG_E
+سونیا سونیا S_B OO_I N_I I_I J_I AA_E
+سونے سونے S_B UU_I N_I AE_E
+سوچ سوچ S_B OO_I TSH_E
+سوچا سوچا S_B OO_I TSH_I AA_E
+سوگرہ سوگرہ S_B OO_I G_I A_I R_I AA_E
+سوہا سوہا S_B OO_I H_I AA_E
+سویٹ سویٹ S_B A_I V_I AY_I TT_E
+سٹارٹ سٹارٹ S_B A_I TT_I AA_I R_I TT_E
+سٹرکٹلی سٹرکٹلی S_B A_I TT_I R_I A_I K_I TT_I L_I II_E
+سٹریٹ سٹریٹ S_B A_I TT_I R_I AE_I TT_E
+سٹریٹجی سٹریٹجی S_B A_I TT_I R_I AE_I TT_I I_I DZZ_I II_E
+سٹی سٹی S_B A_I TT_I II_E
+سٹیزن سٹیزن S_B A_I TT_I II_I Z_I A_I N_E
+سٹیٹس سٹیٹس S_B A_I TT_I AY_I TT_I S_E
+سٹیپ سٹیپ S_B A_I TT_I II_I P_E
+سپ سپ S_B A_I P_E
+سپر سپر S_B U_I P_I A_I R_E
+سپرائٹ سپرائٹ S_B U_I P_I A_I R_I AA_I I_I TT_E
+سپرمین سپرمین S_B A_I P_I A_I R_I M_I II_I N_E
+سپروائزر سپروائزر S_B U_I P_I A_I R_I V_I AA_I I_I Z_I A_I R_E
+سپریٹ سپریٹ S_B I_I P_I R_I II_I TT_E
+سپریٹلی سپریٹلی S_B I_I P_I R_I AE_I TT_I L_I II_E
+سپلائی سپلائی S_B A_I P_I L_I AA_I II_E
+سپیسیفکلی سپیسیفکلی S_B A_I P_I AY_I S_I II_I F_I I_I K_I L_I II_E
+سپیکنگ سپیکنگ S_B A_I P_I AY_I K_I I_I NG_E
+سچ سچ S_B A_I TSH_E
+سچل سچل S_B A_I TSH_I TSH_I A_I L_E
+سڑا سڑا S_B A_I RR_I AA_E
+سکتا سکتا S_B A_I K_I TD_I AA_E
+سکتی سکتی S_B A_I K_I TD_I II_E
+سکتیں سکتیں S_B A_I K_I TD_I IIN_E
+سکتے سکتے S_B A_I K_I TD_I AY_E
+سکرین سکرین S_B I_I K_I R_I II_I N_E
+سکس سکس S_B I_I K_I S_E
+سکسٹی سکسٹی S_B I_I K_I S_I I_I TT_I II_E
+سکسٹین سکسٹین S_B I_I K_I S_I TT_I II_I N_E
+سکنڈز سکنڈز S_B A_I K_I A_I N_I DD_I Z_E
+سکونگا سکونگا S_B A_I K_I UU_I NG_I G_I AA_E
+سکوں سکوں S_B A_I K_I OON_E
+سکٹر سکٹر S_B I_I K_I TT_I A_I R_E
+سکھائی سکھائی S_B I_I KH_I AA_I II_E
+سکی سکی S_B A_I K_I II_E
+سکیں سکیں S_B A_I K_I AEN_E
+سکے سکے S_B A_I K_I AE_E
+سگنل سگنل S_B I_I G_I N_I A_I L_E
+سگنلز سگنلز S_B I_I G_I N_I A_I L_I Z_E
+سہ سہ S_B AA_E
+سہی سہی S_B A_I H_I II_E
+سی سی S_B II_E
+سیئنگ سیئنگ S_B II_I I_I NG_E
+سیالکوٹ سیالکوٹ S_B I_I J_I AA_I L_I K_I OO_I TT_E
+سیاپا سیاپا S_B I_I J_I AA_I P_I AA_E
+سید سید S_B II_I DD_E
+سیدا سیدا S_B AY_I DD_I AA_E
+سیدھی سیدھی S_B II_I DDH_I II_E
+سیر سیر S_B II_I R_E
+سیرپ سیرپ S_B AE_I R_I P_E
+سیس سیس S_B II_I S_E
+سیف سیف S_B AE_I F_E
+سیل سیل S_B II_I L_E
+سیلون سیلون S_B AE_I L_I UU_I N_E
+سیلکٹ سیلکٹ S_B AE_I L_I I_I K_I TT_E
+سیم سیم S_B II_I M_E
+سیمپل سیمپل S_B AE_I M_I P_I A_I L_E
+سیمہ سیمہ S_B II_I M_I AA_E
+سین سین S_B II_I N_E
+سینئیر سینئیر S_B II_I N_I I_I J_I A_I R_E
+سیناریو سیناریو S_B II_I N_I AA_I R_I II_I V_E
+سینٹر سینٹر S_B AE_I N_I TT_I A_I R_E
+سینٹرل سینٹرل S_B AE_I N_I TT_I A_I R_I A_I L_E
+سینٹرلائزڈ سینٹرلائزڈ S_B AE_I N_I TT_I A_I R_I A_I L_I AA_I I_I Z_I DD_E
+سینڈ سینڈ S_B AE_I N_I DD_E
+سینڈوچ سینڈوچ S_B AY_I N_I DD_I V_I I_I TSH_E
+سینیار سینیار S_B AE_I N_I J_I AA_I R_E
+سینیریو سینیریو S_B AE_I N_I AY_I R_I II_I OO_E
+سیو سیو S_B II_I OO_E
+سیواے سیواے S_B II_I V_I AA_I AY_E
+سیون سیون S_B AE_I V_I A_I N_E
+سیونٹی سیونٹی S_B AE_I V_I A_I N_I TT_I II_E
+سیونٹین سیونٹین S_B AE_I V_I A_I N_I TT_I II_I N_E
+سیوے سیوے S_B II_I V_I AY_E
+سیٹ سیٹ S_B II_I TT_E
+سیٹسفائڈ سیٹسفائڈ S_B AE_I TT_I S_I F_I AA_I I_I DD_E
+سیٹلائٹ سیٹلائٹ S_B AE_I TT_I L_I AA_I I_I TT_E
+سیپ سیپ S_B II_I P_E
+سیپرپٹ سیپرپٹ S_B AE_I P_I R_I I_I P_I TT_E
+سیپرپٹلی سیپرپٹلی S_B AE_I P_I R_I I_I P_I TT_I L_I II_E
+سیپریٹ سیپریٹ S_B II_I P_I R_I AY_I TT_E
+سیپریٹلی سیپریٹلی S_B II_I P_I R_I AE_I TT_I L_I II_E
+سیڈ سیڈ S_B II_I DD_E
+سیڑھیوں سیڑھیوں S_B II_I RRH_I II_I OON_E
+سیکنڈ سیکنڈ S_B AE_I K_I I_I N_I DD_E
+سیکنڈز سیکنڈز S_B AE_I K_I I_I N_I DD_I Z_E
+سیکنڈلی سیکنڈلی S_B AE_I K_I I_I N_I DD_I L_I II_E
+سیکٹر سیکٹر S_B AE_I K_I TT_I A_I R_E
+سیکینڈ سیکینڈ S_B II_I K_I J_I A_I N_I DD_E
+سے سے S_B AY_E
+شئیر شئیر SH_B A_I J_I A_I R_E
+شائستہ شائستہ SH_B AA_I I_I S_I TD_I AA_E
+شادمان شادمان SH_B AA_I DD_I M_I AA_I N_E
+شارون شارون SH_B AA_I R_I UU_I N_E
+شارٹ شارٹ SH_B AA_I R_I TT_E
+شازیب شازیب SH_B AA_I Z_I II_I B_E
+شازیہ شازیہ SH_B AA_I Z_I I_I J_I AA_E
+شام شام SH_B AA_I M_E
+شامیر شامیر SH_B AA_I M_I II_I R_E
+شاٹ شاٹ SH_B AA_I TT_E
+شاپ شاپ SH_B AA_I P_E
+شاہ شاہ SH_B AA_E
+شاہد شاہد SH_B AA_I H_I I_I DD_E
+شاہریار شاہریار SH_B AA_I H_I R_I J_I AA_I R_E
+شاہزیب شاہزیب SH_B AA_I H_I Z_I II_I B_E
+شاہمیر شاہمیر SH_B AA_I H_I M_I II_I R_E
+شاید شاید SH_B AA_I J_I A_I DD_E
+شبنم شبنم SH_B A_I B_I N_I A_I M_E
+شجاعت شجاعت SH_B U_I DZZ_I AA_I A_I TD_E
+شرابہ شرابہ SH_B A_I R_I AA_I B_I AA_E
+شرافت شرافت SH_B A_I R_I AA_I F_I A_I TD_E
+شرجیل شرجیل SH_B A_I R_I DZZ_I II_I L_E
+شرم شرم SH_B A_I R_I M_E
+شرو شرو SH_B A_I R_I UU_E
+شروع شروع SH_B U_I R_I UU_E
+شزا شزا SH_B I_I Z_I AA_E
+شعیب شعیب SH_B A_I II_I B_E
+شفٹ شفٹ SH_B A_I F_I TT_E
+شفٹس شفٹس SH_B I_I F_I TT_I S_E
+شفٹوں شفٹوں SH_B I_I F_I TT_I OON_E
+شمس شمس SH_B A_I M_I S_E
+شمسی شمسی SH_B A_I M_I S_I II_E
+شمیم شمیم SH_B A_I M_I II_I M_E
+شو شو SH_B OO_E
+شورٹ شورٹ SH_B OO_I R_I TT_E
+شوٹ شوٹ SH_B UU_I TT_E
+شوٹس شوٹس SH_B UU_I TT_I S_E
+شوپر شوپر SH_B UU_I P_I A_I R_E
+شوکت شوکت SH_B O_I K_I A_I TD_E
+شوگر شوگر SH_B UU_I G_I A_I R_E
+شپ شپ SH_B I_I P_E
+شک شک SH_B I_I K_E
+شکایت شکایت SH_B I_I K_I AA_I J_I A_I TD_E
+شکر شکر SH_B U_I K_I A_I R_E
+شکریہ شکریہ SH_B U_I K_I R_I I_I J_I AA_E
+شکیل شکیل SH_B A_I K_I II_I L_E
+شگر شگر SH_B A_I G_I A_I R_E
+شہباز شہباز SH_B A_I H_I B_I AA_I Z_E
+شہر شہر SH_B E_I H_I R_E
+شہروز شہروز SH_B AEH_I H_I R_I UU_I Z_E
+شہریار شہریار SH_B AEH_I H_I R_I J_I AA_I R_E
+شہزاد شہزاد SH_B A_I H_I Z_I AA_I DD_E
+شہناز شہناز SH_B A_I H_I N_I AA_I Z_E
+شہید شہید SH_B A_I H_I II_I DD_E
+شی شی SH_B II_E
+شیخ شیخ SH_B AE_I X_E
+شیراز شیراز SH_B AY_I R_I AA_I Z_E
+شیریار شیریار SH_B AE_I R_I J_I AA_I R_E
+شیزاد شیزاد SH_B AE_I Z_I AA_I DD_E
+شیزہ شیزہ SH_B II_I Z_I AA_E
+شیل شیل SH_B AY_I L_E
+شیم شیم SH_B AE_I M_E
+شیو شیو SH_B AE_I V_E
+شیور شیور SH_B AY_I V_I A_I R_E
+شیک شیک SH_B AY_I K_E
+شیکس شیکس SH_B AE_I K_I S_E
+صاحب صاحب S_B AA_I H_I I_I B_E
+صارم صارم S_B AA_I R_I M_E
+صالح صالح S_B AA_I L_I AY_E
+صبا صبا S_B A_I B_I AA_E
+صبح صبح S_B A_I B_I AY_E
+صبر صبر S_B A_I B_I R_E
+صحاب صحاب S_B A_I H_I AA_I B_E
+صحیح صحیح S_B A_I H_I II_E
+صدر صدر S_B A_I DD_I R_E
+صدف صدف S_B A_I DD_I A_I F_E
+صدیق صدیق S_B I_I DD_I DD_I II_I Q_E
+صدیقی صدیقی S_B I_I DD_I DD_I II_I Q_I II_E
+صرف صرف S_B A_I R_I F_E
+صفی صفی S_B A_I F_I II_E
+صفیہ صفیہ S_B A_I F_I I_I J_I AA_E
+صمد صمد S_B S_I A_I M_I A_I DD_E
+صوبہ صوبہ S_B UU_I B_I AA_E
+صوبیہ صوبیہ S_B UU_I B_I I_I J_I AA_E
+صوتی صوتی S_B UU_I TD_I II_E
+صور صور S_B UU_I R_E
+صورت صورت S_B UU_I R_I A_I TD_E
+صورتیں صورتیں S_B UU_I R_I A_I TD_I AYN_E
+ضایع ضایع Z_B AA_I II_E
+ضرور ضرور Z_B A_I R_I UU_I R_E
+ضرورت ضرورت Z_B A_I R_I UU_I R_I A_I TD_E
+ضمیر ضمیر Z_B A_I M_I II_I R_E
+طارق طارق TD_B AA_I R_I I_I Q_E
+طب طب TD_B A_I B_E
+طبعیت طبعیت TD_B A_I B_I A_I J_I J_I A_I TD_E
+طحہ طحہ TD_B H_I AA_E
+طرح طرح TD_B A_I R_I H_E
+طرف طرف TD_B A_I R_I F_E
+طریقہ طریقہ TD_B A_I R_I II_I Q_I AA_E
+طریقے طریقے TD_B A_I R_I II_I Q_I AY_E
+طلال طلال TD_B A_I L_I AA_I L_E
+طلحہ طلحہ TD_B A_I L_I H_I AA_E
+طور طور TD_B UU_I R_E
+طیب طیب TD_B AY_I J_I A_I B_E
+طیبہ طیبہ TD_B A_I J_I J_I I_I B_I AA_E
+ظاھر ظاھر Z_B AA_I DDH_I A_I R_E
+ظاہری ظاہری Z_B AA_I H_I A_I R_I II_E
+ظفر ظفر Z_B A_I F_I A_I R_E
+ظفیر ظفیر Z_B A_I F_I II_I R_E
+ظنیرہ ظنیرہ Z_B A_I N_I II_I R_I AA_E
+ظہیر ظہیر Z_B A_I H_I II_I R_E
+عائشہ عائشہ AA_B I_I SH_I AA_E
+عاتیقہ عاتیقہ AA_B TD_I II_I Q_I AA_E
+عارف عارف AA_B R_I I_I F_E
+عاطف عاطف AA_B TD_I I_I F_E
+عام عام AA_B M_E
+عباد عباد I_B B_I AA_I DD_E
+عباس عباس A_B B_I B_I AA_I S_E
+عبدالباِسط عبدالباِسط A_B B_I DD_I U_I L_I A_I B_I AA_I I_I S_I TD_E
+عبدالرحمان عبدالرحمان A_B B_I DD_I U_I L_I R_I A_I H_I M_I AA_I N_E
+عبدالمتین عبدالمتین A_B B_I DD_I U_I L_I M_I TD_I II_I N_E
+عبدل عبدل A_B B_I DD_I I_I L_E
+عبدلرحمان عبدلرحمان A_B B_I DD_I L_I R_I A_I H_I M_I AA_I N_E
+عبدللہ عبدللہ A_B B_I DD_I L_I L_I AA_E
+عبدلوا عبدلوا A_B B_I DD_I A_I L_I V_I AA_E
+عبدلواحد عبدلواحد A_B B_I DD_I I_I L_I V_I AA_I H_I I_I DD_E
+عبدلواسع عبدلواسع A_B B_I DD_I I_I L_I V_I AA_I S_I AY_E
+عبدلواِسع عبدلواِسع A_B B_I DD_I L_I A_I I_I S_I AY_E
+عبدلوحید عبدلوحید A_B B_I DD_I I_I L_I O_I H_I II_I DD_E
+عبّاس عبّاس A_B B_I AA_I S_E
+عتیق عتیق A_B TD_I II_I Q_E
+عثمان عثمان U_B S_I M_I AA_I N_E
+عجیب عجیب A_B DZZ_I II_I B_E
+عدنان عدنان A_B DD_I N_I AA_I N_E
+عدیل عدیل A_B DD_I II_I L_E
+عرض عرض A_B R_I Z_E
+عرفان عرفان I_B R_I F_I AA_I N_E
+عریب عریب A_B R_I AE_I B_E
+عریبیہ عریبیہ A_B R_I AE_I B_I I_I J_I AA_E
+عریشا عریشا A_B R_I AY_I SH_I AA_E
+عریشمہ عریشمہ A_B R_I AE_I SH_I M_I AA_E
+عزت عزت I_B Z_I Z_I A_I TD_E
+عزیز عزیز A_B Z_I II_I Z_E
+عزیزہ عزیزہ A_B Z_I II_I Z_I AA_E
+عسکری عسکری A_B S_I K_I A_I R_I II_E
+عطیب عطیب A_B TD_I II_I B_E
+عظیم عظیم A_B Z_I II_I M_E
+علاقہ علاقہ A_B L_I L_I AA_I Q_I AA_E
+علامہ علامہ A_B L_I L_I AA_I M_I AA_E
+علاوہ علاوہ I_B L_I AA_I V_I AA_E
+علم علم A_B L_I A_I M_E
+علمدار علمدار A_B L_I A_I M_I DD_I AA_I R_E
+علی علی A_B L_I II_E
+علیحدہ علیحدہ A_B L_I AY_I H_I I_I DD_I AA_E
+علیم علیم A_B L_I II_I M_E
+علینہ علینہ A_B L_I II_I N_I AA_E
+عمار عمار I_B M_I AA_I R_E
+عمارہ عمارہ I_B M_I AA_I R_I AA_E
+عمان عمان A_B M_I AA_I N_E
+عمر عمر U_B M_I R_E
+عمران عمران U_B M_I R_I AA_I N_E
+عمیر عمیر A_B M_I II_I R_E
+عورت عورت O_B R_I A_I TD_E
+عکاشہ عکاشہ A_B K_I K_I AA_I SH_I AA_E
+عیان عیان I_B J_I AA_I N_E
+عید عید A_B II_I DD_E
+عیشل عیشل AE_B SH_I A_I L_E
+غائب غائب 7_B AA_I I_I B_E
+غرض غرض 7_B A_I R_I A_I Z_E
+غرق غرق 7_B R_I A_I Q_E
+غریب غریب 7_B A_I R_I II_I B_E
+غصہ غصہ 7_B U_I S_I S_I AA_E
+غضنفر غضنفر 7_B A_I Z_I N_I A_I F_I A_I R_E
+غلط غلط 7_B A_I L_I A_I TD_E
+غلطی غلطی 7_B A_I L_I TD_I II_E
+غیرت غیرت 7_B AE_I R_I A_I TD_E
+فائدہ فائدہ F_B AA_I I_I DD_I AA_E
+فائزہ فائزہ F_B AA_I I_I Z_I AA_E
+فائف فائف F_B AA_I I_I F_E
+فائل فائل F_B AA_I I_I L_E
+فائن فائن F_B AA_I I_I N_E
+فائیو فائیو F_B AA_I II_I V_E
+فاتھر فاتھر F_B AA_I TDH_I A_I R_E
+فاخر فاخر F_B AA_I X_I I_I R_E
+فار فار F_B AA_I R_E
+فاروا فاروا F_B AA_I R_I V_I AA_E
+فارورڈ فارورڈ F_B AA_I R_I V_I A_I R_I DD_E
+فاروق فاروق F_B AA_I R_I UU_I Q_E
+فاریہ فاریہ F_B AA_I R_I I_I J_I AA_E
+فاسٹ فاسٹ F_B AA_I S_I TT_E
+فاطمہ فاطمہ F_B AA_I TD_I M_I AA_E
+فالو فالو F_B AA_I L_I UU_E
+فانٹا فانٹا F_B AA_I N_I T_I AA_E
+فاِسٹ فاِسٹ F_B AA_I I_I S_I TT_E
+فاِنٹا فاِنٹا F_B AA_I I_I N_I TT_I AA_E
+فر فر F_B A_I R_E
+فرائز فرائز F_B A_I R_I AA_I I_I Z_E
+فرائیڈ فرائیڈ F_B A_I R_I AA_I II_I DD_E
+فراز فراز F_B A_I R_I AA_I Z_E
+فرافت فرافت F_B A_I R_I AA_I F_I A_I TD_E
+فرام فرام F_B A_I R_I AA_I M_E
+فرحان فرحان F_B A_I R_I H_I AA_I N_E
+فرحین فرحین F_B A_I R_I H_I AE_I N_E
+فردر فردر F_B A_I R_I DD_I A_I R_E
+فردوس فردوس F_B I_I R_I DD_I O_I S_E
+فرسٹ فرسٹ F_B A_I R_I S_I A_I TT_E
+فرق فرق F_B A_I R_I Q_E
+فرقان فرقان F_B U_I R_I Q_I AA_I N_E
+فرما فرما F_B A_I R_I M_I AA_E
+فرمائیگا فرمائیگا F_B A_I R_I M_I AA_I II_I G_I AA_E
+فرمائیے فرمائیے F_B A_I R_I M_I AA_I II_I AY_E
+فرمایا فرمایا F_B A_I R_I M_I AA_I J_I AA_E
+فرنچائز فرنچائز F_B A_I R_I A_I N_I TSH_I AA_I I_I Z_E
+فری فری F_B A_I R_I II_E
+فریال فریال F_B A_I R_I J_I AA_I L_E
+فریج فریج F_B A_I R_I II_I DZZ_E
+فریحہ فریحہ F_B A_I R_I II_I H_I AA_E
+فریش فریش F_B A_I R_I AE_I SH_E
+فریکوینسی فریکوینسی F_B A_I R_I II_I K_I UU_I J_I A_I N_I S_I II_E
+فزا فزا F_B I_I Z_I AA_E
+فس فس F_B A_I S_E
+فش فش F_B I_I SH_E
+فصیح فصیح F_B A_I S_I II_I H_E
+فضا فضا F_B I_I Z_I AA_E
+فضل فضل F_B A_I Z_I L_E
+ففتھ ففتھ F_B I_I F_I TDH_E
+ففٹی ففٹی F_B I_I F_I TT_I II_E
+ففٹین ففٹین F_B F_I T_I II_I N_E
+فقط فقط F_B U_I Q_I A_I TD_E
+فل فل F_B A_I L_E
+فلانا فلانا F_B I_I L_I AA_I N_I AA_E
+فلانے فلانے F_B I_I L_I AA_I N_I AY_E
+فلت فلت F_B L_I A_I TD_E
+فلحال فلحال F_B A_I L_I H_I AA_I L_E
+فلریس فلریس F_B A_I L_I A_I R_I AE_I S_E
+فلنگ فلنگ F_B L_I I_I NG_E
+فلو فلو F_B A_I L_I OO_E
+فلور فلور F_B A_I L_I OO_I R_E
+فلوری فلوری F_B A_I L_I OO_I R_I II_E
+فلوقت فلوقت F_B A_I L_I OO_I Q_I A_I TD_E
+فلی فلی F_B A_I L_I II_E
+فلیور فلیور F_B A_I L_I AE_I V_I A_I R_E
+فلیورز فلیورز F_B A_I L_I AE_I V_I A_I R_I Z_E
+فلیٹ فلیٹ F_B A_I L_I AE_I TT_E
+فمیلی فمیلی F_B M_I II_I L_I II_E
+فن فن F_B A_I N_E
+فنکشنل فنکشنل F_B A_I N_I K_I SH_I A_I N_I A_I L_E
+فواد فواد F_B A_I V_I AA_I DD_E
+فودپندہ فودپندہ F_B O_I DD_I P_I A_I N_I DD_I AA_E
+فور فور F_B OO_I R_E
+فورا فورا F_B OO_I R_I AA_E
+فورتھ فورتھ F_B OO_I R_I TDH_E
+فورس فورس F_B OO_I R_I S_E
+فورن فورن F_B OO_I R_I A_I N_E
+فورٹی فورٹی F_B OO_I R_I TT_I II_E
+فورٹیفائیو فورٹیفائیو F_B OO_I R_I TT_I II_I F_I AA_I II_I V_E
+فورٹین فورٹین F_B OO_I R_I TT_I AE_I N_E
+فوری فوری F_B OO_I R_I II_E
+فوزیہ فوزیہ F_B OO_I Z_I I_I J_I AA_E
+فول فول F_B OO_I L_E
+فولو فولو F_B OO_I L_I OO_E
+فون فون F_B OO_I N_E
+فوڈ فوڈ F_B UU_I DD_E
+فِکر فِکر F_B I_I K_I A_I R_E
+فکر فکر F_B I_I K_I R_E
+فکس فکس F_B I_I K_I S_E
+فہیم فہیم F_B A_I H_I II_I M_E
+فی فی F_B II_E
+فیز فیز F_B AE_I Z_E
+فیزایڈ فیزایڈ F_B AE_I Z_I AA_I AY_I DD_E
+فیزبک فیزبک F_B AE_I Z_I B_I A_I K_E
+فیزفائیو فیزفائیو F_B AE_I Z_I F_I AA_I II_I V_E
+فیزہوتا فیزہوتا F_B AE_I Z_I H_I OO_I TD_I AA_E
+فیسٹیول فیسٹیول F_B AE_I S_I TT_I II_I V_I A_I L_E
+فیسڈ فیسڈ F_B AE_I S_I DD_E
+فیصل فیصل F_B AE_I S_I A_I L_E
+فیصلہ فیصلہ F_B AY_I S_I L_I AA_E
+فیضان فیضان F_B AY_I Z_I AA_I N_E
+فیل فیل F_B II_I L_E
+فیلنگز فیلنگز F_B II_I L_I I_I NG_I Z_E
+فیلو فیلو F_B II_I L_I OO_E
+فیلیٹ فیلیٹ F_B II_I L_I AE_I TT_E
+فیمس فیمس F_B AE_I M_I S_E
+فیملی فیملی F_B AY_I M_I L_I II_E
+فینٹا فینٹا F_B AE_I N_I TT_I AA_E
+فیو فیو F_B I_I J_I UU_E
+فیور فیور F_B I_I J_I UU_I R_E
+فیڈ فیڈ F_B II_I DD_E
+فیکٹ فیکٹ F_B AE_I K_I TT_E
+قادر قادر Q_B AA_I DD_I I_I R_E
+قادریہ قادریہ Q_B AA_I DD_I A_I R_I J_I AA_E
+قارٹر قارٹر Q_B AA_I R_I TT_I A_I R_E
+قاسم قاسم Q_B AA_I S_I I_I M_E
+قاعدہ قاعدہ Q_B AA_I I_I DD_I AA_E
+قبل قبل Q_B A_I B_I L_E
+قراةالعین قراةالعین Q_B A_I R_I AA_I L_I A_I II_I N_E
+قربان قربان Q_B U_I R_I B_I AA_I N_E
+قریب قریب Q_B A_I R_I II_I B_E
+قریشی قریشی Q_B U_I R_I AY_I SH_I II_E
+قسم قسم Q_B A_I S_I A_I M_E
+قصور قصور Q_B U_I S_I UU_I R_E
+قطعًا قطعًا Q_B A_I TD_I A_I N_E
+كے كے AE_S
+لئیے لئیے L_B A_I II_I AY_E
+لئے لئے L_B I_I AY_E
+لا لا L_B AA_E
+لاؤ لاؤ L_B AA_I OO_E
+لائبہ لائبہ L_B AA_I I_I B_I AA_E
+لائف لائف L_B AA_I I_I F_E
+لائن لائن L_B AA_I I_I N_E
+لائٹ لائٹ L_B AA_I I_I TT_E
+لائٹس لائٹس L_B AA_I I_I TT_I S_E
+لائٹلی لائٹلی L_B AA_I I_I TT_I L_I II_E
+لائیک لائیک L_B AA_I II_I K_E
+لائے لائے L_B AA_I AY_E
+لاتا لاتا L_B AA_I TD_I AA_E
+لاتی لاتی L_B AA_I TD_I II_E
+لاتے لاتے L_B AA_I TD_I AY_E
+لاثی لاثی L_B AA_I S_I II_E
+لارج لارج L_B AA_I R_I DZ_E
+لازمی لازمی L_B AA_I Z_I M_I II_E
+لاسٹ لاسٹ L_B AA_I S_I TT_E
+لالہ لالہ L_B AA_I L_I AA_E
+لانچ لانچ L_B AA_I N_I TSH_E
+لاِسٹ لاِسٹ L_B AA_I I_I S_I TT_E
+لاٹے لاٹے L_B AA_I TT_I AY_E
+لاک لاک L_B AA_I K_E
+لاکھانی لاکھانی L_B AA_I KH_I AA_I N_I II_E
+لاکھوں لاکھوں L_B AA_I KH_I OON_E
+لاگ لاگ L_B AA_I G_E
+لاھور لاھور L_B AA_I UU_I R_E
+لاہور لاہور L_B AA_I H_I O_I R_E
+لبرٹی لبرٹی L_B I_I B_I A_I R_I TT_I II_E
+لبریز لبریز L_B I_I B_I R_I II_I Z_E
+لسٹ لسٹ L_B I_I S_I TT_E
+لطیف لطیف L_B A_I TD_I II_I F_E
+لمبی لمبی L_B A_I M_I B_I II_E
+لنچ لنچ L_B A_I N_I TSH_E
+لنک لنک L_B I_I N_I K_E
+لو لو L_B OO_E
+لوؤن لوؤن L_B OO_I A_I OO_I N_E
+لوجز لوجز L_B O_I DZZ_I Z_E
+لودھی لودھی L_B OO_I DDH_I II_E
+لونچ لونچ L_B O_I N_I TSH_E
+لوٹلو لوٹلو L_B OO_I TT_I L_I OO_E
+لوڈڈ لوڈڈ L_B OO_I DD_I I_I DD_E
+لوک لوک L_B O_I K_E
+لوکل لوکل L_B OO_I K_I A_I L_E
+لوکیشن لوکیشن L_B UU_I K_I AE_I SH_I A_I N_E
+لوگ لوگ L_B OO_I G_E
+لوگو لوگو L_B OO_I G_I OO_E
+لوگوں لوگوں L_B OO_I G_I OON_E
+لوگی لوگی L_B OO_I G_I II_E
+لوگے لوگے L_B OO_I G_I AE_E
+لوں لوں L_B OON_E
+لِڈ لِڈ L_B I_I DD_E
+لڑکا لڑکا L_B A_I RR_I K_I AA_E
+لڑکی لڑکی L_B A_I RR_I K_I II_E
+لک لک L_B A_I K_E
+لکهیں لکهیں L_B A_I K_I AYN_E
+لکھ لکھ L_B I_I KH_E
+لکھئیے لکھئیے L_B I_I KH_I II_I AE_E
+لکھا لکھا L_B I_I KH_I KH_I AA_E
+لکھتیں لکھتیں L_B I_I KH_I TD_I IIN_E
+لکھوا لکھوا L_B I_I KH_I V_I AA_E
+لکھواؤ لکھواؤ L_B I_I KH_I V_I AA_I OO_E
+لکھوائی لکھوائی L_B I_I KH_I V_I AA_I II_E
+لکھوائے لکھوائے L_B I_I KH_I V_I AA_I AY_E
+لکھوانا لکھوانا L_B I_I KH_I V_I AA_I N_I AA_E
+لکھوایا لکھوایا L_B I_I KH_I V_I AA_I J_I AA_E
+لکھوایۓ لکھوایۓ L_B I_I KH_I V_I AA_I II_E
+لکھی لکھی L_B I_I KH_I II_E
+لکھیں لکھیں L_B I_I KH_I AEN_E
+لکھیے لکھیے L_B I_I KH_I J_I AE_E
+لکھے لکھے L_B I_I KH_I AE_E
+لگ لگ L_B A_I G_E
+لگا لگا L_B A_I G_I AA_E
+لگائے لگائے L_B A_I G_I AA_I AE_E
+لگاتی لگاتی L_B A_I G_I AA_I TD_I II_E
+لگاتے لگاتے L_B A_I G_I AA_I TD_I AY_E
+لگتا لگتا L_B A_I G_I TD_I AA_E
+لگتی لگتی L_B A_I G_I TD_I II_E
+لگتیں لگتیں L_B A_I G_I TD_I IIN_E
+لگی لگی L_B A_I G_I II_E
+لگیں لگیں L_B A_I G_I AEN_E
+لگے لگے L_B A_I G_I AE_E
+لگےگا لگےگا L_B A_I G_I AY_I G_I AA_E
+لی لی L_B II_E
+لیا لیا L_B I_I J_I AA_E
+لیتا لیتا L_B AE_I TD_I AA_E
+لیتی لیتی L_B AE_I TD_I II_E
+لیتے لیتے L_B AE_I TD_I AE_E
+لیجئیے لیجئیے L_B II_I DZZ_I I_I J_I AY_E
+لیجئے لیجئے L_B II_I DZZ_I I_I AE_E
+لیجیئے لیجیئے L_B II_I DZZ_I II_I AY_E
+لیس لیس L_B AE_I S_E
+لیفٹ لیفٹ L_B AE_I F_I TT_E
+لیمیٹڈ لیمیٹڈ L_B II_I M_I II_I TT_I I_I DD_E
+لین لین L_B II_I N_E
+لینا لینا L_B II_I N_I AA_E
+لینٹن لینٹن L_B AY_I N_I TT_I A_I N_E
+لینڈ لینڈ L_B AE_I N_I DD_E
+لینگویج لینگویج L_B AY_I NG_I V_I II_I DZZ_E
+لینگے لینگے L_B AE_I NG_I G_I AY_E
+لینی لینی L_B AY_I N_I II_E
+لینے لینے L_B AE_I N_I AE_E
+لیول لیول L_B AE_I V_I A_I L_E
+لیٹ لیٹ L_B AY_I TT_E
+لیٹر لیٹر L_B AY_I TT_I A_I R_E
+لیٹرلی لیٹرلی L_B AY_I TT_I A_I R_I L_I II_E
+لیٹریلی لیٹریلی L_B AY_I TT_I R_I II_I L_I II_E
+لیٹس لیٹس L_B AY_I TT_I S_E
+لیڈ لیڈ L_B II_I DD_E
+لیکن لیکن L_B AE_I K_I I_I N_E
+لیکے لیکے L_B AE_I K_I AY_E
+لیگا لیگا L_B II_I G_I AA_E
+لیں لیں L_B AEN_E
+لیںگی لیںگی L_B AE_I G_I II_E
+لیے لیے L_B II_I AE_E
+لے لے L_B AE_E
+لےلو لےلو L_B AY_I L_I OO_E
+لےلیں لےلیں L_B AY_I L_I AEN_E
+مؤقف مؤقف M_B UU_I A_I Q_I Q_I A_I F_E
+مئی مئی M_B A_I II_E
+مئے مئے M_B A_I I_I AE_E
+ماؤنٹین ماؤنٹین M_B AA_I UU_I N_I TT_I AE_I N_E
+مائدہ مائدہ M_B AA_I I_I DD_I AA_E
+مائرہ مائرہ M_B AA_I I_I R_I AA_E
+مائزہ مائزہ M_B AA_I I_I Z_I AA_E
+مائلو مائلو M_B AA_I I_I L_I OO_E
+مائنز مائنز M_B AA_I I_I N_I Z_E
+مائنس مائنس M_B AA_I I_I N_I S_E
+مائیکرو مائیکرو M_B AA_I II_I K_I R_I OO_E
+مائے مائے M_B AA_I AY_E
+ماحول ماحول M_B AA_I H_I OO_I L_E
+مادر مادر M_B AA_I DD_I I_I R_E
+مادم مادم M_B AA_I DD_I U_I M_E
+مارا مارا M_B AA_I R_I AA_E
+مارتیں مارتیں M_B AA_I R_I A_I TD_I AYN_E
+مارنے مارنے M_B AA_I R_I N_I AY_E
+ماروں ماروں M_B AA_I R_I OON_E
+مارک مارک M_B AA_I R_I K_E
+ماریہ ماریہ M_B AA_I R_I J_I AA_E
+ماشااللہ ماشااللہ M_B AA_I SH_I AA_I L_I L_I AA_E
+مال مال M_B AA_I L_E
+مام مام M_B AA_I M_E
+ماما ماما M_B AA_I M_I AA_E
+مامو مامو M_B AA_I M_I UU_E
+مانگ مانگ M_B AA_I NG_E
+مانگتے مانگتے M_B AA_I NG_I TD_I AY_E
+ماڈل ماڈل M_B AA_I DD_I A_I L_E
+ماں ماں M_B AAN_E
+ماہم ماہم M_B AA_I H_I A_I M_E
+ماہین ماہین M_B AA_I H_I II_I N_E
+مایا مایا M_B AA_I J_I AA_E
+مایو مایو M_B AA_I J_I UU_E
+مایونیز مایونیز M_B AA_I J_I UU_I N_I II_I Z_E
+مبشر مبشر M_B U_I B_I A_I SH_I SH_I A_I R_E
+مبنٹ مبنٹ M_B A_I B_I N_I TT_E
+مبین مبین M_B U_I B_I AY_I J_I A_I N_E
+مت مت M_B A_I TD_E
+متعلقہ متعلقہ M_B U_I TD_I A_I A_I L_I L_I I_I Q_I AA_E
+متلبن متلبن M_B U_I TD_I A_I L_I B_I A_I N_E
+متین متین M_B U_I TD_I II_I N_E
+مثلا مثلا M_B U_I S_I A_I L_I L_I A_I N_E
+مجال مجال M_B U_I DZZ_I AA_I L_E
+مجتبیٰ مجتبیٰ M_B U_I DZZ_I TD_I A_I B_I II_E
+مجو مجو M_B U_I DZZ_I UU_E
+مجھ مجھ M_B U_I DZZH_E
+مجھے مجھے M_B U_I DZZH_I AE_E
+مجید مجید M_B A_I DZZ_I II_I DD_E
+مجے مجے M_B U_I DZZ_I AE_E
+محافظ محافظ M_B U_I H_I AA_I F_I I_I Z_E
+محسن محسن M_B U_I H_I S_I A_I N_E
+محصول محصول M_B A_I H_I S_I UU_I L_E
+محلّہ محلّہ M_B E_I H_I L_I J_I U_I AA_E
+محمود محمود M_B A_I H_I M_I UU_I DD_E
+محمّد محمّد M_B U_I H_I A_I M_I M_I UU_I V_I DD_E
+محھے محھے M_B E_I H_I AY_E
+محیح محیح M_B A_I H_I II_E
+مخاطب مخاطب M_B U_I X_I AA_I TD_I I_I B_E
+مدیحہ مدیحہ M_B A_I DD_I II_I H_I AA_E
+مدینہ مدینہ M_B A_I DD_I DD_I II_I N_I AA_E
+مرا مرا M_B U_I R_I AA_E
+مراد مراد M_B U_I R_I AA_I DD_E
+مرتبہ مرتبہ M_B A_I R_I TD_I A_I B_I AA_E
+مرتضیٰ مرتضیٰ M_B U_I R_I TD_I A_I Z_I II_E
+مرد مرد M_B U_I R_I DD_E
+مرسیز مرسیز M_B A_I R_I S_I II_I Z_E
+مرضی مرضی M_B A_I R_I Z_I II_E
+مرچی مرچی M_B I_I R_I TSH_I II_E
+مرکز مرکز M_B U_I R_I K_I A_I Z_E
+مری مری M_B A_I R_I II_E
+مریم مریم M_B A_I R_I II_I M_E
+مرینڈا مرینڈا M_B U_I R_I AE_I N_I DD_I AA_E
+مزید مزید M_B A_I Z_I II_I DD_E
+مس مس M_B A_I S_E
+مسئلہ مسئلہ M_B A_I S_I A_I L_I AA_E
+مسترد مسترد M_B U_I S_I TD_I A_I R_I A_I DD_E
+مسجد مسجد M_B A_I S_I DZZ_I I_I DD_E
+مسز مسز M_B I_I S_I I_I Z_E
+مسس مسس M_B U_I S_I A_I S_E
+مسسنگ مسسنگ M_B A_I S_I S_I I_I NG_E
+مسطفیٰ مسطفیٰ M_B U_I S_I TD_I F_I II_E
+مسلے مسلے M_B U_I S_I L_I AY_E
+مسٹر مسٹر M_B I_I S_I TT_I A_I R_E
+مسٹرڈ مسٹرڈ M_B I_I S_I TT_I A_I R_I DD_E
+مسٹیک مسٹیک M_B A_I S_I TT_I II_I K_E
+مشال مشال M_B U_I SH_I AA_I L_E
+مشرق مشرق M_B A_I SH_I R_I I_I Q_E
+مشن مشن M_B A_I SH_I A_I N_E
+مشکل مشکل M_B U_I SH_I K_I A_I L_E
+مشہور مشہور M_B A_I SH_I H_I UU_I R_E
+مشین مشین M_B A_I SH_I II_I N_E
+مصروف مصروف M_B A_I S_I R_I UU_I F_E
+مصطفیٰ مصطفیٰ M_B U_I S_I TD_I A_I F_I II_E
+مطابق مطابق M_B U_I TD_I AA_I B_I I_I Q_E
+مطلب مطلب M_B U_I TD_I L_I A_I B_E
+مظہر مظہر M_B U_I Z_I H_I A_I R_E
+معاملہ معاملہ M_B U_I AA_I M_I A_I L_I AA_E
+معاویہ معاویہ M_B U_I AA_I V_I I_I J_I AA_E
+معذرت معذرت M_B U_I A_I Z_I Z_I A_I R_I A_I TD_E
+معلوم معلوم M_B A_I L_I UU_I M_E
+معلومات معلومات M_B A_I L_I UU_I M_I AA_I TD_E
+معمولی معمولی M_B AA_I M_I UU_I L_I II_E
+معیز معیز M_B A_I II_I Z_E
+مف مف M_B U_I F_E
+مفن مفن M_B U_I F_I A_I N_E
+مفنز مفنز M_B U_I F_I A_I N_I Z_E
+مفین مفین M_B U_I F_I II_I N_E
+مقابلے مقابلے M_B U_I Q_I AA_I B_I L_I AY_E
+مقبول مقبول M_B A_I Q_I B_I UU_I L_E
+مقدّس مقدّس M_B U_I Q_I A_I DD_I DD_I J_I U_I S_E
+مقصد مقصد M_B A_I Q_I S_I A_I DD_E
+مل مل M_B A_I L_E
+ملا ملا M_B I_I L_I AA_E
+ملائکہ ملائکہ M_B U_I L_I AA_I I_I K_I AA_E
+ملازم ملازم M_B U_I L_I AA_I Z_I I_I M_E
+ملازموں ملازموں M_B U_I L_I AA_I Z_I I_I M_I OON_E
+ملاقات ملاقات M_B U_I L_I L_I AA_I Q_I AA_I TD_E
+ملانے ملانے M_B I_I L_I AA_I N_I AY_E
+ملایا ملایا M_B I_I L_I L_I AA_I J_I AA_E
+ملت ملت M_B I_I L_I L_I A_I TD_E
+ملتا ملتا M_B U_I L_I TD_I AA_E
+ملتان ملتان M_B U_I L_I TD_I AA_I N_E
+ملنا ملنا M_B I_I L_I N_I AA_E
+ملنی ملنی M_B I_I L_I N_I II_E
+ملنے ملنے M_B I_I L_I N_I AE_E
+ملٹی ملٹی M_B I_I L_I TT_I II_E
+ملٹیپل ملٹیپل M_B A_I L_I TT_I II_I P_I A_I L_E
+ملٹیپلس ملٹیپلس M_B A_I L_I TT_I II_I P_I A_I L_I A_I S_E
+ملک ملک M_B U_I L_I K_E
+ملی ملی M_B A_I L_I II_E
+ملیر ملیر M_B I_I L_I II_I R_E
+ملینیم ملینیم M_B I_I L_I II_I N_I I_I J_I A_I M_E
+ملیگا ملیگا M_B A_I L_I II_I G_I AA_E
+ملیں ملیں M_B I_I L_I AEN_E
+ملے ملے M_B I_I L_I AE_E
+ممّا ممّا M_B A_I M_I AA_E
+مناہل مناہل M_B A_I N_I AA_I H_I A_I L_E
+منصور منصور M_B A_I N_I S_I UU_I R_E
+منٹ منٹ M_B A_I N_I TT_E
+منٹس منٹس M_B I_I N_I TT_I S_E
+منگ منگ M_B A_I NG_E
+منگائیں منگائیں M_B A_I NG_I G_I AA_I AEN_E
+منگوا منگوا M_B A_I NG_I V_I AA_E
+منگواؤ منگواؤ M_B A_I NG_I V_I AA_I OO_E
+منگواؤں منگواؤں M_B A_I NG_I V_I AA_I OON_E
+منگوائی منگوائی M_B A_I NG_I V_I AA_I II_E
+منگوائیں منگوائیں M_B A_I NG_I V_I AA_I AYN_E
+منگوائے منگوائے M_B A_I NG_I V_I AA_I AY_E
+منگواتی منگواتی M_B A_I NG_I V_I AA_I TD_I II_E
+منگوانا منگوانا M_B A_I NG_I V_I AA_I N_I AA_E
+منگوانی منگوانی M_B A_I NG_I V_I AA_I N_I II_E
+منگوایا منگوایا M_B A_I NG_I V_I AA_I J_I AA_E
+منہ منہ M_B U_I N_I AA_E
+منہاج منہاج M_B U_I N_I H_I AA_I DZZ_E
+منہاس منہاس M_B A_I N_I H_I AA_I S_E
+منی منی M_B A_I N_I II_E
+منیب منیب M_B U_I N_I II_I B_E
+منیجر منیجر M_B A_I N_I AE_I DZZ_I A_I R_E
+منیر منیر M_B U_I N_I II_I R_E
+منیش منیش M_B A_I N_I II_I SH_E
+منیمم منیمم M_B U_I N_I II_I M_I M_E
+مو مو M_B OO_E
+موبائل موبائل M_B OO_I B_I AA_I I_I L_E
+موجود موجود M_B O_I DZZ_I UU_I DD_E
+موحسن موحسن M_B O_I H_I S_I A_I N_E
+مور مور M_B OO_I R_E
+مورننگ مورننگ M_B O_I R_I I_I N_I I_I NG_E
+موسٹ موسٹ M_B OO_I S_I TT_E
+موصول موصول M_B O_I S_I UU_I L_E
+موقع موقع M_B O_I Q_I AA_E
+مولتان مولتان M_B OO_I L_I TD_I AA_I N_E
+مولز مولز M_B OO_I L_I Z_E
+مومن مومن M_B OO_I M_I I_I N_E
+مومنٹ مومنٹ M_B OO_I M_I I_I N_I TT_E
+مومنٹس مومنٹس M_B OO_I M_I I_I N_I TT_I S_E
+مومینہ مومینہ M_B OO_I M_I II_I N_I AA_E
+مونیب مونیب M_B UU_I N_I II_I B_E
+موٹرز موٹرز M_B OO_I TT_I A_I R_I Z_E
+موڈ موڈ M_B UU_I DD_E
+موکہ موکہ M_B OO_I K_I AA_E
+مچ مچ M_B A_I TSH_E
+مچاؤں مچاؤں M_B A_I TSH_I AA_I OON_E
+مچائے مچائے M_B A_I TSH_I AA_I AY_E
+مچھ مچھ M_B A_I TSH_E
+مڈ مڈ M_B U_I DD_E
+مکدونلڈ مکدونلڈ M_B A_I K_I DD_I OO_I N_I L_I DD_E
+مکس مکس M_B I_I K_I S_E
+مکڈونلڈز مکڈونلڈز M_B U_I K_I D_I OO_I N_I L_I D_I Z_E
+مکی مکی M_B U_I K_I K_I II_E
+مگ مگ M_B A_I G_E
+مگر مگر M_B A_I G_I A_I R_E
+مں مں M_S
+مہران مہران M_B OOH_I H_I R_I AA_I N_E
+مہربانی مہربانی M_B E_I H_I E_I R_I B_I AA_I N_I II_E
+مہرنسا مہرنسا M_B OOH_I H_I R_I N_I S_I AA_E
+مہرین مہرین M_B AEH_I H_I R_I II_I N_E
+مہمانوں مہمانوں M_B U_I H_I M_I AA_I N_I OON_E
+مہک مہک M_B AEH_I H_I A_I K_E
+مہیش مہیش M_B A_I H_I II_I SH_E
+می می M_B II_E
+میئر میئر M_B AY_I A_I R_E
+میاں میاں M_B I_I J_I AAN_E
+میدیکوس میدیکوس M_B AY_I DD_I II_I K_I UU_I S_E
+میر میر M_B II_I R_E
+میرا میرا M_B AY_I R_I AA_E
+میری میری M_B II_I R_I II_E
+میرے میرے M_B AE_I R_I AE_E
+میزان میزان M_B II_I Z_I AA_I N_E
+میس میس M_B AE_I S_E
+میسج میسج M_B AY_I S_I I_I DZZ_E
+میعل میعل M_B AE_I AA_I L_E
+میعلز میعلز M_B II_I A_I L_I Z_E
+میل میل M_B II_I L_E
+میلز میلز M_B II_I L_I Z_E
+میلی میلی M_B AE_I L_I II_E
+میم میم M_B II_I M_E
+میمبر میمبر M_B AE_I M_I B_I A_I R_E
+میمن میمن M_B AE_I M_I A_I N_E
+میمون میمون M_B AE_I M_I UU_I N_E
+میمونہ میمونہ M_B AE_I M_I UU_I N_I AA_E
+مینجمنٹ مینجمنٹ M_B AY_I N_I I_I DZZ_I M_I E_I N_I TT_E
+مینز مینز M_B II_I N_I Z_E
+مینشن مینشن M_B AE_I N_I SH_I A_I N_E
+مینٹ مینٹ M_B AE_I N_I TT_E
+مینٹل مینٹل M_B AE_I N_I TT_I A_I L_E
+مینہ مینہ M_B II_I N_I AA_E
+مینی مینی M_B AE_I N_I II_E
+مینیجر مینیجر M_B AE_I N_I AY_I DZZ_I A_I R_E
+مینیو مینیو M_B AE_I N_I II_I OO_E
+مینیوز مینیوز M_B AE_I J_I UU_I Z_E
+میو میو M_B II_I V_E
+میوزک میوزک M_B I_I J_I UU_I Z_I I_I K_E
+میونیز میونیز M_B I_I J_I UU_I N_I II_I Z_E
+میٹر میٹر M_B II_I TT_I A_I R_E
+میڈ میڈ M_B AE_I DD_E
+میڈم میڈم M_B AE_I DD_I A_I M_E
+میڈیم میڈیم M_B AE_I DD_I I_I J_I A_I M_E
+میڈیکل میڈیکل M_B AY_I DD_I II_I K_I A_I L_E
+میک میک M_B AE_I K_E
+میکڈونلڈ میکڈونلڈ M_B AY_I K_I D_I OO_I N_I L_I DD_E
+میکڈونلڈز میکڈونلڈز M_B AY_I K_I D_I OO_I N_I L_I D_I Z_E
+میگا میگا M_B AE_I G_I AA_E
+میں میں M_B AYN_E
+میںشن میںشن M_B AE_I SH_I A_I N_E
+مے مے M_B AY_E
+نئی نئی N_B A_I II_E
+نئیر نئیر N_B A_I J_I A_I R_E
+نئیرسٹ نئیرسٹ N_B A_I J_I A_I R_I S_I A_I TT_E
+نئے نئے N_B A_I AE_E
+نا نا N_B AA_E
+نائلہ نائلہ N_B AA_I I_I L_I AA_E
+نائن نائن N_B AA_I I_I N_E
+نائنٹی نائنٹی N_B AA_I I_I N_I TT_I II_E
+نائنٹین نائنٹین N_B AA_I I_I N_I TT_I II_I N_E
+نائٹ نائٹ N_B AA_I I_I TT_E
+ناجیب ناجیب N_B AA_I DZZ_I II_I B_E
+نادیہ نادیہ N_B AA_I DD_I I_I J_I AA_E
+نارتھ نارتھ N_B AA_I R_I TDH_E
+نارمل نارمل N_B AA_I R_I M_I I_I L_E
+نارملی نارملی N_B AA_I R_I M_I I_I L_I II_E
+نازش نازش N_B AA_I Z_I I_I SH_E
+ناشتہ ناشتہ N_B AA_I SH_I TD_I AA_E
+ناصر ناصر N_B AA_I S_I I_I R_E
+ناظم ناظم N_B AA_I Z_I I_I M_E
+نام نام N_B AA_I M_E
+ناو ناو N_B AA_I V_E
+ناٹ ناٹ N_B AA_I TT_E
+ناکاش ناکاش N_B AA_I K_I AA_I SH_E
+ناینٹی ناینٹی N_B AA_I AY_I N_I TT_I II_E
+نبمر نبمر N_B A_I B_I A_I M_I A_I R_E
+نبیل نبیل N_B A_I B_I II_I L_E
+نتھنگ نتھنگ N_B A_I TDH_I NG_E
+نجیب نجیب N_B A_I DZZ_I II_I B_E
+ندا ندا N_B I_I DD_I AA_E
+نذر نذر N_B U_I Z_I U_I R_E
+نرم نرم N_B A_I R_I M_E
+نزد نزد N_B A_I Z_I DD_E
+نزیب نزیب N_B A_I Z_I II_I B_E
+نسیم نسیم N_B A_I S_I II_I M_E
+نشیمن نشیمن N_B A_I SH_I II_I M_I A_I N_E
+نظر نظر N_B A_I Z_I A_I R_E
+نعمان نعمان N_B AA_I M_I AA_I N_E
+نعیم نعیم N_B A_I II_I M_E
+نقاش نقاش N_B A_I Q_I Q_I AA_I SH_E
+نقصان نقصان N_B U_I Q_I S_I AA_I N_E
+نقلی نقلی N_B A_I Q_I L_I II_E
+نقوی نقوی N_B A_I Q_I V_I II_E
+نمائندہ نمائندہ N_B U_I M_I AA_I I_I N_I DD_I AA_E
+نمائندے نمائندے N_B U_I M_I AA_I I_I N_I DD_I AY_E
+نمبر نمبر N_B A_I M_I B_I A_I R_E
+نمبرز نمبرز N_B A_I M_I B_I A_I R_I Z_E
+نمک نمک N_B A_I M_I A_I K_E
+نو نو N_B OO_E
+نواز نواز N_B A_I V_I AA_I Z_E
+نور نور N_B UU_I R_E
+نورتھ نورتھ N_B O_I R_I TDH_E
+نورمل نورمل N_B O_I R_I M_I I_I L_E
+نوشین نوشین N_B OO_I SH_I II_I N_E
+نون نون N_B UU_I N_E
+نوٹ نوٹ N_B OO_I TT_E
+نوکری نوکری N_B O_I K_I A_I R_I II_E
+نوں نوں N_B OON_E
+نوید نوید N_B A_I V_I II_I DD_E
+نوے نوے N_B A_I V_I V_I AE_E
+نٹ نٹ N_B A_I TT_E
+نکال نکال N_B I_I K_I AA_I L_E
+نکالنا نکالنا N_B I_I K_I AA_I L_I N_I AA_E
+نکالو نکالو N_B I_I K_I AA_I L_I OO_E
+نکالی نکالی N_B I_I K_I AA_I L_I II_E
+نکل نکل N_B I_I K_I A_I L_E
+نکلا نکلا N_B I_I K_I L_I AA_E
+نکلتا نکلتا N_B I_I K_I A_I L_I TD_I AA_E
+نکلنا نکلنا N_B I_I K_I A_I L_I N_I AA_E
+نکلنے نکلنے N_B I_I K_I A_I L_I N_I AY_E
+نکلوا نکلوا N_B I_I K_I A_I L_I V_I AA_E
+نکلوانی نکلوانی N_B I_I K_I A_I L_I V_I AA_I N_I II_E
+نکلے نکلے N_B I_I K_I L_I AY_E
+نگٹس نگٹس NG_B TT_I S_E
+نگیٹ نگیٹ N_B I_I G_I AE_I TT_E
+نگیٹس نگیٹس N_B I_I G_I AE_I TT_I S_E
+نہ نہ N_B AA_E
+نہت نہت N_B I_I H_I A_I TD_E
+نہں نہں N_B UUN_E
+نہی نہی N_B A_I H_I II_E
+نہیں نہیں N_B A_I H_I IIN_E
+نی نی N_B II_E
+نیئرز نیئرز N_B II_I A_I R_I Z_E
+نیئرسٹ نیئرسٹ N_B AY_I A_I R_I I_I S_I TT_E
+نیا نیا N_B I_I J_I AA_E
+نیبر نیبر N_B AE_I B_I A_I R_E
+نیز نیز N_B II_I Z_E
+نیسلے نیسلے N_B AY_I S_I L_I AY_E
+نیم نیم N_B II_I M_E
+نیو نیو N_B II_I V_E
+نیور نیور N_B AY_I V_I A_I R_E
+نیوز نیوز N_B I_I J_I UU_I Z_E
+نیٹ نیٹ N_B AE_I TT_E
+نیچے نیچے N_B II_I TSH_I AE_E
+نیڈ نیڈ N_B II_I DD_E
+نیکسٹ نیکسٹ N_B AE_I K_I S_I TT_E
+نیہں نیہں N_B II_I H_E
+نے نے N_B AY_E
+هو هو V_S
+هوں هوں OON_S
+و و V_S
+وا وا V_B AA_E
+واؤ واؤ V_B AA_I OO_E
+واؤں واؤں V_B AA_I OON_E
+وائز وائز V_B AA_I I_I Z_E
+وائس وائس V_B AA_I I_I S_E
+وائٹ وائٹ V_B AA_I I_I TT_E
+وائڈ وائڈ V_B AA_I I_I DD_E
+وائیڈ وائیڈ V_B AA_I II_I DD_E
+وائیں وائیں V_B AA_I AYN_E
+وائیے وائیے V_B AA_I I_I J_I AY_E
+وائے وائے V_B AA_I AY_E
+وادیں وادیں V_B AA_I DD_I AYN_E
+وارورڈ وارورڈ V_B AA_I R_I V_I A_I R_I DD_E
+وارہی وارہی V_B AA_I R_I H_I II_E
+واز واز V_B AA_I Z_E
+واسے واسے V_B AA_I S_I AY_E
+واقع واقع V_B AA_I Q_I AE_E
+والا والا V_B AA_I L_I AA_E
+والوں والوں V_B AA_I L_I OON_E
+والہ والہ V_B AA_I L_I AA_E
+والی والی V_B AA_I L_I II_E
+والے والے V_B AA_I L_I AY_E
+وانٹ وانٹ V_B AA_I N_I TT_E
+وانے وانے V_B AA_I N_I AY_E
+واِسع واِسع V_B AA_I I_I S_I AY_E
+واِسے واِسے V_B AA_I I_I S_I AE_E
+واٹ واٹ V_B AA_I TT_E
+واٹر واٹر V_B AA_I TT_I A_I R_E
+واٹس واٹس V_B AA_I TT_I S_E
+واپس واپس V_B AA_I P_I S_E
+واپسی واپسی V_B AA_I P_I S_I II_E
+واپڈا واپڈا V_B AA_I P_I DD_I AA_E
+واک واک V_B AA_I K_E
+واکنگ واکنگ V_B AA_I K_I I_I NG_E
+واہ واہ V_B AA_E
+وایا وایا V_B AA_I J_I AA_E
+وایں وایں V_B AA_I AYN_E
+وایۓ وایۓ V_B AA_I II_E
+واے واے V_B AA_I AY_E
+وجہ وجہ V_B A_I DZZ_I AA_E
+وحید وحید V_B A_I H_I II_I DD_E
+ودھ ودھ V_B DDH_E
+ودھن ودھن V_B A_I DDH_I A_I N_E
+ودھنوں ودھنوں V_B A_I DDH_I A_I N_I OON_E
+ودھھ ودھھ V_B A_I DDH_E
+ور ور V_B A_I R_E
+ورانچ ورانچ V_B A_I R_I AA_I N_I TSH_E
+وردہ وردہ V_B A_I R_I DD_I AA_E
+ورلڈ ورلڈ V_B A_I R_I DD_E
+ورنہ ورنہ V_B A_I R_I N_I AA_E
+ورٹھ ورٹھ V_B A_I R_I TTH_E
+ورک ورک V_B A_I R_I K_E
+ورکنگ ورکنگ V_B A_I R_I K_I I_I NG_E
+وری وری V_B A_I R_I II_E
+وریو وریو V_B A_I R_I J_I UU_E
+وزٹ وزٹ V_B A_I Z_I A_I TT_E
+وسیم وسیم V_B A_I S_I II_I M_E
+وعلیکم وعلیکم V_B Y_I L_I AY_I K_I M_E
+وغیرہ وغیرہ V_B A_I 7_I AY_I R_I AA_E
+وقت وقت V_B A_I Q_I TD_E
+ول ول V_B A_I L_E
+ولا ولا V_B A_I L_I AA_E
+ولی ولی V_B A_I L_I II_E
+ولیج ولیج V_B I_I L_I II_I DZZ_E
+ولید ولید V_B A_I L_I II_I DD_E
+ومن ومن V_B A_I M_I A_I N_E
+ون ون V_B A_I N_E
+ونگ ونگ V_B I_I NG_E
+ونگز ونگز V_B I_I NG_I Z_E
+ونیلا ونیلا V_B A_I N_I II_I L_I AA_E
+وو وو V_B OO_E
+ووالا ووالا OO_B V_I AA_I L_I AA_E
+ووج ووج V_B OO_I DZZ_E
+وومن وومن V_B UU_I M_I OO_I E_I N_E
+وومین وومین V_B OO_I M_I II_I N_E
+ووٹ ووٹ V_B OO_I TT_E
+ووٹس ووٹس V_B OO_I TT_I S_E
+ووڈ ووڈ V_B UU_I DD_E
+وُڈ وُڈ V_B A_I U_I DD_E
+وٹس وٹس V_B I_I TT_I S_E
+وچ وچ V_B I_I TSH_E
+وکی وکی V_B A_I K_I II_E
+وں وں OON_S
+وہ وہ V_B AA_E
+وہاں وہاں V_B A_I H_I AAN_E
+وہٹ وہٹ V_B A_I H_I TT_E
+وہی وہی V_B A_I H_I II_E
+وہیں وہیں V_B A_I H_I AYN_E
+ویئر ویئر V_B AE_I A_I R_E
+ویب ویب V_B AY_I B_E
+ویجٹیبلز ویجٹیبلز V_B AE_I DZZ_I TT_I AY_I B_I A_I L_I Z_E
+ویجی ویجی V_B AY_I DZZ_I II_E
+ویجیٹیبل ویجیٹیبل V_B AY_I DZZ_I II_I TT_I AY_I B_I A_I L_E
+ویری ویری V_B AE_I R_I II_E
+ویریفائی ویریفائی V_B AE_I R_I II_I F_I AA_I II_E
+ویریفائے ویریفائے V_B AE_I R_I II_I F_I AA_I AY_E
+ویریفیکیشن ویریفیکیشن V_B AE_I R_I II_I F_I II_I K_I AY_I SH_I A_I N_E
+ویسا ویسا V_B AE_I S_I AA_E
+ویسٹ ویسٹ V_B AE_I S_I TT_E
+ویسے ویسے V_B AY_I S_I AE_E
+ویل ویل V_B AE_I L_E
+ویلا ویلا V_B AE_I L_I AA_E
+ویلاز ویلاز V_B AE_I L_I AA_I Z_E
+ویلفئیر ویلفئیر V_B E_I L_I F_I AE_I II_I R_E
+ویلو ویلو V_B AE_I L_I OO_E
+ویلڈ ویلڈ V_B AE_I L_I DD_E
+ویلکم ویلکم V_B AE_I L_I K_I A_I M_E
+ویلی ویلی V_B AE_I L_I II_E
+ویلیو ویلیو V_B AY_I L_I J_I UU_E
+ویلیود ویلیود V_B AY_I L_I J_I UU_I DD_E
+ویلیوڈ ویلیوڈ V_B AY_I L_I J_I UU_I DD_E
+ویلیڈ ویلیڈ V_B AE_I L_I II_I DD_E
+وین وین V_B AE_I N_E
+ویو ویو V_B AE_I V_E
+ویوس ویوس V_B AE_I V_I I_I S_E
+ویٹ ویٹ V_B AE_I TT_E
+ویٹنگ ویٹنگ V_B AE_I TT_I I_I NG_E
+ویں ویں V_B AYN_E
+وے وے V_B AE_E
+ٹاؤن ٹاؤن TT_B AA_I UU_I N_E
+ٹائم ٹائم TT_B AA_I I_I M_E
+ٹائمز ٹائمز TT_B AA_I I_I M_I Z_E
+ٹائمنگ ٹائمنگ TT_B AA_I I_I M_I I_I NG_E
+ٹائمنگز ٹائمنگز TT_B AA_I I_I M_I I_I NG_I Z_E
+ٹال ٹال TT_B AA_I L_E
+ٹاور ٹاور TT_B AA_I V_I A_I R_E
+ٹاٹا ٹاٹا TT_B AA_I TT_I AA_E
+ٹاپنگ ٹاپنگ TT_B AA_I P_I NG_E
+ٹاک ٹاک TT_B AA_I K_E
+ٹاکنگ ٹاکنگ TT_B AA_I K_I I_I NG_E
+ٹرائی ٹرائی TT_B A_I R_I AA_I II_E
+ٹرائے ٹرائے TT_B A_I R_I AA_I AY_E
+ٹرانسفر ٹرانسفر TT_B A_I R_I AA_I N_I S_I F_I A_I R_E
+ٹرسٹ ٹرسٹ TT_B A_I R_I A_I S_I TT_E
+ٹرمز ٹرمز TT_B A_I R_I A_I M_I Z_E
+ٹرن ٹرن TT_B A_I R_I A_I N_E
+ٹرپ ٹرپ TT_B I_I R_I I_I P_E
+ٹرپل ٹرپل TT_B A_I R_I P_I I_I L_E
+ٹرین ٹرین TT_B A_I R_I AE_I N_E
+ٹریپل ٹریپل TT_B A_I R_I AE_I P_I A_I L_E
+ٹریڈ ٹریڈ TT_B A_I R_I AE_I DD_E
+ٹریڈنگ ٹریڈنگ TT_B A_I R_I AE_I DD_I I_I NG_E
+ٹریک ٹریک TT_B A_I R_I AE_I K_E
+ٹرے ٹرے TT_B A_I R_I R_I AY_E
+ٹماٹو ٹماٹو TT_B I_I M_I AA_I TT_I OO_E
+ٹو ٹو TT_B OO_E
+ٹوائز ٹوائز T_B V_I AA_I A_I Z_E
+ٹوائس ٹوائس TT_B U_I V_I AA_I I_I S_E
+ٹوائے ٹوائے TT_B U_I V_I AA_I I_I AE_E
+ٹواے ٹواے TT_B U_I V_I AA_I AY_E
+ٹوماٹو ٹوماٹو TT_B OO_I M_I AA_I TT_I OO_E
+ٹومیٹوز ٹومیٹوز TT_B OO_I M_I AY_I TT_I OO_I Z_E
+ٹونٹی ٹونٹی TT_B OO_I N_I TT_I II_E
+ٹوویل ٹوویل TT_B OO_I V_I II_I L_E
+ٹوویلو ٹوویلو TT_B OO_I V_I AE_I L_I OO_E
+ٹووینٹی ٹووینٹی TT_B OO_I V_I AE_I N_I TT_I II_E
+ٹوٹ ٹوٹ TT_B UU_I TT_E
+ٹوٹل ٹوٹل TT_B OO_I TT_I A_I L_E
+ٹوٹلی ٹوٹلی TT_B OO_I TT_I L_I II_E
+ٹوٹوریل ٹوٹوریل TT_B OO_I TT_I OO_I R_I II_I L_E
+ٹوپ ٹوپ TT_B OO_I P_E
+ٹوپنگ ٹوپنگ TT_B OO_I P_I I_I NG_E
+ٹویلو ٹویلو TT_B U_I V_I AE_I L_I OO_E
+ٹویلوے ٹویلوے TT_B U_I V_I AE_I L_I V_I AY_E
+ٹوین ٹوین TT_B U_I V_I AE_I N_E
+ٹوینٹی ٹوینٹی TT_B U_I V_I AE_I N_I TT_I II_E
+ٹِیسٹ ٹِیسٹ TT_B I_I E_I S_I TT_E
+ٹپ ٹپ TT_B I_I P_E
+ٹکی ٹکی TT_B A_I K_I II_E
+ٹھائے ٹھائے TTH_B AA_I AY_E
+ٹھنڈا ٹھنڈا TTH_B A_I N_I DD_I AA_E
+ٹھنڈی ٹھنڈی TTH_B A_I N_I DD_I II_E
+ٹھنڈے ٹھنڈے TTH_B A_I N_I DD_I AY_E
+ٹھہر ٹھہر TTH_B A_I H_I A_I R_E
+ٹھہرو ٹھہرو TTH_B E_I H_I R_I OO_E
+ٹھیک ٹھیک TTH_B AY_I K_E
+ٹی ٹی TT_B II_E
+ٹیبل ٹیبل TT_B AY_I B_I A_I L_E
+ٹیسٹ ٹیسٹ TT_B AE_I S_I TT_E
+ٹیشو ٹیشو TT_B AE_I SH_I UU_E
+ٹیل ٹیل TT_B AY_I L_E
+ٹیلنگ ٹیلنگ یو_B T_I J_I L_I N_I G_I J_I OO_E
+ٹیم ٹیم TT_B II_I M_E
+ٹین ٹین TT_B II_I N_E
+ٹینٹ ٹینٹ TT_B AE_I N_I TT_E
+ٹیٹرا ٹیٹرا TT_B AE_I TT_I R_I AA_E
+ٹیٹوریل ٹیٹوریل TT_B AY_I TT_I OO_I R_I I_I J_I A_I L_E
+ٹیک ٹیک TT_B AE_I K_E
+ٹیکر ٹیکر TT_B AE_I K_I A_I R_E
+ٹیکرس ٹیکرس TT_B AE_I K_I A_I R_I A_I S_E
+ٹیکس ٹیکس TT_B AE_I K_I S_E
+ٹیکنگ ٹیکنگ TT_B AE_I K_I I_I NG_E
+ٹیکنیکل ٹیکنیکل TT_B AE_I K_I N_I II_I K_I A_I L_E
+پ پ P_S
+پآ پآ P_B A_I AA_E
+پاؤنڈ پاؤنڈ P_B AA_I UU_I N_I DD_E
+پاؤنڈر پاؤنڈر P_B AA_I UU_I N_I DD_I R_E
+پائز پائز P_B AA_I I_I Z_E
+پائی پائی P_B AA_I II_E
+پائے پائے P_B AA_I AY_E
+پار پار P_B AA_I R_E
+پارلر پارلر P_B AA_I R_I L_I A_I R_E
+پارٹ پارٹ P_B AA_I R_I TT_E
+پارٹنر پارٹنر P_B AA_I R_I TT_I N_I A_I R_E
+پارک پارک P_B AA_I R_I K_E
+پاس پاس P_B AA_I S_E
+پانچ پانچ P_B AA_I N_I TSH_E
+پانچوں پانچوں P_B AA_I N_I TSH_I OON_E
+پانچوی پانچوی P_B AA_I N_I TSH_I V_I II_E
+پانڈا پانڈا P_B AA_I N_I DD_I AA_E
+پانڈہ پانڈہ P_B AA_I N_I DD_I AA_E
+پانی پانی P_B AA_I N_I II_E
+پاور پاور P_B AA_I V_I A_I R_E
+پاِس پاِس P_B AA_I I_I S_E
+پاکستان پاکستان P_B AA_I K_I I_I S_I TD_I AA_I N_E
+پاگل پاگل P_B AA_I G_I A_I L_E
+پایا پایا P_B AA_I J_I AA_E
+پاے پاے P_B AA_I AY_E
+پبلک پبلک P_B A_I B_I L_I I_I K_E
+پتا پتا P_B A_I TD_I TD_I AA_E
+پتھر پتھر P_B A_I TDH_I TDH_I A_I R_E
+پتہ پتہ P_B A_I TD_I TD_I AA_E
+پحنچ پحنچ P_B A_I H_I N_I TSH_E
+پر پر P_B A_I R_E
+پرائزوں پرائزوں P_B A_I R_I AA_I I_I Z_I OON_E
+پرائس پرائس P_B A_I R_I AA_I I_I S_E
+پرائسز پرائسز P_B A_I R_I AA_I I_I S_I I_I Z_E
+پرائم پرائم P_B A_I R_I AA_I I_I M_E
+پرابلم پرابلم P_B A_I R_I AA_I B_I L_I A_I M_E
+پرانا پرانا P_B A_I R_I AA_I N_I AA_E
+پرانی پرانی P_B A_I R_I AA_I N_I II_E
+پرانے پرانے P_B A_I R_I AA_I N_I AY_E
+پراٹھے پراٹھے P_B A_I R_I AA_I TTH_I AE_E
+پراڈکٹ پراڈکٹ P_B A_I R_I AA_I DD_I I_I K_I TT_E
+پراک پراک P_B A_I R_I AA_I K_E
+پرسن پرسن P_B U_I R_I S_I A_I N_E
+پرسنالی پرسنالی P_B A_I R_I S_I N_I AA_I L_I II_E
+پرسنز پرسنز P_B U_I R_I S_I A_I N_I Z_E
+پرسنل پرسنل P_B U_I R_I S_I I_I N_I A_I L_E
+پرسنلی پرسنلی P_B U_I R_I S_I I_I N_I A_I L_I II_E
+پرسنڈ پرسنڈ P_B U_I R_I S_I A_I N_I DD_E
+پرسو پرسو P_B U_I R_I S_I OO_E
+پرسوں پرسوں P_B U_I R_I S_I OON_E
+پرسیو پرسیو P_B A_I R_I S_I II_I OO_E
+پرل پرل P_B A_I R_I A_I L_E
+پرموشن پرموشن P_B A_I R_I M_I OO_I SH_I A_I N_E
+پرمیشن پرمیشن P_B I_I R_I M_I AY_I SH_I A_I N_E
+پرنی پرنی P_B A_I R_I N_I II_E
+پرو پرو P_B A_I R_I OO_E
+پروائیڈ پروائیڈ P_B A_I R_I V_I AA_I II_I DD_E
+پروان پروان P_B A_I R_I V_I AA_I N_E
+پرواہ پرواہ P_B A_I R_I V_I AA_E
+پروبلم پروبلم P_B U_I R_I OO_I B_I A_I L_I M_E
+پروبلیم پروبلیم P_B U_I R_I OO_I B_I A_I L_I II_I M_E
+پروسیس پروسیس P_B U_I R_I OO_I S_I AY_I S_E
+پروسیسنگ پروسیسنگ P_B A_I R_I OO_I S_I AY_I S_I I_I NG_E
+پروف پروف P_B U_I R_I UU_I F_E
+پروموشن پروموشن P_B A_I R_I OO_I M_I OO_I SH_I A_I N_E
+پروموشنز پروموشنز P_B A_I R_I OO_I M_I OO_I SH_I A_I N_I Z_E
+پرووایڈ پرووایڈ P_B U_I R_I UU_I V_I AE_I DD_E
+پروٹوکول پروٹوکول P_B A_I R_I OO_I TT_I OO_I K_I OO_I L_E
+پروپر پروپر P_B A_I R_I OO_I P_I A_I R_E
+پروڈکٹ پروڈکٹ P_B A_I R_I OO_I DD_I I_I K_I TT_E
+پرہوگی پرہوگی P_B A_I R_I H_I OO_I G_I II_E
+پری پری P_B A_I R_I II_E
+پریشان پریشان P_B A_I R_I AY_I SH_I AA_I N_E
+پریشانی پریشانی P_B A_I R_I AY_I SH_I AA_I N_I II_E
+پریویس پریویس P_B A_I R_I AY_I V_I AE_I S_E
+پریویسلی پریویسلی P_B A_I R_I AY_I V_I AY_I S_I L_I II_E
+پریٹیو پریٹیو P_B A_I R_I AY_I TT_I II_I V_E
+پس پس P_B I_I S_E
+پسند پسند P_B A_I S_I A_I N_I DD_E
+پسندیدہ پسندیدہ P_B A_I S_I A_I N_I DD_I II_I DD_I AA_E
+پشاور پشاور P_B U_I SH_I AA_I V_I A_I R_E
+پل پل P_B A_I L_E
+پلازا پلازا P_B A_I L_I AA_I Z_I AA_E
+پلاٹ پلاٹ P_B A_I L_I AA_I TT_E
+پلز پلز P_B A_I L_I Z_E
+پلس پلس P_B A_I L_I A_I S_E
+پلن پلن P_B A_I L_I A_I N_E
+پلوشہ پلوشہ P_B A_I L_I OO_I SH_I AA_E
+پلیز پلیز P_B L_I II_I Z_E
+پلیس پلیس P_B A_I L_I AE_I S_E
+پلیسڈ پلیسڈ P_B A_I L_I AY_I S_I DD_E
+پلین پلین P_B A_I L_I II_I N_E
+پن پن P_B A_I N_E
+پنتالیس پنتالیس P_B I_I N_I TD_I AA_I L_I II_I S_E
+پنجاب پنجاب P_B A_I N_I DZZ_I AA_I B_E
+پندرھوی پندرھوی P_B A_I N_I DD_I A_I R_I V_I II_E
+پندرہ پندرہ P_B A_I N_I DD_I A_I R_I AA_E
+پندہ پندہ P_B A_I N_I DD_I AA_E
+پنچ پنچ P_B A_I N_I TSH_E
+پنک پنک P_B I_I N_I K_E
+پوئن پوئن P_B UU_I I_I N_E
+پوائنٹ پوائنٹ P_B U_I V_I AA_I I_I N_I TT_E
+پوائنٹس پوائنٹس P_B U_I V_I AA_I I_I N_I TT_I S_E
+پورا پورا P_B UU_I R_I AA_E
+پورشن پورشن P_B OO_I R_I SH_I A_I N_E
+پورشنز پورشنز P_B OO_I R_I SH_I A_I N_I Z_E
+پورٹ پورٹ P_B OO_I R_I TT_E
+پوری پوری P_B UU_I R_I II_E
+پورے پورے P_B UU_I R_I AE_E
+پوزیشن پوزیشن P_B OO_I Z_I II_I SH_I A_I N_E
+پوسٹ پوسٹ P_B OO_I S_I TT_E
+پوسیبل پوسیبل P_B OO_I S_I II_I B_I L_E
+پوسیبلیٹی پوسیبلیٹی P_B OO_I S_I II_I B_I L_I II_I TT_I II_E
+پولسی پولسی P_B OO_I L_I S_I II_E
+پولیس پولیس P_B OO_I L_I II_I S_E
+پولیسیسز پولیسیسز P_B OO_I L_I II_I S_I AE_I S_I I_I Z_E
+پونا پونا P_B OO_I N_I AA_E
+پونے پونے P_B O_I N_I AE_E
+پوٹ پوٹ P_B OO_I TT_E
+پوٹلے پوٹلے P_B OO_I TT_I L_I AY_E
+پوٹیٹو پوٹیٹو P_B OO_I TT_I AE_I TT_I I_I V_E
+پوچھ پوچھ P_B UU_I TSHH_E
+پوچھا پوچھا P_B UU_I TSHH_I AA_E
+پوچھتا پوچھتا P_B UU_I TSH_I TD_I AA_E
+پوچھتے پوچھتے P_B UU_I TSH_I TD_I AY_E
+پوچھنا پوچھنا P_B UU_I TSH_I N_I AA_E
+پوچھنے پوچھنے P_B UU_I TSHH_I N_I AE_E
+پوچھو پوچھو P_B UU_I TSHH_I OO_E
+پوچھی پوچھی P_B UU_I TSHH_I II_E
+پوچھیں پوچھیں P_B UU_I TSHH_I AEN_E
+پوچھے پوچھے P_B UU_I TSHH_I AE_E
+پِگلی پِگلی P_B A_I I_I G_I L_I II_E
+پٹ پٹ P_B A_I TT_E
+پپلیس پپلیس P_B A_I P_I L_I II_I S_E
+پپپر پپپر P_B A_I P_I P_I A_I R_E
+پچاس پچاس P_B A_I TSH_I AA_I S_E
+پچپن پچپن P_B A_I TSH_I P_I A_I N_E
+پچھلی پچھلی P_B I_I TSHH_I L_I II_E
+پچھلے پچھلے P_B I_I TSHH_I L_I AE_E
+پچیانوے پچیانوے P_B A_I TSH_I I_I J_I AA_I N_I V_I AY_E
+پچیس پچیس P_B A_I TSH_I TSH_I II_I S_E
+پڑا پڑا P_B A_I RR_I AA_E
+پڑتا پڑتا P_B A_I RR_I TD_I AA_E
+پڑتی پڑتی P_B A_I RR_I TD_I II_E
+پڑھ پڑھ P_B A_I RRH_E
+پڑھا پڑھا P_B A_I RRH_I AA_E
+پڑھی پڑھی P_B A_I RRH_I II_E
+پڑھے پڑھے P_B A_I RRH_I AE_E
+پڑیاں پڑیاں P_B A_I RR_I I_I J_I AAN_E
+پڑیگا پڑیگا P_B A_I RR_I II_I G_I AA_E
+پڑے پڑے P_B A_I RR_I AE_E
+پک پک P_B A_I K_E
+پکل پکل P_B A_I K_I A_I L_E
+پکلز پکلز P_B A_I K_I A_I L_I Z_E
+پکڑ پکڑ P_B A_I K_I A_I RR_E
+پکڑا پکڑا P_B A_I K_I RR_I AA_E
+پکڑانا پکڑانا P_B A_I K_I RR_I AA_I N_I AA_E
+پکڑایا پکڑایا P_B A_I K_I RR_I AA_I J_I AA_E
+پکڑنا پکڑنا P_B A_I K_I A_I RR_I N_I AA_E
+پھدو پھدو PH_B A_I DD_I DD_I UU_E
+پھر پھر PH_B I_I R_E
+پھروں پھروں PH_B I_I R_I OON_E
+پھسا پھسا PH_B U_I S_I AA_E
+پھوڑ پھوڑ PH_B UU_I RR_E
+پھینک پھینک PH_B AEN_I K_E
+پہ پہ P_B A_I H_E
+پہلا پہلا P_B E_I H_I L_I AA_E
+پہلی پہلی P_B E_I H_I L_I II_E
+پہلے پہلے P_B E_I H_I L_I AE_E
+پہنچ پہنچ P_B A_I H_I U_I N_I TSH_E
+پہنچا پہنچا P_B A_I H_I U_I N_I TSH_I AA_E
+پہنچائےیں پہنچائےیں P_B A_I H_I N_I TSH_I AA_I AY_I AYN_E
+پہنچی پہنچی P_B AEH_I H_I N_I TSH_I II_E
+پہنچے پہنچے P_B A_I H_I A_I N_I TSH_I AY_E
+پی پی P_B II_E
+پیئے پیئے P_B II_I AY_E
+پیایبل پیایبل P_B AY_I AE_I B_I A_I L_E
+پیبل پیبل P_B AY_I B_I A_I L_E
+پیتی پیتی P_B II_I TD_I II_E
+پیتے پیتے P_B II_I TD_I AY_E
+پیج پیج P_B AY_I DZZ_E
+پیراگون پیراگون P_B AE_I R_I AA_I G_I OO_I N_E
+پیز پیز P_B II_I Z_E
+پیزا پیزا P_B AY_I Z_I AA_E
+پیزے پیزے P_B AE_I Z_I AE_E
+پیس پیس P_B AY_I S_E
+پیسز پیسز P_B AE_I S_I I_I Z_E
+پیسے پیسے P_B AY_I S_I AE_E
+پیلس پیلس P_B AE_I L_I A_I S_E
+پیمانہ پیمانہ P_B AE_I M_I AA_I N_I AA_E
+پیمننے پیمننے P_B AY_I M_I N_I N_I AY_E
+پیمنٹ پیمنٹ P_B AY_I M_I N_I T_E
+پین پین P_B II_I N_E
+پینتالیس پینتالیس P_B AEN_I TD_I AA_I L_I II_I S_E
+پینتیس پینتیس P_B AEN_I TD_I II_I S_E
+پینسٹ پینسٹ P_B AE_I N_I S_I TT_E
+پیوپل پیوپل P_B AE_I OO_I P_I A_I L_E
+پیوپلز پیوپلز P_B AE_I OO_I P_I A_I L_I Z_E
+پیوں پیوں P_B II_I OON_E
+پیٹی پیٹی P_B II_I TT_I II_E
+پیٹیز پیٹیز P_B AE_I TT_I II_I Z_E
+پیٹیوں پیٹیوں P_B II_I TT_I II_I OON_E
+پیپر پیپر P_B II_I P_I A_I R_E
+پیپسی پیپسی P_B AY_I P_I S_I II_E
+پیپل پیپل P_B AE_I P_I A_I L_E
+پیچھلی پیچھلی P_B II_I TSHH_I L_I II_E
+پیچھلے پیچھلے P_B II_I TSHH_I L_I AE_E
+پیچھے پیچھے P_B II_I TSHH_I AE_E
+پیک پیک P_B AE_I K_E
+پیکنگ پیکنگ P_B AE_I K_I I_I NG_E
+پیکٹ پیکٹ P_B AE_I K_I TT_E
+پے پے P_B AY_E
+پےایبل پےایبل P_B A_I AY_I AY_I B_I A_I L_E
+پےبرانچ پےبرانچ P_B A_I AY_I B_I A_I R_I AA_I N_I TSH_E
+چآ چآ TSH_B AA_E
+چا چا TSH_B AA_E
+چائے چائے TSH_B AA_I AE_E
+چار چار TSH_B AA_I R_E
+چارج چارج TSH_B AA_I R_I DZZ_E
+چارجز چارجز TSH_B AA_I R_I DZZ_I I_I Z_E
+چاروں چاروں TSH_B AA_I R_I OON_E
+چاشتی چاشتی TSH_B AA_I SH_I TD_I II_E
+چال چال TSH_B AA_I L_E
+چالیس چالیس TSH_B AA_I L_I II_I S_E
+چالیں چالیں TSH_B AA_I L_I AYN_E
+چاپ چاپ TSH_B AA_I P_E
+چاکلیٹ چاکلیٹ TSH_B AA_I K_I L_I AY_I TT_E
+چاکن چاکن TSH_B AA_I K_I A_I N_E
+چاھینگی چاھینگی TSH_B AA_I II_I NG_I G_I II_E
+چاھیںگی چاھیںگی TSH_B AA_I AYN_I G_I II_E
+چاہ چاہ TSH_B AA_E
+چاہئیے چاہئیے TSH_B AA_I H_I I_I J_I AY_E
+چاہئے چاہئے TSH_B AA_I H_I II_I AE_E
+چاہتا چاہتا TSH_B AA_I H_I TD_I AA_E
+چاہتی چاہتی TSH_B AA_I H_I TD_I II_E
+چاہتیں چاہتیں TSH_B AA_I H_I A_I TD_I AYN_E
+چاہتے چاہتے TSH_B AA_I H_I TD_I AE_E
+چاہونگا چاہونگا TSH_B AA_I H_I OO_I NG_I G_I AA_E
+چاہوں چاہوں TSH_B AA_I H_I OON_E
+چاہیئں چاہیئں TSH_B AA_I H_I II_E
+چاہیں چاہیں TSH_B AA_I H_I AYN_E
+چاہیںگے چاہیںگے TSH_B AA_I H_I IIN_I G_I AE_E
+چاہیے چاہیے TSH_B AA_I H_I I_I J_I AE_E
+چاہیۓ چاہیۓ TSH_B AA_I H_I II_E
+چاہے چاہے TSH_B AA_I H_I AY_E
+چدائی چدائی TSH_B A_I DD_I AA_I II_E
+چرچ چرچ TSH_B A_I R_I TSH_E
+چل چل TSH_B A_I L_E
+چلا چلا TSH_B A_I L_I L_I AA_E
+چلتا چلتا TSH_B A_I L_I TD_I AA_E
+چلو چلو TSH_B A_I L_I OO_E
+چلی چلی TSH_B A_I L_I L_I II_E
+چلیں چلیں TSH_B A_I L_I AEN_E
+چلے چلے TSH_B A_I L_I AE_E
+چند چند TSH_B A_I N_I DD_E
+چوائس چوائس TSH_B U_I V_I AA_I I_I S_E
+چوبیس چوبیس TSH_B O_I B_I II_I S_E
+چوتھا چوتھا TSH_B O_I TDH_I AA_E
+چوتھی چوتھی TSH_B OO_I TDH_I II_E
+چود چود TSH_B UU_I DD_E
+چودائی چودائی TSH_B O_I DD_I AA_I II_E
+چودو چودو TSH_B O_I DD_I OO_E
+چودوں چودوں TSH_B O_I DD_I OON_E
+چودھری چودھری TSH_B O_I DDH_I R_I II_E
+چول چول TSH_B O_I L_E
+چولہوں چولہوں TSH_B UU_I L_I H_I OON_E
+چوڑا چوڑا TSH_B O_I RR_I AA_E
+چوک چوک TSH_B O_I K_E
+چوکا چوکا TSH_B UU_I K_I AA_E
+چوکلیٹ چوکلیٹ TSH_B O_I K_I L_I AY_I TT_E
+چوکلیٹس چوکلیٹس TSH_B O_I K_I L_I AY_I TT_I S_E
+چوکو چوکو TSH_B O_I K_I OO_E
+چوہدری چوہدری TSH_B O_I H_I DD_I R_I II_E
+چپ چپ TSH_B A_I P_E
+چپس چپس TSH_B A_I P_I S_E
+چپلی چپلی TSH_B A_I P_I L_I II_E
+چپوٹلے چپوٹلے TSH_B A_I P_I OO_I TT_I L_I AY_E
+چک چک TSH_B A_I K_E
+چکا چکا TSH_B U_I K_I AA_E
+چکر چکر TSH_B A_I K_I K_I A_I R_E
+چکروں چکروں TSH_B A_I K_I R_I OON_E
+چکن چکن TSH_B I_I K_I K_I A_I N_E
+چکی چکی TSH_B A_I K_I II_E
+چکے چکے TSH_B A_I K_I AY_E
+چھا چھا TSHH_B AA_E
+چھبیس چھبیس TSHH_B A_I B_I B_I II_I S_E
+چھت چھت TSH_B A_I TD_E
+چھوٹ چھوٹ TSH_B UU_I TT_E
+چھوٹا چھوٹا TSH_B UU_I TT_I AA_E
+چھوٹی چھوٹی TSH_B UU_I TT_I II_E
+چھوٹے چھوٹے TSHH_B OO_I TT_I AE_E
+چھوڑ چھوڑ TSH_B OO_I RR_E
+چھڑک چھڑک TSHH_B I_I RR_I A_I K_E
+چھی چھی TSHH_B II_E
+چھے چھے TSHH_B AE_E
+چیج چیج TSH_B AE_I DZZ_E
+چیز چیز TSH_B II_I Z_E
+چیزوں چیزوں TSH_B II_I Z_I OON_E
+چیزی چیزی TSH_B II_I Z_I II_E
+چیزیں چیزیں TSH_B II_I Z_I AEN_E
+چیزے چیزے TSH_B II_I Z_I AE_E
+چیس چیس TSH_B AE_I S_E
+چیسٹ چیسٹ TSH_B E_I S_I TT_E
+چیسی چیسی TSH_B AE_I S_I II_E
+چین چین TSH_B II_I N_E
+چینج چینج TSH_B AE_I N_I DZZ_E
+چیپوٹلے چیپوٹلے TSH_B AE_I P_I OO_I TT_I L_I AY_E
+چیک چیک TSH_B E_I K_E
+چے چے TSH_B AE_E
+ڈاؤن ڈاؤن DD_B AA_I UU_I N_E
+ڈائریکٹ ڈائریکٹ DD_B AA_I I_I R_I AE_I K_I TT_E
+ڈائریکٹلی ڈائریکٹلی DD_B AA_I I_I R_I AE_I K_I TT_I L_I II_E
+ڈائل ڈائل DD_B AA_I I_I L_E
+ڈائن ڈائن DD_B AA_I I_I N_E
+ڈائننگ ڈائننگ DD_B AA_I I_I N_I NG_E
+ڈائیٹ ڈائیٹ DD_B AA_I II_I TT_E
+ڈائیں ڈائیں DD_B AA_I AYN_E
+ڈال ڈال DD_B AA_I L_E
+ڈالا ڈالا DD_B AA_I L_I AA_E
+ڈالتا ڈالتا DD_B AA_I L_I TD_I AA_E
+ڈالتے ڈالتے DD_B AA_I L_I TD_I AY_E
+ڈالنا ڈالنا DD_B AA_I L_I N_I AA_E
+ڈالنی ڈالنی DD_B AA_I L_I N_I II_E
+ڈالوں ڈالوں DD_B AA_I L_I OON_E
+ڈالی ڈالی DD_B AA_I L_I II_E
+ڈالیں ڈالیں DD_B AA_I L_I AEN_E
+ڈالیے ڈالیے DD_B AA_I L_I II_I AY_E
+ڈالے ڈالے DD_B AA_I L_I AY_E
+ڈانٹ ڈانٹ DD_B AA_I N_I TT_E
+ڈاکٹر ڈاکٹر DD_B AA_I K_I TT_I A_I R_E
+ڈبل ڈبل DD_B A_I B_I A_I L_E
+ڈبلیو ڈبلیو DD_B A_I B_I L_I I_I J_I UU_E
+ڈجٹس ڈجٹس DD_B DZZ_I A_I TT_I S_E
+ڈرائیو ڈرائیو DD_B A_I R_I AA_I II_I V_E
+ڈرائیور ڈرائیور DD_B A_I R_I AA_I II_I V_I A_I R_E
+ڈرائیونگ ڈرائیونگ DD_B A_I R_I AA_I II_I V_I I_I NG_E
+ڈرامہ ڈرامہ DD_B A_I R_I AA_I M_I AA_E
+ڈراپ ڈراپ DD_B I_I R_I AA_I P_E
+ڈرنک ڈرنک D_B R_I N_I K_E
+ڈرنکس ڈرنکس D_B R_I N_I K_I S_E
+ڈروپ ڈروپ DD_B A_I R_I OO_I P_E
+ڈزنٹ ڈزنٹ DD_B I_I Z_I N_I TT_E
+ڈس ڈس DD_B I_I S_E
+ڈسن ڈسن DD_B A_I S_I A_I N_E
+ڈسٹرب ڈسٹرب DD_B I_I S_I TT_I A_I R_I A_I B_E
+ڈسٹورشن ڈسٹورشن DD_B I_I S_I TT_I OO_I R_I SH_I A_I N_E
+ڈسٹینس ڈسٹینس DD_B I_I S_I TT_I AE_I N_I S_E
+ڈسپوزبل ڈسپوزبل DD_B I_I S_I P_I OO_I Z_I B_I L_E
+ڈسپینسر ڈسپینسر DD_B I_I S_I P_I AE_I N_I S_I A_I R_E
+ڈسپیچ ڈسپیچ DD_B I_I S_I P_I AE_I TSH_E
+ڈسپیچڈ ڈسپیچڈ DD_B I_I S_I P_I AE_I TSH_I DD_E
+ڈسکاؤنٹ ڈسکاؤنٹ DD_B I_I S_I K_I AA_I UU_I N_I TT_E
+ڈسکاؤنٹڈ ڈسکاؤنٹڈ DD_B I_I S_I K_I AA_I UU_I N_I TT_I DD_E
+ڈسکس ڈسکس DD_B I_I S_I K_I A_I S_E
+ڈسکنیکٹ ڈسکنیکٹ DD_B I_I S_I K_I A_I N_I AE_I K_I TT_E
+ڈفرنس ڈفرنس DD_B F_I R_I A_I N_I S_E
+ڈفرنٹ ڈفرنٹ DD_B F_I A_I R_I A_I N_I TT_E
+ڈلیور ڈلیور DD_B I_I L_I AY_I V_I A_I R_E
+ڈن ڈن DD_B A_I N_E
+ڈو ڈو DD_B OO_E
+ڈوئنگ ڈوئنگ DD_B OO_I I_I NG_E
+ڈواپ ڈواپ DD_B A_I V_I AA_I P_E
+ڈور ڈور DD_B OO_I R_E
+ڈونٹ ڈونٹ D_B OO_I N_I T_E
+ڈویجن ڈویجن DD_B A_I V_I II_I DZZ_I A_I N_E
+ڈٹیلس ڈٹیلس DD_B I_I TT_I II_I L_I A_I S_E
+ڈپ ڈپ DD_B I_I P_E
+ڈپس ڈپس DD_B I_I P_I S_E
+ڈھائی ڈھائی DDH_B AA_I II_E
+ڈھابے ڈھابے DDH_B AA_I B_I AE_E
+ڈھاکہ ڈھاکہ DDH_B AA_I K_I AA_E
+ڈھونڈنے ڈھونڈنے DDH_B UU_I N_I DD_I N_I AY_E
+ڈھیر ڈھیر DDH_B AE_I R_E
+ڈی ڈی DD_B II_E
+ڈیئر ڈیئر DD_B AY_I A_I R_E
+ڈیبٹ ڈیبٹ DD_B AY_I B_I TT_E
+ڈیجٹس ڈیجٹس DD_B AE_I DZZ_I TT_I S_E
+ڈیجیٹ ڈیجیٹ DD_B II_I DZZ_I II_I TT_E
+ڈیر ڈیر DD_B AY_I R_E
+ڈیزرٹ ڈیزرٹ DD_B AY_I Z_I A_I R_I TT_E
+ڈیزرٹس ڈیزرٹس DD_B AY_I Z_I A_I R_I TT_I S_E
+ڈیزوں ڈیزوں DD_B AY_I Z_I OON_E
+ڈیفالٹ ڈیفالٹ DD_B II_I F_I AA_I L_I TT_E
+ڈیفینس ڈیفینس DD_B II_I F_I AE_I N_I S_E
+ڈیفینیٹلی ڈیفینیٹلی DD_B II_I F_I AE_I N_I AE_I TT_I L_I II_E
+ڈیل ڈیل DD_B II_I L_E
+ڈیلز ڈیلز DD_B II_I L_I Z_E
+ڈیلنگ ڈیلنگ DD_B AY_I L_I I_I NG_E
+ڈیلکس ڈیلکس DD_B II_I L_I I_I K_I S_E
+ڈیلی ڈیلی DD_B II_I L_I II_E
+ڈیلیور ڈیلیور DD_B II_I L_I II_I V_I R_E
+ڈیلیورڈ ڈیلیورڈ DD_B II_I L_I II_I V_I A_I R_I DD_E
+ڈیلیوری ڈیلیوری DD_B II_I L_I II_I V_I R_I II_E
+ڈیلیٹ ڈیلیٹ DD_B II_I L_I AE_I TT_E
+ڈیلیں ڈیلیں DD_B II_I L_I AEN_E
+ڈیلے ڈیلے DD_B II_I L_I AY_E
+ڈین ڈین DD_B II_I N_E
+ڈینائے ڈینائے DD_B AE_I N_I AA_I AY_E
+ڈینگی ڈینگی DD_B AE_I NG_I G_I II_E
+ڈیو ڈیو DD_B II_I V_E
+ڈیوائل ڈیوائل DD_B II_I V_I AA_I I_I L_E
+ڈیورنگ ڈیورنگ DD_B I_I J_I UU_I R_I I_I NG_E
+ڈیولپمنٹل ڈیولپمنٹل DD_B I_I J_I UU_I L_I P_I M_I A_I N_I TT_I A_I L_E
+ڈیٹ ڈیٹ DD_B AY_I TT_E
+ڈیٹا ڈیٹا DD_B AY_I TT_I AA_E
+ڈیٹس ڈیٹس DD_B AE_I TT_I S_E
+ڈیٹیل ڈیٹیل D_B AY_I T_I AY_I L_E
+ڈیٹیلز ڈیٹیلز D_B AY_I T_I AY_I L_I Z_E
+ڈیپارٹ ڈیپارٹ DD_B II_I P_I AA_I R_I TT_E
+ڈیپارٹمنٹ ڈیپارٹمنٹ DD_B II_I P_I AA_I R_I TT_I M_I I_I N_I TT_E
+ڈیڑھ ڈیڑھ DD_B AE_I RRH_E
+ڈے ڈے DD_B AE_E
+کئے کئے K_B I_I AE_E
+کا کا K_B AA_E
+کاؤنٹر کاؤنٹر K_B AA_I UU_I N_I TT_I A_I R_E
+کائنات کائنات K_B AA_I I_I N_I AA_I TD_E
+کائنڈ کائنڈ K_B AA_I I_I N_I DD_E
+کائنڈلی کائنڈلی K_B AA_I I_I N_I DD_I L_I II_E
+کائینڈلی کائینڈلی K_B AA_I I_I J_I A_I N_I DD_I L_I II_E
+کار کار K_B AA_I R_E
+کارخانہ کارخانہ K_B AA_I R_I X_I AA_I N_I AA_E
+کارساز کارساز K_B AA_I R_I S_I AA_I Z_E
+کارڈ کارڈ K_B AA_I R_I DD_E
+کارڈیموم کارڈیموم K_B AA_I R_I DD_I II_I M_I UU_I M_E
+کارک کارک K_B AA_I R_I K_E
+کاری کاری K_B AA_I R_I II_E
+کاسمن کاسمن K_B AA_I S_I M_I A_I N_E
+کاسی کاسی K_B AA_I S_I II_E
+کاشف کاشف K_B AA_I SH_I I_I F_E
+کاشفہ کاشفہ K_B AA_I SH_I I_I F_I AA_E
+کاظمہ کاظمہ K_B AA_I Z_I M_I AA_E
+کافی کافی K_B AA_I F_I II_E
+کال کال K_B AA_I L_E
+کالج کالج K_B AA_I L_I I_I DZZ_E
+کالز کالز K_B AA_I L_I Z_E
+کالنگ کالنگ K_B AA_I L_I I_I NG_E
+کالونی کالونی K_B AA_I L_I UU_I N_I II_E
+کالیں کالیں K_B AA_I L_I AYN_E
+کام کام K_B AA_I M_E
+کامران کامران K_B AA_I M_I R_I AA_I N_E
+کاٹ کاٹ K_B AA_I TT_E
+کاٹنی کاٹنی K_B AA_I TT_I N_I II_E
+کاٹی کاٹی K_B AA_I TT_I II_E
+کاٹے کاٹے K_B AA_I TT_I AY_E
+کاپوچینو کاپوچینو K_B AA_I P_I OO_I TSH_I II_I N_I OO_E
+کاہوں کاہوں K_B AA_I H_I OON_E
+کب کب K_B A_I B_E
+کباب کباب K_B A_I B_I AA_I B_E
+کبھی کبھی K_B A_I BH_I II_E
+کتاب کتاب K_B I_I TD_I AA_I B_E
+کتن کتن K_B I_I TD_I N_E
+کتنا کتنا K_B I_I TD_I N_I AA_E
+کتنی کتنی K_B I_I TD_I N_I II_E
+کتنے کتنے K_B I_I TD_I N_I AY_E
+کدھر کدھر K_B U_I DDH_I DDH_I A_I R_E
+کر کر K_B A_I R_E
+کرئیے کرئیے K_B A_I R_I I_I J_I AY_E
+کرا کرا K_B A_I R_I AA_E
+کراؤ کراؤ K_B A_I R_I AA_I OO_E
+کرائیے کرائیے K_B A_I R_I AA_I II_I AY_E
+کراتا کراتا K_B A_I R_I AA_I TD_I AA_E
+کراتے کراتے K_B A_I R_I AA_I TD_I AY_E
+کراس کراس K_B A_I R_I AA_I S_E
+کرانا کرانا K_B A_I R_I AA_I N_I AA_E
+کراچی کراچی K_B A_I R_I AA_I TSH_I II_E
+کرایا کرایا K_B A_I R_I AA_I J_I AA_E
+کراینگے کراینگے K_B A_I R_I AA_I AE_I NG_I G_I AY_E
+کرتا کرتا K_B A_I R_I TD_I AA_E
+کرتی کرتی K_B A_I R_I TD_I II_E
+کرتیں کرتیں K_B U_I R_I TD_I IIN_E
+کرتے کرتے K_B A_I R_I TD_I AY_E
+کرد کرد K_B U_I R_I DD_E
+کردو کردو K_B U_I R_I DD_I UU_E
+کردوں کردوں K_B U_I R_I DD_I OON_E
+کردیجئے کردیجئے K_B U_I R_I DD_I II_I DZZ_I I_I AE_E
+کردیجیئے کردیجیئے K_B U_I R_I DD_I II_I DZ_I II_I AE_E
+کردینا کردینا K_B U_I R_I DD_I II_I N_I AA_E
+کردیں کردیں K_B U_I R_I DD_I AYN_E
+کرراہیۓ کرراہیۓ K_B A_I R_I R_I AA_I H_I II_E
+کرریکٹ کرریکٹ K_B A_I R_I R_I AY_I K_I TT_E
+کرس کرس K_B U_I R_I S_E
+کرسپ کرسپ K_B A_I R_I A_I S_I P_E
+کرسپی کرسپی K_B A_I R_I A_I S_I P_I II_E
+کرلو کرلو K_B U_I R_I L_I OO_E
+کرلیئگا کرلیئگا K_B U_I R_I L_I II_I I_I G_I AA_E
+کرلیتے کرلیتے K_B U_I R_I L_I II_I TD_I AY_E
+کرلیجئے کرلیجئے K_B U_I R_I L_I II_I DZZ_I I_I AE_E
+کرلیں کرلیں K_B U_I R_I L_I AYN_E
+کرلے کرلے K_B U_I R_I L_I AY_E
+کرم کرم K_B A_I R_I M_E
+کرنا کرنا K_B A_I R_I N_I AA_E
+کرنل کرنل K_B A_I R_I A_I N_I A_I L_E
+کرنچ کرنچ K_B A_I R_I A_I N_I TSH_E
+کرنی کرنی K_B U_I R_I N_I II_E
+کرنے کرنے K_B A_I R_I N_I AY_E
+کرو کرو K_B A_I R_I OO_E
+کروآ کروآ K_B A_I R_I OO_I AA_E
+کروا کروا K_B A_I R_I V_I AA_E
+کرواؤ کرواؤ K_B A_I R_I V_I AA_I OO_E
+کرواؤں کرواؤں K_B A_I R_I V_I AA_I OON_E
+کروائی کروائی K_B A_I R_I V_I AA_I II_E
+کروائیں کروائیں K_B A_I R_I V_I AA_I AEN_E
+کروائیے کروائیے K_B A_I R_I V_I AA_I II_I AY_E
+کرواتا کرواتا K_B A_I R_I V_I AA_I TD_I AA_E
+کرواتی کرواتی K_B A_I R_I V_I AA_I TD_I II_E
+کرواتیں کرواتیں K_B A_I R_I V_I AA_I TD_I AYN_E
+کرواتے کرواتے K_B A_I R_I V_I AA_I TD_I AY_E
+کروادیتی کروادیتی K_B A_I R_I V_I AA_I DD_I II_I TD_I II_E
+کروادیں کروادیں K_B A_I R_I V_I AA_I DD_I AYN_E
+کروالیجیے کروالیجیے K_B A_I R_I V_I AA_I L_I II_I DZZ_I II_I AY_E
+کروانا کروانا K_B A_I R_I V_I AA_I N_I AA_E
+کروانی کروانی K_B A_I R_I V_I AA_I N_I II_E
+کروانے کروانے K_B A_I R_I V_I AA_I N_I AY_E
+کروایا کروایا K_B A_I R_I V_I AA_I J_I AA_E
+کروایے کروایے K_B A_I R_I V_I AA_I J_I AY_E
+کروں کروں K_B A_I R_I OON_E
+کروے کروے K_B A_I R_I V_I AE_E
+کرپسی کرپسی K_B A_I R_I P_I S_I II_E
+کرک کرک K_B U_I R_I K_E
+کرہے کرہے K_B A_I R_I H_I AY_E
+کری کری K_B A_I R_I II_E
+کریسپی کریسپی K_B A_I R_I AE_I S_I P_I II_E
+کریم کریم K_B A_I R_I II_I M_E
+کریمز کریمز K_B A_I R_I II_I M_I Z_E
+کریمل کریمل K_B A_I R_I II_I M_I I_I L_E
+کریڈیٹ کریڈیٹ K_B A_I R_I AE_I DD_I AY_I TT_E
+کریکٹ کریکٹ K_B A_I R_I AE_I K_I TT_E
+کریکٹر کریکٹر K_B A_I R_I AE_I K_I TT_I A_I R_E
+کریں کریں K_B A_I R_I AEN_E
+کریںوہ کریںوہ K_B A_I R_I AE_I OO_E
+کریے کریے K_B A_I R_I J_I AY_E
+کرے کرے K_B U_I R_I AE_E
+کس کس K_B A_I S_E
+کسٹرڈ کسٹرڈ K_B I_I S_I TT_I A_I R_I DD_E
+کسٹمر کسٹمر K_B A_I S_I TT_I A_I M_I A_I R_E
+کسٹمرز کسٹمرز K_B A_I S_I TT_I A_I M_I A_I R_I Z_E
+کسی کسی K_B A_I S_I II_E
+کش کش K_B A_I SH_E
+کشمیر کشمیر K_B A_I SH_I M_I II_I R_E
+کل کل K_B A_I L_E
+کلئیر کلئیر K_B A_I L_I I_I J_I A_I R_E
+کلائنٹ کلائنٹ K_B A_I L_I AA_I I_I N_I TT_E
+کلاک کلاک K_B A_I L_I AA_I K_E
+کلب کلب K_B A_I L_I A_I B_E
+کلثوم کلثوم K_B U_I L_I S_I UU_I M_E
+کلر کلر K_B A_I L_I A_I R_E
+کلفٹن کلفٹن K_B A_I L_I L_I I_I F_I TT_I A_I N_E
+کلو کلو K_B A_I L_I OO_E
+کلوز کلوز K_B A_I L_I OO_I Z_E
+کلوزسٹ کلوزسٹ K_B A_I L_I OO_I Z_I I_I S_I TT_E
+کلوزنگ کلوزنگ K_B A_I L_I OO_I Z_I NG_E
+کلوس کلوس K_B A_I L_I OO_I S_E
+کلوک کلوک K_B A_I L_I OO_I K_E
+کلٹیکس کلٹیکس K_B A_I L_I TT_I AE_I K_I S_E
+کلک کلک K_B U_I L_I K_E
+کلی کلی K_B A_I L_I II_E
+کلیم کلیم K_B A_I L_I II_I M_E
+کلین کلین K_B A_I L_I II_I N_E
+کلینک کلینک K_B A_I L_I II_I N_I I_I K_E
+کلیکٹ کلیکٹ K_B A_I L_I AE_I K_I TT_E
+کم کم K_B A_I M_E
+کمبینیشن کمبینیشن K_B A_I M_I B_I II_I N_I AY_I SH_I A_I N_E
+کمرشل کمرشل K_B A_I M_I A_I R_I SH_I A_I L_E
+کمنگ کمنگ K_B A_I M_I I_I NG_E
+کمٹمنٹ کمٹمنٹ K_B A_I M_I TT_I M_I A_I N_I TT_E
+کمپلین کمپلین K_B A_I M_I P_I L_I AY_I N_E
+کمپلینز کمپلینز K_B A_I M_I P_I L_I AY_I N_I Z_E
+کمپلیننگ کمپلیننگ K_B A_I M_I P_I L_I AY_I N_I I_I NG_E
+کمپلیٹ کمپلیٹ K_B A_I M_I P_I L_I AY_I TT_E
+کمپلیٹلی کمپلیٹلی K_B A_I M_I P_I L_I AY_I TT_I L_I II_E
+کمپنی کمپنی K_B A_I M_I P_I A_I N_I II_E
+کمیونکیٹ کمیونکیٹ K_B A_I M_I J_I UU_I N_I K_I AY_I TT_E
+کن کن K_B A_I N_E
+کنال کنال K_B A_I N_I AA_I L_E
+کنزیوم کنزیوم K_B A_I N_I Z_I I_I J_I UU_I M_E
+کنزیومرز کنزیومرز K_B U_I N_I Z_I J_I OO_I M_I R_I K_I OO_I R_I T_I Z_E
+کنسرن کنسرن K_B A_I N_I S_I A_I R_I A_I N_E
+کنسرنڈ کنسرنڈ K_B A_I N_I S_I A_I R_I I_I N_I DD_E
+کنسلیشن کنسلیشن K_B A_I N_I S_I A_I L_I AE_I SH_I A_I N_E
+کنفرم کنفرم K_B N_I F_I R_I M_E
+کنفرمیشن کنفرمیشن K_B N_I F_I R_I M_I AY_I SH_I A_I N_E
+کنفرنٹ کنفرنٹ K_B A_I N_I F_I A_I R_I A_I N_I TT_E
+کنفیوژن کنفیوژن K_B A_I N_I F_I I_I J_I UU_I ZZ_I A_I N_E
+کنو کنو K_B A_I N_I OO_E
+کنورٹ کنورٹ K_B A_I N_I V_I A_I R_I TT_E
+کنوے کنوے K_B A_I N_I V_I AY_E
+کنٹرول کنٹرول K_B A_I N_I TT_I R_I OO_I L_E
+کنٹینیو کنٹینیو K_B A_I N_I TT_I II_I N_I II_I OO_E
+کنڈریل کنڈریل K_B A_I N_I DD_I R_I I_I J_I A_I L_E
+کنڈیشن کنڈیشن K_B A_I N_I DD_I II_I SH_I A_I N_E
+کنڈیشنز کنڈیشنز K_B A_I N_I DD_I II_I SH_I A_I N_I Z_E
+کنیکشن کنیکشن K_B A_I N_I AE_I K_I SH_I A_I N_E
+کنیکٹ کنیکٹ K_B U_I N_I AE_I K_I TT_E
+کو کو K_B OO_E
+کوآرڈینیٹ کوآرڈینیٹ K_B OO_I AA_I R_I DD_I II_I N_I AE_I TT_E
+کوآپریٹیو کوآپریٹیو K_B OO_I AA_I P_I R_I AY_I TT_I II_I V_E
+کوئلہ کوئلہ K_B OO_I I_I L_I AA_E
+کوئٹہ کوئٹہ K_B UU_I I_I TT_I AA_E
+کوئی کوئی K_B OO_I II_E
+کوائٹ کوائٹ K_B U_I V_I AA_I I_I TT_E
+کوالٹی کوالٹی K_B A_I V_I AA_I L_I TT_I II_E
+کواٹر کواٹر K_B A_I V_I AA_I TT_I A_I R_E
+کواپریشن کواپریشن K_B U_I V_I AA_I P_I A_I R_I AY_I SH_I A_I N_E
+کوبھائی کوبھائی K_B UU_I BH_I AA_I II_E
+کورنر کورنر K_B OO_I R_I N_I A_I R_E
+کورنگی کورنگی K_B O_I R_I A_I NG_I G_I II_E
+کورنیٹو کورنیٹو K_B OO_I R_I N_I AY_I TT_I OO_E
+کورٹ کورٹ K_B OO_I R_I TT_E
+کورپریشن کورپریشن K_B OO_I R_I P_I R_I AY_I SH_I A_I N_E
+کورپریٹ کورپریٹ K_B OO_I R_I P_I R_I AY_I TT_E
+کورڈ کورڈ K_B OO_I R_I DD_E
+کوسٹ کوسٹ K_B OO_I S_I TT_E
+کوشش کوشش K_B OO_I SH_I I_I SH_E
+کوفز کوفز K_B UU_I F_I Z_E
+کوفی کوفی K_B UU_I F_I II_E
+کوفیز کوفیز K_B UU_I F_I II_I Z_E
+کول کول K_B OO_I L_E
+کولا کولا K_B OO_I L_I AA_E
+کولج کولج K_B OO_I L_I DZZ_E
+کولز کولز K_B OO_I L_I Z_E
+کولنگ کولنگ K_B OO_I L_I I_I NG_E
+کولونی کولونی K_B OO_I L_I OO_I N_I II_E
+کولٹی کولٹی K_B OO_I L_I TT_I II_E
+کولڈ کولڈ K_B OO_I L_I DD_E
+کولیٹی کولیٹی K_B UU_I L_I AY_I TT_I II_E
+کولیگ کولیگ K_B OO_I L_I II_I G_E
+کومپلیمنٹری کومپلیمنٹری K_B OO_I M_I P_I L_I II_I M_I A_I N_I TT_I A_I R_I II_E
+کومپلیمینٹ کومپلیمینٹ K_B OO_I M_I P_I L_I II_I M_I AE_I N_I TT_E
+کومپلیمینٹری کومپلیمینٹری K_B OO_I M_I P_I L_I II_I M_I AE_I N_I TT_I A_I R_I II_E
+کومپلینٹ کومپلینٹ K_B OO_I M_I P_I L_I AY_I N_I TT_E
+کومپلیکس کومپلیکس K_B OO_I M_I P_I A_I L_I II_I K_I S_E
+کومپنسیشن کومپنسیشن K_B OO_I M_I P_I A_I N_I S_I AE_I SH_I A_I N_E
+کومپنسیٹ کومپنسیٹ K_B OO_I M_I P_I A_I N_I S_I II_I TT_E
+کون کون K_B OO_I N_E
+کونسا کونسا K_B OO_I N_I S_I AA_E
+کونسی کونسی K_B O_I N_I S_I II_E
+کونسے کونسے K_B OO_I N_I S_I AY_E
+کونفرمڈ کونفرمڈ K_B O_I N_I F_I A_I R_I M_I A_I DD_E
+کونٹینینٹل کونٹینینٹل K_B OO_I N_I TT_I AY_I N_I AE_I N_I TT_I A_I L_E
+کونٹیکٹ کونٹیکٹ K_B OO_I N_I TT_I AE_I K_I TT_E
+کوورج کوورج K_B UU_I V_I R_I I_I DZZ_E
+کوٹیجس کوٹیجس K_B OO_I TT_I AY_I DZZ_I S_E
+کوپرائٹ کوپرائٹ K_B UU_I P_I A_I R_I AA_I I_I TT_E
+کوڈ کوڈ K_B O_I DD_E
+کوک کوک K_B OO_I K_E
+کوکا کوکا K_B OO_I K_I AA_E
+کوکی کوکی K_B UU_I K_I II_E
+کوکیز کوکیز K_B UU_I K_I II_I Z_E
+کویری کویری K_B A_I V_I AE_I R_I II_E
+کویریز کویریز K_B UU_I II_I R_I II_I Z_E
+کوے کوے K_B UU_I AE_E
+کٹ کٹ K_B A_I TT_E
+کپ کپ K_B A_I P_E
+کچ کچ K_B U_I TSH_E
+کچا کچا K_B U_I TSH_I TSH_I AA_E
+کچھ کچھ K_B U_I TSHH_E
+کڈز کڈز K_B U_I DD_I Z_E
+کڈی کڈی K_B U_I DD_I II_E
+کڑک کڑک K_B U_I RR_I A_I K_E
+کھا کھا KH_B AA_E
+کھاؤ کھاؤ KH_B AA_I OO_E
+کھاؤں کھاؤں KH_B AA_I OON_E
+کھائیں کھائیں KH_B AA_I AEN_E
+کھائے کھائے KH_B AA_I AY_E
+کھاتا کھاتا KH_B AA_I TD_I AA_E
+کھاتی کھاتی KH_B AA_I TD_I II_E
+کھاتے کھاتے KH_B AA_I TD_I AY_E
+کھانا کھانا KH_B AA_I N_I AA_E
+کھانی کھانی KH_B AA_I N_I II_E
+کھانے کھانے KH_B AA_I N_I AY_E
+کھاِنا کھاِنا KH_B AA_I I_I N_I AA_E
+کھایا کھایا KH_B AA_I J_I AA_E
+کھلا کھلا KH_B I_I L_I AA_E
+کھلی کھلی KH_B A_I L_I II_E
+کھول کھول KH_B OO_I L_E
+کھولا کھولا KH_B OO_I L_I AA_E
+کھولنے کھولنے KH_B OO_I L_I N_I AE_E
+کھڑا کھڑا KH_B A_I RR_I AA_E
+کھڑی کھڑی KH_B A_I RR_I II_E
+کھڑے کھڑے KH_B A_I RR_I AE_E
+کہ کہ K_B AA_E
+کہئے کہئے K_B A_I H_I II_I AE_E
+کہا کہا K_B A_I H_I AA_E
+کہانی کہانی K_B A_I H_I AA_I N_I II_E
+کہاں کہاں K_B A_I H_I AAN_E
+کہتا کہتا K_B A_I H_I TD_I AA_E
+کہتی کہتی K_B A_I H_I TD_I II_E
+کہتیں کہتیں K_B A_I H_I A_I TD_I AYN_E
+کہتے کہتے K_B A_I H_I TD_I AY_E
+کہنا کہنا K_B A_I H_I N_I AA_E
+کہنے کہنے K_B A_I H_I N_I AY_E
+کہو کہو K_B A_I H_I OO_E
+کہوں کہوں K_B A_I H_I UUN_E
+کہہ کہہ K_B OOH_I H_E
+کہی کہی K_B A_I H_I II_E
+کہیں کہیں K_B A_I H_I AYN_E
+کہیںسے کہیںسے K_B A_I H_I S_I S_I AE_E
+کہیے کہیے K_B A_I H_I II_I J_I AY_E
+کہے کہے K_B A_I H_I AY_E
+کی کی K_B II_E
+کیئر کیئر K_B AY_I A_I R_E
+کیا کیا K_B I_I J_I AA_E
+کیالیکن کیالیکن K_B I_I J_I AA_I L_I II_I K_I A_I N_E
+کیجئے کیجئے K_B II_I DZZ_I I_I AE_E
+کیجیئے کیجیئے K_B II_I DZZ_I II_I AY_E
+کیجیے کیجیے K_B II_I DZZ_I II_I AE_E
+کیجیۓ کیجیۓ K_B II_I DZZ_I II_E
+کیریمل کیریمل K_B AE_I R_I AE_I M_I I_I L_E
+کیس کیس K_B AE_I S_E
+کیسی کیسی K_B AE_I S_I II_E
+کیسے کیسے K_B AE_I S_I AY_E
+کیش کیش K_B AE_I SH_E
+کیفے کیفے K_B AY_I F_I AE_E
+کیل کیل K_B AY_I L_E
+کیلاش کیلاش K_B AE_I L_I AA_I SH_E
+کیلکیولیٹ کیلکیولیٹ K_B AE_I L_I K_I UU_I L_I AY_I TT_E
+کیم کیم K_B AE_I M_E
+کیمپس کیمپس K_B AE_I M_I P_I A_I S_E
+کین کین K_B II_I N_E
+کینسل کینسل K_B AE_I N_I S_I A_I L_E
+کینٹ کینٹ K_B AE_I N_I TT_E
+کینیڈا کینیڈا K_B AE_I N_I AY_I DD_I AA_E
+کیو کیو K_B I_I J_I UU_E
+کیوری کیوری K_B I_I J_I UU_I R_I II_E
+کیونکہ کیونکہ K_B I_I J_I UU_I N_I K_I AE_E
+کیوں کیوں K_B II_I OON_E
+کیٹ کیٹ K_B AE_I TT_E
+کیٹچ کیٹچ K_B AE_I TT_I TSH_E
+کیپ کیپ K_B II_I P_E
+کیپوچینو کیپوچینو K_B II_I P_I OO_I TSH_I II_I N_I OO_E
+کیپٹین کیپٹین K_B AE_I P_I TT_I II_I N_E
+کیپچینو کیپچینو K_B AE_I P_I I_I TSH_I TSH_I II_I N_I OO_E
+کیچ کیچ K_B II_I TSH_E
+کیچپ کیچپ K_B II_I TSH_I P_E
+کیک کیک K_B AY_I K_E
+کیکس کیکس K_B AY_I K_I S_E
+کیے کیے K_B II_I AE_E
+کے کے K_B AY_E
+گآئے گآئے G_B U_I AA_I AE_E
+گئی گئی G_B A_I II_E
+گئے گئے G_B A_I AE_E
+گا گا G_B AA_E
+گائز گائز G_B AA_I I_I Z_E
+گائیڈ گائیڈ G_B AA_I II_I DD_E
+گائے گائے G_B AA_I AY_E
+گارلک گارلک G_B AA_I R_I L_I I_I K_E
+گارڈ گارڈ G_B AA_I R_I DD_E
+گارڈن گارڈن G_B AA_I R_I DD_I A_I N_E
+گاری گاری G_B AA_I R_I II_E
+گارینٹی گارینٹی G_B AA_I R_I AE_I N_I TT_I II_E
+گالیاں گالیاں G_B AA_I L_I I_I J_I AAN_E
+گاڑی گاڑی G_B AA_I RR_I II_E
+گجراں گجراں G_B U_I DZZ_I R_I AAN_E
+گر گر G_B A_I R_E
+گرا گرا G_B I_I R_I AA_E
+گراؤنڈ گراؤنڈ G_B I_I R_I AA_I UU_I N_I DD_E
+گرامر گرامر G_B A_I R_I AA_I M_I A_I R_E
+گرانڈ گرانڈ G_B A_I R_I AA_I N_I DD_E
+گرل گرل G_B I_I R_I I_I L_E
+گرلز گرلز G_B A_I R_I L_I Z_E
+گرم گرم G_B A_I R_I A_I M_E
+گرمی گرمی G_B A_I R_I M_I II_E
+گروپ گروپ G_B U_I R_I UU_I P_E
+گری گری G_B I_I R_I II_E
+گریم گریم G_B I_I R_I II_I M_E
+گرین گرین G_B I_I R_I II_I N_E
+گرینڈ گرینڈ G_B I_I R_I AE_I N_I DD_E
+گریڈ گریڈ G_B I_I R_I AE_I DD_E
+گزار گزار G_B U_I Z_I AA_I R_E
+گزر گزر G_B U_I Z_I A_I R_E
+گلاِس گلاِس G_B A_I L_I AA_I I_I S_E
+گلبرگ گلبرگ G_B A_I L_I L_I A_I R_I G_E
+گلریز گلریز G_B U_I L_I R_I AE_I Z_E
+گلستان گلستان G_B U_I L_I I_I S_I TD_I AA_I N_E
+گلش گلش G_B U_I L_I SH_E
+گلشن گلشن G_B U_I L_I SH_I A_I N_E
+گلف گلف G_B A_I L_I F_E
+گلی گلی G_B A_I L_I II_E
+گلیستان گلیستان G_B A_I L_I AE_I S_I TD_I AA_I N_E
+گندہ گندہ G_B A_I N_I DD_I AA_E
+گندی گندی G_B A_I N_I DD_I II_E
+گندے گندے G_B A_I N_I DD_I AY_E
+گو گو G_B OO_E
+گوا گوا G_B A_I V_I AA_E
+گواوا گواوا G_B A_I V_I AA_I V_I AA_E
+گوبھی گوبھی G_B OO_I BH_I II_E
+گولف گولف G_B OO_I L_I F_E
+گولی گولی G_B OO_I L_I II_E
+گوگل گوگل G_B UU_I G_I A_I L_E
+گڈ گڈ G_B U_I DD_E
+گھاری گھاری GH_B AA_I R_I II_E
+گھر گھر GH_B A_I R_E
+گھروں گھروں GH_B A_I R_I OON_E
+گھنٹوں گھنٹوں GH_B A_I N_I TT_I OON_E
+گھنٹہ گھنٹہ GH_B A_I N_I TT_I AA_E
+گھنٹے گھنٹے GH_B E_I N_I TT_I AE_E
+گھوم گھوم GH_B UU_I M_E
+گھوما گھوما GH_B UU_I M_I AA_E
+گھٹنے گھٹنے GH_B A_I TT_I N_I AY_E
+گھٹیا گھٹیا GH_B A_I TT_I J_I AA_E
+گی گی G_B II_E
+گیا گیا G_B I_I J_I AA_E
+گیارہ گیارہ G_B I_I J_I AA_I R_I AA_E
+گیس گیس G_B AY_I S_E
+گیسٹ گیسٹ G_B AE_I S_I TT_E
+گیند گیند G_B AY_I N_I DD_E
+گیون گیون G_B AE_I V_I A_I N_E
+گیٹ گیٹ G_B AE_I TT_E
+گیٹنگ گیٹنگ G_B AE_I TT_I I_I NG_E
+گے گے G_B AE_E
+ں ں A_B TD_E
+ھو ھو KH_B OO_E
+ھوم ھوم UU_B M_E
+ھوگی ھوگی OO_B G_I II_E
+ہا ہا H_B AA_E
+ہاؤ ہاؤ H_B AA_I OO_E
+ہاؤس ہاؤس H_B AA_I UU_I S_E
+ہاؤسنگ ہاؤسنگ H_B AA_I UU_I S_I I_I NG_E
+ہائقہ ہائقہ H_B AA_I I_I Q_I AA_E
+ہائی ہائی H_B AA_I II_E
+ہائیر ہائیر H_B AA_I II_I R_E
+ہائیپر ہائیپر H_B AA_I II_I P_I A_I R_E
+ہاتھ ہاتھ H_B AA_I TDH_E
+ہار ہار H_B AA_I R_E
+ہارون ہارون H_B AA_I R_I UU_I N_E
+ہارڈ ہارڈ H_B AA_I R_I DD_E
+ہارڈلی ہارڈلی H_B AA_I R_I DD_I L_I II_E
+ہاف ہاف H_B AA_I F_E
+ہال ہال H_B AA_I L_E
+ہانگ ہانگ H_B AA_I NG_E
+ہاور ہاور H_B AA_I V_I A_I R_E
+ہاٹ ہاٹ H_B AA_I TT_E
+ہاں ہاں H_B AAN_E
+ہر ہر H_B A_I R_E
+ہرفن ہرفن H_B A_I R_I F_I A_I N_E
+ہرلی ہرلی H_B A_I R_I L_I II_E
+ہزار ہزار H_B A_I Z_I AA_I R_E
+ہسبنڈ ہسبنڈ H_B A_I S_I B_I A_I N_I DD_E
+ہسٹری ہسٹری H_B I_I S_I TT_I I_I R_I II_E
+ہسپتال ہسپتال H_B A_I S_I P_I A_I TD_I AA_I L_E
+ہش ہش H_B I_I SH_E
+ہشیور ہشیور H_B A_I SH_I J_I R_E
+ہفتہ ہفتہ H_B A_I F_I TD_I AA_E
+ہفتے ہفتے H_B A_I F_I TD_I AE_E
+ہل ہل H_B A_I L_E
+ہلاں ہلاں H_B A_I L_I AAN_E
+ہلکی ہلکی H_B A_I L_I K_I II_E
+ہم ہم H_B A_I M_E
+ہمارا ہمارا H_B A_I M_I AA_I R_I AA_E
+ہماری ہماری H_B A_I M_I AA_I R_I II_E
+ہمارے ہمارے H_B A_I M_I AA_I R_I AE_E
+ہمدان ہمدان H_B A_I M_I DD_I AA_I N_E
+ہمدرد ہمدرد H_B A_I M_I DD_I A_I R_I DD_E
+ہمہ ہمہ H_B A_I M_I AA_E
+ہمیشہ ہمیشہ H_B A_I M_I AE_I SH_I AA_E
+ہمیں ہمیں H_B A_I M_I AEN_E
+ہنس ہنس H_B A_I N_I S_E
+ہنسنے ہنسنے H_B A_I N_I S_I N_I AE_E
+ہنڈ ہنڈ H_B A_I N_I DD_E
+ہنڈریڈ ہنڈریڈ H_B A_I N_I DD_I R_I AE_I DD_E
+ہنی ہنی H_B A_I N_I II_E
+ہو ہو H_B OO_E
+ہوئی ہوئی H_B UU_I II_E
+ہوئے ہوئے H_B UU_I AE_E
+ہوا ہوا H_B A_I V_I AA_E
+ہوائیں ہوائیں H_B A_I V_I AA_I AYN_E
+ہوتا ہوتا H_B OO_I TD_I AA_E
+ہوتی ہوتی H_B OO_I TD_I II_E
+ہوتیں ہوتیں H_B OO_I TD_I IIN_E
+ہوتے ہوتے H_B OO_I TD_I AY_E
+ہوجائیں ہوجائیں H_B UU_I DZZ_I AA_I AYN_E
+ہوجائےگا ہوجائےگا H_B UU_I DZZ_I AA_I AY_I G_I AA_E
+ہورہا ہورہا H_B OO_I R_I H_I AA_E
+ہوسپیٹل ہوسپیٹل H_B OO_I S_I P_I II_I TT_I A_I L_E
+ہوسکتا ہوسکتا H_B OO_I S_I K_I A_I TD_I AA_E
+ہولڈ ہولڈ H_B OO_I L_I DD_E
+ہولڈنگ ہولڈنگ H_B OO_I L_I DD_I I_I NG_E
+ہوم ہوم H_B OO_I M_E
+ہون ہون H_B OO_I N_E
+ہونا ہونا H_B OO_I N_I AA_E
+ہونگی ہونگی H_B OO_I NG_I II_E
+ہونی ہونی H_B OO_I N_I II_E
+ہونیسٹ ہونیسٹ H_B OO_I N_I II_I S_I TT_E
+ہونے ہونے H_B OO_I N_I AY_E
+ہووے ہووے H_B OO_I V_I AY_E
+ہوٹ ہوٹ H_B OO_I T_E
+ہوٹل ہوٹل H_B OO_I TT_I A_I L_E
+ہوپ ہوپ H_B OO_I P_E
+ہوگئے ہوگئے H_B OO_I G_I I_I AY_E
+ہوگا ہوگا H_B OO_I G_I AA_E
+ہوگی ہوگی H_B OO_I G_I II_E
+ہوگیا ہوگیا H_B OO_I G_I II_I AA_E
+ہوں ہوں H_B OON_E
+ہویں ہویں H_B V_I AYN_E
+ہویے ہویے H_B A_I V_I II_I AY_E
+ہٹ ہٹ H_B A_I TT_E
+ہٹا ہٹا H_B A_I TT_I AA_E
+ہہاں ہہاں H_B A_I H_I AAN_E
+ہی ہی H_B II_E
+ہیئر ہیئر H_B AE_I A_I R_E
+ہیرا ہیرا H_B AE_I R_I AA_E
+ہیروز ہیروز H_B AE_I R_I OO_I Z_E
+ہیز ہیز H_B AE_I Z_E
+ہیش ہیش H_B AE_I SH_E
+ہیلو ہیلو H_B AE_I L_I OO_E
+ہیلپ ہیلپ H_B AE_I L_I P_E
+ہیم ہیم H_B AE_I M_E
+ہینڈ ہینڈ H_B AE_I N_I DD_E
+ہینڈل ہینڈل H_B AE_I N_I DD_I A_I L_E
+ہیو ہیو H_B AE_I V_E
+ہیوملیشن ہیوملیشن H_B I_I J_I UU_I M_I I_I L_I AE_I SH_I A_I N_E
+ہیپی ہیپی H_B AE_I P_I II_E
+ہیڈ ہیڈ H_B AY_I DD_E
+ہیں ہیں H_B AYN_E
+ہییر ہییر H_B AY_I J_I A_I R_E
+ہییں ہییں H_B II_I AYN_E
+ہے ہے H_B AE_E
+ہےتو ہےتو H_B A_I J_I TD_I OO_E
+ی ی II_S
+یا یا J_B AA_E
+یاد یاد J_B AA_I DD_E
+یار یار J_B AA_I R_E
+یاسر یاسر J_B AA_I S_I A_I R_E
+یاِسر یاِسر J_B AA_I I_I S_I A_I R_E
+یاہ یاہ J_B AA_E
+یت یت J_B A_I TD_E
+یتی یتی J_B A_I TD_I II_E
+یرز یرز J_B A_I R_I Z_E
+یس یس J_B A_I S_E
+یسٹ یسٹ E_B S_I TT_E
+یعقوب یعقوب J_B A_I Q_I UU_I B_E
+یعنی یعنی J_B A_I N_I II_E
+یقین یقین J_B A_I Q_I II_I N_E
+یو یو J_B UU_E
+یوجولی یوجولی J_B UU_I DZZ_I OO_I L_I II_E
+یور یور J_B UU_I R_E
+یوز یوز J_B UU_I Z_E
+یوسف یوسف J_B UU_I S_I U_I F_E
+یوشولی یوشولی J_B UU_I SH_I UU_I L_I II_E
+یومنا یومنا J_B UU_I M_I N_I AA_E
+یونٹ یونٹ J_B UU_I N_I A_I TT_E
+یونین یونین J_B UU_I N_I I_I J_I A_I N_E
+یونیورسٹی یونیورسٹی J_B UU_I N_I II_I V_I A_I R_I S_I I_I TT_I II_E
+یگا یگا J_B A_I G_I AA_E
+یں یں AYN_S
+یہ یہ J_B AA_E
+یہاں یہاں J_B A_I H_I AAN_E
+یہہ یہہ J_B A_I H_I AA_E
+یہی یہی J_B AE_I H_I II_E
+یہیں یہیں J_B A_I H_I AYN_E

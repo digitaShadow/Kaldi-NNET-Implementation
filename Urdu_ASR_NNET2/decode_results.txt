@@ -1,0 +1,419 @@
+
+Tri3:
+
+070MPN01 آسلام وعلیکم دس اِس فرام میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN01 is -4.77818 over 405 frames.
+070MPN02 آپ کی ڈیلیوری پینتالیس منٹ میں کر دی جائے گی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN02 is -4.75522 over 367 frames.
+070MPN03 یہ ڈیل چل رہی ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN03 is -4.37905 over 266 frames.
+070MPN04 فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN04 is -4.81784 over 409 frames.
+070MPN05 آن لائن رہیے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN05 is -4.53839 over 254 frames.
+070MPN06 اور کال رہیے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN06 is -4.92228 over 272 frames.
+070MPN07 ڈیٹ کیجئے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN07 is -4.1786 over 281 frames.
+070MPN08 کورٹ کیجئے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN08 is -4.41389 over 295 frames.
+071MPN01 آسلام علیکم دِس اِس سارا چار دس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN01 is -4.35655 over 278 frames.
+071MPN02 آپ ڈیلیوری پینتالیس ہے میں کر دی جائے گی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN02 is -3.88708 over 480 frames.
+071MPN03 لیے ڈیل چل رہی ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN03 is -4.09361 over 176 frames.
+071MPN04 تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر اللہ حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN04 is -4.31951 over 273 frames.
+071MPN05 آن لائن رہیے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN05 is -4.08008 over 156 frames.
+071MPN06 آن کال رہیے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN06 is -4.20879 over 142 frames.
+071MPN07 فیس کیجئے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN07 is -4.23658 over 156 frames.
+071MPN08 کورٹ کیجئے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN08 is -3.92811 over 144 frames.
+1 آسلام علیکم دس اِس الینا فروم میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 1 is -4.88122 over 370 frames.
+10 بتایا ہمارا ہے رہا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 10 is -4.87943 over 328 frames.
+11 ہے کہ اٹھارہ کر رہا ہے رہا آخر ہے آ گیا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 11 is -4.65091 over 952 frames.
+12 میرا شکریہ تھینک یو فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 12 is -5.0488 over 334 frames.
+2 جی آسلام لی تھی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 2 is -4.44028 over 202 frames.
+3 ہے وہ اور تھا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 3 is -4.52466 over 214 frames.
+4 آسلام وعلیکم دِس اِس ردا فرام میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 4 is -4.80637 over 226 frames.
+5 آرڈر ہے جہاں اب ہر پندرہ دن ہے لیکن ہے کہ میں رہتا تھا ایٹ ہے رائٹ ہے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 5 is -4.92572 over 916 frames.
+6 آسلام علیکم دِس اِس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 6 is -5.48339 over 160 frames.
+7 سر تھینک یو فور کالنگ خدا حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 7 is -5.21958 over 160 frames.
+8 ہے نہ آئی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 8 is -5.44432 over 202 frames.
+9 کہنا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 9 is -5.49696 over 316 frames.
+Bilal1 دس آسلام علیکم دِس اِس کام بند ہونا تھی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal1 is -3.62952 over 599 frames.
+Bilal2 آپکی ڈیل کرنے کا اصل میں کر دیں گی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal2 is -3.75612 over 627 frames.
+Bilal3 جی یہ ڈیل چل رہی ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal3 is -3.37807 over 497 frames.
+Bilal4 بس تھینک یو فور کالنگ مکڈونلڈ وہاں چیز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal4 is -3.85486 over 573 frames.
+Bilal5 جی بالکل آرڈر پلیس کیا جائے گا اور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal5 is -3.87701 over 501 frames.
+Bilal6 ادریس کنفرم کیجیۓ گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal6 is -3.89085 over 413 frames.
+Bilal7 کائنڈلی اپنا فون نمبر بتائیے کی سے پہلے پلیس کرتی ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal7 is -3.90904 over 855 frames.
+Bilal8 ان کے ساتھ کیجئے گا اور یہ آرڈر کی کی کیش چیک کی جا رہی ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal8 is -4.19454 over 651 frames.
+Hamza1 اس میں قصور کو کس کو بند تو ہو تم 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Hamza1 is -4.14501 over 609 frames.
+Jehanzaib1 آسلام علیکم دِس اِس فروم میکڈونلڈ ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib1 is -4.41137 over 699 frames.
+Jehanzaib2 آپ نے پہلے بھی پڑتا نے صورت میں کر دی جائے گی ہوں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib2 is -4.13825 over 829 frames.
+Jehanzaib3 ہے کہ لیے ڈیل چل رہی ہے ان 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib3 is -3.86856 over 619 frames.
+Jehanzaib4 فور ٹو فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib4 is -4.21967 over 755 frames.
+Jehanzaib5 تھا کہ بینک کورٹ اور اپنے گھر کیا جائے گا آپ کا میں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib5 is -4.20097 over 837 frames.
+Jehanzaib6 اپنی بھی انزلہ فروم کیجئے گا میں ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib6 is -4.30761 over 637 frames.
+Jehanzaib7 پر کار نے اپنا موبائل نمبر بتا ہے جس سے پہلے اور اپنی میں کرتے ہے کہ وہ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib7 is -4.40554 over 901 frames.
+Jehanzaib8 اب تک انتظار کی جیئے گا آپ کا آرڈر کی بھی پلیز چیک کی جا رہی ہے وہ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib8 is -4.17478 over 927 frames.
+Jehanzaib9 اس کے بیٹے فلو بیک کیجئے گا اور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib9 is -4.48982 over 701 frames.
+Nisar1 جی آسلام علیکم دِس اِس فرام میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar1 is -3.38331 over 1083 frames.
+Nisar2 اس کی اپنی ڈیلیوری پینتالیس منٹ پر کر دی جائے گی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar2 is -4.24991 over 469 frames.
+Nisar3 کی ڈیل چل رہی ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar3 is -3.88077 over 373 frames.
+Nisar4 کی طرف فور کالنگ مکڈونلڈ اللہ پر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar4 is -3.95003 over 451 frames.
+Nisar5 بالکل آپ کا آرڈر پلیس کیا جائے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar5 is -3.9957 over 401 frames.
+Nisar6 اس دن جب کنفرم کیجیۓ گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar6 is -4.38632 over 303 frames.
+Nisar7 کی کل جب اپنا موبائل نمبر بتائیے گا جس سے پہلے آرڈر کر سکتے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar7 is -4.02593 over 621 frames.
+Nisar8 چھ دن گزر کیجیۓ گا اور اپنے طرف حکم کیا دین 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar8 is -3.91466 over 533 frames.
+Qasim1 آپ دِس اِس ردا فروم میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Qasim1 is -3.94598 over 663 frames.
+Qasim2 آپ پلیز آپ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Qasim2 is -4.24122 over 583 frames.
+Sumaira1 جی آسلام علیکم دِس اِس سامنے آتا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira1 is -3.79412 over 545 frames.
+Sumaira2 ڈیلیوری کے حوالے سے میں نے بھی کے ہو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira2 is -5.13393 over 409 frames.
+Sumaira3 لیے دی جا رہی ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira3 is -5.16156 over 329 frames.
+Sumaira4 اب میں آباد میں جا رہا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira4 is -4.72878 over 493 frames.
+Sumaira5 بالکل آرڈر ہی نہیں کیا جائے گا آپ کا بالکل آرڈر ڈیلیور کیا جائے گا آپ کا کہنا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira5 is -4.86519 over 725 frames.
+Sumaira6 دین کنفرم کیجئے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira6 is -4.10913 over 387 frames.
+Sumaira7 اس سے پہلے اپنا موبائل نمبر پے نہیں اس سے پہلے آرڈر اس کہتے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira7 is -4.26954 over 559 frames.
+Sumaira8 کا انتظار کیجئے گا آپ کا ریپیٹ کی کی روپے کی جاری ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira8 is -4.43378 over 517 frames.
+Yasir1 ان کی پسند اور وعلیکم دس اِس فروم میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir1 is -3.9989 over 615 frames.
+Yasir2 اور پھر بھی پر پر چلا پر کرتے چلے کی تھی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir2 is -4.36915 over 545 frames.
+Yasir3 یہ ڈیل چل رہی سر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir3 is -3.73534 over 445 frames.
+Yasir4 ٹیک یو فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir4 is -4.32238 over 487 frames.
+Yasir5 بالکل آرڈر پلیس کیا چل تو بس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir5 is -3.66909 over 741 frames.
+Yasir7 ڈیزرٹ کنفرم کیجئے گا مس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir7 is -3.95487 over 421 frames.
+Yasir8 اس پر اپنا موبائل نمبر پکڑ لیے کی چھت پر چھوڑ کر چکے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir8 is -4.27715 over 655 frames.
+Yasir9 تب تک اور کیجئے گا اور چھوڑ سیپریٹلی چیک کی جآ رہی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir9 is -4.35047 over 635 frames.
+t1 وعلیکم آسلام جی بلکہ تک اس سے کر سکوں میں پر صورت میں ڈبل تھری ٹو زیرو سیون فیز تھری دو کبھی رہا ہے نے یہ اور تاکہ بعد لوگ بتائی وہ اس سی ٹو زیرو سیون سی ٹو زیرو سیون بلاک سی پی تھرڈ فلور ہارون ہو سکتی فیز تھری بلاک سیونٹین گلستان لاہور طرف سے کی طرف سے دیدئیے تھے ریگولر بن ہوتے ہیں آپ کے پاس ایک پیٹی یہ ایک ایک سے طرف سیونٹی کہ کسی کو کے لیے سیون اور ہے اور ایسے بڑے طور پر میر کے لیے گئی تھی بلکہ کرنے دے کر جاتے ہیں چھوٹے میں رکھنے سے بریک پر کی بھی ابھی طرح گئے دیدئیے تھے اور کیا چیز ہے تو طور بھی ہو گیا جس دن ایک آرڈر کیا ہے ہاؤس ایڈریس سے جانے والے دیا کہ جاتا ہے تو کا ہے چاکلیٹ سنڈے چاکلیٹ سنڈے عورت میک فلرری اوریو آئس کر کے طرف سے آنے میں سے بہت ہے وہ پر والا سے پہلے پر کرتے پائے چیک کر دی ہے سر پر اکثر میں فالو اپ کر کے آپ کو دو دن کے اندر کا کوکیز بھی ہوتے نہ کر سکے گی اور کو بھی گر دیتا کہ وہ اور کر رہے تھے برگر کے بعد لڑکی کو کر اختر کا سے تیرہ سے پر آئے گی اللہ ہے سر ٹائم پے نہیں ہوتے اویلیبل کیکس بھی پر زیادہ سے یہ عرض رہیے گا برگر دیتے رہے ہولڈ ہے اور اگر کچھ اور ہی رہیں آپ کا بچے اور میں سوچ رہی ہوں اس وقت کیا کہ اگر چار ٹو ڈور ٹو دن سے تیرہ طرف سے ان فورٹی پر کو دو دن دے دی جائے گا اور پھر آرڈر دینا ہے کہ اس وہ نہ وہ بھجوا دیجئے گا آپ مجھے بتا رہی پر کر دی گئی والے پر یہ میرے لیے ٹائم کروا کر سکتے دیا بالکل برگر برگر آپ کا آرڈر کیے آؤٹ ہو گیا اور کو ریپیٹ کر ٹیسٹ آرڈر میٹر پر کرتا ہوں کہ اوکے اور پر کسی ایسے طور پر دیوار ایک ہے اور نظر رکھنے والے زندگی دیتی گا کہ اگر آپ سے ذرا کال بیک کروا دیتی ہوں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t1 is -4.67436 over 18221 frames.
+LOG (apply-cmvn[5.5.858~1-081e58]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 77 utterances, errors on 0
+t2 آسلام علیکم دِس اِس عباس میں چار سو جو بولنے بل بھی میں وہ صرف کہ وہ ضرور ہوگا برگر صاحب کا دل ہم ضرور میں وہ فوری طور پے وہ مل آرڈر فارورڈ ضرور فورس اور دو ریگولر مل یو فور کالنگ مکڈونلڈ کو معلوم پر ملک اور اس پر دونوں ڈیزرٹ میں آرڈر اور لوگوں کو سے جانے نہ آئی ٹی کا میں میں بی سی اردو سروس کرنا سب سے زیادہ میں آپ کو برانچ کا جائیے سکتی کہ میں کہیں کے یہ والا یہ پہلے بھی کی جانب سے صرف یہ ہے کے سے سکس فلور بالکل وہ ضرور بول دو روز بھی وہ اس سلسلے میں میں آپ کو کہ وہ اسے او سی کیا جانے کے بارے میں لیا اور ایل کو کو بل کو انور اور ہوم ضرور انور او کے سر لیکن ان میں پانی میں آپ کو نائنٹی فائیو ون ڈبل ٹو ون وہ کون لوگ اور لوگوں کو بند سے تھری ایٹی ہو جائے گی لیکن میرے گھر میں رہ جانا ہے کہ دو آپکی میک چکن برگر ساس سسر ضرورت روپے تھی اور سون ایس پوسیبل سی کو کی بھی ڈبل تھری سکس ٹو فائل تو فارورڈ ضرور کے آنا میں نوکری ڈیلیوری بالکل تھری سائز سے ویب سائٹ بس جی سکس زیرو فور ٹو تھری سائز ایس آئی ایکسٹریملی سوری فرسٹ ٹائم کال اور جے تھری ٹو سیون ایکسٹریملی ملک کس کے سلسلے میں وہ جو کہ یہ دی ایچ اے فیز ون ٹو سیون منٹس صرف ایک سو جانب سے سب سے وہ سون صرف ایک ہی ایک سے لیے زندگی سنگل ہوں آرڈر پلیس ہو صرف دو سوسائٹی سر تھینک یو فور مسٹر آصف سکس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t2 is -4.12843 over 14052 frames.
+t3 آسلام وعلیکم دس اِس مریم فرام میکڈونلڈز وعلیکم آسلام آں جی مجھے ایک فاسٹ آرڈر کرنا چاہ اور سے ایڈریس کنفرمیشن میں رحمہ کے نام سے آرڈر پلیس کیا جائے گا اور ساتھ جی جی بالکل حساب بچی آرڈر ابھی آ نہیں ہے ایڈریس نہیں کیا ہے سٹی کنفرم کر دیں تو ابھی اسی صرف تین کے تین سال سے تھی کہ کراچی کراچی ٹی نہیں آپ ساتھ کے اور اس کو حال ہی ساتھ کے سال لیتے ہیں تھری کہنا ہے کہ منی میں یہ آفیسر کالونی سی نے تھا اور ان کا تو نہیں ہاؤس نمبر صرف کی صرف تین آفٹر کالونی ہی ایک میں آ کر چالیس لیے ہاؤس نمبر سی سے کتنی تھی کہ پی سی سی نے تیس سال کہنا ہے کہ اسلام بتا دیجیئے اللہ کے نام سے کر دیجۓ اینڈ رائیڈر کی آسانی کے لئے آلٹرنیٹ نمبر پرو وائیڈ کرنا چاہیں گے اور تھا اور ہے نہیں فلحال تو میرے پاس یہی نمبر ہے ہاؤس نمبر ون فائیو نائنٹی کے کو آفیسر کالونی کی کرا کو کنفرمیشن آن کال رہیے گا نمبر پہلے دن تک جاری ہے اور اور میکڈونلڈز آفر کر رہی ہیں سی فوڈ فیسٹیول آرڈر کرنا چاہیں گے آپ ہی کا اسپائیسی ہے جو ہے چکن لارج کی برگر برگر ہے کہ مریم نواز نے گئے تو وہاں کی بھی یہی نہیں ہوگا بھی لارج میں لوگی دو کرنے یا اللہ پر آ گیا اور کی نیا میڈیم ٹین ٹو ہی کی کی دونوں میں مجھے اپنی ڈرنک کنفرم کر کا ایک کراچی رہیے گا سر آپ کر بہتر ہوٹ اینڈ ون فائیو منٹس آرڈر میم نہیں تھا کہ آئی کے والے دینا چاہیں آپ نے آرڈر ریپیٹ کر رہی ہوں کنفرم کرلیجئے آپ یہ کال رہیے دو بھی یہ بھی لکھا کہ گرینڈ چکن ون ڈرنک کوک ون فائیو ٹوٹل اماؤنٹ فور تھاؤزنڈ سکس ہنڈریڈ ایٹی اونلی ابوو ففٹین ہنڈریڈ اماؤنٹ آپ کو کومپلیمینٹری میڈیم فرائز سرف کی جانے کے آخر میں موبائل مس رحما انشا الله تھرٹی منٹس میں آرڈر ڈیلیور کر دیتا ہے کہ آخر کی کے ہے کہ میکڈونلڈز ٹیک کیئر نہ صرف آسلام سر تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر اللہ ہے کہ وہ آئندہ کوک ہے ساتھ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t3 is -4.83755 over 20021 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -98.7155 over 118130 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:161) Applied transform to 77 utterances; 0 had errors.
+t4 فائف ہنڈریڈ جانب منہ ٹوائے بوائز مسٹر مومن سے آرڈر ہے سر میں نے اسے فرق کرنا اتنا ہنڈریڈ اینڈ ایٹی نائن اوبلیک ون تھرٹی سکس جی ہم ہے کہ کائنڈلی کی میں ٹھیک ہے کہ وہ ان کا سائز حال ہی میں یہاں میں تین میں میں کے لیے میں کی لیکن ہی ایک میک چکن نہیں پہلے ہی نہیں کے ڈرنکس اور کی میں نہ آتا ہے میڈیم فائیو ہنڈریڈ اینڈ اس لنک حسین کے لیے اس کے اندر ایسی کہتے ہیں کہ نہیں کہ ٹی لیکن یہ ایک ہیپی دو ہیپی ہے نے پہلی خیال میں کی آصف علی منگوا رہی ہے کہ ایک دن بعد ہے ایسی ہی ایک ہے کہ جی ہم چکن پیس نائن ٹائم آئی ہے کہ چاہے ہوا ہے کر نے نو دن کہہ رہا ہے اس میں یہ کہتے ہیں لیکن کی جاتی سینٹر کے تو یہ کہتے ہیں یہ ایک ایک کی میں نے چکن ہیں کہ حال ہی میں آتا ہے ان چند ہی دیر میں کہا ہے کہ اس لنک مینشن ہے اسپائیسی طرف نہیں میں کے فائف سی فرائز نہیں کا کہنا ہے کہ آئی سی سی نے اس کی ساری تین گائے کی نے بھی ٹوٹل کتنے ہوں اور کے کا یہ بھی کہنا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t4 is -5.08982 over 16644 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:158) Overall average logdet is -2.73941 over 118130 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:161) Applied transform to 77 utterances; 0 had errors.
+t5 کی میں والے مطابق اگر الحمدللہ سر آسلام وعلیکم دس اِس میں گیا کو صبح کو سے کو پر دو ہیپی میل آصف کے لیے مجھ سے اوکے مجھے ایڈریس کنفرم کیجئے گا فرسٹ چلا کہ صرف ہاؤس نمبر سکسٹین آرڈر سکس اسٹریٹ ون لین تھری سیکٹر کے لئے آلٹرنیٹ نمبر دینا چاہیں گی سیم کو میں سے ایک ہیپی میل کتنی آرڈر کیا ہے کہ میں سے کو کو کو سے کو سے کو کے کی دے دیجیے سر سے یہ بتایں میک کرسپی رہی ہے فور سیونٹی میک چکن ودھ ریگولر فرائز سے کو گھر ضرور ہو کو سے ریگولر میل میک چکن ودھ آؤٹ چیز ڈیزرٹ میں کچھ کے ساتھ نے تمام سے بھی ہو سکتی ہے چکن برگر جے نے بچوں والی ہوئے ہیں چکن برگر کے اندر اور اسلام کو کے لیے کو سے فون پر بات دیکھ کر گا کہ پر او کو ہوگا ایک فانٹا ایک اسپرائٹ دو دو ہو کر کے لیے لوگوں سے آرڈر کنفرم ایڈریس کنفرم کیا کر دے گا میں لوگوں سے آرڈر کیا گیا ہے سیونٹین ہیپی میل چکن برگر کی میل میک چکن ودھ چیز ڈرنک آپکی بتائے تو ہوگی فرائز ایکسٹرا فرائز ٹوٹل اماؤنٹ آپکی سکسٹین سیونٹی رپیس اونلی کیش پیمنٹ ہے تھرٹی منٹس ہے میڈیم فرائز کومپلیمینٹری ڈیلیور سکس زیرو فائیو فور کالنگ میکڈونلڈز اللہ حافظ 
+
+
+
+
+
+SGMM2:
+
+# sgmm2-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --determinize-lattice=false --allow-partial=true --word-symbol-table=exp/sgmm2_4/graph/words.txt --max-mem=50000000 "--gselect=ark,s,cs:gunzip -c exp/sgmm2_4/decode/gselect.1.gz| copy-gselect --n=3 ark:- ark:- |" exp/sgmm2_4/final.alimdl exp/sgmm2_4/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:transcription/split1/1/utt2spk scp:transcription/split1/1/cmvn.scp scp:transcription/split1/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/sgmm2_4/final.mat ark:- ark:- | transform-feats --utt2spk=ark:transcription/split1/1/utt2spk ark,s,cs:exp/tri3/decode/trans.1 ark:- ark:- |" "ark:|gzip -c > exp/sgmm2_4/decode/pre_lat.1.gz" 
+# Started at Mon May 31 09:58:23 PKT 2021
+#
+sgmm2-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --determinize-lattice=false --allow-partial=true --word-symbol-table=exp/sgmm2_4/graph/words.txt --max-mem=50000000 '--gselect=ark,s,cs:gunzip -c exp/sgmm2_4/decode/gselect.1.gz| copy-gselect --n=3 ark:- ark:- |' exp/sgmm2_4/final.alimdl exp/sgmm2_4/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:transcription/split1/1/utt2spk scp:transcription/split1/1/cmvn.scp scp:transcription/split1/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/sgmm2_4/final.mat ark:- ark:- | transform-feats --utt2spk=ark:transcription/split1/1/utt2spk ark,s,cs:exp/tri3/decode/trans.1 ark:- ark:- |' 'ark:|gzip -c > exp/sgmm2_4/decode/pre_lat.1.gz' 
+splice-feats ark:- ark:- 
+transform-feats --utt2spk=ark:transcription/split1/1/utt2spk ark,s,cs:exp/tri3/decode/trans.1 ark:- ark:- 
+apply-cmvn --utt2spk=ark:transcription/split1/1/utt2spk scp:transcription/split1/1/cmvn.scp scp:transcription/split1/1/feats.scp ark:- 
+transform-feats exp/sgmm2_4/final.mat ark:- ark:- 
+copy-gselect --n=3 ark:- ark:- 
+070MPN01 آسلام وعلیکم دِس اِس فرام میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN01 is -5.69282 over 405 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN01 is -5.69282 over 405 frames.
+070MPN02 آپ کی ڈیلیوری پینتالیس منٹ میں کر دی جائے گی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN02 is -5.60459 over 367 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN02 is -5.60459 over 367 frames.
+070MPN03 کی ڈیل چل رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN03 is -5.22058 over 266 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN03 is -5.22058 over 266 frames.
+070MPN04 تھینک یو فور کالنگ میکڈونلڈز اللہ فریش 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN04 is -5.63427 over 409 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN04 is -5.63427 over 409 frames.
+070MPN05 اور لائن رہیے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN05 is -5.32642 over 254 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN05 is -5.32642 over 254 frames.
+070MPN06 اور کال رہیے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN06 is -5.72024 over 272 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN06 is -5.72024 over 272 frames.
+070MPN07 ڈیٹ کیجئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN07 is -4.92522 over 281 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN07 is -4.92522 over 281 frames.
+070MPN08 اس کول کیجئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 070MPN08 is -5.30381 over 295 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 070MPN08 is -5.30381 over 295 frames.
+071MPN01 آسلام وعلیکم دس اِس فرام میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN01 is -5.15878 over 278 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN01 is -5.15878 over 278 frames.
+071MPN02 آپ پے ڈیلیوری پینتالیس ہے میں کر دی جائے گی فیز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN02 is -4.56687 over 480 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN02 is -4.56687 over 480 frames.
+071MPN03 اس لیے ڈیل چل رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN03 is -4.86458 over 176 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN03 is -4.86458 over 176 frames.
+071MPN04 تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر اللہ حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN04 is -5.01725 over 273 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN04 is -5.01725 over 273 frames.
+071MPN05 آن لائن رہیے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN05 is -4.81478 over 156 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN05 is -4.81478 over 156 frames.
+071MPN06 آن کال رہئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN06 is -5.03772 over 142 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN06 is -5.03772 over 142 frames.
+071MPN07 سے کیجئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN07 is -5.09607 over 156 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN07 is -5.09607 over 156 frames.
+071MPN08 اور کیجئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 071MPN08 is -4.60223 over 144 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 071MPN08 is -4.60223 over 144 frames.
+1 طرح آرڈر مریم فرام میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 1 is -5.96194 over 370 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 1 is -5.96194 over 370 frames.
+10 ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 10 is -5.9417 over 328 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 10 is -5.9417 over 328 frames.
+11 ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 11 is -5.61354 over 952 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 11 is -5.61354 over 952 frames.
+12 تمہارا شکریہ تھینک یو فور کالنگ میکڈونلڈز آفر تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 12 is -6.10475 over 334 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 12 is -6.10475 over 334 frames.
+2 جی آسلام جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 2 is -5.33529 over 202 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 2 is -5.33529 over 202 frames.
+3 میں آپ کا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 3 is -5.51803 over 214 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 3 is -5.51803 over 214 frames.
+4 آسلام وعلیکم دس اِس ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 4 is -5.69809 over 226 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 4 is -5.69809 over 226 frames.
+5 اور ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 5 is -5.90266 over 916 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 5 is -5.90266 over 916 frames.
+6 آسلام جی فرسٹ فلور 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 6 is -6.73267 over 160 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 6 is -6.73267 over 160 frames.
+7 تھینک یو فور کالنگ خدا حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 7 is -6.32344 over 160 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 7 is -6.32344 over 160 frames.
+8 آسلام آئی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 8 is -6.59812 over 202 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 8 is -6.59812 over 202 frames.
+9 کہانی میں چار کہنا ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance 9 is -6.58369 over 316 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance 9 is -6.58369 over 316 frames.
+Bilal1 آسلام وعلیکم دِس اِس فرام میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal1 is -4.30611 over 599 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal1 is -4.30611 over 599 frames.
+Bilal2 آپ کے لیے پنتالیس منٹ میں کر دی جائے گی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal2 is -4.41752 over 627 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal2 is -4.41752 over 627 frames.
+Bilal3 جی یہ ڈیل چل رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal3 is -4.03565 over 497 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal3 is -4.03565 over 497 frames.
+Bilal4 تھینک یو فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal4 is -4.57819 over 573 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal4 is -4.57819 over 573 frames.
+Bilal5 جی بالکل آرڈر پلیس کیا جائے گا گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal5 is -4.59341 over 501 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal5 is -4.59341 over 501 frames.
+Bilal6 اس کنفرم کیجیۓ گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal6 is -4.62463 over 413 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal6 is -4.62463 over 413 frames.
+Bilal7 کائنڈلی اپنا فون نمبر بتائیے کی سے پہلے نہ دے سکتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal7 is -4.65329 over 855 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal7 is -4.65329 over 855 frames.
+Bilal8 کے طور کیجیۓ گا یہ آرڈر کی تھی کہ اسے کی جا رہی ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Bilal8 is -4.93315 over 651 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Bilal8 is -4.93315 over 651 frames.
+Hamza1 دے دی ہے اور کون کون کس کو بند اور 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Hamza1 is -4.82326 over 609 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Hamza1 is -4.82326 over 609 frames.
+Jehanzaib1 آسلام وعلیکم دس اِس فروم میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib1 is -5.24615 over 699 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib1 is -5.24615 over 699 frames.
+Jehanzaib2 آپ کے ڈیلیوری پینتالیس منٹ میں کر دی جائے گی ہوں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib2 is -4.84994 over 829 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib2 is -4.84994 over 829 frames.
+Jehanzaib3 اس لیے ڈیل چل رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib3 is -4.56068 over 619 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib3 is -4.56068 over 619 frames.
+Jehanzaib4 تھینک یو فور کالنگ میکڈونلڈز اللہ حافظ کے ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib4 is -4.97725 over 755 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib4 is -4.97725 over 755 frames.
+Jehanzaib5 سب سے اپ بالکل آرڈر پلیس کیا جائے گا آپ کا میں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib5 is -4.93287 over 837 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib5 is -4.93287 over 837 frames.
+Jehanzaib6 بی بی بی جے کہ میں ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib6 is -5.07019 over 637 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib6 is -5.07019 over 637 frames.
+Jehanzaib7 کی کہانی اپنا موبائل نمبر بتا ہے جسے پہلے آرڈر پلیس کر تھے ہے سنڈے ہوگی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib7 is -5.20176 over 901 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib7 is -5.20176 over 901 frames.
+Jehanzaib8 گھنٹہ کہا کہ یہ کہا اپنے آرڈر ریپیٹ کے کی جا رہی ہے وہ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib8 is -4.94567 over 927 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib8 is -4.94567 over 927 frames.
+Jehanzaib9 ان کے بیٹے ہوں دیکھ لیجیے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Jehanzaib9 is -5.30283 over 701 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Jehanzaib9 is -5.30283 over 701 frames.
+Nisar1 جی آسلام وعلیکم دِس اِس فرام میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar1 is -3.96141 over 1083 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar1 is -3.96141 over 1083 frames.
+Nisar2 اس کی باقی ڈیلیوری پینتالیس منٹ تک کر دی جائے گی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar2 is -4.95913 over 469 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar2 is -4.95913 over 469 frames.
+Nisar3 کی ڈیل چل رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar3 is -4.51786 over 373 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar3 is -4.51786 over 373 frames.
+Nisar4 کی طرف فور کالنگ مکڈونلڈ اللہ پر ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar4 is -4.62831 over 451 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar4 is -4.62831 over 451 frames.
+Nisar5 بس جی بالکل آپ کا آرڈر پلیس کیا جائے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar5 is -4.7354 over 401 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar5 is -4.7354 over 401 frames.
+Nisar6 اس لیے جب کا کام کیجئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar6 is -5.11069 over 303 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar6 is -5.11069 over 303 frames.
+Nisar7 کی کر لیا اپنا موبائل نمبر بتائیے وجہ سے پہلے آپ آرڈر کر سکتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar7 is -4.69184 over 621 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar7 is -4.69184 over 621 frames.
+Nisar8 چھ ہزار کیجیۓ گا پلیز جلد حکم بھی جاری ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Nisar8 is -4.58344 over 533 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Nisar8 is -4.58344 over 533 frames.
+Qasim1 یہ آسلام وعلیکم دِس اِس علینہ فروم میکڈونلڈ ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Qasim1 is -4.75151 over 663 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Qasim1 is -4.75151 over 663 frames.
+Qasim2 یہ تھینک یو فور میکڈونلڈز جی ٹی روڈ یا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Qasim2 is -5.1138 over 583 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Qasim2 is -5.1138 over 583 frames.
+Sumaira1 آسلام علیکم دِس اِس فرام ایسا ہوتا ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira1 is -4.44169 over 545 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira1 is -4.44169 over 545 frames.
+Sumaira2 ڈیلیوری کے حوالے سے میں نے دی جائیں گی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira2 is -6.18674 over 409 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira2 is -6.18674 over 409 frames.
+Sumaira3 اب بھی ڈیل چل رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira3 is -6.091 over 329 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira3 is -6.091 over 329 frames.
+Sumaira4 ہم نے ان حوالے میں کہا سے ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira4 is -5.6189 over 493 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira4 is -5.6189 over 493 frames.
+Sumaira5 بالکل آرڈر ہی نہیں کیا جائے گا آپ کا بالکل آرڈر ڈیلیور کیا جائے گا آپ کا پر ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira5 is -5.83975 over 725 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira5 is -5.83975 over 725 frames.
+Sumaira6 بھی کنفرم کیجئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira6 is -4.81862 over 387 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira6 is -4.81862 over 387 frames.
+Sumaira7 اس میں نے اپنا موبائل نمبر چاہیے جس سے پہلے آرڈر پلیس کہتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira7 is -5.02194 over 559 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira7 is -5.02194 over 559 frames.
+Sumaira8 اس انہیں کیجئے گا آپ کا ریپیٹ لیکن ٹیک کی جا رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Sumaira8 is -5.16279 over 517 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Sumaira8 is -5.16279 over 517 frames.
+Yasir1 آسلام و علیکم دِس اِس فروم مکڈونلڈ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir1 is -4.67999 over 615 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir1 is -4.67999 over 615 frames.
+Yasir2 اور پے ڈیلیوری پینتالیس منٹ پر کرتے چلے کی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir2 is -5.11425 over 545 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir2 is -5.11425 over 545 frames.
+Yasir3 یہ ڈیل چل رہی سر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir3 is -4.44243 over 445 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir3 is -4.44243 over 445 frames.
+Yasir4 تھینک یو فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir4 is -5.06556 over 487 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir4 is -5.06556 over 487 frames.
+Yasir5 کا دل کوآپریٹیو نظر تو کو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir5 is -4.36075 over 741 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir5 is -4.36075 over 741 frames.
+Yasir7 ڈیزرٹ کنفرم کیجیۓ گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir7 is -4.69376 over 421 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir7 is -4.69376 over 421 frames.
+Yasir8 پر لیے اپنا موبائل نمبر پر لیے جس پر اور پھر سکتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir8 is -4.99459 over 655 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir8 is -4.99459 over 655 frames.
+Yasir9 ان تک اور کیجئے گا اور ٹوٹل کتنے ہوئی چیک کی جا رہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance Yasir9 is -5.0863 over 635 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance Yasir9 is -5.0863 over 635 frames.
+t1 آسلام وعلیکم وعلیکم وعلیکم اسلام جی بلکہ تک آ ایڈریس کیجئے گا بالکل بالکل شیور سر ڈبل تھری ٹو زیرو سیون فیز تھری بلاک سیونٹین گلستان گیا ہے نے یہ عمر تھا کہ بعد لاک پسند آئی آر میں آباد ہے اور اس سی ٹو زیرو سیون تھری ٹو زیرو سیون بلاک ای تھری تھرڈ فلور ہارون رائل سٹی فیز تھری بلاک سیونٹین گلستان لاہور کے طرف سے ہٹ کر آتے نے ایک ایک ایک ریگولر بن ہوتے ہیں آپ کے پاس ایک پیٹی رکھتے تھے یہ مجھے چاہیے تھے اس طرح سیونٹی کر میں کو کے لیے بغیر ہے اور اس سے ہے ایک بڑے اوپر میرا کے لیے آئی ان کی آپ ایک بھی نہ دیکھ کر دیں تو نکل جاتے ہیں سے پر ایک کے پر کی گئی کہ ڈی پیز نظر آئے کے حل کے پاس کیا کیے گئے آباد اور بھی ہو گیا اک دن ایک دور کر کے اس وقت دینا انٹرنیشنل جانے والے جاتی اگر پر ہے تو دیتا ہے چاکلیٹ سنڈے چاکلیٹ سنڈے اور میک فلرری اوریو ہے سر یہ سب تو آئس کریم کے آنے سے دوپہر پر وجہ سے پہلے بری کرتے پائے تھے اکثر بھی اپنے پر اندر اندر وہ کر کے آپ کو گئے اور پھر کیا جانب کا کوکیز بھی ہوتے ہیں آپ کے بعد گئی کو کوکیز بھی ہوتے بہت اوریو آرڈر کر ایک طرف سے اس وقت رات اور کے بعد دیکھ کر کے بعد ہوٹ کیکس ہوتے اگر اپ کال سے وہ اس کے بعد سے اب کے سے کرتے ای ایف آئی اے کے اندر سر ٹائم پے نہیں ہوتے اویلیبل کیکس سے صرف بریک فاسٹ میں ٹیک کیئر اللہ پر زیادہ سے زیادہ کر رہے گا آپ کو بتا دیتے تھے کو ہے اور اس طرح آپ کا بس روڈ پر میں سوچ رہی ہوں اس وقت کیا گیا اور اس سال تک تو ہیں تو دن ایک سے زیادہ سے ایک آرڈر کی پر اور دو دن دے دی ہے اور اگر ڈینائے کے لیے فورا کو کہ دیر اپنی بے بس آپ مجھے نا یہی ڈن کر دیجئے یا والے پر بھی دیتے رہے تھے دکھائی دے کر برگر کرتے گیا بالکل سر اپنے آرڈر کیا تھا موقع پر فورٹی روپیس کی وجہ سے آرڈر کنفرم کر کرتا ہوں کہ اوکے اور پھر اسی ایڈریس وقت بھی کا ایک ایک کر کے جب کہ دے رکھی جاتی ہے وقت رات سے پہلا کالنگ میکڈونلڈز ٹیک کیئر آپ ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t1 is -5.57722 over 18221 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance t1 is -5.57722 over 18221 frames.
+LOG (apply-cmvn[5.5.858~1-081e58]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 77 utterances, errors on 0
+t2 آسلام وعلیکم دِس اِس ردا فروم میکڈونلڈز سوچ اور غریب نے مزید دو سر سے و سر سر آپنے الیون ہم ضرور میں وہ جو کچھ اور ان ور اور و اور کچھ اور عمر اس وہ اور کالج کورٹ نے سوری سر معذرت اور اور آرڈر او کو سے جانے ناٹ کہ میں میں بی سی کی آرڈر ریپلیس کرنا تھا جیسے نظر نہ کو واپس آ جائے گی کیسے تیس کہ میں یہ نام والے کے اندر ڈلیوری کے جاری فرائز ایک ایسے کے لیے میں و جو بلکہ میں میں آپ کو وائٹ ہاؤس کی خیال رہے کہ والی اور و ڈیزرٹ اور اس کو ان پر او سی کے ذریعے کے نائن میں ساری میں آپ کو جائیں کی فرائز سرو روز اور و سے تین ایک یونیورسٹی میں ریگولر میں رہ جانا تھا جو ہیپی میل چکن برگر ساس سسر و قصور سے جس کو سو نے مزید سے وہ صرف دِس اِس ہی سر فیز سکس جو صرف ایک سو کے و اور اس کے خیال میں میں اور کلین سٹی سینٹر میں سائٹ فیس سکس زیرو فور ٹو تھری سائز این فرائز ڈیلیور والوں سے تھری ڈبل نائن سکس تھری ملک کے سلسلے میں وہ بھی رولز کر یا تھری ہنڈریڈ سر اوکے میم جو ایک فور سیون سے سلسلے تو سون صرف ایک ٹی ایٹ سلسلے تھری سکس فلور بلڈنگ سوچ بالکل سوسائٹی سر تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر صرف ایک 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t2 is -4.89351 over 14052 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance t2 is -4.89351 over 14052 frames.
+t3 آسلام وعلیکم دس اِس مریم فروم میکڈونلڈز وعلیکم آسلام آر کی ملے گا آپ کا آرڈر کرنا چاہ فاسٹ ایڈریس کنفرمیشن میں سے رحمہ کے نام سے آرڈر پلیس کیا جائے گا کہ ڈی جی بالکل ہاؤس نمبر تھری اوبلیک تھری کیا نہیں اگر ایڈریس چینج ہے سٹی کنفرم کرلو میں آپکی اس چیز صرف تین سٹی کنفرم کر کی کے ساتھ کراچی کراچی خیال بھی نہیں آپ تھا کہ فوری کے کو حال ہی ساتھ یہ بھی کہنا ہے کہ آپ کا منی حال یہ ہوا کہ صرف کالونی سی اے این تھا اور ان کا تو ملی ہاؤس نمبر پر چیز صرف تین آفیسر کالونی سی اے این آفیسر کالونی سی اے اے کے ہاؤس نمبر سی صرف تین تھری ففٹین سی سی کہیں نیچے کے سی فار کا کہنا ہے کہ نام بتا دیجیئے طرح کے نام سے کر رہی ہوں رہا ہے رائیڈر کی آسانی کے لئے آلٹرنیٹ نمبر پروائیڈ کرنا چاہیں گی کہ تھا نہیں فلحال تو میرے پاس یہی نمبر ہے ہاؤس نمبر تھری ون فائیو نائنٹی کے کو آفیسر کالونی اس کی کنفرمیشن آن کال رہیے گا نمبر کرے مجھے طرف سے جاری ہے ہے آپ کو اور میکڈونلڈز آفر کر رہا ہے سی فوڈ فیسٹیول آرڈر کرنا چاہیں ہے یہی تھا کہ ہے اسپائیسی ہے گرینڈ چکن تو برانچ ہی برگر برگر ہے کہ مریم نواز ایڈریس ہوگا ہاں جی جی جی میل ہوگا یا لارج میں لوگی کو دو کرنے یا اللہ نہ صرف کی میڈیم میڈیم کی دو ہی پی دونوں نے ڈرنک کنفرم کر دیتا تھا کہ ایک کراچی کے تھینک یو فور سیون ون فائیو منٹس آرڈر نام نہیں والے کے آئی سمجھ لینا چاہئے میں نے آرڈر ریپیٹ کر رہی ہوں کنفرم کرلیجئے آپ یہ والا کیے دو میڈیم میل اسپائیسی کرنچ چکن ون ڈرنک کوک ون فائیو ٹوٹل اماؤنٹ ون تھاؤزنڈ سکس ہنڈریڈ ایٹی اونلی ابوو ففٹین ہنڈریڈ اماؤنٹ آپ کو کومپلیمینٹری میڈیم فرائز سرف کی جانب سے میں ملک میں اس مس رحما انشا الله ودھ ان تھرٹی منٹس میں آرڈر ڈیلیور کر دیا جائے گا ہاف چلیں ٹھیک ہے سر ہے کہ میکڈونلڈز ٹیک کیئر اللہ سر تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر اللہ حافظ میم تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر اللہ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t3 is -5.79055 over 20021 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance t3 is -5.79055 over 20021 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -98.7155 over 118130 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:161) Applied transform to 77 utterances; 0 had errors.
+t4 فائیو ہنڈریڈ جانے کا ٹوائے ہائی کورٹ میں آرڈر پلیس کریں گے میم مسز فاروق زمانی کے نام سے آگے کے ہیں کہ ان کی ہاں جی نائن اوبلیک ون نائنٹی ٹو حسین سی سی کے اینڈ کہا کہ جی ہم تھینک ہیں کہ کاری کی میں آ چکے ہیں میم وہ کے تھینک یو نے شام کی جانب سے لانچ کی ہے سی فوڈ فیسٹیول کی ہاں لیکن نائن میں تین میں کے لیکن ہیں لیکن میں کی جانب سے میں کی لیکن تھا کہ یہ ایک میک چکن نہیں کرنے میں ہی نہیں کہتے ہیں نہ آتی ہیں کہا کہ کیے لیکن ان کی نے کہا کہ کے ڈرنک کنفرم کے کی میں کے تھے لیکن سینٹر کی تھی جس کے میں ایک کہتے خان کی مین ہی نہیں چلا کہ اس کے علاوہ ایک ہیپی دو ہیپی ہے میں نے پہلی کے آنے کے حوالے ہے آپ ایسا انتظار ہے سیونٹین ایٹی ہے کہ انھیں چکن میں کہیں بھی جی ہاں چکن پر میکڈونلڈز کروائی ہے کہ چار ایک ہوا ہے اگر نے بھی ان کے ہے کہ کے میں میں ہیں لیکن اب تیس میک چکن تو یہ کہتے ہیں ایک ایک ہی نہیں جا سکتے ہیں ہے امل ان کے یہ مسئلہ ہے لیکن انھیں کی میں نہیں رکھ نہ تھے انہوں نے کراچی کے میں ساتھ نے کہ اس لنک منیش نائن پیس نگیٹس فائدہ نہیں تھینک یو آئی سب نے شیک رائٹ میم نہیں کیا جانا ہے سکس ہنڈریڈ اینڈ ایٹی عمران خان ہے لیکن آئی سی سی نے اس چیز یعنی تین فائیو منٹس ڈیلیوری ٹائم تھرٹی منٹس اوکے میم تھینک یو ٹوٹل کتنے ہوں گے اور کے کہنا سے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t4 is -6.07765 over 16644 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance t4 is -6.07765 over 16644 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:158) Overall average logdet is -2.64119 over 118130 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:161) Applied transform to 77 utterances; 0 had errors.
+LOG (copy-gselect[5.5.858~1-081e58]:main():copy-gselect.cc:71) Copied 77 gselect objects,  limiting sizes to 3
+t5 جی آسلام جی کے والے کے کے میں زیادہ کوک ہوگی اوکے اوکے تھے اور پر دو ہیپی میل یہ کے سے اوکے ہاؤس یہ اسٹریٹ فورٹی تھری سیکٹر کے ذریعے فور سٹریٹ نمبر دینا چاہیں کے سے کے ایسے میں سے کو فور کالنگ کو سے کو کے میں یہ صرف یہ کے فور سیون کے حکم کے ذریعے یہ برگر کے اندر کوئی چیز بعد میں بھی تو ان میں لیا گیا چکن برگر جے بھی بجنے والے ہیں چکن برگر ڈیل کے حوالے سے آپ کو نے سے کو حکم پر گا کہ ایک پر اپنے پر اور دو کے چاہے تو ہو جائے کنفرم کیجئے گا فورٹی کریں گے اور دو ہو رہے ہیں اور اس کے الیون ذرا گئے اور کچھ رہے ہیں آرڈر کیا کے ذریعے بلیک بگ میک چکن ودھ چیز اوکے اوکے اوکے ذریعے ان کے رہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance t5 is -4.65931 over 14240 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance t5 is -4.65931 over 14240 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:252) Time taken [excluding initialization] 849.345s: real-time factor assuming 100 frames/sec is 0.718992
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:255) Done 77 utterances, failed for 0
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:257) Overall log-likelihood per frame = -5.3321 over 118130 frames.
+# Accounting: time=850 threads=1
+# Ended (code 0) at Mon May 31 10:12:33 PKT 2021, elapsed time 850 seconds

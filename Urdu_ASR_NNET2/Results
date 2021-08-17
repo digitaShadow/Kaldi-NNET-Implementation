@@ -1,0 +1,56 @@
+
+SGMM Results on the data which was not included in either training data or testing data
+
+070MPN01 آسلام وعلیکم دس اِس فروم میکڈونلڈز ایپ 
+070MPN02 آپ کی ڈیلیوری پینتالیس منٹ میں کر دی جائے گی 
+070MPN03 یہ ڈیل چل رہی ہے 
+070MPN04 ہیں جو بولنگ دوست خلاف رش 
+070MPN05 اور لائن رہیے گا 
+070MPN06 آپ اور کوڑی کا 
+070MPN07 ویٹ کیجیے گا 
+070MPN08 ہولڈ کیجیے گا 
+071MPN01 آسلام وعلیکم دس اسامہ چارلز 
+071MPN02 آپ کی ڈیلیوری پینتالیس شہر میں کر دی جائے گی 
+071MPN03 یہ ڈیل چل رہی ہے 
+071MPN04 یہ ہے کہ وہ کالے مقدار سے کیا نافذ 
+071MPN05 جو آن لائن رہیے گا 
+071MPN06 جا اور کو لے گا 
+071MPN07 ویٹ کیجیے گا 
+071MPN08 ہولڈ کیجیے گا 
+
+
+WER's:
+
+%WER 33.73 [ 28 / 83, 4 ins, 1 del, 23 sub ]
+%SER 50.00 [ 8 / 16 ]
+exp/sgmm2_4/decode/wer_11
+%WER 33.73 [ 28 / 83, 4 ins, 1 del, 23 sub ]
+%SER 50.00 [ 8 / 16 ]
+exp/sgmm2_4/decode/wer_12
+%WER 32.53 [ 27 / 83, 4 ins, 1 del, 22 sub ]
+%SER 43.75 [ 7 / 16 ]
+exp/sgmm2_4/decode/wer_13
+%WER 31.33 [ 26 / 83, 3 ins, 1 del, 22 sub ]
+%SER 43.75 [ 7 / 16 ]
+exp/sgmm2_4/decode/wer_14
+%WER 28.92 [ 24 / 83, 3 ins, 1 del, 20 sub ]
+%SER 43.75 [ 7 / 16 ]
+exp/sgmm2_4/decode/wer_15
+%WER 28.92 [ 24 / 83, 3 ins, 1 del, 20 sub ]
+%SER 43.75 [ 7 / 16 ]
+exp/sgmm2_4/decode/wer_16
+%WER 28.92 [ 24 / 83, 3 ins, 1 del, 20 sub ]
+%SER 43.75 [ 7 / 16 ]
+exp/sgmm2_4/decode/wer_17
+%WER 28.92 [ 24 / 83, 3 ins, 1 del, 20 sub ]
+%SER 43.75 [ 7 / 16 ]
+exp/sgmm2_4/decode/wer_7
+%WER 40.96 [ 34 / 83, 4 ins, 2 del, 28 sub ]
+%SER 56.25 [ 9 / 16 ]
+exp/sgmm2_4/decode/wer_8
+%WER 34.94 [ 29 / 83, 3 ins, 2 del, 24 sub ]
+%SER 50.00 [ 8 / 16 ]
+exp/sgmm2_4/decode/wer_9
+%WER 36.14 [ 30 / 83, 4 ins, 2 del, 24 sub ]
+%SER 50.00 [ 8 / 16 ]
+

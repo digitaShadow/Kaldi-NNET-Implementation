@@ -1,0 +1,1067 @@
+  # gmm-latgen-faster --max-active=2000 --beam=10.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri3/graph/words.txt exp/tri3/final.alimdl exp/tri3/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |" "ark:|gzip -c > exp/tri3/decode.si/lat.1.gz" 
+# Started at Sat May 29 00:09:24 PKT 2021
+#
+gmm-latgen-faster --max-active=2000 --beam=10.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri3/graph/words.txt exp/tri3/final.alimdl exp/tri3/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/tri3/final.mat ark:- ark:- |' 'ark:|gzip -c > exp/tri3/decode.si/lat.1.gz' 
+transform-feats exp/tri3/final.mat ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- 
+splice-feats ark:- ark:- 
+rumi_speaker_00100A_00100_A_16 جی سکس پیس رائس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100A_00100_A_16 is -4.77338 over 148 frames.
+rumi_speaker_00100A_00100_A_30 ٹوٹل اماؤنٹ ففٹین ہنڈریڈ اینڈ ففٹی روپیس اونلی اس کے ساتھ آپ کو کومپلیمینٹری میڈیم فرائز بھی سے کے سائز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100A_00100_A_30 is -4.59578 over 630 frames.
+rumi_speaker_00100A_00100_A_8 جی بتائیے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100A_00100_A_8 is -4.29321 over 76 frames.
+rumi_speaker_00100B_00100_B_24 جی سر آرڈر جی دوسرا سے میکڈونلڈز جی سر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100B_00100_B_24 is -3.95137 over 468 frames.
+rumi_speaker_00100B_00100_B_6 سر تھینک یو فور سکس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100B_00100_B_6 is -4.06952 over 187 frames.
+rumi_speaker_00102A_00102_A_7 کام نہیں ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102A_00102_A_7 is -4.01609 over 80 frames.
+rumi_speaker_00102B_00102_B_17 کر دے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_17 is -4.5767 over 88 frames.
+rumi_speaker_00102B_00102_B_28 آپ نہ آپ کا آرڈر ریپیٹ کر کے کنفرم کر دیجیے کر دیا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_28 is -5.05226 over 310 frames.
+rumi_speaker_00102B_00102_B_3 آسلام وعلیکم 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_3 is -4.59142 over 145 frames.
+rumi_speaker_00102B_00102_B_40 آئی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_40 is -5.46079 over 26 frames.
+rumi_speaker_00103A_00103_A_20 میں ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00103A_00103_A_20 is -3.76169 over 83 frames.
+rumi_speaker_00103B_00103_B_7 اوکے میری راولپنڈی کا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00103B_00103_B_7 is -4.54193 over 170 frames.
+rumi_speaker_00103B_00103_B_8 گلریز تھری ہے کرریکٹ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00103B_00103_B_8 is -4.20423 over 106 frames.
+rumi_speaker_00104A_00104_A_11 ٹھیک ہے میں آپ کو نمبر پرو وائیڈ کر دیجئے ہاؤس نمبر نوٹ کرلیجئے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104A_00104_A_11 is -4.54848 over 334 frames.
+rumi_speaker_00104A_00104_A_9 آپ آرڈر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104A_00104_A_9 is -4.42632 over 61 frames.
+rumi_speaker_00104B_00104_B_21 سکتا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104B_00104_B_21 is -4.74627 over 41 frames.
+rumi_speaker_00104B_00104_B_33 ایک ہوئے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104B_00104_B_33 is -4.18883 over 112 frames.
+rumi_speaker_00104B_00104_B_38 ٹو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104B_00104_B_38 is -5.04185 over 19 frames.
+rumi_speaker_00105A_00105_A_5 جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00105A_00105_A_5 is -4.19303 over 25 frames.
+rumi_speaker_00105B_00105_B_18 ٹھیک ہے سر ٹوٹل آپکی اماؤنٹ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00105B_00105_B_18 is -4.64981 over 136 frames.
+rumi_speaker_00105B_00105_B_20 اسٹریٹ نمبر فون پے آپ کو ون ہیش کام کافی لیٹ کر سکتے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00105B_00105_B_20 is -4.50347 over 365 frames.
+rumi_speaker_00106A_00106_A_13 بگ میک چکن بِگ میک ڈرنک کوک 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_13 is -4.99708 over 190 frames.
+rumi_speaker_00106A_00106_A_32 میم ٹوٹل ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_32 is -5.36644 over 83 frames.
+rumi_speaker_00106A_00106_A_39 بگ میک رائل ڈرنک کوک 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_39 is -5.29841 over 192 frames.
+rumi_speaker_00106A_00106_A_42 حنا کے نام سے پی نے کہا کہ آپ کو تھری میڈیم کومپلیمینٹری فرائز ڈیلیور کیے جا رہے ہیں ٹھیک ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_42 is -5.09241 over 538 frames.
+rumi_speaker_00106B_00106_B_5 بعد 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106B_00106_B_5 is -4.43723 over 25 frames.
+rumi_speaker_00106B_00106_B_7 جی جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106B_00106_B_7 is -4.35625 over 44 frames.
+rumi_speaker_00107A_00107_A_3 ہوتی ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00107A_00107_A_3 is -4.34143 over 58 frames.
+rumi_speaker_00107B_00107_B_2 وعلیکم آسلام 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00107B_00107_B_2 is -3.82381 over 92 frames.
+rumi_speaker_00109A_00109_A_10 سوری فرسٹ آئی ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109A_00109_A_10 is -4.4023 over 182 frames.
+rumi_speaker_00109A_00109_A_8 میں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109A_00109_A_8 is -3.78991 over 98 frames.
+rumi_speaker_00109B_00109_B_16 سوری کے ون ریگولر میل میک چکن ودھ چیز کو کے کی طرف سے ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109B_00109_B_16 is -3.91788 over 726 frames.
+rumi_speaker_00109B_00109_B_8 جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109B_00109_B_8 is -4.00613 over 53 frames.
+rumi_speaker_0010A_0010_A_3 جی تھری شیور سر برانچ اوپن ہے واپڈا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0010A_0010_A_3 is -4.60332 over 211 frames.
+rumi_speaker_0010B_0010_B_15 کیا میں کیوں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0010B_0010_B_15 is -4.985 over 112 frames.
+rumi_speaker_0010B_0010_B_5 اچھا تو ٹو بند کر اپنے سر ٹوٹل تھی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0010B_0010_B_5 is -5.33693 over 320 frames.
+rumi_speaker_00110A_00110_A_19 نظر آتے ہیں کی فضا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00110A_00110_A_19 is -4.14134 over 242 frames.
+rumi_speaker_00110B_00110_B_19 دوسری کافی سم ہو سکتا تھا کہ اس کے سائز ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00110B_00110_B_19 is -4.43301 over 347 frames.
+rumi_speaker_00110B_00110_B_23 ون میڈیم فرائز ہے میکڈونلڈز ہوتی رہی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00110B_00110_B_23 is -4.39359 over 302 frames.
+rumi_speaker_00112A_00112_A_5 آپ اس میں ایک میک کرسپی کے اندر ایک میک چکن کرتی ہوں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112A_00112_A_5 is -5.00273 over 353 frames.
+rumi_speaker_00112A_00112_A_8 ٹو تھری 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112A_00112_A_8 is -5.38617 over 41 frames.
+rumi_speaker_00112B_00112_B_1 آسلام علیکم صدف فروم میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112B_00112_B_1 is -5.41464 over 200 frames.
+rumi_speaker_00112B_00112_B_19 جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112B_00112_B_19 is -4.08385 over 39 frames.
+rumi_speaker_00112B_00112_B_27 اماؤنٹ جی ثنا آرڈر بھی کرتے ہوئے کہا کہ کر سکتی کہ کبھی آپ کے میک ڈرنک کوک کے ساتھ ریگولر میل میک چکن 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112B_00112_B_27 is -5.36017 over 649 frames.
+rumi_speaker_00113A_00113_A_11 جوہر ٹاؤن لاہور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113A_00113_A_11 is -4.12963 over 118 frames.
+rumi_speaker_00113A_00113_A_3 ہاؤس نمبر تھری زیرو سیون 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113A_00113_A_3 is -4.78171 over 155 frames.
+rumi_speaker_00113A_00113_A_31 جی جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113A_00113_A_31 is -4.80411 over 33 frames.
+rumi_speaker_00113B_00113_B_1 آسلام علیکم دِس اِس میمونہ فروم میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113B_00113_B_1 is -4.15922 over 258 frames.
+rumi_speaker_00113B_00113_B_18 میم ایڈریس دوبارہ چیز بتائی نواز چاہتے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113B_00113_B_18 is -4.44554 over 246 frames.
+rumi_speaker_00114B_00114_B_21 سر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00114B_00114_B_21 is -4.73785 over 46 frames.
+rumi_speaker_00114B_00114_B_9 آپ پلیز مجھے ایک موقع 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00114B_00114_B_9 is -4.32968 over 148 frames.
+rumi_speaker_00115A_00115_A_4 میں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00115A_00115_A_4 is -3.39455 over 63 frames.
+rumi_speaker_00115B_00115_B_2 آسلام وعلیکم دِس اِس میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00115B_00115_B_2 is -4.20096 over 178 frames.
+rumi_speaker_00115B_00115_B_7 ہیں میکڈونلڈز ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00115B_00115_B_7 is -4.10228 over 129 frames.
+rumi_speaker_0011A_0011_A_1 وعلیکم اسلام سے آرڈر پلیس ہوگا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011A_0011_A_1 is -4.42426 over 235 frames.
+rumi_speaker_0011A_0011_A_13 ہاں لیکن نائن پیس نہ کریں سکس تھری سیون ایٹ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011A_0011_A_13 is -4.15566 over 364 frames.
+rumi_speaker_0011B_0011_B_20 اسپائیسی اویل کرنا چاہ رہے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011B_0011_B_20 is -4.43522 over 177 frames.
+rumi_speaker_0011B_0011_B_27 جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011B_0011_B_27 is -4.46317 over 46 frames.
+rumi_speaker_0011B_0011_B_7 دسمبر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011B_0011_B_7 is -4.16645 over 60 frames.
+rumi_speaker_00123A_00123_A_7 مطابق کے ساتھ سب کی جانب چند کے نہ ہوتے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00123A_00123_A_7 is -4.79981 over 308 frames.
+rumi_speaker_00123B_00123_B_3 برگر برگر ودھ چیز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00123B_00123_B_3 is -5.12499 over 154 frames.
+rumi_speaker_00123B_00123_B_8 پروڈکٹ آرڈر رائیڈر اون کال کر لیا ہے میک فلوری اوریو آرڈر تھا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00123B_00123_B_8 is -4.95186 over 560 frames.
+rumi_speaker_00124A_00124_A_25 جی زیرو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124A_00124_A_25 is -4.62686 over 48 frames.
+rumi_speaker_00124A_00124_A_3 ایچ او 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124A_00124_A_3 is -5.02863 over 46 frames.
+rumi_speaker_00124B_00124_B_1 آسلام علیکم دِس اِس زین فرام میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124B_00124_B_1 is -4.12635 over 219 frames.
+rumi_speaker_00124B_00124_B_13 جی نام کی کی سکتی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124B_00124_B_13 is -4.80763 over 129 frames.
+rumi_speaker_00124B_00124_B_4 آرڈر فرسٹ ٹائم ہے کہ ہمارے پاس ہیں مجھے ڈیلیور فرائز آپ کو گائیڈ کر دیتی ہوں ڈیل فور ٹو اینڈ ڈیل فور ہولڈنگ سر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124B_00124_B_4 is -4.40857 over 655 frames.
+rumi_speaker_00125A_00125_A_11 کو واپس کال کروا لیتا ہوں سر برانچ سے فون بھی ہیں آپ صرف مشکل ہوتا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125A_00125_A_11 is -4.28921 over 516 frames.
+rumi_speaker_00125A_00125_A_13 سکس زیرو ٹو زیرو ون سکس جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125A_00125_A_13 is -4.35752 over 218 frames.
+rumi_speaker_00125A_00125_A_33 کو بھی کہنا ہے کہ آج کہ آخر کار بالکل بھی میں آپ فور زیرو فائیو فور زیرو فائیو تھری 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125A_00125_A_33 is -4.10223 over 693 frames.
+rumi_speaker_00125B_00125_B_5 بالکل سر وعلیکم دس اِس ٹو آرڈر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125B_00125_B_5 is -4.33884 over 195 frames.
+rumi_speaker_00126B_00126_B_12 اب تک دس اٹھارہ پے ایڈریس اگر تم نے کال کی تھی آرڈر کائنڈلی آپ کو ڈیلیور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00126B_00126_B_12 is -5.15949 over 494 frames.
+rumi_speaker_00126B_00126_B_28 سے نو طرح کال کی تھی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00126B_00126_B_28 is -5.28343 over 145 frames.
+rumi_speaker_00127A_00127_A_17 اوکے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00127A_00127_A_17 is -4.1305 over 126 frames.
+rumi_speaker_00127B_00127_B_2 کی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00127B_00127_B_2 is -3.98321 over 67 frames.
+rumi_speaker_00129A_00129_A_10 سر میکڈونلڈز کی ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129A_00129_A_10 is -4.23539 over 133 frames.
+rumi_speaker_00129A_00129_A_2 جی فرسٹ ٹائم آرڈر فرمائیے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129A_00129_A_2 is -4.49418 over 174 frames.
+rumi_speaker_00129A_00129_A_6 آپ ون تھری ون ٹو تھری 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129A_00129_A_6 is -4.58927 over 125 frames.
+rumi_speaker_00129B_00129_B_15 آرڈر جی کو ہوں پلیز آپ آرڈر ڈیلیور تو کو کال بیک نہیں کر رہا ہوں پرائس پوچھ دسمبر مجھے آرڈر ریسیو پر بس آرہا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_15 is -4.66741 over 831 frames.
+rumi_speaker_00129B_00129_B_23 جی آسلام وعلیکم 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_23 is -4.79012 over 147 frames.
+rumi_speaker_00129B_00129_B_25 آپ جو مینجمنٹ آپکی کوک کو کال برانچ پرسن 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_25 is -4.59833 over 276 frames.
+rumi_speaker_00129B_00129_B_26 جی جس نمبر سے فرسٹ ٹائم آرڈر پلیس ہو ورنہ سکتا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_26 is -4.78201 over 353 frames.
+rumi_speaker_0012A_0012_A_17 میں آپ کو نمبر بتا دیتا ہوں جس سے میں نے کال کی تھی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012A_0012_A_17 is -4.1165 over 280 frames.
+rumi_speaker_0012A_0012_A_37 جی جی یہ گلریز تھری فور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012A_0012_A_37 is -4.24432 over 204 frames.
+rumi_speaker_0012A_0012_A_42 چلیں تھینک یو فور ٹو فور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012A_0012_A_42 is -4.56453 over 166 frames.
+rumi_speaker_0012B_0012_B_6 سر تھینک یو فور کالنگ میکڈونلڈز اللہ حافظ اوکے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012B_0012_B_6 is -4.21131 over 461 frames.
+rumi_speaker_00130A_00130_A_18 آپ مجھے بتا دیں میم میں آپ کا آرڈر پلیس کروا رہی ہیں آپ کو حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130A_00130_A_18 is -4.40519 over 406 frames.
+rumi_speaker_00130A_00130_A_19 کائنڈلی طور پر دیتی ہے میم میں آپ کا آرڈر ابھی دے کر گیا ہے آرڈر آپ کو ڈیلیور کروا دیتی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130A_00130_A_19 is -4.47764 over 699 frames.
+rumi_speaker_00130B_00130_B_21 جی جی نے ابھی آرڈر کروایا اراؤنڈ ون اسلام آباد اور ٹو ہنڈریڈ اینڈ ایٹی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130B_00130_B_21 is -5.39787 over 510 frames.
+rumi_speaker_00130B_00130_B_27 ہاں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130B_00130_B_27 is -5.15544 over 181 frames.
+rumi_speaker_00131A_00131_A_6 رہی ہیں آپ کی کمپلین بھی فارورڈ کر دیتا ہوں آپ برانچ سے کنفرم کر دیجئے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00131A_00131_A_6 is -4.22278 over 518 frames.
+rumi_speaker_00131B_00131_B_16 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00131B_00131_B_16 is -5.45277 over 99 frames.
+rumi_speaker_00131B_00131_B_26 اب تو بریک فاسٹ مینیو ابھی چاہئیے ڈیلیوری ٹائم آ رہی ہوں میں فالو اپ کے بعد سے حسن علی آرڈر فرسٹ ٹائم پلیس ہوگا برگر میکڈونلڈز آفر زیرو ٹو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00131B_00131_B_26 is -4.99072 over 1372 frames.
+rumi_speaker_00132A_00132_A_10 ٹھیک ہے میں آپ کو کال کرو نا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132A_00132_A_10 is -3.86704 over 330 frames.
+rumi_speaker_00132A_00132_A_6 فور ہولڈنگ میم ایڈریس کنفرمیشن اون کال کے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132A_00132_A_6 is -4.18471 over 457 frames.
+rumi_speaker_00132B_00132_B_25 میں بالکل فورٹین اوبلیک تھری ٹو ہے لیے کی فور ٹو فور سکس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132B_00132_B_25 is -4.33087 over 523 frames.
+rumi_speaker_00132B_00132_B_37 فور بالکل مسٹر فور زیرو فائیو ٹو ٹین منٹس آپ کو ون ٹو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132B_00132_B_37 is -4.4387 over 577 frames.
+rumi_speaker_00132B_00132_B_5 فور ٹو فور سکس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132B_00132_B_5 is -4.73242 over 213 frames.
+rumi_speaker_00133A_00133_A_14 کو چیز یا تو میرے بچے وہ ایک کیا اور وہ بالکل 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133A_00133_A_14 is -4.99433 over 409 frames.
+rumi_speaker_00133A_00133_A_17 میرا کو بتایا کہ میرے ساتھ لائن وہ کو فورا بعد پہنچے تھے جو برگر کام کرو تھری ہنڈریڈ ایٹی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133A_00133_A_17 is -5.02862 over 655 frames.
+rumi_speaker_00133B_00133_B_17 میک کرسپی کر دی ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133B_00133_B_17 is -5.03911 over 129 frames.
+rumi_speaker_00133B_00133_B_20 کو فائدہ بھی کی ہوگا آپ کا جی پتا نہیں کیا آپ کو ہاؤس نمبر پر پر بری کے آپ وہاں بھی مجھے وہ بتائیں کیا میک چکن پیس کیا ہوتا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133B_00133_B_20 is -5.08869 over 770 frames.
+rumi_speaker_00133B_00133_B_8 دو ہیپی ہو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133B_00133_B_8 is -5.78727 over 75 frames.
+rumi_speaker_00134A_00134_A_1 آسلام علیکم دِس اِس فرام میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134A_00134_A_1 is -3.98225 over 185 frames.
+rumi_speaker_00134A_00134_A_6 مرتبہ پھر پلیس کروا لیتی ہے میں سر میں آپ کو آرڈر پلیس 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134A_00134_A_6 is -4.23011 over 341 frames.
+rumi_speaker_00134B_00134_B_13 ٹھیک نہ ہو تو رہے تھے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134B_00134_B_13 is -4.34252 over 117 frames.
+rumi_speaker_00134B_00134_B_3 تھری فائیو تھری 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134B_00134_B_3 is -4.06374 over 98 frames.
+rumi_speaker_00136A_00136_A_10 ایک لارج چاکلیٹ شیک ہوں کر رہی ہیں ساس بار بی کیو ڈرنک سپرائٹ ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00136A_00136_A_10 is -4.61897 over 453 frames.
+rumi_speaker_00136B_00136_B_10 ٹو زیرو سیون پین ہوں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00136B_00136_B_10 is -4.61166 over 205 frames.
+rumi_speaker_00136B_00136_B_17 سارے اینڈ رائیڈر ہاؤسنگ سوسائٹی میرے ساتھ ساتھ کیا آپ کو پریٹیو ہاؤسنگ سوسائٹی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00136B_00136_B_17 is -4.58822 over 528 frames.
+rumi_speaker_00137A_00137_A_5 آپ مجھے ایڈریس کنفرم کر دیجئے گا کیا تھا جب آپ لوگ کرنا چاہیں گے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137A_00137_A_5 is -4.43898 over 372 frames.
+rumi_speaker_00137B_00137_B_11 کرے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137B_00137_B_11 is -4.40674 over 67 frames.
+rumi_speaker_00137B_00137_B_19 اگر آپ نے آرڈر لیا تھا کہ آپ ڈیلیور کرتے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137B_00137_B_19 is -4.5033 over 323 frames.
+rumi_speaker_00137B_00137_B_43 یاد رہے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137B_00137_B_43 is -4.65326 over 116 frames.
+rumi_speaker_00138A_00138_A_7 چارجز میں میں دیا اور ٹرائے آپ لوگ کیا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00138A_00138_A_7 is -5.03584 over 362 frames.
+rumi_speaker_00139A_00139_A_13 اگر سٹی گروپ کو بھیجے گئے تھے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139A_00139_A_13 is -4.53988 over 202 frames.
+rumi_speaker_00139A_00139_A_16 اسلام آباد 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139A_00139_A_16 is -4.04728 over 98 frames.
+rumi_speaker_00139B_00139_B_13 کی کھانا اتنا سکتا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_13 is -4.33685 over 169 frames.
+rumi_speaker_00139B_00139_B_25 کو میں شہر کیا کی کی بات ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_25 is -3.75925 over 310 frames.
+rumi_speaker_00139B_00139_B_27 ہے مجھے دوبارہ کال کے لئے آپ درکار جی آپ برانچز سے کال آتی تھی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_27 is -4.22911 over 613 frames.
+rumi_speaker_00139B_00139_B_32 جی جی جس نمبر سے فرسٹ فلور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_32 is -4.21461 over 242 frames.
+rumi_speaker_00140A_00140_A_16 رائیڈر چلے گا اس کے بعد آرڈر بتا دیں آپ مجھے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140A_00140_A_16 is -4.90624 over 225 frames.
+rumi_speaker_00140A_00140_A_23 ایک چکن چپلی برگر کی ویلیو میل ڈرنک کوک کے ساتھ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140A_00140_A_23 is -4.5258 over 273 frames.
+rumi_speaker_00140B_00140_B_29 جی جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_29 is -4.76224 over 40 frames.
+rumi_speaker_00140B_00140_B_34 ہیلو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_34 is -4.98244 over 31 frames.
+rumi_speaker_00140B_00140_B_36 ہاؤس نمبر تھرٹی فائیو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_36 is -4.98009 over 130 frames.
+rumi_speaker_00140B_00140_B_55 جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_55 is -5.13763 over 22 frames.
+rumi_speaker_00140B_00140_B_63 ٹھیک ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_63 is -5.03602 over 93 frames.
+rumi_speaker_00140B_00140_B_85 اور دو چکن چپلی تھا اور ہوگا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_85 is -5.12084 over 277 frames.
+rumi_speaker_00141A_00141_A_6 جی میں نے تھری منی میک رائل کیا تھا لیکن اگر آپ کا مسئلہ کر لیا ہے آپ کا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00141A_00141_A_6 is -4.68703 over 472 frames.
+rumi_speaker_00141B_00141_B_12 میں آپ سے ہمارا میں آپ کی کمپلین فارورڈ کرتا ہوں کائنڈلی آپ دے دے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00141B_00141_B_12 is -4.30608 over 361 frames.
+rumi_speaker_00142A_00142_A_8 فرائز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00142A_00142_A_8 is -3.89405 over 93 frames.
+rumi_speaker_00142B_00142_B_16 جی بالکل بالکل سر میں آپ فور سیونٹی برانچ اوپن کر سکتے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00142B_00142_B_16 is -4.29592 over 408 frames.
+rumi_speaker_00142B_00142_B_17 تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر اللہ حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00142B_00142_B_17 is -4.17436 over 223 frames.
+rumi_speaker_00143A_00143_A_16 جی جی نہیں ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143A_00143_A_16 is -4.45629 over 83 frames.
+rumi_speaker_00143A_00143_A_28 ہے یعنی آپکی لارج سر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143A_00143_A_28 is -4.59387 over 173 frames.
+rumi_speaker_00143A_00143_A_5 آئی جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143A_00143_A_5 is -5.24679 over 46 frames.
+rumi_speaker_00143B_00143_B_18 ہاں جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143B_00143_B_18 is -4.60962 over 50 frames.
+rumi_speaker_00143B_00143_B_2 اسی ایڈریس اسی نمبر ہے جس کا حل تو اب میک چکن 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143B_00143_B_2 is -4.05801 over 423 frames.
+rumi_speaker_00143B_00143_B_5 ودھ چیز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143B_00143_B_5 is -4.22207 over 72 frames.
+rumi_speaker_00144A_00144_A_1 میں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00144A_00144_A_1 is -4.11509 over 39 frames.
+rumi_speaker_00144B_00144_B_6 والوں کے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00144B_00144_B_6 is -3.79014 over 188 frames.
+rumi_speaker_00145A_00145_A_1 جی فرسٹ فلور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145A_00145_A_1 is -4.61082 over 162 frames.
+rumi_speaker_00145B_00145_B_1 وعلیکم آسلام علیکم ہو پائی میں نے آپ کو ڈرنک سپرائٹ کردیں آرڈر لیتے ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145B_00145_B_1 is -4.1931 over 589 frames.
+rumi_speaker_00145B_00145_B_3 فائیو منٹس اوکے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145B_00145_B_3 is -4.05792 over 157 frames.
+rumi_speaker_00145B_00145_B_5 فور ڈبل فور 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145B_00145_B_5 is -4.07204 over 96 frames.
+rumi_speaker_00146A_00146_A_5 اس بات کی کے پاس ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00146A_00146_A_5 is -4.10236 over 368 frames.
+rumi_speaker_00146B_00146_B_2 آرڈر پلیس حکم بھی دیا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00146B_00146_B_2 is -5.20791 over 150 frames.
+rumi_speaker_00146B_00146_B_4 اچھا اور ہوا ہے تھرٹی برگر تھا ڈرنک اسپرائٹ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00146B_00146_B_4 is -5.70181 over 470 frames.
+rumi_speaker_00147A_00147_A_14 آرڈر ڈیلیور ہوا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_14 is -4.87277 over 111 frames.
+rumi_speaker_00147A_00147_A_18 جی جی وہ لِڈ کھلا ہوا تھا تو وہ دی گئی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_18 is -5.04871 over 239 frames.
+rumi_speaker_00147A_00147_A_31 لاہور آرڈر ٹائم تھرٹی منٹس اوکے آرڈر آئے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_31 is -5.4807 over 491 frames.
+rumi_speaker_00147A_00147_A_33 آپ مجھے بھیجا ہی کے میٹر کے آرڈر نمبر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_33 is -5.0822 over 314 frames.
+rumi_speaker_00147B_00147_B_6 اوکے تھینک یو سو مچ تھینک یو فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147B_00147_B_6 is -4.57165 over 259 frames.
+rumi_speaker_00148A_00148_A_17 میمبر ہیں سر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148A_00148_A_17 is -4.57923 over 95 frames.
+rumi_speaker_00148A_00148_A_23 سر میں بالکل آپ کا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148A_00148_A_23 is -4.30761 over 73 frames.
+rumi_speaker_00148B_00148_B_10 ہیلو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_10 is -4.91882 over 23 frames.
+rumi_speaker_00148B_00148_B_14 آرڈر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_14 is -4.54058 over 37 frames.
+rumi_speaker_00148B_00148_B_32 کی کر دیا جائے گی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_32 is -4.85238 over 81 frames.
+rumi_speaker_00148B_00148_B_40 اماؤنٹ ہے ڈبل تھری 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_40 is -4.97069 over 174 frames.
+rumi_speaker_00149A_00149_A_18 تو آپ پلیز مجھے ایک موقع دے دیا تو آپ کا آرڈر پلیس ہوگا آپ کا آرڈر فرسٹ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149A_00149_A_18 is -4.64429 over 366 frames.
+rumi_speaker_00149A_00149_A_24 کمپلین آپکی ہائی لیول کیسے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149A_00149_A_24 is -4.25079 over 168 frames.
+rumi_speaker_00149A_00149_A_9 زیرو تھری ڈبل زیرو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149A_00149_A_9 is -4.39424 over 86 frames.
+rumi_speaker_00149B_00149_B_13 سر پر سمجھ لیجیے پہلے تو بس آپ کو بتا دیتا ہوں کہتے دیکھا تھا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_13 is -4.36014 over 406 frames.
+rumi_speaker_00149B_00149_B_14 سارے کس نام سے آرڈر پلیس کروا سکتی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_14 is -4.34516 over 286 frames.
+rumi_speaker_00149B_00149_B_29 آپ کا آرڈر فارورڈ ہوتا آپ کی بات کہی تھی کر لیا ففٹی والی سکتا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_29 is -4.31186 over 500 frames.
+rumi_speaker_00149B_00149_B_3 جی کمپلینز ہوں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_3 is -4.2187 over 148 frames.
+rumi_speaker_0014A_0014_A_28 اوکے جی وعلیکم آسلام آپ آرڈر مجھے کیا پتہ چل سکتا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014A_0014_A_28 is -4.72723 over 340 frames.
+rumi_speaker_0014B_0014_B_21 یاد کرانا تم آگے سے تماشے کر فرام میکڈونلڈز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014B_0014_B_21 is -4.90324 over 345 frames.
+rumi_speaker_0014B_0014_B_29 تو میں نے آرڈر نہیں بتانا کسی اور کو ٹرانسفر کرو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014B_0014_B_29 is -5.10279 over 274 frames.
+rumi_speaker_0014B_0014_B_5 مینجر بتایا آپنے نہیں لکھا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014B_0014_B_5 is -4.28405 over 194 frames.
+rumi_speaker_00150A_00150_A_2 وعلیکم اسلام 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00150A_00150_A_2 is -4.3928 over 72 frames.
+rumi_speaker_00150A_00150_A_8 فورٹی فور ڈبل ٹو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00150A_00150_A_8 is -4.80072 over 119 frames.
+rumi_speaker_00150B_00150_B_1 آسلام علیکم 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00150B_00150_B_1 is -4.29801 over 66 frames.
+rumi_speaker_00152A_00152_A_15 اوکے آرڈر آپ کی نہیں چل رہی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152A_00152_A_15 is -4.15157 over 288 frames.
+rumi_speaker_00152A_00152_A_7 وجہ ڈرائیونگ وائیڈ کر سکتی ہیں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152A_00152_A_7 is -4.41091 over 169 frames.
+rumi_speaker_00152B_00152_B_14 میڈم میرا آرڈر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152B_00152_B_14 is -3.77583 over 168 frames.
+rumi_speaker_00152B_00152_B_17 کمپلیٹ 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152B_00152_B_17 is -4.054 over 53 frames.
+rumi_speaker_00153A_00153_A_1 وعلیکم آسلام آپ نے مسئلہ کے ساتھ نمبر چار بار بار کولز 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00153A_00153_A_1 is -5.13839 over 521 frames.
+rumi_speaker_00153A_00153_A_24 کوئی بالکل آپ کسی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00153A_00153_A_24 is -5.43685 over 154 frames.
+rumi_speaker_00153B_00153_B_5 لیکن تھا سر میں آپ کو کال بیک کال برانچ سے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00153B_00153_B_5 is -4.76864 over 250 frames.
+rumi_speaker_00154A_00154_A_1 وعلیکم آسلام یہ میں نے ایک بچے فرام میکڈونلڈز سے سے حمزہ کو برانچ سے کال نہیں آئی کو سے سے کال کروں گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00154A_00154_A_1 is -4.41101 over 694 frames.
+rumi_speaker_00154B_00154_B_6 مگر جو پسند تھری ڈبل ٹو زیرو ون فور فاتھر فن کو کال کے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00154B_00154_B_6 is -4.47516 over 414 frames.
+rumi_speaker_00154B_00154_B_9 جی سر معذرت چاہوں گا سر آپ کو میں کے سلسلے میں آپ کو کال بیک کال 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00154B_00154_B_9 is -4.40243 over 403 frames.
+rumi_speaker_00155A_00155_A_12 آپ کا بڑا رہا ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155A_00155_A_12 is -4.76616 over 179 frames.
+rumi_speaker_00155A_00155_A_27 جی بالکل 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155A_00155_A_27 is -4.735 over 77 frames.
+rumi_speaker_00155A_00155_A_7 آن لائن بری جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155A_00155_A_7 is -4.97941 over 299 frames.
+rumi_speaker_00155B_00155_B_7 ٹھیک ہے تھینک یو 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155B_00155_B_7 is -4.66214 over 103 frames.
+rumi_speaker_00156A_00156_A_3 اور بار بار لاہور سے میگا واٹ ہو چکی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00156A_00156_A_3 is -5.35707 over 266 frames.
+rumi_speaker_00156A_00156_A_52 آپ کو کریں 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00156A_00156_A_52 is -5.54247 over 135 frames.
+rumi_speaker_00156B_00156_B_1 آسانی میم آپ کے ساتھ کیش کیجئے گا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00156B_00156_B_1 is -5.08649 over 220 frames.
+rumi_speaker_00157A_00157_A_10 علامہ لیے جی فورٹین سارے کی بیٹی کے میں نے آپ مجھے نے کائنڈلی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157A_00157_A_10 is -5.41929 over 558 frames.
+rumi_speaker_00157A_00157_A_35 ہاں جی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157A_00157_A_35 is -5.21772 over 130 frames.
+rumi_speaker_00157A_00157_A_6 آپ کائنڈلی مجھے بتا سکتی ہے برانچ سے مجھے میک عر یبیہ ایڈریس کنفرم کیا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157A_00157_A_6 is -5.09391 over 427 frames.
+rumi_speaker_00157B_00157_B_23 میں بالکل آپ کا کنسرن برانچ میں فارورڈ کر حوالے سے ٹھیک ہے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157B_00157_B_23 is -5.32327 over 333 frames.
+rumi_speaker_00157B_00157_B_7 آپ کو ہی اور بالکل میم 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157B_00157_B_7 is -5.41824 over 156 frames.
+rumi_speaker_00157B_00157_B_8 آج بھی بھیجا نہ ہوتا تم نے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157B_00157_B_8 is -5.17985 over 187 frames.
+LOG (apply-cmvn[5.5.858~1-081e58]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 205 utterances, errors on 0
+rumi_speaker_00158A_00158_A_20 ایکسٹرا آرڈر میں آپ کا آرڈر کروانا آپ لوگوں پر ہمارا کرنے سے پہلے اسی لیے تکلیف فائیو سکس ٹی تھری ایف سٹریٹ جی سر 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158A_00158_A_20 is -4.58429 over 760 frames.
+rumi_speaker_00158A_00158_A_22 کرنے کا کہنا ہے تو میک چکن والی وہ جی جی موجود نہیں سے کروایا جو آئندہ بات کا سامنا کسی کر دیا تھا آپ کو برانچ سے بات کرنے دیا جانا چاہیے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158A_00158_A_22 is -4.6165 over 925 frames.
+rumi_speaker_00158A_00158_A_3 جی سر آپ کی بات بھی کمپلین بالکل نے اپنی پسند آتے ہیں کہ میں کہا تھا 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158A_00158_A_3 is -4.60156 over 434 frames.
+rumi_speaker_00158B_00158_B_13 ودھ بار بی ہوتے تو سیون اوبلیک ون 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158B_00158_B_13 is -4.43048 over 265 frames.
+rumi_speaker_00159A_00159_A_6 کے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00159A_00159_A_6 is -3.77197 over 245 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -98.7155 over 51587 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:161) Applied transform to 205 utterances; 0 had errors.
+rumi_speaker_00159B_00159_B_4 کے کوشش کی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00159B_00159_B_4 is -3.75281 over 261 frames.
+rumi_speaker_00160A_00160_A_7 اوکے 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00160A_00160_A_7 is -3.96178 over 44 frames.
+rumi_speaker_00160A_00160_A_8 فور کی 
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00160A_00160_A_8 is -3.72519 over 78 frames.
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:main():gmm-latgen-faster.cc:176) Time taken 197.136s: real-time factor assuming 100 frames/sec is 0.382143
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:main():gmm-latgen-faster.cc:179) Done 205 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.858~1-081e58]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -4.60786 over 51587 frames.
+# Accounting: time=197 threads=1
+# Ended (code 0) at Sat May 29 00:12:41 PKT 2021, elapsed time 197 seconds
+
+
+
+
+
+SGMM2:
+
+# sgmm2-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --determinize-lattice=false --allow-partial=true --word-symbol-table=exp/sgmm2_4/graph/words.txt --max-mem=50000000 "--gselect=ark,s,cs:gunzip -c exp/sgmm2_4/decode/gselect.1.gz| copy-gselect --n=3 ark:- ark:- |" exp/sgmm2_4/final.alimdl exp/sgmm2_4/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/sgmm2_4/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split8/1/utt2spk ark,s,cs:exp/tri3/decode/trans.1 ark:- ark:- |" "ark:|gzip -c > exp/sgmm2_4/decode/pre_lat.1.gz" 
+# Started at Sat May 29 01:59:08 PKT 2021
+#
+sgmm2-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --determinize-lattice=false --allow-partial=true --word-symbol-table=exp/sgmm2_4/graph/words.txt --max-mem=50000000 '--gselect=ark,s,cs:gunzip -c exp/sgmm2_4/decode/gselect.1.gz| copy-gselect --n=3 ark:- ark:- |' exp/sgmm2_4/final.alimdl exp/sgmm2_4/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- | splice-feats  ark:- ark:- | transform-feats exp/sgmm2_4/final.mat ark:- ark:- | transform-feats --utt2spk=ark:data/test/split8/1/utt2spk ark,s,cs:exp/tri3/decode/trans.1 ark:- ark:- |' 'ark:|gzip -c > exp/sgmm2_4/decode/pre_lat.1.gz' 
+transform-feats --utt2spk=ark:data/test/split8/1/utt2spk ark,s,cs:exp/tri3/decode/trans.1 ark:- ark:- 
+transform-feats exp/sgmm2_4/final.mat ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/test/split8/1/utt2spk scp:data/test/split8/1/cmvn.scp scp:data/test/split8/1/feats.scp ark:- 
+splice-feats ark:- ark:- 
+copy-gselect --n=3 ark:- ark:- 
+rumi_speaker_00100A_00100_A_16 جی سیپریٹ رائٹ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100A_00100_A_16 is -5.89965 over 148 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00100A_00100_A_16 is -5.89965 over 148 frames.
+rumi_speaker_00100A_00100_A_30 ٹوٹل اماؤنٹ ہے سکس ہنڈریڈ اینڈ ففٹی روپیس اونلی اس کے ساتھ آپ کو کومپلیمینٹری میڈیم فرائز بھی سے کی ساری 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100A_00100_A_30 is -5.47865 over 630 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00100A_00100_A_30 is -5.47865 over 630 frames.
+rumi_speaker_00100A_00100_A_8 جی بتائیے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100A_00100_A_8 is -5.00983 over 76 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00100A_00100_A_8 is -5.00983 over 76 frames.
+rumi_speaker_00100B_00100_B_24 جی سر آرڈر جی دوسرا جیسے اور ان کی طرف 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100B_00100_B_24 is -5.26288 over 468 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00100B_00100_B_24 is -5.26288 over 468 frames.
+rumi_speaker_00100B_00100_B_6 سر تھینک یو فور سکس 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00100B_00100_B_6 is -5.34992 over 187 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00100B_00100_B_6 is -5.34992 over 187 frames.
+rumi_speaker_00102A_00102_A_7 ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102A_00102_A_7 is -5.16239 over 80 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00102A_00102_A_7 is -5.16239 over 80 frames.
+rumi_speaker_00102B_00102_B_17 ایک کرتی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_17 is -5.57997 over 88 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00102B_00102_B_17 is -5.57997 over 88 frames.
+rumi_speaker_00102B_00102_B_28 آ رہی ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_28 is -6.36597 over 310 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00102B_00102_B_28 is -6.36597 over 310 frames.
+rumi_speaker_00102B_00102_B_3 حوالے کر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_3 is -5.72101 over 145 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00102B_00102_B_3 is -5.72101 over 145 frames.
+rumi_speaker_00102B_00102_B_40 تھی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00102B_00102_B_40 is -6.85973 over 26 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00102B_00102_B_40 is -6.85973 over 26 frames.
+rumi_speaker_00103A_00103_A_20 ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00103A_00103_A_20 is -4.68899 over 83 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00103A_00103_A_20 is -4.68899 over 83 frames.
+rumi_speaker_00103B_00103_B_7 کے راولپنڈی تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00103B_00103_B_7 is -5.7555 over 170 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00103B_00103_B_7 is -5.7555 over 170 frames.
+rumi_speaker_00103B_00103_B_8 میں ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00103B_00103_B_8 is -5.33459 over 106 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00103B_00103_B_8 is -5.33459 over 106 frames.
+rumi_speaker_00104A_00104_A_11 ٹھیک ہے میں آپ کو نمبر پرو وائیڈ کر دیجئے آپ ساہی نمبر نوٹ کرلیجئے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104A_00104_A_11 is -5.61977 over 334 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00104A_00104_A_11 is -5.61977 over 334 frames.
+rumi_speaker_00104A_00104_A_9 آپ حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104A_00104_A_9 is -5.4966 over 61 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00104A_00104_A_9 is -5.4966 over 61 frames.
+rumi_speaker_00104B_00104_B_21 آپ تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104B_00104_B_21 is -5.71063 over 41 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00104B_00104_B_21 is -5.71063 over 41 frames.
+rumi_speaker_00104B_00104_B_33 ایٹ ٹو میں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104B_00104_B_33 is -4.92051 over 112 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00104B_00104_B_33 is -4.92051 over 112 frames.
+rumi_speaker_00104B_00104_B_38 ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00104B_00104_B_38 is -6.12341 over 19 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00104B_00104_B_38 is -6.12341 over 19 frames.
+rumi_speaker_00105A_00105_A_5 ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00105A_00105_A_5 is -5.22239 over 25 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00105A_00105_A_5 is -5.22239 over 25 frames.
+rumi_speaker_00105B_00105_B_18 کے تک اگر آپ کا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00105B_00105_B_18 is -5.6562 over 136 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00105B_00105_B_18 is -5.6562 over 136 frames.
+rumi_speaker_00105B_00105_B_20 اینڈ ففٹین ہنڈریڈ اماؤنٹ پے آپ کو ون ہیش سامنا کرنا سے سکتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00105B_00105_B_20 is -5.46985 over 365 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00105B_00105_B_20 is -5.46985 over 365 frames.
+rumi_speaker_00106A_00106_A_13 بگ میک چکن اور کے ڈرنک کوک 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_13 is -5.67473 over 190 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00106A_00106_A_13 is -5.67473 over 190 frames.
+rumi_speaker_00106A_00106_A_32 نمبر سے ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_32 is -5.88421 over 83 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00106A_00106_A_32 is -5.88421 over 83 frames.
+rumi_speaker_00106A_00106_A_39 بگ میک رائل ڈرنک کوک 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_39 is -5.82894 over 192 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00106A_00106_A_39 is -5.82894 over 192 frames.
+rumi_speaker_00106A_00106_A_42 حنا کے نام سے تین نے کہا اسے آپ کو تھری میڈیم کومپلیمینٹری ڈیلیور کیے جائیں جائے گی دے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106A_00106_A_42 is -5.48657 over 538 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00106A_00106_A_42 is -5.48657 over 538 frames.
+rumi_speaker_00106B_00106_B_5 تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106B_00106_B_5 is -5.61667 over 25 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00106B_00106_B_5 is -5.61667 over 25 frames.
+rumi_speaker_00106B_00106_B_7 دے گی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00106B_00106_B_7 is -5.6133 over 44 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00106B_00106_B_7 is -5.6133 over 44 frames.
+rumi_speaker_00107A_00107_A_3 ہوتی ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00107A_00107_A_3 is -5.35139 over 58 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00107A_00107_A_3 is -5.35139 over 58 frames.
+rumi_speaker_00107B_00107_B_2 وعلیکم آسلام 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00107B_00107_B_2 is -4.80227 over 92 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00107B_00107_B_2 is -4.80227 over 92 frames.
+rumi_speaker_00109A_00109_A_10 سہی ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109A_00109_A_10 is -5.44863 over 182 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00109A_00109_A_10 is -5.44863 over 182 frames.
+rumi_speaker_00109A_00109_A_8 میں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109A_00109_A_8 is -4.7033 over 98 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00109A_00109_A_8 is -4.7033 over 98 frames.
+rumi_speaker_00109B_00109_B_16 سارے کے ون ریگولر میل میک چکن ودھ چیز اوکے سر تھینک یو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109B_00109_B_16 is -5.42999 over 726 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00109B_00109_B_16 is -5.42999 over 726 frames.
+rumi_speaker_00109B_00109_B_8 جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00109B_00109_B_8 is -5.10173 over 53 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00109B_00109_B_8 is -5.10173 over 53 frames.
+rumi_speaker_0010A_0010_A_3 جی ڈلیوری کروا سکتا تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0010A_0010_A_3 is -5.64463 over 211 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0010A_0010_A_3 is -5.64463 over 211 frames.
+rumi_speaker_0010B_0010_B_15 چاہتے ہیں کہ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0010B_0010_B_15 is -5.96875 over 112 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0010B_0010_B_15 is -5.96875 over 112 frames.
+rumi_speaker_0010B_0010_B_5 اچھا تو ٹو بٹ فرسٹ کو ریپلیس جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0010B_0010_B_5 is -6.47026 over 320 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0010B_0010_B_5 is -6.47026 over 320 frames.
+rumi_speaker_00110A_00110_A_19 آئندہ چار روز سے میں سے ایک تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00110A_00110_A_19 is -4.9948 over 242 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00110A_00110_A_19 is -4.9948 over 242 frames.
+rumi_speaker_00110B_00110_B_19 دوسری کافی سم ہو سکتا تھا کہ اس کرا سکتی ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00110B_00110_B_19 is -5.47284 over 347 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00110B_00110_B_19 is -5.47284 over 347 frames.
+rumi_speaker_00110B_00110_B_23 ون میڈیم فرائز سرف میکڈونلڈز ہوتی رہی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00110B_00110_B_23 is -5.50691 over 302 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00110B_00110_B_23 is -5.50691 over 302 frames.
+rumi_speaker_00112A_00112_A_5 آپ اس میں ایک میک کرسپی کرنا ایک میک چکن کرتی ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112A_00112_A_5 is -6.21607 over 353 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00112A_00112_A_5 is -6.21607 over 353 frames.
+rumi_speaker_00112A_00112_A_8 باقی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112A_00112_A_8 is -6.58676 over 41 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00112A_00112_A_8 is -6.58676 over 41 frames.
+rumi_speaker_00112B_00112_B_1 آسلام علیکم صدف فروم میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112B_00112_B_1 is -5.9128 over 200 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00112B_00112_B_1 is -5.9128 over 200 frames.
+rumi_speaker_00112B_00112_B_19 جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112B_00112_B_19 is -4.43926 over 39 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00112B_00112_B_19 is -4.43926 over 39 frames.
+rumi_speaker_00112B_00112_B_27 تمام مطابق جی سر آرڈر ریپیٹ کر رہے میرا آرڈر کنفرم کیجئے گا کائنڈلی آپ کے میک کرسپی ڈرنک کے ساتھ ریگولر میل میک چکن 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00112B_00112_B_27 is -5.64459 over 649 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00112B_00112_B_27 is -5.64459 over 649 frames.
+rumi_speaker_00113A_00113_A_11 جوہر ٹاؤن لاہور 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113A_00113_A_11 is -5.09595 over 118 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00113A_00113_A_11 is -5.09595 over 118 frames.
+rumi_speaker_00113A_00113_A_3 ہاؤس نمبر تھری زیرو سیون 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113A_00113_A_3 is -5.86292 over 155 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00113A_00113_A_3 is -5.86292 over 155 frames.
+rumi_speaker_00113A_00113_A_31 جی جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113A_00113_A_31 is -5.84122 over 33 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00113A_00113_A_31 is -5.84122 over 33 frames.
+rumi_speaker_00113B_00113_B_1 آسلام علیکم دِس اِس میمونہ فروم میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113B_00113_B_1 is -5.07467 over 258 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00113B_00113_B_1 is -5.07467 over 258 frames.
+rumi_speaker_00113B_00113_B_18 میم ایڈریس بتایں چاہتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00113B_00113_B_18 is -5.65756 over 246 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00113B_00113_B_18 is -5.65756 over 246 frames.
+rumi_speaker_00114B_00114_B_21 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00114B_00114_B_21 is -5.90378 over 46 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00114B_00114_B_21 is -5.90378 over 46 frames.
+rumi_speaker_00114B_00114_B_9 اوکے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00114B_00114_B_9 is -5.30892 over 148 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00114B_00114_B_9 is -5.30892 over 148 frames.
+rumi_speaker_00115A_00115_A_4 میں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00115A_00115_A_4 is -4.34967 over 63 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00115A_00115_A_4 is -4.34967 over 63 frames.
+rumi_speaker_00115B_00115_B_2 آسلام علیکم دِس اِس میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00115B_00115_B_2 is -5.41445 over 178 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00115B_00115_B_2 is -5.41445 over 178 frames.
+rumi_speaker_00115B_00115_B_7 ایک فانٹا کردیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00115B_00115_B_7 is -5.17584 over 129 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00115B_00115_B_7 is -5.17584 over 129 frames.
+rumi_speaker_0011A_0011_A_1 وعلیکم سلام سے آرڈر پلیس ہوگا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011A_0011_A_1 is -5.59617 over 235 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0011A_0011_A_1 is -5.59617 over 235 frames.
+rumi_speaker_0011A_0011_A_13 ہاں لیکن نائن پیس نہ کریں سکس تھری سیون 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011A_0011_A_13 is -5.20726 over 364 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0011A_0011_A_13 is -5.20726 over 364 frames.
+rumi_speaker_0011B_0011_B_20 اس پر کے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011B_0011_B_20 is -5.41651 over 177 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0011B_0011_B_20 is -5.41651 over 177 frames.
+rumi_speaker_0011B_0011_B_27 میم 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011B_0011_B_27 is -5.42281 over 46 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0011B_0011_B_27 is -5.42281 over 46 frames.
+rumi_speaker_0011B_0011_B_7 دسمبر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0011B_0011_B_7 is -5.11111 over 60 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0011B_0011_B_7 is -5.11111 over 60 frames.
+rumi_speaker_00123A_00123_A_7 آسلام کے کے ساتھ سرف کی جانب جانب سے کے گی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00123A_00123_A_7 is -5.88591 over 308 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00123A_00123_A_7 is -5.88591 over 308 frames.
+rumi_speaker_00123B_00123_B_3 کر ٹو چیز ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00123B_00123_B_3 is -6.12037 over 154 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00123B_00123_B_3 is -6.12037 over 154 frames.
+rumi_speaker_00123B_00123_B_8 میرا اور اس کے آرہا تو بس آرڈر کر لیا ہے میک فور ڈبل ٹو آرڈر تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00123B_00123_B_8 is -5.6906 over 560 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00123B_00123_B_8 is -5.6906 over 560 frames.
+rumi_speaker_00124A_00124_A_25 فضا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124A_00124_A_25 is -5.70575 over 48 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00124A_00124_A_25 is -5.70575 over 48 frames.
+rumi_speaker_00124A_00124_A_3 سے چھ سو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124A_00124_A_3 is -6.13969 over 46 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00124A_00124_A_3 is -6.13969 over 46 frames.
+rumi_speaker_00124B_00124_B_1 آسلام علیکم دِس اِس علینہ فروم میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124B_00124_B_1 is -4.96517 over 219 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00124B_00124_B_1 is -4.96517 over 219 frames.
+rumi_speaker_00124B_00124_B_13 کی تمام سکتی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124B_00124_B_13 is -5.74955 over 129 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00124B_00124_B_13 is -5.74955 over 129 frames.
+rumi_speaker_00124B_00124_B_4 آرڈر ویسے بتایا کہ ہمارے پاس ہیں مجھے بھی صرف حوالے سے آپ کو گائیڈ کر دیتی ہوں ڈیل فور ٹو اینڈ ڈیل فور فور میں سر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00124B_00124_B_4 is -5.28513 over 655 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00124B_00124_B_4 is -5.28513 over 655 frames.
+rumi_speaker_00125A_00125_A_11 کو نواز کو کال کروائی تو کے بعد بھی پسند آپ مجھے تماشا لگا ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125A_00125_A_11 is -5.3511 over 516 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00125A_00125_A_11 is -5.3511 over 516 frames.
+rumi_speaker_00125A_00125_A_13 سنا ضرور شروع ہوئے جب رہے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125A_00125_A_13 is -5.69731 over 218 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00125A_00125_A_13 is -5.69731 over 218 frames.
+rumi_speaker_00125A_00125_A_33 انہوں نے کہنا ہے کہ آخر پر زندگی میں آپ نے اور دسمبر کو نے آرڈر کرنی تھی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125A_00125_A_33 is -5.19576 over 693 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00125A_00125_A_33 is -5.19576 over 693 frames.
+rumi_speaker_00125B_00125_B_5 کے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00125B_00125_B_5 is -5.46338 over 195 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00125B_00125_B_5 is -5.46338 over 195 frames.
+rumi_speaker_00126B_00126_B_12 اگر دس اٹھارہ پے ایڈریس اگر تم نے کال کی تھی اور ریگولر فرائز آپ کو ڈیل ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00126B_00126_B_12 is -5.7513 over 494 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00126B_00126_B_12 is -5.7513 over 494 frames.
+rumi_speaker_00126B_00126_B_28 سے نو طرح کال کی تھی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00126B_00126_B_28 is -6.03012 over 145 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00126B_00126_B_28 is -6.03012 over 145 frames.
+rumi_speaker_00127A_00127_A_17 اوکے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00127A_00127_A_17 is -5.18309 over 126 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00127A_00127_A_17 is -5.18309 over 126 frames.
+rumi_speaker_00127B_00127_B_2 کے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00127B_00127_B_2 is -4.88606 over 67 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00127B_00127_B_2 is -4.88606 over 67 frames.
+rumi_speaker_00129A_00129_A_10 سر میکڈونلڈز کی ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129A_00129_A_10 is -5.37371 over 133 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00129A_00129_A_10 is -5.37371 over 133 frames.
+rumi_speaker_00129A_00129_A_2 ڈیٹ کے آگے فرمائیے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129A_00129_A_2 is -5.44242 over 174 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00129A_00129_A_2 is -5.44242 over 174 frames.
+rumi_speaker_00129A_00129_A_6 آسلام سی ون ٹو تھری 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129A_00129_A_6 is -5.72419 over 125 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00129A_00129_A_6 is -5.72419 over 125 frames.
+rumi_speaker_00129B_00129_B_15 یار عجیب لوگ ہو تم لوگ نو بھی اٹھارہ آرڈر کیا مرتبہ کو کال بیک بھی نہیں کر رہا اور سال کے چھوڑ کر جب میں سمجھ اور ذریعے چیز پہلے بتا رہا ہوں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_15 is -5.35881 over 831 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00129B_00129_B_15 is -5.35881 over 831 frames.
+rumi_speaker_00129B_00129_B_23 یہ ریزولوشن دونوں میں کر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_23 is -5.65793 over 147 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00129B_00129_B_23 is -5.65793 over 147 frames.
+rumi_speaker_00129B_00129_B_25 آپ جو مینجمنٹ ہے دو کو کال ٹرانسفر کرو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_25 is -5.30047 over 276 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00129B_00129_B_25 is -5.30047 over 276 frames.
+rumi_speaker_00129B_00129_B_26 جس کے ساتھ مل کر کہنا تھا کہ دراصل کو آرڈر نہیں آسکتا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00129B_00129_B_26 is -5.62563 over 353 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00129B_00129_B_26 is -5.62563 over 353 frames.
+rumi_speaker_0012A_0012_A_17 میں آپ کو نمبر بتا دیتا ہوں جس سے میں نے کال کی تھی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012A_0012_A_17 is -5.16518 over 280 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0012A_0012_A_17 is -5.16518 over 280 frames.
+rumi_speaker_0012A_0012_A_37 جی جی یہی ایڈریس ہوگا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012A_0012_A_37 is -5.3124 over 204 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0012A_0012_A_37 is -5.3124 over 204 frames.
+rumi_speaker_0012A_0012_A_42 سر تھینک یو فور 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012A_0012_A_42 is -6.10872 over 166 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0012A_0012_A_42 is -6.10872 over 166 frames.
+rumi_speaker_0012B_0012_B_6 میں کے ود 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0012B_0012_B_6 is -5.17464 over 461 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0012B_0012_B_6 is -5.17464 over 461 frames.
+rumi_speaker_00130A_00130_A_18 آپ مجھے بتا دیں میم میں آپ کا آرڈر پلیس کروا رہی ہیں آپ کو حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130A_00130_A_18 is -5.48625 over 406 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00130A_00130_A_18 is -5.48625 over 406 frames.
+rumi_speaker_00130A_00130_A_19 کائنڈلی طور پر نہیں میم آپ کا آرڈر ریپیٹ کر دی ہے اور پر آپ کو ڈیلیور کروا دی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130A_00130_A_19 is -5.59865 over 699 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00130A_00130_A_19 is -5.59865 over 699 frames.
+rumi_speaker_00130B_00130_B_21 جی میں نے ابھی آرڈر کروایا اراؤنڈ ون اسلام آباد اور فور ہنڈریڈ اینڈ اگین 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130B_00130_B_21 is -5.77687 over 510 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00130B_00130_B_21 is -5.77687 over 510 frames.
+rumi_speaker_00130B_00130_B_27 آباد میں گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00130B_00130_B_27 is -6.3544 over 181 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00130B_00130_B_27 is -6.3544 over 181 frames.
+rumi_speaker_00131A_00131_A_6 او کے تھینک یو کے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00131A_00131_A_6 is -5.27444 over 518 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00131A_00131_A_6 is -5.27444 over 518 frames.
+rumi_speaker_00131B_00131_B_16 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00131B_00131_B_16 is -7.34979 over 99 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00131B_00131_B_16 is -7.34979 over 99 frames.
+rumi_speaker_00131B_00131_B_26 اب تو بریک فاسٹ مینیو ابھی چاہئیے پھر بھی مسٹر ابراہیم میڈیم فرائز آرڈر کئے تھے وہ گھر اور ٹو زیرو فور ٹو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00131B_00131_B_26 is -6.01842 over 1372 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00131B_00131_B_26 is -6.01842 over 1372 frames.
+rumi_speaker_00132A_00132_A_10 ٹھیک ہے میں آپ کو کال کا حکم 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132A_00132_A_10 is -5.36056 over 330 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00132A_00132_A_10 is -5.36056 over 330 frames.
+rumi_speaker_00132A_00132_A_6 اوکے تھینک یو فور ہولڈنگ میم ایڈریس کنفرمیشن اون والی حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132A_00132_A_6 is -5.65122 over 457 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00132A_00132_A_6 is -5.65122 over 457 frames.
+rumi_speaker_00132B_00132_B_25 سر میں بالکل فورٹین کے اسی سوچ ہے لیے کی فور ٹو فور سکس 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132B_00132_B_25 is -5.40124 over 523 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00132B_00132_B_25 is -5.40124 over 523 frames.
+rumi_speaker_00132B_00132_B_37 کے اندر کرنا تھا فورٹی فائیو ٹو ٹین منٹس آپ کو ہوا کہ وہ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132B_00132_B_37 is -5.50591 over 577 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00132B_00132_B_37 is -5.50591 over 577 frames.
+rumi_speaker_00132B_00132_B_5 فور ٹو فور جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00132B_00132_B_5 is -6.35243 over 213 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00132B_00132_B_5 is -6.35243 over 213 frames.
+rumi_speaker_00133A_00133_A_14 اسی لیے ان کے میرے بچے وہ ایک ہے اور ایک اور ایڈریس 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133A_00133_A_14 is -5.4528 over 409 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00133A_00133_A_14 is -5.4528 over 409 frames.
+rumi_speaker_00133A_00133_A_17 کے میرا کو بتایا تھا میرے ساتھ آئی جو برگرز آپ لوگوں سے تھے جو برگر خان کے وہ کی کہانی کر دے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133A_00133_A_17 is -5.54107 over 655 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00133A_00133_A_17 is -5.54107 over 655 frames.
+rumi_speaker_00133B_00133_B_17 رائیڈر کی کے نہیں ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133B_00133_B_17 is -5.34794 over 129 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00133B_00133_B_17 is -5.34794 over 129 frames.
+rumi_speaker_00133B_00133_B_20 کو فائدہ بھی کی ہوتا آپ نے جی پتا نہیں کیا آپ فورا بڑا سر پر بری کیا اور کہا کہ یہ وہ بتائیں کیا میک چکن پر کیا ہوتا ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133B_00133_B_20 is -5.3769 over 770 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00133B_00133_B_20 is -5.3769 over 770 frames.
+rumi_speaker_00133B_00133_B_8 دو ہیپی دو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00133B_00133_B_8 is -6.19247 over 75 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00133B_00133_B_8 is -6.19247 over 75 frames.
+rumi_speaker_00134A_00134_A_1 آسلام علیکم دِس اِس فرام میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134A_00134_A_1 is -5.37556 over 185 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00134A_00134_A_1 is -5.37556 over 185 frames.
+rumi_speaker_00134A_00134_A_6 مائزہ پر پلیز ثنا میر کی ہے نیکسٹ ٹائم آپ کو آرڈر پلیس 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134A_00134_A_6 is -5.39961 over 341 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00134A_00134_A_6 is -5.39961 over 341 frames.
+rumi_speaker_00134B_00134_B_13 کتنا ٹو رہے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134B_00134_B_13 is -5.22221 over 117 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00134B_00134_B_13 is -5.22221 over 117 frames.
+rumi_speaker_00134B_00134_B_3 اوکے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00134B_00134_B_3 is -5.10945 over 98 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00134B_00134_B_3 is -5.10945 over 98 frames.
+rumi_speaker_00136A_00136_A_10 ایک لارج چاکلیٹ شیک ہو کر رہی ہیں ساس بار بی کیو ڈرنک اسپرائٹ ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00136A_00136_A_10 is -5.69409 over 453 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00136A_00136_A_10 is -5.69409 over 453 frames.
+rumi_speaker_00136B_00136_B_10 ٹو زیرو سیون ون پین ہوں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00136B_00136_B_10 is -5.40619 over 205 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00136B_00136_B_10 is -5.40619 over 205 frames.
+rumi_speaker_00136B_00136_B_17 کھانا نے ایسا ان پر ہاؤسنگ سوسائٹی میں نے کہا کہ پنجاب کوآپریٹیو ہاؤسنگ سوسائٹی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00136B_00136_B_17 is -5.48419 over 528 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00136B_00136_B_17 is -5.48419 over 528 frames.
+rumi_speaker_00137A_00137_A_5 آپ مجھے ایڈریس کنفرم کر دیجیے آپ کس جانب سے ہفتہ پہلے سے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137A_00137_A_5 is -5.54343 over 372 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00137A_00137_A_5 is -5.54343 over 372 frames.
+rumi_speaker_00137B_00137_B_11 اس کا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137B_00137_B_11 is -5.57799 over 67 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00137B_00137_B_11 is -5.57799 over 67 frames.
+rumi_speaker_00137B_00137_B_19 ہے آپ نے آرڈر جی جی اللہ حافظ برگر تھے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137B_00137_B_19 is -5.53915 over 323 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00137B_00137_B_19 is -5.53915 over 323 frames.
+rumi_speaker_00137B_00137_B_43 ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00137B_00137_B_43 is -5.64989 over 116 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00137B_00137_B_43 is -5.64989 over 116 frames.
+rumi_speaker_00138A_00138_A_7 ہاں جی سر میں کیا ہو رہا ہے آپ لوگ کیا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00138A_00138_A_7 is -6.27126 over 362 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00138A_00138_A_7 is -6.27126 over 362 frames.
+rumi_speaker_00139A_00139_A_13 اپنے سینٹرل حکم دے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139A_00139_A_13 is -5.63989 over 202 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00139A_00139_A_13 is -5.63989 over 202 frames.
+rumi_speaker_00139A_00139_A_16 ذیشان بار ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139A_00139_A_16 is -5.0542 over 98 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00139A_00139_A_16 is -5.0542 over 98 frames.
+rumi_speaker_00139B_00139_B_13 ایک کھانا اتنا چل رہا ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_13 is -5.39063 over 169 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00139B_00139_B_13 is -5.39063 over 169 frames.
+rumi_speaker_00139B_00139_B_25 کو میں نہیں شہر کیا اتنی اچھی بات ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_25 is -4.52352 over 310 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00139B_00139_B_25 is -4.52352 over 310 frames.
+rumi_speaker_00139B_00139_B_27 ہے مجھے دوبارہ کال کے بعد بھی آپ کو برانچ سے کال کی تھی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_27 is -5.22928 over 613 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00139B_00139_B_27 is -5.22928 over 613 frames.
+rumi_speaker_00139B_00139_B_32 جی جی بالکل کم پیسے چارج کررے ہو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00139B_00139_B_32 is -5.36079 over 242 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00139B_00139_B_32 is -5.36079 over 242 frames.
+rumi_speaker_00140A_00140_A_16 آ ایڈریس یہ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140A_00140_A_16 is -6.40124 over 225 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140A_00140_A_16 is -6.40124 over 225 frames.
+rumi_speaker_00140A_00140_A_23 ایک چکن چپلی برگر کی ویلیو میل ڈرنک کوک کے ساتھ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140A_00140_A_23 is -5.64243 over 273 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140A_00140_A_23 is -5.64243 over 273 frames.
+rumi_speaker_00140B_00140_B_29 جی جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_29 is -5.0171 over 40 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140B_00140_B_29 is -5.0171 over 40 frames.
+rumi_speaker_00140B_00140_B_34 ہیلو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_34 is -5.77914 over 31 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140B_00140_B_34 is -5.77914 over 31 frames.
+rumi_speaker_00140B_00140_B_36 ہاؤس نمبر تھرٹی فائیو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_36 is -5.42481 over 130 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140B_00140_B_36 is -5.42481 over 130 frames.
+rumi_speaker_00140B_00140_B_55 جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_55 is -5.8139 over 22 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140B_00140_B_55 is -5.8139 over 22 frames.
+rumi_speaker_00140B_00140_B_63 ایک کریڈیٹ ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_63 is -6.00272 over 93 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140B_00140_B_63 is -6.00272 over 93 frames.
+rumi_speaker_00140B_00140_B_85 اور دو چکن چپلی تھا کہ اور ہوگا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00140B_00140_B_85 is -5.90213 over 277 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00140B_00140_B_85 is -5.90213 over 277 frames.
+rumi_speaker_00141A_00141_A_6 جی میں بھی میں نے فرائز آرڈر کیا تھا لیکن اب ٹھیک ہے آپ مجھے نا سہی دیا تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00141A_00141_A_6 is -5.9614 over 472 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00141A_00141_A_6 is -5.9614 over 472 frames.
+rumi_speaker_00141B_00141_B_12 آسلام جی میں آپ کی کمپلین فارورڈ کرتا ہوں برانچ سے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00141B_00141_B_12 is -5.34048 over 361 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00141B_00141_B_12 is -5.34048 over 361 frames.
+rumi_speaker_00142A_00142_A_8 چلیں ٹھیک ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00142A_00142_A_8 is -4.6482 over 93 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00142A_00142_A_8 is -4.6482 over 93 frames.
+rumi_speaker_00142B_00142_B_16 جی بالکل بند کرنا کے طور پر میں حوالے سے برانچ اوپن ہے کرتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00142B_00142_B_16 is -5.41269 over 408 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00142B_00142_B_16 is -5.41269 over 408 frames.
+rumi_speaker_00142B_00142_B_17 تھینک یو فور کالنگ میکڈونلڈز ٹیک کیئر اللہ حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00142B_00142_B_17 is -5.45129 over 223 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00142B_00142_B_17 is -5.45129 over 223 frames.
+rumi_speaker_00143A_00143_A_16 سے کی نہیں ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143A_00143_A_16 is -5.59447 over 83 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00143A_00143_A_16 is -5.59447 over 83 frames.
+rumi_speaker_00143A_00143_A_28 ہیں آپ کے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143A_00143_A_28 is -5.90615 over 173 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00143A_00143_A_28 is -5.90615 over 173 frames.
+rumi_speaker_00143A_00143_A_5 آئی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143A_00143_A_5 is -6.54887 over 46 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00143A_00143_A_5 is -6.54887 over 46 frames.
+rumi_speaker_00143B_00143_B_18 ہاں جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143B_00143_B_18 is -5.44053 over 50 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00143B_00143_B_18 is -5.44053 over 50 frames.
+rumi_speaker_00143B_00143_B_2 اس کے سے فواد خان کو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143B_00143_B_2 is -4.94775 over 423 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00143B_00143_B_2 is -4.94775 over 423 frames.
+rumi_speaker_00143B_00143_B_5 بچے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00143B_00143_B_5 is -5.10877 over 72 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00143B_00143_B_5 is -5.10877 over 72 frames.
+rumi_speaker_00144A_00144_A_1 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00144A_00144_A_1 is -5.31229 over 39 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00144A_00144_A_1 is -5.31229 over 39 frames.
+rumi_speaker_00144B_00144_B_6 اوکے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00144B_00144_B_6 is -4.69089 over 188 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00144B_00144_B_6 is -4.69089 over 188 frames.
+rumi_speaker_00145A_00145_A_1 بالکل سارہ فروم میکڈونلڈز 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145A_00145_A_1 is -5.67845 over 162 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00145A_00145_A_1 is -5.67845 over 162 frames.
+rumi_speaker_00145B_00145_B_1 وعلیکم آسلام والے تو فائل کی میں آپ کو میں نے فرائز آرڈر کئے تھے میں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145B_00145_B_1 is -5.38958 over 589 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00145B_00145_B_1 is -5.38958 over 589 frames.
+rumi_speaker_00145B_00145_B_3 فائیو منٹس اوکے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145B_00145_B_3 is -5.18901 over 157 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00145B_00145_B_3 is -5.18901 over 157 frames.
+rumi_speaker_00145B_00145_B_5 وہ آرڈر اور 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00145B_00145_B_5 is -5.13848 over 96 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00145B_00145_B_5 is -5.13848 over 96 frames.
+rumi_speaker_00146A_00146_A_5 کہ ان کے پاس ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00146A_00146_A_5 is -5.1347 over 368 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00146A_00146_A_5 is -5.1347 over 368 frames.
+rumi_speaker_00146B_00146_B_2 آرڈر غلط حکم بھی دیا ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00146B_00146_B_2 is -5.73427 over 150 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00146B_00146_B_2 is -5.73427 over 150 frames.
+rumi_speaker_00146B_00146_B_4 اچھا اور ایک ہوا ہے بیٹی برگر تھا ڈرنک فرائز آپ کو ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00146B_00146_B_4 is -6.40423 over 470 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00146B_00146_B_4 is -6.40423 over 470 frames.
+rumi_speaker_00147A_00147_A_14 آرڈر ڈیلیور ہوا ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_14 is -5.10896 over 111 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00147A_00147_A_14 is -5.10896 over 111 frames.
+rumi_speaker_00147A_00147_A_18 کی ولید علاوہ تھا تو وہ کی تھی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_18 is -5.39018 over 239 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00147A_00147_A_18 is -5.39018 over 239 frames.
+rumi_speaker_00147A_00147_A_31 مجھے بتا تھری سکس فلور آرڈر کتن رات تھرٹی روپیس مجھے کو کی آرڈر آئے گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_31 is -6.11591 over 491 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00147A_00147_A_31 is -6.11591 over 491 frames.
+rumi_speaker_00147A_00147_A_33 اب آپ مجھے چاہیے کہ میں یہ کہ کے آرڈر نمبر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147A_00147_A_33 is -5.58709 over 314 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00147A_00147_A_33 is -5.58709 over 314 frames.
+rumi_speaker_00147B_00147_B_6 تھینک یو سو مچ تھینک یو فور کالنگ میکڈونلڈز اللہ حافظ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00147B_00147_B_6 is -5.67199 over 259 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00147B_00147_B_6 is -5.67199 over 259 frames.
+rumi_speaker_00148A_00148_A_17 اوکے سر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148A_00148_A_17 is -5.69667 over 95 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00148A_00148_A_17 is -5.69667 over 95 frames.
+rumi_speaker_00148A_00148_A_23 سر میں بالکل آپ کا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148A_00148_A_23 is -5.48867 over 73 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00148A_00148_A_23 is -5.48867 over 73 frames.
+rumi_speaker_00148B_00148_B_10 آپ کو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_10 is -5.89796 over 23 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00148B_00148_B_10 is -5.89796 over 23 frames.
+rumi_speaker_00148B_00148_B_14 اور 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_14 is -5.62557 over 37 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00148B_00148_B_14 is -5.62557 over 37 frames.
+rumi_speaker_00148B_00148_B_32 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_32 is -5.92561 over 81 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00148B_00148_B_32 is -5.92561 over 81 frames.
+rumi_speaker_00148B_00148_B_40 آصف کے نام سے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00148B_00148_B_40 is -6.17127 over 174 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00148B_00148_B_40 is -6.17127 over 174 frames.
+rumi_speaker_00149A_00149_A_18 آپ پلیز مجھے ایک موقع دے دیا تو میں سپرائٹ کردیں طور پر کافی آرڈر فرسٹ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149A_00149_A_18 is -5.66568 over 366 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00149A_00149_A_18 is -5.66568 over 366 frames.
+rumi_speaker_00149A_00149_A_24 کمپلین آپکی ہائی لیول کیسے گے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149A_00149_A_24 is -5.29063 over 168 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00149A_00149_A_24 is -5.29063 over 168 frames.
+rumi_speaker_00149A_00149_A_9 زیرو تھری ڈبل زیرو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149A_00149_A_9 is -5.50378 over 86 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00149A_00149_A_9 is -5.50378 over 86 frames.
+rumi_speaker_00149B_00149_B_13 میں پتہ چلا بھی کیے تھے میں تو ہوگا ساتھ ساتھ ایسے لوگ آتے دیکھا تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_13 is -5.41634 over 406 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00149B_00149_B_13 is -5.41634 over 406 frames.
+rumi_speaker_00149B_00149_B_14 سارے کے سارے جتنے ہو کر پر سمیر بات کر لیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_14 is -5.40428 over 286 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00149B_00149_B_14 is -5.40428 over 286 frames.
+rumi_speaker_00149B_00149_B_29 اچھا اور فور کو سے فاروق آپ کی بات بھی کی کہ سے کے نیا برگر کردیں آپ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_29 is -5.3436 over 500 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00149B_00149_B_29 is -5.3436 over 500 frames.
+rumi_speaker_00149B_00149_B_3 جی کمپلین سرچ کوک 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00149B_00149_B_3 is -5.3784 over 148 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00149B_00149_B_3 is -5.3784 over 148 frames.
+rumi_speaker_0014A_0014_A_28 اوکے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014A_0014_A_28 is -5.81597 over 340 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0014A_0014_A_28 is -5.81597 over 340 frames.
+rumi_speaker_0014B_0014_B_21 یہ مسئلہ تم آگے سے تماشے کر اسلام سے ہوتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014B_0014_B_21 is -5.72495 over 345 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0014B_0014_B_21 is -5.72495 over 345 frames.
+rumi_speaker_0014B_0014_B_29 تمہیں میں نے آرڈر نہیں بتانا کسی اور کو ٹرانسفر کرو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014B_0014_B_29 is -5.67642 over 274 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0014B_0014_B_29 is -5.67642 over 274 frames.
+rumi_speaker_0014B_0014_B_5 میں نے جب بتایا آپنے نہیں لکھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_0014B_0014_B_5 is -4.78165 over 194 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_0014B_0014_B_5 is -4.78165 over 194 frames.
+rumi_speaker_00150A_00150_A_2 وعلیکم اسلام 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00150A_00150_A_2 is -5.71118 over 72 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00150A_00150_A_2 is -5.71118 over 72 frames.
+rumi_speaker_00150A_00150_A_8 وعلیکم ہیلو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00150A_00150_A_8 is -5.877 over 119 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00150A_00150_A_8 is -5.877 over 119 frames.
+rumi_speaker_00150B_00150_B_1 آسلام علیکم 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00150B_00150_B_1 is -5.24509 over 66 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00150B_00150_B_1 is -5.24509 over 66 frames.
+rumi_speaker_00152A_00152_A_15 اوکے میں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152A_00152_A_15 is -5.23575 over 288 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00152A_00152_A_15 is -5.23575 over 288 frames.
+rumi_speaker_00152A_00152_A_7 خیال رہے کہ ایک کہتے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152A_00152_A_7 is -5.54432 over 169 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00152A_00152_A_7 is -5.54432 over 169 frames.
+rumi_speaker_00152B_00152_B_14 دے کر جائے آپ کا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152B_00152_B_14 is -4.69166 over 168 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00152B_00152_B_14 is -4.69166 over 168 frames.
+rumi_speaker_00152B_00152_B_17 اب بھی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00152B_00152_B_17 is -4.99892 over 53 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00152B_00152_B_17 is -4.99892 over 53 frames.
+rumi_speaker_00153A_00153_A_1 وعلیکم آسلام آ نے مسئلہ کے ساتھ نمبر چار بار بار کال کر جو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00153A_00153_A_1 is -5.50308 over 521 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00153A_00153_A_1 is -5.50308 over 521 frames.
+rumi_speaker_00153A_00153_A_24 کوئی بالکل آپ کسی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00153A_00153_A_24 is -5.6084 over 154 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00153A_00153_A_24 is -5.6084 over 154 frames.
+rumi_speaker_00153B_00153_B_5 میڈیم فرائز آپ کو کال بیک کال برانچ سے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00153B_00153_B_5 is -6.04273 over 250 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00153B_00153_B_5 is -6.04273 over 250 frames.
+rumi_speaker_00154A_00154_A_1 وعلیکم آسلام جانا نے ایک بچے فرام میکڈونلڈز سے میں حمزہ کو برانچ سے کال نہیں آئی کو جائے سے کام کرتی ہوں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00154A_00154_A_1 is -5.34374 over 694 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00154A_00154_A_1 is -5.34374 over 694 frames.
+rumi_speaker_00154B_00154_B_6 مگر جو پسند ڈیلیوری کا بھی کو کر دیجیے میں فارورڈ کر کے آپ کو کال کالج 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00154B_00154_B_6 is -5.64089 over 414 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00154B_00154_B_6 is -5.64089 over 414 frames.
+rumi_speaker_00154B_00154_B_9 جی سر معذرت چاہوں گا سر آپ کو میں کے سلسلے میں آپ کو کال بیک کال 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00154B_00154_B_9 is -5.39218 over 403 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00154B_00154_B_9 is -5.39218 over 403 frames.
+rumi_speaker_00155A_00155_A_12 حافظ کا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155A_00155_A_12 is -5.92586 over 179 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00155A_00155_A_12 is -5.92586 over 179 frames.
+rumi_speaker_00155A_00155_A_27 جی برگر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155A_00155_A_27 is -6.04998 over 77 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00155A_00155_A_27 is -6.04998 over 77 frames.
+rumi_speaker_00155A_00155_A_7 ہاں جی جی 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155A_00155_A_7 is -6.1657 over 299 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00155A_00155_A_7 is -6.1657 over 299 frames.
+rumi_speaker_00155B_00155_B_7 ٹھیک ہے تھینک یو 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00155B_00155_B_7 is -5.89788 over 103 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00155B_00155_B_7 is -5.89788 over 103 frames.
+rumi_speaker_00156A_00156_A_3 بار بار 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00156A_00156_A_3 is -6.70311 over 266 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00156A_00156_A_3 is -6.70311 over 266 frames.
+rumi_speaker_00156A_00156_A_52 آپ کو پر 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00156A_00156_A_52 is -6.64952 over 135 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00156A_00156_A_52 is -6.64952 over 135 frames.
+rumi_speaker_00156B_00156_B_1 سوری میم آپ کے ساتھ کیش کیجیۓ گا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00156B_00156_B_1 is -6.17523 over 220 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00156B_00156_B_1 is -6.17523 over 220 frames.
+rumi_speaker_00157A_00157_A_10 اللہ معلوم لیے کی فور ایڈریس ساری کی کرتی ہے میں نے آپ کو سے نکال کے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157A_00157_A_10 is -6.26543 over 558 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00157A_00157_A_10 is -6.26543 over 558 frames.
+rumi_speaker_00157A_00157_A_35 کی بات ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157A_00157_A_35 is -6.59782 over 130 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00157A_00157_A_35 is -6.59782 over 130 frames.
+rumi_speaker_00157A_00157_A_6 آپ کائنڈلی مجھے بتا سکتی ہے برانچ سے مجھے لگ رہا ہے مجھے ایڈریس کنفرم کیا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157A_00157_A_6 is -5.58556 over 427 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00157A_00157_A_6 is -5.58556 over 427 frames.
+LOG (apply-cmvn[5.5.858~1-081e58]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 205 utterances, errors on 0
+rumi_speaker_00157B_00157_B_23 میں بالکل آپ کا کنسرن برانچ میں فارورڈ کر اِس حوالے سے ٹھیک ہے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157B_00157_B_23 is -5.67754 over 333 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00157B_00157_B_23 is -5.67754 over 333 frames.
+rumi_speaker_00157B_00157_B_7 آپ والی اور انڈرسٹینڈ میم 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157B_00157_B_7 is -5.72121 over 156 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00157B_00157_B_7 is -5.72121 over 156 frames.
+rumi_speaker_00157B_00157_B_8 اب بھیجا نہ ہو جاتا ہوں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00157B_00157_B_8 is -5.53247 over 187 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00157B_00157_B_8 is -5.53247 over 187 frames.
+LOG (copy-gselect[5.5.858~1-081e58]:main():copy-gselect.cc:71) Copied 205 gselect objects,  limiting sizes to 3
+rumi_speaker_00158A_00158_A_20 کروانا چاہتے ہیں کہ آپ طور پر مگر آپ لوگوں پر ہمارا پہلے سے پہلے بھی یہ سب والے فائیو منٹس میں آیا تھا جب بی بی سی ساتھ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158A_00158_A_20 is -5.39021 over 760 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00158A_00158_A_20 is -5.39021 over 760 frames.
+rumi_speaker_00158A_00158_A_22 کینیڈا میں آیا تو ڈسپیچ ہو رہی ہو گی جو موجود نہیں ایک کروایا اپنے اور ابھی تک آپ کو کال تو معذرت کی کر دیا تھا تو آپ سے معذرت میں کیا جانا چاہیے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158A_00158_A_22 is -5.36424 over 925 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00158A_00158_A_22 is -5.36424 over 925 frames.
+rumi_speaker_00158A_00158_A_3 ہی کہا کے بعد بھی کمپلین کے سلسلے میں ہر کوئی باقاعدہ کہ میں کام کرتا تھا 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158A_00158_A_3 is -5.59393 over 434 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00158A_00158_A_3 is -5.59393 over 434 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:158) Overall average [pseudo-]logdet is -98.7155 over 51587 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:161) Applied transform to 205 utterances; 0 had errors.
+rumi_speaker_00158B_00158_B_13 آخر کار دی اور ہاؤس کے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00158B_00158_B_13 is -5.55449 over 265 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00158B_00158_B_13 is -5.55449 over 265 frames.
+rumi_speaker_00159A_00159_A_6 یہ 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00159A_00159_A_6 is -4.69076 over 245 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00159A_00159_A_6 is -4.69076 over 245 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:158) Overall average logdet is 4.19717 over 51587 frames.
+LOG (transform-feats[5.5.858~1-081e58]:main():transform-feats.cc:161) Applied transform to 205 utterances; 0 had errors.
+rumi_speaker_00159B_00159_B_4 کے ہیں 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00159B_00159_B_4 is -4.63954 over 261 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00159B_00159_B_4 is -4.63954 over 261 frames.
+rumi_speaker_00160A_00160_A_7 آصف 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00160A_00160_A_7 is -4.64221 over 44 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00160A_00160_A_7 is -4.64221 over 44 frames.
+rumi_speaker_00160A_00160_A_8 کے 
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance rumi_speaker_00160A_00160_A_8 is -4.49138 over 78 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:209) Log-like per frame for utterance rumi_speaker_00160A_00160_A_8 is -4.49138 over 78 frames.
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:252) Time taken [excluding initialization] 738.001s: real-time factor assuming 100 frames/sec is 1.4306
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:255) Done 205 utterances, failed for 0
+LOG (sgmm2-latgen-faster[5.5.858~1-081e58]:main():sgmm2-latgen-faster.cc:257) Overall log-likelihood per frame = -5.5533 over 51587 frames.
+# Accounting: time=738 threads=1
+# Ended (code 0) at Sat May 29 02:11:26 PKT 2021, elapsed time 738 seconds
